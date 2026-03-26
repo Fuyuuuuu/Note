@@ -1,0 +1,1697 @@
+# Mind2 看板 — 完整清單（依主題分類）
+
+# Mind2 Board — Full List by Category（中英對照）
+
+**中文說明**  
+來源：Miro 看板 Mind2。本清單共 **546** 筆項目（已排除純圖片、便籤與重複）。看板總數為 604 筆；缺第 7 頁約 50 筆未納入，可日後以 Miro API 補抓。
+
+**English**  
+Source: Miro board Mind2. This list contains **546** entries (images, sticky notes and duplicates excluded). Total board items: 604; ~50 items from page 7 were not included and can be fetched later via Miro API.
+
+**條目格式 / Entry format**  
+每條為：**公司／產品名 Name** · 連結 Link · 介紹 Description（英文 English）
+
+---
+
+## 目錄 / Table of Contents
+
+
+| 分類 Category               | 中文        |
+| ------------------------- | --------- |
+| Healthcare                | 醫療健康      |
+| Life Sciences             | 生命科學      |
+| Compliance / GRC          | 合規        |
+| Construction / Permitting | 建築與許可     |
+| Tax / Trade               | 稅務與貿易     |
+| Government                | 政府        |
+| Security                  | 安全        |
+| Voice / AI Agents         | 語音與 Agent |
+| Finance / Audit           | 金融與審計     |
+| Other                     | 其他        |
+
+
+---
+
+## Healthcare｜醫療健康
+
+- **Adentris** — [https://www.ycombinator.com/companies/adentris](https://www.ycombinator.com/companies/adentris)  
+  - EN: Real-time AI Compliance for Medical Documentation. Founded in 2025 by Dmitry Karpov, Alex Odin, and Sergey Yudovskiy, Adentris has 4 employees based in San Francisco, CA, USA.
+  - 中: 醫療文件的即時人工智慧合規性。 Adentris 由 Dmitry Karpov、Alex Odin 和 Sergey Yudovskiy 於 2025 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **Aegis** — [https://www.ycombinator.com/companies/aegis](https://www.ycombinator.com/companies/aegis)  
+  - EN: AI Agents to win denied health insurance claims. Founded in 2025 by Aarav Bajaj, Dhanya Shah, and Krishang Todi, Aegis has 3 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧代理贏得被拒絕的健康保險索賠。 Aegis 由 Aarav Bajaj、Dhanya Shah 和 Krishang Todi 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **AI Legal Assistant & Document Summary Tools** — [https://www.truthsuite.com/](https://www.truthsuite.com/)  
+  - EN: AI legal assistant that summarizes documents & organizes medical records to save lawyers hours per case. No new software needed. Get started today.
+  - 中: 人工智慧法律助理可彙總文件並整理醫療記錄，以節省律師處理每個案件的時間。不需要新軟體。今天就開始吧。
+- **All Agents - Hippocratic AI** — [https://hippocraticai.com/view-all-agents/](https://hippocraticai.com/view-all-agents/)  
+  - EN: pcat Provider Payor Pharma All Explore Our 1000+ AI Healthcare Agents Provider Payor Pharma Specialties Allergy Cardiology Dental Diabetes ENT Gastroenterology General Geriatric Medicare Advantage Nep…
+  - 中: pcat 供應商 Payor Pharma 全部探索我們的 1000 多個 AI 醫療保健代理提供者 Payor Pharma 專業過敏心臟病學牙科糖尿病耳鼻喉科普通老年醫療保險優勢 Nep…
+- **Amby Health** — [https://www.ycombinator.com/companies/amby-health](https://www.ycombinator.com/companies/amby-health)  
+  - EN: AI Copilot for Ambulance Agencies (EMS). Founded in 2025 by Timmy Dang and Yos Wagenmans, Amby Health has 2 employees based in San Francisco, CA, USA.
+  - 中: 救護車機構 (EMS) 的人工智慧副駕駛。 Amby Health 由 Timmy Dang 和 Yos Wagenmans 於 2025 年創立，在美國加州舊金山有 2 名員工。
+- **Amera** — [https://www.ycombinator.com/companies/amera](https://www.ycombinator.com/companies/amera)  
+  - EN: Automating claims processing workflows for health insurance payers. Founded in 2025 by Deep Kapur and Louise Tanski, Amera has 2 employees based in .
+  - 中: 為健康保險付款人自動化索賠處理工作流程。 Amera 由 Deep Kapur 和 Louise Tanski 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **Asha Health** — [https://www.ycombinator.com/companies/asha-health](https://www.ycombinator.com/companies/asha-health)  
+  - EN: We help medical practices become AI-native. Founded in 2024 by Akkshay Khoslaa and Gokul Kumarresen, Asha Health has 9 employees based in New York, NY, USA. Asha Health is hiring for 4 roles in sales …
+  - 中: 我們幫助醫療實踐成為人工智慧原生的。 Asha Health 由 Akkshay Khoslaa 和 Gokul Kumarresen 於 2024 年創立，擁有 9 名員工，總部位於美國紐約州紐約市。 Asha Health 正在招募 4 個銷售職位…
+- **Assort Health** — [https://www.assorthealth.com/](https://www.assorthealth.com/)  
+  - EN: With millions of calls every year-trusted voice AI solutions fine-tuned to your specialty and practice-free your team from routine calls and your patients from waiting on hold.
+  - 中: 每年有數百萬個呼叫，值得信賴的語音 AI 解決方案根據您的專業和實踐進行了微調，使您的團隊免於例行呼叫，讓您的患者免於等待。
+- **Athelas** — [https://www.ycombinator.com/companies/athelas](https://www.ycombinator.com/companies/athelas)  
+  - EN: Extensible, Integrated Technology that Simplifies Health Systems. Founded in 2016 by Deepika Bodapati and Tanay Tandon, Athelas has 1000 employees based in Mountain View, CA, USA. Athelas is hiring fo…
+  - 中: 可簡化衛生系統的可擴展整合技術。 Athelas 由 Deepika Bodapati 和 Tanay Tandon 於 2016 年創立，總部位於美國加州山景城，擁有 1000 名員工。阿塞拉斯正在招募…
+- **Avelis Health** — [https://www.ycombinator.com/companies/avelis-health](https://www.ycombinator.com/companies/avelis-health)  
+  - EN: We audit medical claims for self-insured employers and health plans. Founded in 2025 by Angel Onuoha and Ahmad Shehu, Avelis Health has 2 employees based in .
+  - 中: 我們審核自我保險雇主和健康計畫的醫療索賠。 Avelis Health 由 Angel Onuoha 和 Ahmad Shehu 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **b12 Labs** — [https://www.ycombinator.com/companies/b12-labs](https://www.ycombinator.com/companies/b12-labs)  
+  - EN: Chemical Copilot for Pharma and Biotech. Founded in 2025 by Andres Bran and Zlatko Jončev, b12 Labs has 2 employees based in San Francisco, CA, USA.
+  - 中: 製藥和生物技術化學副駕駛。 b12 Labs 由 Andres Bran 和 Zlatko Jončev 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Baseline AI** — [https://www.ycombinator.com/companies/baseline-ai](https://www.ycombinator.com/companies/baseline-ai)  
+  - EN: AI document creation and data management for clinical trials. Founded in 2023 by Nabil Baugher and Zoe Sheill, Baseline AI has 2 employees based in San Francisco, CA, USA.
+  - 中: 用於臨床試驗的人工智慧文件建立和資料管理。 Baseline AI 由 Nabil Baugher 和 Zoe Sheill 於 2023 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Bemlo** — [https://www.ycombinator.com/companies/bemlo](https://www.ycombinator.com/companies/bemlo)  
+  - EN: AI-native scheduling and workforce management platform for healthcare. Founded in 2021 by Alexander Björkenstam and Edvin Fernqvist, Bemlo has 8 employees based in Stockholm, Sweden. Bemlo is hiring f…
+  - 中: 用於醫療保健的人工智慧原生調度和勞動力管理平台。 Bemlo 由 Alexander Björkenstam 和 Edvin Fernqvist 於 2021 年創立，總部位於瑞典斯德哥爾摩，擁有 8 名員工。貝姆洛正在招募…
+- **Brighterway** — [https://www.ycombinator.com/companies/brighterway](https://www.ycombinator.com/companies/brighterway)  
+  - EN: Streamlining the medical record review process in workers comp. Founded in by Jason Apostol and Walker Wells, Brighterway has 14 employees based in . Brighterway is hiring for 1 roles in engineering.
+  - 中: 簡化工人補償中的病歷審查流程。 Brighterway 由 Jason Apostol 和 Walker Wells 創立，擁有 14 名員工，總部位於 。 Brighterway 正在招募 1 個工程職位。
+- **Cair Health** — [https://www.ycombinator.com/companies/cair-health](https://www.ycombinator.com/companies/cair-health)  
+  - EN: Predictive analytics and automation for medical claims. Founded in 2023 by Ishan Balakrishnan and Shehbaz Virk, Cair Health has 6 employees based in . Cair Health is hiring for 4 roles in engineering,…
+  - 中: 醫療索賠的預測分析和自動化。 Cair Health 由 Ishan Balakrishnan 和 Shehbaz Virk 於 2023 年創立，擁有 6 名員工，總部位於 。 Cair Health 正在招募 4 個工程職位，...
+- **Cenote** — [https://www.ycombinator.com/companies/cenote](https://www.ycombinator.com/companies/cenote)  
+  - EN: AI agents that convert and retain patients for digital clinics. Founded in 2024 by Kofi Ansong and Kristy Gao, Cenote has 2 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧代理商可以將患者轉化為數位診所並留住患者。 Cenote 由 Kofi Ansong 和 Kristy Gau 於 2024 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Claim Health** — [https://www.ycombinator.com/companies/claim-health](https://www.ycombinator.com/companies/claim-health)  
+  - EN: The first AI revenue platform for post-acute healthcare. Founded in 2025 by Kevin Calcado and Jayen Ram, Claim Health has 2 employees based in . Claim Health is hiring for 1 roles in engineering.
+  - 中: 第一個針對急性期後醫療保健的人工智慧收入平台。 Claim Health 由 Kevin Calcado 和 Jayen Ram 於 2025 年創立，擁有 2 名員工，總部位於 。 Claim Health 正在招募 1 個工程職位。
+- **Clarion** — [https://www.ycombinator.com/companies/clarion](https://www.ycombinator.com/companies/clarion)  
+  - EN: The AI communication layer for healthcare. Founded in 2024 by Ryan Gallagher and Jeffrey Lamothe, Clarion has 10 employees based in New York, NY, USA. Clarion is hiring for 2 roles in engineering.
+  - 中: 用於醫療保健的人工智慧通訊層。 Clarion 由 Ryan Gallagher 和 Jeffrey Lamothe 於 2024 年創立，總部位於美國紐約州紐約市，擁有 10 名員工。歌樂正在招募 2 個工程職位。
+- **Concierge EHR for Personalized & Membership Based Medicine** — [https://www.akutehealth.com/concierge](https://www.akutehealth.com/concierge)  
+  - EN: Akute Health's modern EHR makes it easy to manage concierge membership programs while streamlining charting, messaging, and scheduling. Deliver a premium, personalized experience with tools designed f…
+  - 中: Akute Health 的現代 EHR 可以輕鬆管理禮賓會員計劃，同時簡化圖表、訊息傳遞和日程安排。使用專為…設計的工具提供優質的個人化體驗
+- **Credentialing Software & Provider Network Monitoring for Healthcare Orgs** — [https://verifiable.com/](https://verifiable.com/)  
+  - EN: Discover credentialing automation designed to optimize enterprise provider networks - powered by industry-leading primary source verification technology.
+  - 中: 探索旨在優化企業提供者網路的認證自動化 - 由業界領先的主要來源驗證技術提供支援。
+- **Datrics AI** — [https://www.datrics.ai/](https://www.datrics.ai/)  
+  - EN: Datrics HCP streamlines healthcare insurance claims with advanced AI technology, improving accuracy, reducing processing time, and eliminating costly errors.
+  - 中: Datrics HCP 利用先進的人工智慧技術簡化醫療保險索賠，提高準確性、減少處理時間並消除代價高昂的錯誤。
+- **Decoda Health** — [https://www.ycombinator.com/companies/decoda-health](https://www.ycombinator.com/companies/decoda-health)  
+  - EN: AI-powered platform automating medical practice operations. Founded in 2023 by Daniyal Afzal and Kevin Cheng, Decoda Health has 9 employees based in San Francisco, CA, USA. Decoda Health is hiring for…
+  - 中: 人工智慧驅動的平台自動化醫療實踐操作。 Decoda Health 由 Daniyal Afzal 和 Kevin Cheng 於 2023 年創立，擁有 9 名員工，總部位於美國加州舊金山。 Decoda Health 正在招募…
+- **Dime** — [https://www.ycombinator.com/companies/dime-2](https://www.ycombinator.com/companies/dime-2)  
+  - EN: Dime automates administrative busywork at healthcare clinics. Founded in 2023 by Ashish Bajaj and Akash Kumar, Dime has 5 employees based in New York, NY, USA.
+  - 中: Dime 可自動化醫療保健診所的行政管理工作。 Dime 由 Ashish Bajaj 和 Akash Kumar 於 2023 年創立，在美國紐約州擁有 5 名員工。
+- **Dodo** — [https://dodo.health/](https://dodo.health/)  
+  - EN: Trusted AI communication infrastructure fine-tuned to your specialty and practice-letting you focus on patient care.
+  - 中: 值得信賴的人工智慧通訊基礎設施根據您的專業和實踐進行微調，讓您專注於患者護理。
+- **Durate** — [https://www.ycombinator.com/companies/durate](https://www.ycombinator.com/companies/durate)  
+  - EN: Automated physician scheduling. Founded in 2024 by Benjamin Liu and Michael Mounajjed, Durate has 2 employees based in San Francisco, CA, USA.
+  - 中: 自動化醫生調度。 Durate 由 Benjamin Liu 和 Michael Mounajjed 於 2024 年創立，在美國加州舊金山有 2 名員工。
+- **Egress Health** — [https://www.ycombinator.com/companies/egress-health](https://www.ycombinator.com/companies/egress-health)  
+  - EN: Automated revenue cycle management, starting with dentists. Founded in 2024 by Alex Pedersen, Egress Health has 2 employees based in . Egress Health is hiring for 2 roles in operations and engineering…
+  - 中: 自動化收入周期管理，從牙醫開始。 Egress Health 由 Alex Pedersen 於 2024 年創立，擁有 2 名員工，總部位於 。 Egress Health 正在招募 2 個營運和工程職位…
+- **EliseAI - Industry Leading AI for Housing and Healthcare** — [https://eliseai.com](https://eliseai.com)  
+  - EN: EliseAI is the industry-leading AI platform transforming both property management and healthcare through automation and conversational AI that help housing and healthcare organizations streamline comm…
+  - 中: EliseAI 是業界領先的人工智慧平台，透過自動化和對話式人工智慧改變物業管理和醫療保健，幫助住房和醫療保健組織簡化溝通…
+- **Entropy - Automated Patient Intake and RCM** — [https://withentropy.ai/](https://withentropy.ai/)  
+  - EN: Entropy automates patient intake, referral processing, eligibility checks, and revenue cycle workflows for specialty clinics. Faster scheduling, fewer denials, and clean claims with less manual work.
+  - 中: Entropy 可以自動化專科診所的病患接收、轉診處理、資格檢查和收入週期工作流程。更快的調度、更少的拒絕、乾淨的索賠以及更少的手動工作。
+- **Epsilon3 - Software for Complex Medical Procedures** — [https://www.epsilon3.io/medical-procedure-software](https://www.epsilon3.io/medical-procedure-software)  
+  - EN: —
+  - 中: —
+- **Fortuna Health** — [https://www.ycombinator.com/companies/fortuna-health](https://www.ycombinator.com/companies/fortuna-health)  
+  - EN: TurboTax for Medicaid. Founded in 2023 by Cydney Kim, Nikita Singareddy, and Ben Wesner, Fortuna Health has 13 employees based in New York, NY, USA. Fortuna Health is hiring for 2 roles in engineering…
+  - 中: 醫療補助渦輪稅。 Fortuna Health 由 Cydney Kim、Nikita Singaredy 和 Ben Wesner 於 2023 年創立，總部位於美國紐約州紐約市，擁有 13 名員工。 Fortuna Health 正在招募 2 個工程職位…
+- **Fuse** — [https://www.ycombinator.com/companies/fuse-2](https://www.ycombinator.com/companies/fuse-2)  
+  - EN: AI helpers for patient intake and benefits checks. Founded in 2024 by Sho Sugihara and Oscar Wilsby, Fuse has 3 employees based in London, UK.
+  - 中: 人工智慧幫助患者入院和福利檢查。 Fuse 由 Sho Sugihara 和 Oscar Wilsby 於 2024 年創立，在英國倫敦擁有 3 名員工。
+- **FutureClinic** — [https://www.ycombinator.com/companies/futureclinic](https://www.ycombinator.com/companies/futureclinic)  
+  - EN: Personal doctors through chat. Founded in 2024 by Nabil Belahouane, Hassan Mirza, Riyan Moussaoui, and Usama Syed, FutureClinic has 4 employees based in San Francisco, CA, USA. FutureClinic is hiring …
+  - 中: 透過聊天的私人醫生。 FutureClinic 由 Nabil Belahouane、Hassan Mirza、Riyan Moussaoui 和 Usama Syed 於 2024 年創立，擁有 4 名員工，總部位於美國加州舊金山。未來診所正在招募…
+- **G LNK** — [https://www.ycombinator.com/companies/g-lnk](https://www.ycombinator.com/companies/g-lnk)  
+  - EN: Simplifying Collaboration for Healthcare Organizations & Professionals. Founded in 2024 by Raouf Abujaber and Rayan Ghandour, G LNK has 2 employees based in New York, NY, USA.
+  - 中: 簡化醫療保健組織和專業人員的協作。 G LNK 由 Raouf Abujaber 和 Rayan Ghandour 於 2024 年創立，在美國紐約州紐約市擁有 2 名員工。
+- **Generative AI for Clinical Conversations** — [https://www.abridge.com](https://www.abridge.com)  
+  - EN: Discover how Abridge transforms documentation for clinical conversations powered by generative AI, enhancing healthcare understanding and improving patient care.
+  - 中: 了解 Abridge 如何轉變由生成式 AI 驅動的臨床對話文檔，增強醫療保健理解並改善患者護理。
+- **Healthcare Revenue Cycle Automation Software** — [https://candidhealth.com](https://candidhealth.com)  
+  - EN: Healthcare revenue cycle software that automates billing to increase net collections, & accelerate cash flow. Reduce manual work and boost revenue.
+  - 中: 醫療保健收入周期軟體可自動計費以增加淨收款並加速現金流。減少體力勞動並增加收入。
+- **HealthSpark** — [https://www.joinhealthspark.com/](https://www.joinhealthspark.com/)  
+  - EN: The easiest way for physical therapists to build an independent practice. We handle admin and insurance so you can focus on patient care. EHR, scheduling, billing, and credentialing included.
+  - 中: 物理治療師建立獨立診所最簡單的方法。我們負責管理和保險，因此您可以專注於患者護理。包括 EHR、日程安排、計費和認證。
+- **Healthtech 1** — [https://www.ycombinator.com/companies/healthtech-1](https://www.ycombinator.com/companies/healthtech-1)  
+  - EN: Automating repetitive processes in healthcare. Founded in 2021 by Peter Huang and Raj Kohli, Healthtech 1 has 28 employees based in London, UK.
+  - 中: 自動化醫療保健中的重複流程。 Healthtech 1 由 Peter Huang 和 Raj Kohli 於 2021 年創立，擁有 28 名員工，總部位於英國倫敦。
+- **Hey Revia** — [https://www.ycombinator.com/companies/hey-revia](https://www.ycombinator.com/companies/hey-revia)  
+  - EN: Voice AI to automate complex phone calls for healthcare providers. Founded in 2024 by Shaun Wei and David (Wenbo) Zhu, Hey Revia has 4 employees based in .
+  - 中: 語音 AI 可以為醫療保健提供者自動執行複雜的電話通話。 Hey Revia 由 Shaun Wei 和 David (Wenbo) Zhu 於 2024 年創立，擁有 4 名員工，總部位於 。
+- **Home** — [https://voicecare.ai/](https://voicecare.ai/)  
+  - EN: Supercharging healthcare with GenAI. Automated calls, admin co-pilots and Healthcare Administration General Intelligence (HAGI) to help you save time.
+  - 中: 利用 GenAI 增強醫療保健能力。自動呼叫、管理員副駕駛和醫療保健管理通用情報 (HAGI) 可協助您節省時間。
+- **Home** — [https://www.hootl.com](https://www.hootl.com)  
+  - EN: Insurance verification that just works. HOOTL speeds and automates the messy, error-prone parts of verification and claims, so your staff spends less time chasing payers, and more time caring for pati…
+  - 中: 有效的保險驗證。 HOOTL 可以加速並自動化驗證和索賠過程中混亂且容易出錯的部分，因此您的員工可以花更少的時間追逐付款人，而將更多的時間花在照顧病人上…
+- **Home - Silna Health** — [https://www.silnahealth.com/](https://www.silnahealth.com/)  
+  - EN: Silna handles all prior authorizations, benefit checks and insurance monitoring upfront to make sure your patients are clear to receive care, and you have more capacity to provide it.
+  - 中: Silna 會預先處理所有事先授權、福利檢查和保險監控，以確保您的患者可以接受護理，並且您有更多的能力提供護理。
+- **Home - The AI-Powered Clinical Compliance Platform - Brellium** — [https://brellium.com/](https://brellium.com/)  
+  - EN: Clinical teams use Brellium to audit every patient visit against their clinical and payor requirements.
+  - 中: 臨床團隊使用 Brelium 根據其臨床和付款人要求審核每次就診的患者。
+- **InQuery** — [https://www.ycombinator.com/companies/inquery-2](https://www.ycombinator.com/companies/inquery-2)  
+  - EN: Intelligent Medical Record Reviews. Founded in 2023 by Erick Enriquez and Khalil Miri, InQuery has 4 employees based in .
+  - 中: 智能病歷審查。 InQuery 由 Erick Enriquez 和 Khalil Miri 於 2023 年創立，擁有 4 名員工，總部位於 .
+- **Judi Health & Capital Rx** — [https://www.judi.health](https://www.judi.health)  
+  - EN: Capital Rx delivers transparent, member-focused PBM solutions, while Judi Health™ unifies pharmacy, medical, vision, and dental benefits through Judi®, supporting millions of plan members across emplo…
+  - 中: Capital Rx 提供透明、以會員為中心的 PBM 解決方案，而 Judi Health™ 透過 Judi® 統一藥劑、醫療、視力和牙科福利，為跨行業的數百萬計劃會員提供支援…
+- **Kaigo Health** — [https://www.ycombinator.com/companies/kaigo-health](https://www.ycombinator.com/companies/kaigo-health)  
+  - EN: AI outpatient care workforce. Founded in 2025 by Peter Chien, Lukas Klaiber, and Kazuki Shin, Kaigo Health has 3 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧門診護理人員。 Kaigo Health 由 Peter Chien、Lukas Klaiber 和 Kazuki Shin 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Launch YC** — [https://www.ycombinator.com/launches/MK1-astrix-ai-purchasing-agents-for-healthcare-providers](https://www.ycombinator.com/launches/MK1-astrix-ai-purchasing-agents-for-healthcare-providers)  
+  - EN: Automated purchasing of the right healthcare supplies, at the right time.
+  - 中: 在正確的時間自動購買正確的醫療用品。
+- **Legalyze** — [https://www.legalyze.ai/](https://www.legalyze.ai/)  
+  - EN: Legalyze.ai can quickly create an AI medical chronology from thousands of medical records. Chat with your case documents to quickly find info
+  - 中: Legalyze.ai 可以根據數千份醫療記錄快速建立人工智慧醫療年表。與您的案例文檔聊天以快速查找信息
+- **Locata** — [https://www.ycombinator.com/companies/locata](https://www.ycombinator.com/companies/locata)  
+  - EN: AI Referral Automation for Primary Care Clinics. Founded in 2025 by Joshua Chang and Alejandro Salinas, Locata has 3 employees based in New York, NY, USA.
+  - 中: 初級保健診所的人工智慧轉診自動化。 Locata 由 Joshua Chang 和 Alejandro Salinas 於 2025 年創立，擁有 3 名員工，總部位於美國紐約州紐約市。
+- **LunaBill** — [https://www.ycombinator.com/companies/lunabill](https://www.ycombinator.com/companies/lunabill)  
+  - EN: AI Voice callers for healthcare billing teams. Founded in 2025 by David Day, Suhail Parry, and yash raj, LunaBill has 4 employees based in San Francisco, CA, USA.
+  - 中: 醫療計費團隊的人工智慧語音呼叫器。 LunaBill 由 David Day、Suhail Parry 和 yash raj 於 2025 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **Matcha** — [https://www.ycombinator.com/companies/astrix-health](https://www.ycombinator.com/companies/astrix-health)  
+  - EN: The best way to hire clinical talent. Founded in 2024 by Thomas Blake and Abhinav Swaminathan, Matcha has 2 employees based in New York, NY, USA.
+  - 中: 僱用臨床人才的最佳方式。 Matcha 由 Thomas Blake 和 Abhinav Swaminathan 於 2024 年創立，在美國紐約州擁有 2 名員工。
+- **mdhub** — [https://www.ycombinator.com/companies/mdhub](https://www.ycombinator.com/companies/mdhub)  
+  - EN: AI workers for healthcare clinics, starting with behavioral health. Founded in 2023 by Efren A. Lamolda and Dominik Middelmann, mdhub has 11 employees based in . mdhub is hiring for 1 roles in marketi…
+  - 中: 醫療保健診所的人工智慧工作者，從行為健康開始。 mdhub 由 Efren A. Lamolda 和 Dominik Middelmann 於 2023 年創立，擁有 11 名員工，總部位於 。 mdhub 正在招募 1 個市場職位…
+- **Medicare Vox (fka Fair Square)** — [https://www.ycombinator.com/companies/medicare-vox-fka-fair-square](https://www.ycombinator.com/companies/medicare-vox-fka-fair-square)  
+  - EN: Building an AI Health Insurance Agent. Founded in 2019 by Daniel Petkevich, Medicare Vox (fka Fair Square) has 20 employees based in New York, NY, USA. Medicare Vox (fka Fair Square) is hiring for 1 r…
+  - 中: 打造人工智慧健康保險代理人。 Medicare Vox（原名 Fair Square）由 Daniel Petkevich 於 2019 年創立，擁有 20 名員工，總部位於美國紐約州紐約市。 Medicare Vox（原名 Fair Square）正在招募 1 名…
+- **MediSearch** — [https://www.ycombinator.com/companies/medisearch](https://www.ycombinator.com/companies/medisearch)  
+  - EN: Search engine for trustworthy medical information. Founded in 2023 by Eduard Oravkin and Michal Pándy, MediSearch has 6 employees based in London, UK. MediSearch is hiring for 1 roles in marketing.
+  - 中: 值得信賴的醫療資訊搜尋引擎。 MediSearch 由 Eduard Oravkin 和 Michal Pándy 於 2023 年創立，擁有 6 名員工，總部位於英國倫敦。 MediSearch 正在招募 1 個行銷職位。
+- **Moonset Health** — [https://www.moonsethealth.com/](https://www.moonsethealth.com/)  
+  - EN: Welcome to the new era of AI charting. Reduce charting time by 75% with AI summaries and automated QAPI checklists, all by listening to your visit.
+  - 中: 歡迎來到人工智慧圖表的新時代。借助 AI 摘要和自動 QAPI 檢查表，將製圖時間縮短 75%，這一切都透過聆聽您的造訪來實現。
+- **Morf Health** — [https://www.ycombinator.com/companies/morf-health](https://www.ycombinator.com/companies/morf-health)  
+  - EN: Workflow automation for healthcare providers. Founded in 2022 by Montana Scher and James Thompson, Morf Health has 6 employees based in . Morf Health is hiring for 2 roles in operations and marketing.
+  - 中: 醫療保健提供者的工作流程自動化。 Morf Health 由 Montana Scher 和 James Thompson 於 2022 年創立，擁有 6 名員工，總部位於 。 Morf Health 正在招募營運和行銷兩個職位。
+- **Norra** — [https://www.ycombinator.com/companies/norra](https://www.ycombinator.com/companies/norra)  
+  - EN: Automating equipment operations for nursing facilities. Founded in 2025 by Ben Rubin and Yining Zhang, Norra has 2 employees based in San Francisco, CA, USA.
+  - 中: 護理機構的設備操作自動化。 Norra 由 Ben Rubin 和 Yining Zhang 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Novoflow** — [https://www.ycombinator.com/companies/novoflow](https://www.ycombinator.com/companies/novoflow)  
+  - EN: AI employees that automate medical operations for clinics. . Founded in 2025 by Georges Casassovici and Mathieu Rihet, Novoflow has 6 employees based in . Novoflow is hiring for 4 roles in engineering…
+  - 中: 人工智慧員工可以實現診所醫療操作的自動化。 。 Novoflow 由 Georges Casassovici 和 Mathieu Rihet 於 2025 年創立，擁有 6 名員工，總部位於 。 Novoflow 正在招募 4 個工程職位…
+- **Oneleet** — [https://www.oneleet.com/](https://www.oneleet.com/)  
+  - EN: Looking to obtain a SOC 2 report or an ISO 27001 certification? Oneleet is the only all-in-one platform for both real world security AND compliance. Talk to us about SOC 2, HIPAA, ISO 27001, PCI, GDPR…
+  - 中: 希望獲得 SOC 2 報告或 ISO 27001 認證？ Oneleet 是唯一一款同時滿足現實世界安全性和合規性的一體化平台。與我們討論 SOC 2、HIPAA、ISO 27001、PCI、GDPR…
+- **Overdrive Health** — [https://www.ycombinator.com/companies/overdrive-health](https://www.ycombinator.com/companies/overdrive-health)  
+  - EN: AI Powered Medical Billing. Founded in 2025 by Daniel Inge and Michael Schroeder, Overdrive Health has 2 employees based in New York, NY, USA.
+  - 中: 人工智慧支援的醫療計費。 Overdrive Health 由 Daniel Inge 和 Michael Schroeder 於 2025 年創立，在美國紐約州擁有 2 名員工。
+- **Parachute** — [https://www.ycombinator.com/companies/parachute](https://www.ycombinator.com/companies/parachute)  
+  - EN: Infrastructure for hospitals to monitor and deploy clinical AI . Founded in 2025 by Aria Vikram and Tony Yamin, Parachute has 2 employees based in .
+  - 中: 醫院監控和部署臨床人工智慧的基礎設施。 Parachute 由 Aria Vikram 和 Tony Yamin 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **Parallel** — [https://www.ycombinator.com/companies/parallel](https://www.ycombinator.com/companies/parallel)  
+  - EN: AI agents for healthcare admin. Founded in 2024 by Paul Lafforgue, Parallel has 6 employees based in Paris, France.
+  - 中: 用於醫療保健管理的人工智慧代理。 Parallel 由 Paul Lafforgue 於 2024 年創立，在法國巴黎擁有 6 名員工。
+- **Paratus Health** — [https://www.ycombinator.com/companies/paratus-health](https://www.ycombinator.com/companies/paratus-health)  
+  - EN: Medical Voice Agents for Patient Management. Founded in 2024 by Pablo Bermudez-Canete and Tannen Hall, Paratus Health has 6 employees based in Menlo Park, CA, USA. Paratus Health is hiring for 1 roles…
+  - 中: 用於病患管理的醫療語音代理。 Paratus Health 由 Pablo Bermudez-Canete 和 Tannen Hall 於 2024 年創立，擁有 6 名員工，總部位於美國加州門洛帕克。 Paratus Health 正在招募 1 個職位...
+- **Patientdesk.ai** — [https://www.ycombinator.com/companies/patientdeskai](https://www.ycombinator.com/companies/patientdeskai)  
+  - EN: AI voice agent for patient calls & admin workflows. Founded in 2025 by Emre Kaplaner, Fikri San Koktas, and Oncel Ozgul, Patientdesk.ai has 3 employees based in .
+  - 中: 用於病患呼叫和管理工作流程的人工智慧語音代理。 Patientdesk.ai 由 Emre Kaplaner、Fikri San Koktas 和 Oncel Ozgul 於 2025 年創立，擁有 3 名員工，總部位於 .
+- **Peer AI** — [https://getpeer.ai/](https://getpeer.ai/)  
+  - EN: The agentic AI platform for life sciences-Peer AI accelerates regulatory & clinical documentation across phases, combining speed, quality & compliance.
+  - 中: 用於生命科學的代理人工智慧平台 - Peer AI 可加速跨階段的監管和臨床記錄，將速度、品質和合規性結合起來。
+- **Perspectives Health** — [https://www.ycombinator.com/companies/perspectives-health](https://www.ycombinator.com/companies/perspectives-health)  
+  - EN: Automating away admin for behavioral health clinics. Founded in 2024 by Eshan Dosani and Kyle Hyun Woo Jung, Perspectives Health has 4 employees based in Chicago, IL, USA.
+  - 中: 行為健康診所的自動化管理。 Perspectives Health 由 Eshan Dosani 和 Kyle Hyun Woo Jung 於 2024 年創立，擁有 4 名員工，總部位於美國伊利諾伊州芝加哥。
+- **Pharmaceutical and life sciences** — [https://www.infinitus.ai/solutions/pharmaceutical-life-sciences/](https://www.infinitus.ai/solutions/pharmaceutical-life-sciences/)  
+  - EN: Infinitus AI agents can call patients, payors, and providers for pharmaceutical and life sciences companies, improving patient engagement and reducing time to therapy.
+  - 中: 無限極人工智慧代理可以呼叫患者、付款人以及製藥和生命科學公司的提供者，從而提高患者參與度並縮短治療時間。
+- **Pharmie AI** — [https://www.ycombinator.com/companies/pharmie-ai](https://www.ycombinator.com/companies/pharmie-ai)  
+  - EN: The first AI pharmacy technician. Founded in 2025 by Neer Jain and Aniruddh Sriram, Pharmie AI has 2 employees based in San Francisco, CA, USA.
+  - 中: 第一位AI藥房技術員。 Pharmie AI 由 Neer Jain 和 Aniruddh Sriram 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Planbase** — [https://www.ycombinator.com/companies/planbase](https://www.ycombinator.com/companies/planbase)  
+  - EN: AI workforce management for healthcare . Founded in 2024 by Jack Light and Joe Shearman, Planbase has 3 employees based in San Francisco, CA, USA. Planbase is hiring for 2 roles in engineering.
+  - 中: 醫療保健人工智慧勞動力管理。 Planbase 由 Jack Light 和 Joe Shearman 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。 Planbase 正在招募 2 個工程職位。
+- **Planbase - AI-Powered Healthcare Employee Management** — [https://www.joinplanbase.com/](https://www.joinplanbase.com/)  
+  - EN: Streamline your healthcare workforce with Planbase's AI-powered scheduling, credentialing, and payment solutions. Generative AI that adapts to your workflows.
+  - 中: 利用 Planbase 的 AI 支援的調度、認證和支付解決方案簡化您的醫療保健人員隊伍。適應您的工作流程的生成式人工智慧。
+- **Probo - Compliance done for you** — [https://www.getprobo.com/](https://www.getprobo.com/)  
+  - EN: Get SOC 2, GDPR, HIPAA, and ISO certified with expert guidance and the job done for you. Open-source compliance management platform with no vendor lock-in. Backed by Y Combinator.
+  - 中: 在專家指導下並為您完成工作，獲得 SOC 2、GDPR、HIPAA 和 ISO 認證。開源合規管理平台，無供應商鎖定。由 Y Combinator 支持。
+- **Prudentia Sciences** — [https://www.prudentiasciences.com/](https://www.prudentiasciences.com/)  
+  - EN: Accelerated Insights, Prudent Decisions. We are redefining biopharma asset identification, diligence, and valuation processes, ensuring your team stays ahead in a competitive and rapidly evolving mark…
+  - 中: 加速洞察，審慎決策。我們正在重新定義生物製藥資產識別、盡職調查和估值流程，確保您的團隊在競爭激烈且快速發展的市場中保持領先地位…
+- **Quill Bills** — [https://www.ycombinator.com/companies/quill-bills](https://www.ycombinator.com/companies/quill-bills)  
+  - EN: AI-Powered Medical Billing. Founded in 2023 by Gabriel Banks and Kartik Donepudi, Quill Bills has 2 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧驅動的醫療計費。 Quill Bills 由 Gabriel Banks 和 Kartik Donepudi 於 2023 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Readily** — [https://www.ycombinator.com/companies/readily](https://www.ycombinator.com/companies/readily)  
+  - EN: Compliance Tools for Healthcare Organizations. Founded in 2024 by Edward Tiong and Wei An Wang, Readily has 7 employees based in . Readily is hiring for 4 roles in engineering and operations.
+  - 中: 醫療保健組織的合規工具。 Readily 由 Edward Tiong 和 Wei An Wang 於 2024 年創立，擁有 7 名員工，總部位於 。 Readyly 正在招募 4 個工程和營運職位。
+- **Remedial Health** — [https://www.ycombinator.com/companies/remedial-health](https://www.ycombinator.com/companies/remedial-health)  
+  - EN: B2B E-commerce & Fintech platform for Pharmacies & Hospitals in Africa. Founded in 2021 by Victor Benjamin and Samuel Okwuada, Remedial Health has 300 employees based in Lagos, Nigeria.
+  - 中: 針對非洲藥房和醫院的 B2B 電子商務和金融科技平台。 Remedial Health 由 Victor Benjamin 和 Samuel Okwuada 於 2021 年創立，擁有 300 名員工，總部位於尼日利亞拉各斯。
+- **Remedy Technologies** — [https://www.useremedy.co/](https://www.useremedy.co/)  
+  - EN: The 24/7 AI Voice Agent for Pharmacies. Streamline prescription refills, reduce workload, and enhance patient care with intelligent automation.
+  - 中: 適用於藥房的 24/7 AI 語音代理。透過智慧自動化簡化處方補充、減少工作量並增強患者護理。
+- **Research - Hippocratic AI** — [https://hippocraticai.com/research/](https://hippocraticai.com/research/)  
+  - EN: Polaris Safety Constellation Architecture We use a novel 4.1T+ parameter constellation architecture where specialized support models increase medical accuracy and safety. [https://vimeo.com/1123735463/…](https://vimeo.com/1123735463/…)
+  - 中: Polaris 安全星座架構 我們使用新穎的 4.1T+ 參數星座架構，其中專門的支援模型提高了醫療準確性和安全性。 [https://vimeo.com/1123735463/…](https://vimeo.com/1123735463/…)
+- **RiskAngle** — [https://www.riskangle.com/](https://www.riskangle.com/)  
+  - EN: RiskAngle is an AI-powered platform that converts unstructured medical documents into clear, concise summaries.
+  - 中: RiskAngle 是一個人工智慧驅動的平台，可將非結構化醫療文件轉換為清晰、簡潔的摘要。
+- **Salt AI - Contextual AI For Life Sciences and Healthcare** — [https://www.salt.ai/](https://www.salt.ai/)  
+  - EN: Salt AI platform offers life sciences teams access to best-of-breed AI workflows to solve the hardest biology problems. Model-agnostic, tuned for speed and cost performance, and visual to invite colla…
+  - 中: Salt AI 平台為生命科學團隊提供了最佳的 AI 工作流程，以解決最困難的生物學問題。與模型無關，針對速度和性價比進行了調整，並透過視覺來邀請合作…
+- **Simbie AI** — [https://www.ycombinator.com/companies/simbie-ai](https://www.ycombinator.com/companies/simbie-ai)  
+  - EN: AI Voice Staff for SMB Medical Practices. Founded in 2023 by Natalia Khosla, MD and Rachel O'Driscoll, Simbie AI has 5 employees based in New York, NY, USA. Simbie AI is hiring for 1 roles in product.
+  - 中: 適用於中小企業醫療實踐的人工智慧語音人員。 Simbie AI 由 Natalia Khosla 和 Rachel O'Driscoll 醫學博士於 2023 年創立，在美國紐約州擁有 5 名員工。 Simbie AI 正在招募 1 個產品職位。
+- **Sixfold** — [https://www.sixfold.ai/](https://www.sixfold.ai/)  
+  - EN: AI underwriting solution for P&C and life & health insurers. Automate underwriting decisions, risk assessment, and submission review with autonomous AI agents.
+  - 中: 財產和意外險以及人壽和健康保險公司的人工智慧承保解決方案。使用自主人工智慧代理自動執行核保決策、風險評估和提交審查。
+- **SOC 2, HIPAA, ISO 27001, PCI, and GDPR Compliance** — [https://www.vanta.com](https://www.vanta.com)  
+  - EN: Vanta automates the complex and time-consuming process of SOC 2, HIPAA, ISO 27001, PCI, and GDPR compliance certification. Automate your security monitoring in weeks instead of months.
+  - 中: Vanta 可自動執行 SOC 2、HIPAA、ISO 27001、PCI 和 GDPR 合規性認證的複雜且耗時的流程。在幾週而不是幾個月內實現安全監控的自動化。
+- **StarJar** — [https://www.ycombinator.com/companies/starjar](https://www.ycombinator.com/companies/starjar)  
+  - EN: Starjar automates inbound document processing workflows for hospitals. Founded in 2023 by Qi Zhang and Ruming Zhen, StarJar has 11 employees based in .
+  - 中: Starjar 自動化醫院的入站文件處理工作流程。 StarJar 由張奇和甄如明於 2023 年創立，擁有 11 名員工，總部位於 。
+- **Sticky note** — (無連結)  
+行​銷 、​銷售、​對話​(​金融、​新聞、​Healthcare、​配藥​合規​檢查..​.
+- **Substrate** — [https://www.ycombinator.com/companies/substrate](https://www.ycombinator.com/companies/substrate)  
+  - EN: Artificial Intelligence for your medical billing team. Founded in 2024 by Ayo Omojola and Inderpal Singh, Substrate has 2 employees based in .
+  - 中: 為您的醫療計費團隊提供人工智慧。 Substrate 由 Ayo Omojola 和 Inderpal Singh 於 2024 年創立，擁有 2 名員工，總部位於 .
+- **SynthioLabs** — [https://www.ycombinator.com/companies/synthiolabs](https://www.ycombinator.com/companies/synthiolabs)  
+  - EN: Reimagining Pharma Customer Engagement with AI Agents. Founded in 2024 by Supreet Deshpande, Sahitya Sridhar, and Rajashekar Vasantha, SynthioLabs has 8 employees based in San Francisco, CA, USA.
+  - 中: 透過人工智慧代理重新構想製藥客戶互動。 SynthioLabs 由 Supreet Deshpande、Sahitya Sridhar 和 Rajashekar Vasantha 於 2024 年創立，擁有 8 名員工，總部位於美國加州舊金山。
+- **Taxo - Automate Healthcare Administration** — [https://www.taxo.ai/](https://www.taxo.ai/)  
+  - EN: Taxo helps healthcare providers and payers save time and money by automating administrative tasks using AI. Streamline prior authorizations, benefits verification, and patient follow-ups.
+  - 中: Taxo 透過使用人工智慧自動執行管理任務，幫助醫療保健提供者和付款人節省時間和金錢。簡化事先授權、福利驗證和病患追蹤。
+- **Text note** — [https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expansion-beyond-pharmacy/](https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expansion-beyond-pharmacy/)  
+  - EN: [https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expansion-beyond-pharmacy/](https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expansion-beyond-pharmacy/)
+  - 中: [[https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expsion/-beyondansion/bebey]](https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expsion/-beyondansion/bebey]) （[https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expsion/sionn-beymrands-as-bey-expalth-to-refbe-expmsion-nsion](https://theaiinsider.tech/2025/10/01/capital-rx-announces-funding-round-of-400m-to-accelerate-ai-powered-health-benefits-platform-rebrands-as-judi-health-to-reflect-expsion/sionn-beymrands-as-bey-expalth-to-refbe-expmsion-nsion))
+- **Text note** — [https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/](https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/)  
+  - EN: [https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/](https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/)
+  - 中: [[https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/]](https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/]) ([https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/](https://theaiinsider.tech/2025/04/24/brellium-raises-16-7m-to-expand-ai-powered-clinical-quality-and-compliance-platform/))
+- **Text note** — [https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-physicians/](https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-physicians/)  
+  - EN: [https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-physicians/](https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-physicians/)
+  - 中: [[https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-Physicians/]](https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-Physicians/]) （[https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-Physicians/）](https://theaiinsider.tech/2025/10/09/gelt-announces-13m-series-a-to-expand-ai-powered-tax-solutions-for-healthcare-practices-and-Physicians/）)
+- **Toothy AI** — [https://www.ycombinator.com/companies/toothy-ai](https://www.ycombinator.com/companies/toothy-ai)  
+  - EN: AI for insurance verification & billing at dental clinics. Founded in 2024 by Johnny Chen, Matt Kerrigan, and Tejas Konduru, Toothy AI has 7 employees based in San Francisco, CA, USA. Toothy AI is hir…
+  - 中: 用於牙科診所保險驗證和計費的人工智慧。 Toothy AI 由 Johnny Chen、Matt Kerrigan 和 Tejas Konduru 於 2024 年創立，擁有 7 名員工，總部位於美國加州舊金山。牙齒人工智慧是他的…
+- **TrueClaim** — [https://www.ycombinator.com/companies/trueclaim](https://www.ycombinator.com/companies/trueclaim)  
+  - EN: Transparent, AI-powered healthcare TPA. Founded in 2023 by Bobby Bayer and Barbora Howell, TrueClaim has 8 employees based in San Francisco, CA, USA. TrueClaim is hiring for 4 roles in operations and …
+  - 中: 透明的、人工智慧驅動的醫療保健 TPA。 TrueClaim 由 Bobby Bayer 和 Barbora Howell 於 2023 年創立，擁有 8 名員工，總部位於美國加州舊金山。 TrueClaim 正在招募 4 個營運職位，並且…
+- **Unstatiq** — [https://unstatiq.com/](https://unstatiq.com/)  
+  - EN: Review payor contracts with AI for managed care teams at hospitals.
+  - 中: 使用 AI 審查醫院管理醫療團隊的付款人合約。
+- **Velvet** — [https://www.velvetfs.com/](https://www.velvetfs.com/)  
+  - EN: A closed capital network and suite of AI tools for the world's leading investors and allocators
+  - 中: 為世界領先的投資者和配置者提供封閉的資本網路和人工智慧工具套件
+- **Vera Health** — [https://www.ycombinator.com/companies/vera-health](https://www.ycombinator.com/companies/vera-health)  
+  - EN: AI-powered clinical decision support for healthcare providers. Founded in 2024 by Maxime Allouch and Taieb Bennani, Vera Health has 6 employees based in San Francisco, CA, USA.
+  - 中: 為醫療保健提供者提供人工智慧驅動的臨床決策支援。 Vera Health 由 Maxime Allouch 和 Taieb Bennani 於 2024 年創立，擁有 6 名員工，總部位於美國加州舊金山。
+- **VetRec - Summarizing Veterinary Records Has Never Been Easier** — [https://www.vetrec.io/post/summarizing-veterinary-records-has-never-been-easier](https://www.vetrec.io/post/summarizing-veterinary-records-has-never-been-easier)  
+  - EN: Records Recap by VetRec simplifies veterinary record management by quickly summarizing patient histories, including scanned or handwritten notes, into customizable templates. Save time, streamline wor…
+  - 中: VetRec 的 Records Recap 透過將病患病史（包括掃描或手寫筆記）快速匯總到可自訂的範本中，簡化了獸醫記錄管理。節省時間，簡化工作…
+- **Wedge** — [https://www.ycombinator.com/companies/wedge](https://www.ycombinator.com/companies/wedge)  
+  - EN: Palantir for Healthcare AI Agents. Founded in 2025 by Devraj Gopal and Steven Segawa, Wedge has 2 employees based in San Francisco, CA, USA.
+  - 中: Palantir 用於醫療保健 AI 代理。 Wedge 由 Devraj Gopal 和 Steven Sekawa 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **YouShift** — [https://www.ycombinator.com/companies/youshift](https://www.ycombinator.com/companies/youshift)  
+  - EN: The OS for healthcare staffing, starting with scheduling AI agents. Founded in 2024 by Jota Chamorro, Adolfo Roquero Gimenez, and Lucía Vives Martorell, YouShift has 3 employees based in . YouShift is…
+  - 中: 用於醫療保健人員配置的作業系統，從調度人工智慧代理開始。 YouShift 由 Jota Chamorro、Adolfo Roquero Gimenez 和 Lucía Vives Martorell 於 2024 年創立，擁有 3 名員工，總部位於 。 YouShift 是...
+
+## Life Sciences｜生命科學
+
+- **FDA, EU MDR, & ISO Compliance Software & Application Lifecycle Management (ALM) - Ketryx** — [https://www.ketryx.com](https://www.ketryx.com)  
+  - EN: Build with FDA compliance and ALM software 3x faster with Ketryx Compliance Framework. Software tooling built for IEC 62304, GMP, ISO 13485, and CFR 21 Part 820/11
+  - 中: 使用 Ketryx 合規性框架，按照 FDA 合規性和 ALM 軟體進行構建，速度提高 3 倍。為 IEC 62304、GMP、ISO 13485 和 CFR 21 Part 820/11 所建構的軟體工具
+- **Raycaster** — [https://www.ycombinator.com/companies/raycaster](https://www.ycombinator.com/companies/raycaster)  
+  - EN: AI for life sciences documents. Founded in 2024 by Levi Lian, Raycaster has 3 employees based in New York, NY, USA. Raycaster is hiring for 4 roles in sales, engineering, and operations.
+  - 中: 生命科學文檔的人工智慧。 Raycaster 由 Levi Lian 於 2024 年創立，擁有 3 名員工，總部位於美國紐約州紐約市。 Raycaster 正在招募 4 個銷售、工程和營運職位。
+- **Raycaster** — [https://www.ycombinator.com/companies/raycaster](https://www.ycombinator.com/companies/raycaster)  
+  - EN: AI for life sciences documents. Founded in 2024 by Levi Lian, Raycaster has 3 employees based in New York, NY, USA. Raycaster is hiring for 4 roles in sales, engineering, and operations.
+  - 中: 生命科學文檔的人工智慧。 Raycaster 由 Levi Lian 於 2024 年創立，擁有 3 名員工，總部位於美國紐約州紐約市。 Raycaster 正在招募 4 個銷售、工程和營運職位。
+- **Scoop** — [https://www.ycombinator.com/companies/scoop](https://www.ycombinator.com/companies/scoop)  
+  - EN: Automating regulatory submissions for life sciences. Founded in 2025 by Jay Kwon and Vincent Park, Scoop has 2 employees based in San Francisco, CA, USA.
+  - 中: 自動化生命科學監管提交。 Scoop 由 Jay Kwon 和 Vincent Park 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Text note** — [https://theaiinsider.tech/2025/08/28/nauta-raises-7m-to-modernize-global-logistics-with-ai/](https://theaiinsider.tech/2025/08/28/nauta-raises-7m-to-modernize-global-logistics-with-ai/)  
+  - EN: [https://theaiinsider.tech/2025/08/28/nauta-raises-7m-to-modernize-global-logistics-with-ai/](https://theaiinsider.tech/2025/08/28/nauta-raises-7m-to-modernize-global-logistics-with-ai/)
+  - 中: [https://theaiinsider.tech/2025/08/28/nauta-raises-7m-to-modernize-global-logistics-with-ai/](https://theaiinsider.tech/2025/08/28/nauta-raises-7m-to-modernize-gwith-logis)
+- **The AI-Native Operating System For Global Supply Chains** — [https://www.getnauta.com/](https://www.getnauta.com/)  
+  - EN: Nauta connects, predicts, and automates every system unifying fragmented information into a single intelligent network that delivers SKU-level insights for real-time decisions in global trade
+  - 中: Nauta 連接、預測和自動化每個系統，將碎片資訊統一到單一智慧網路中，為全球貿易中的即時決策提供 SKU 層級的見解
+
+## Compliance / GRC｜合規
+
+- **Abstract** — [https://www.abstract.us](https://www.abstract.us)  
+  - EN: Proactively identify, analyze and report how changing regulatory policy impacts your organization. Abstract's suite of AI enabled tools helps you sort, filter, and discover relevant policy at local, s…
+  - 中: 主動識別、分析和報告不斷變化的監管政策如何影響您的組織。 Abstract 的人工智慧工具套件可協助您排序、過濾和發現本地的相關政策…
+- **Accordance** — [https://accordance.com/](https://accordance.com/)  
+  - EN: Frontier AI for tax, audit & accounting teams. Multi-agent research platform built by Stanford AI Lab for CPAs and tax professionals.
+  - 中: 適用於稅務、審計和會計團隊的前沿人工智慧。史丹佛人工智慧實驗室為註冊會計師和稅務專業人士所建構的多智能體研究平台。
+- **Agency** — [https://www.ycombinator.com/companies/agency](https://www.ycombinator.com/companies/agency)  
+  - EN: Solving Complex Security and Compliance. Founded in 2020 by Tyler Carbone and Amir Tarighat, Agency has employees based in New York, NY, USA. Agency is hiring for 1 roles in sales.
+  - 中: 解決複雜的安全性和合規性。 Agency 由 Tyler Carbone 和 Amir Tarighat 於 2020 年創立，員工位於美國紐約州紐約市。代理機構正在招聘 1 個銷售職位。
+- **AI SOC Platform** — [https://radiantsecurity.ai/](https://radiantsecurity.ai/)  
+  - EN: Radiant Security's AI SOC platform automates threat detection, investigation, and response using Agentic AI to scale security operations and reduce analyst workload.
+  - 中: Radiant Security 的 AI SOC 平台使用 Agentic AI 自動執行威脅偵測、調查和回應，以擴展安全營運並減少分析師工作量。
+- **AI SOC Platform with Agentic AI SOC Analyst** — [https://www.prophetsecurity.ai](https://www.prophetsecurity.ai)  
+  - EN: Prophet Security's AI SOC Platform uses agentic AI (AI SOC Agents) to automate alert triage. investigations, and response, accelerating and improving SecOps.
+  - 中: Prophet Security 的 AI SOC 平台使用代理 AI（AI SOC 代理）來自動進行警報分類。調查和回應，加速和改進 SecOps。
+- **AI-Powered Contract Automation for Private Markets** — [https://www.ontra.ai/](https://www.ontra.ai/)  
+  - EN: Ontra's AI-powered platform automates legal workflows for private markets, streamlining contract management, fund compliance, and entity management for 700+ firms globally.
+  - 中: Ontra 的人工智慧平台可實現私募市場的法律工作流程自動化，為全球 700 多家公司簡化合約管理、基金合規和實體管理。
+- **Armeta** — [https://www.armeta.ai/](https://www.armeta.ai/)  
+  - EN: Automating construction project reviews and compliance with proprietary domain-specific AI models - built for governments, enterprises, and EPC leaders.
+  - 中: 自動化建設專案審查並遵守專有的特定領域人工智慧模型 - 為政府、企業和 EPC 領導者建立。
+- **Automate Verifying Accounting Records** — [https://www.auditsight.com/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.auditsight.com/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Audit Sight is a leading technology platform that eliminates manual work for auditors, diligence and private equity professionals by automating financial transaction verification.
+  - 中: Audit Sight 是一個領先的技術平台，透過自動化金融交易驗證，消除審計師、盡職調查和私募股權專業人士的手動工作。
+- **Cardamon** — [https://www.ycombinator.com/companies/cardamon](https://www.ycombinator.com/companies/cardamon)  
+  - EN: AI compliance co-pilot for regulated financial businesses. Founded in 2025 by Dmytro Astakhov and Areg Nzsdejan, Cardamon has 2 employees based in San Francisco, CA, USA.
+  - 中: 受監管金融企業的人工智慧合規副駕駛。 Cardamon 由 Dmytro Astakhov 和 Areg Nzsdejan 於 2025 年創立，在美國加州舊金山有 2 名員工。
+- **CipherOwl** — [https://cipherowl.com/](https://cipherowl.com/)  
+  - EN: CipherOwl delivers AI-powered digital asset intelligence and automation tools for institutions, helping banks, exchanges, and crypto teams manage risk, ensure compliance, and operate with confidence.
+  - 中: CipherOwl 為機構提供人工智慧驅動的數位資產智慧和自動化工具，幫助銀行、交易所和加密貨幣團隊管理風險、確保合規性並充滿信心地運作。
+- **Compliance Framework Analyzer** — [https://aicomplianceadvisor.eu](https://aicomplianceadvisor.eu)  
+  - EN: Check your business against 130+ AI, data privacy, security, and industry-specific compliance frameworks in under 60 seconds. Start a free scan - no card required.
+  - 中: 在 60 秒內根據 130 多個人工智慧、資料隱私、安全性和行業特定合規框架檢查您的業務。開始免費掃描 - 無需卡片。
+- **ComplyDo - More Comply, Less Do** — [https://www.complydo.io/](https://www.complydo.io/)  
+  - EN: ComplyDo automates compliance across global regulations. The agentic compliance engine for enterprises that move fast.
+  - 中: ComplyDo 自動實現全球法規遵循。適用於快速發展的企業的代理合規引擎。
+- **Crimson** — [https://www.ycombinator.com/companies/crimson](https://www.ycombinator.com/companies/crimson)  
+  - EN: The AI Associate for Litigation Lawyers. Founded in 2025 by Amine Amor, Mark Feldner, and David Strömbäck, Crimson has 4 employees based in London, UK. Crimson is hiring for 1 roles in engineering.
+  - 中: 訴訟律師的人工智慧助理。 Crimson 由 Amine Amor、Mark Feldner 和 David Strömbäck 於 2025 年創立，在英國倫敦擁有 4 名員工。 Crimson 正在招募 1 個工程職位。
+- **DataSnipper - Intelligent Automation Platform** — [https://www.datasnipper.com/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.datasnipper.com/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: DataSnipper is an Intelligent Automation Platform within Excel that boosts Audit and Finance teams' productivity. Used by over 500.000 finance professionals
+  - 中: DataSnipper 是 Excel 中的智慧自動化平台，可提高稽核和財務團隊的工作效率。超過 50 萬名金融專業人士使用
+- **Delve** — [https://www.ycombinator.com/companies/delve](https://www.ycombinator.com/companies/delve)  
+  - EN: AI that makes compliance effortless. Founded in 2023 by Karun Kaushik and Selin Kocalar, Delve has 33 employees based in San Francisco, CA, USA. Delve is hiring for 7 roles in engineering, operations,…
+  - 中: 人工智慧讓合規變得毫不費力。 Delve 由 Karun Kaushik 和 Selin Kocalar 於 2023 年創立，擁有 33 名員工，總部位於美國加州舊金山。 Delve 正在招募 7 個職位，涉及工程、營運…
+- **Denki** — [https://www.ycombinator.com/companies/denki](https://www.ycombinator.com/companies/denki)  
+  - EN: The full-stack AI financial audit firm. Founded in 2025 by Felipe Jin Li and David Jin Li, Denki has 2 employees based in San Francisco, CA, USA.
+  - 中: 全端AI財務審計公司。 Denki 由 Felipe Jin Li 和 David Jin Li 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **dili** — [https://www.ycombinator.com/companies/dili](https://www.ycombinator.com/companies/dili)  
+  - EN: Automating PWA Compliance and Diligence. Founded in 2023 by Anand Chaturvedi and Brian Fernandez, dili has 5 employees based in New York, NY, USA. dili is hiring for 3 roles in operations, sales, and …
+  - 中: 自動化 PWA 合規性和勤勉性。 dili 由 Anand Chaturvedi 和 Brian Fernandez 於 2023 年創立，擁有 5 名員工，總部位於美國紐約州紐約市。帝力正在招聘 3 個職位，負責營運、銷售和…
+- **Diligent** — [https://www.ycombinator.com/companies/diligent](https://www.ycombinator.com/companies/diligent)  
+  - EN: AI agents for fintech risk and compliance operations. Founded in 2023 by Ahmed Gaber and Edoardo Maschio, Diligent has 2 employees based in Berlin, Germany. Diligent is hiring for 1 roles in engineeri…
+  - 中: 用於金融科技風險和合規營運的人工智慧代理。 Diligent 由 Ahmed Gaber 和 Edoardo Maschio 於 2023 年創立，在德國柏林擁有 2 名員工。 Diligent 正在招募 1 個工程職位…
+- **Dioptra AI** — [https://www.dioptra.ai](https://www.dioptra.ai)  
+  - EN: Automate contract reviews with AI accuracy. Dioptra AI reduces risk, ensures compliance, and reviews contracts 3x faster. Learn more today!
+  - 中: 以人工智慧的準確性自動進行合約審查。 Dioptra AI 可降低風險、確保合規性並將合約審查速度提高 3 倍。今天就了解更多！
+- **Elevate Your Compliance Strategy with our AI-led Solutions** — [https://vendict.com](https://vendict.com)  
+  - EN: Boost your compliance structure with Vendict's automated security questionnaire and TPRM solutions built to enhance your GRC posture.
+  - 中: 利用 Vendic 的自動安全問捲和旨在增強您的 GRC 態勢的 TPRM 解決方案來增強您的合規結構。
+- **Embedded Accounting API for SaaS Platforms** — [https://www.openledger.com/](https://www.openledger.com/)  
+  - EN: Open Ledger's AI-powered embedded accounting API automates reconciliation, reporting & compliance-seamless, secure, and fast for SaaS platforms.
+  - 中: Open Ledger 的 AI 驅動的嵌入式會計 API 可自動執行對帳、報告和合規性，對於 SaaS 平台來說是無縫、安全且快速的。
+- **F4** — [https://www.ycombinator.com/companies/f4](https://www.ycombinator.com/companies/f4)  
+  - EN: Automating compliance checks for engineering drawings. Founded in 2025 by Aidan Cantu and Paul Shin, F4 has 5 employees based in San Francisco, CA, USA.
+  - 中: 自動對工程圖進行合規性檢查。 F4 由 Aidan Cantu 和 Paul Shin 於 2025 年創立，擁有 5 名員工，總部位於美國加州舊金山。
+- **Financial and Regulatory Compliance Software** — [https://www.compliance.ai/](https://www.compliance.ai/)  
+  - EN: We provide top corporate regulatory compliance solutions. Compliance.ai to automate, simplify, and streamline compliance obligations, activities, and workflows.
+  - 中: 我們提供頂級的企業監管合規解決方案。 Compliance.ai 可自動化、簡化和理順合規義務、活動和工作流程。
+- **GC AI - Legal AI Platform for In-House Counsel** — [https://gc.ai/](https://gc.ai/)  
+  - EN: GC AI is an AI platform for in-house legal teams. Draft contracts, review documents, and research legal issues in seconds with SOC 2-certified, zero data retention AI. Trusted by 1,000+ legal departme…
+  - 中: GC AI 是一個面向內部法律團隊的人工智慧平台。使用 SOC 2 認證的零資料保留人工智慧，在幾秒鐘內起草合約、審查文件和研究法律問題。受到 1,000 多個法律部門的信賴...
+- **Global Tax Compliance Software** — [https://www.getsphere.com/](https://www.getsphere.com/)  
+  - EN: Manage VAT, GST, and sales tax worldwide with Sphere's global tax compliance software. Automate registration, calculation, and filing seamlessly.
+  - 中: 使用 Sphere 的全球稅務合規軟體管理全球增值稅、商品及服務稅和銷售稅。無縫自動化註冊、計算與歸檔。
+- **Greenlite** — [https://www.ycombinator.com/companies/greenlite](https://www.ycombinator.com/companies/greenlite)  
+  - EN: AI agents for financial compliance. Founded in 2023 by Will Lawrence, Greenlite has 34 employees based in San Francisco, CA, USA. Greenlite is hiring for 7 roles in operations, engineering, sales, and…
+  - 中: 用於財務合規的人工智慧代理。 Greenlite 由 Will Lawrence 於 2023 年創立，擁有 34 名員工，總部位於美國加州舊金山。 Greenlite 正在招募 7 個職位，涉及營運、工程、銷售和…
+- **Hadrius** — [https://www.ycombinator.com/companies/hadrius](https://www.ycombinator.com/companies/hadrius)  
+  - EN: Automating Securities Compliance. Founded in 2023 by Allen Calderwood, Som Mohapatra, and Thomas Stewart, Hadrius has 43 employees based in New York, NY, USA. Hadrius is hiring for 14 roles in operati…
+  - 中: 自動化證券合規性。 Hadrius 由 Allen Calderwood、Som Mohapatra 和 Thomas Stewart 於 2023 年創立，總部位於美國紐約州紐約市，擁有 43 名員工。 Hadrius 正在招募 14 個營運職位…
+- **Hire an AI workforce for insurance operations** — [https://www.kay.ai/](https://www.kay.ai/)  
+  - EN: "Our member agencies have been extremely impressed. For associations and networks, Kay is a strong partner to unlock the future of work."
+  - 中: “我們的成員機構印象深刻。對於協會和網絡來說，Kay 是開啟未來工作的強大合作夥伴。”
+- **Identity Verification & End-to-end Customer Onboarding Platform** — [https://hyperverge.co/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://hyperverge.co/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: AI-powered identity verification platform for end-to-end user onboarding with industry-best pass rates. Combat fraud and ensure compliance. Book a demo now!
+  - 中: 由人工智慧驅動的身份驗證平台，可實現端到端用戶入門，並具有業界最佳的通過率。打擊詐欺並確保合規。立即預約演示！
+- **Instrumentl Careers** — [https://www.instrumentl.com/careers](https://www.instrumentl.com/careers)  
+  - EN: Join Instrumentl, a fast-growing startup empowering nonprofits. Explore careers that combine tech and social impact, and help drive meaningful change.
+  - 中: 加入 Instrumentl，這是一家快速發展的新創公司，為非營利組織提供支援。探索將科技與社會影響力結合的職業，並幫助推動有意義的變革。
+- **Launch YC** — [https://www.ycombinator.com/launches/Lgz-remo-ai-copilot-for-onboarding-and-compliance-teams](https://www.ycombinator.com/launches/Lgz-remo-ai-copilot-for-onboarding-and-compliance-teams)  
+  - EN: We empower onboarding and compliance teams at financial institutions to get through cases faster and with higher accuracy.
+  - 中: 我們幫助金融機構的入職和合規團隊更快、更準確地處理案件。
+- **Lexi** — [https://www.ycombinator.com/companies/lexi](https://www.ycombinator.com/companies/lexi)  
+  - EN: AI Associates for Corporate Law. Founded in 2025 by Harshit Garg and Kiran Mohan, Lexi has 4 employees based in San Francisco, CA, USA.
+  - 中: 公司法人工智慧助理。 Lexi 由 Harshit Garg 和 Kiran Mohan 於 2025 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **LogosGuard** — [https://www.ycombinator.com/companies/logosguard](https://www.ycombinator.com/companies/logosguard)  
+  - EN: The risk management software for enterprises adopting AI. Founded in 2025 by Abel John and Sukrut Oak, LogosGuard has 2 employees based in San Francisco, CA, USA.
+  - 中: 適用於採用人工智慧的企業的風險管理軟體。 LogosGuard 由 Abel John 和 Sukrut Oak 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Luthor** — [https://www.ycombinator.com/companies/luthor](https://www.ycombinator.com/companies/luthor)  
+  - EN: AI-Native Compliance Firm. Founded in 2024 by Glenn Espinosa and John Espinosa, Luthor has 3 employees based in . Luthor is hiring for 2 roles in operations and engineering.
+  - 中: 人工智慧原生合規公司。 Luthor 由 Glenn Espinosa 和 John Espinosa 於 2024 年創立，擁有 3 名員工，總部位於 。 Luthor 正在招募營運和工程兩個職位。
+- **MarkIt** — [https://www.ycombinator.com/companies/markit](https://www.ycombinator.com/companies/markit)  
+  - EN: AI Agents for Trade Compliance - Saving Companies from Tariffs. Founded in 2025 by Chanhyung Kim and Roland Saavedra, MarkIt has 2 employees based in San Francisco, CA, USA.
+  - 中: 貿易合規人工智慧代理 - 幫助公司免受關稅影響。 MarkIt 由 Chanhyung Kim 和 Roland Saavedra 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **Mayflower** — [https://www.ycombinator.com/companies/mayflower](https://www.ycombinator.com/companies/mayflower)  
+  - EN: AI plug-in that automates HR immigration screening and compliance. Founded in 2025 by Naren Chittem and Aryan Gulati, Mayflower has 2 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧插件，可自動執行人力資源移民篩選和合規性。 Mayflower 由 Naren Chittem 和 Aryan Gulati 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Mayflower** — [https://www.ycombinator.com/companies/mayflower](https://www.ycombinator.com/companies/mayflower)  
+  - EN: AI plug-in that automates HR immigration screening and compliance. Founded in 2025 by Naren Chittem and Aryan Gulati, Mayflower has 2 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧插件，可自動執行人力資源移民篩選和合規性。 Mayflower 由 Naren Chittem 和 Aryan Gulati 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Meadow** — [https://www.ycombinator.com/companies/meadow](https://www.ycombinator.com/companies/meadow)  
+  - EN: Point of Sale and Compliance SaaS for Cannabis Dispensaries. Founded in 2014 by Scott A Garman, Rick Harrison, David Hua, and Harrison Lee, Meadow has 14 employees based in San Francisco, CA, USA.
+  - 中: 大麻藥局的銷售點和合規 SaaS。 Meadow 由 Scott A Garman、Rick Harrison、David Hua 和 Harrison Lee 於 2014 年創立，擁有 14 名員工，總部位於美國加州舊金山。
+- **Moby Analytics** — [https://www.ycombinator.com/companies/moby-analytics](https://www.ycombinator.com/companies/moby-analytics)  
+  - EN: AI financial auditors. Founded in by Dimitri Kassubeck, Thomas Rapilly, and Clément Sengelen, Moby Analytics has 4 employees based in Paris, France.
+  - 中: 人工智慧財務審計師。 Moby Analytics 由 Dimitri Kassubeck、Thomas Rapilly 和 Clément Sengelen 創立，在法國巴黎擁有 4 名員工。
+- **Neo.Tax** — [https://www.neo.tax](https://www.neo.tax)  
+  - EN: Eliminate interviews and generate audit-ready R&D tax credit and software capitalization outputs in days, not months.
+  - 中: 消除面談並在幾天而不是幾個月內產生可審計的研發稅收抵免和軟體資本化輸出。
+- **Norm Ai** — [https://www.norm.ai/](https://www.norm.ai/)  
+  - EN: Regulatory AI for Legal & Compliance
+  - 中: 法律與合規監管人工智慧
+- **Normal** — [https://www.ycombinator.com/companies/normal](https://www.ycombinator.com/companies/normal)  
+  - EN: Modern compliance for drones, robots, IoT, and beyond. Founded in 2025 by Hudhayfa Nazoordeen and Anson Yu, Normal has 2 employees based in San Francisco, CA, USA.
+  - 中: 無人機、機器人、物聯網等的現代合規性。 Normal 由 Hudhayfa Nazoordeen 和 Anson Yu 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Offstream** — [https://www.ycombinator.com/companies/offstream](https://www.ycombinator.com/companies/offstream)  
+  - EN: Vanta for carbon compliance. Founded in 2023 by Zach Janicki and Varsha Ramesh Walsh, Offstream has 7 employees based in .
+  - 中: Vanta 實現碳合規。 Offstream 由 Zach Janicki 和 Varsha Ramesh Walsh 於 2023 年創立，擁有 7 名員工，總部位於 。
+- **OnFinance AI - AI Agents for Compliance** — [https://www.onfinance.ai/](https://www.onfinance.ai/)  
+  - EN: AI Agents to simplify, streamline, and strengthen your regulatory processes. We currently support regulators like SEBI, RBI, SEC, FINRA, FCA, SAMA, MAS, AMFI.
+  - 中: AI 代理可簡化、優化和加強您的監管流程。我們目前支援 SEBI、RBI、SEC、FINRA、FCA、SAMA、MAS、AMFI 等監管機構。
+- **Oxus** — [https://www.ycombinator.com/companies/oxus](https://www.ycombinator.com/companies/oxus)  
+  - EN: AI-powered automation for internal audit workflows. Founded in 2025 by Janet Liu, Melinda Liu, and Christine Watts, Oxus has 3 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧驅動的內部稽核工作流程自動化。 Oxus 由 Janet Liu、Melinda Liu 和 Christine Watts 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Oxus** — [https://www.ycombinator.com/companies/oxus](https://www.ycombinator.com/companies/oxus)  
+  - EN: AI-powered automation for internal audit workflows. Founded in 2025 by Janet Liu, Melinda Liu, and Christine Watts, Oxus has 3 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧驅動的內部稽核工作流程自動化。 Oxus 由 Janet Liu、Melinda Liu 和 Christine Watts 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Permitify** — [https://www.ycombinator.com/companies/permitify](https://www.ycombinator.com/companies/permitify)  
+  - EN: AI co-pilot for building plan review and building code compliance. Founded in 2025 by Adam Chandler and Alexander Densley, Permitify has 2 employees based in .
+  - 中: 人工智慧副駕駛負責建築計畫審查和建築規範合規性。 Permitify 由 Adam Chandler 和 Alexander Densley 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **Plutto** — [https://www.ycombinator.com/companies/plutto](https://www.ycombinator.com/companies/plutto)  
+  - EN: Supply-chain risk management and compliance platform for Latin.... Founded in 2022 by Felipe Domínguez, Ignacio Márquez, and Antonia San Martin, Plutto has 20 employees based in Santiago, Santiago Met…
+  - 中: 拉丁語供應鏈風險管理和合規平台...Plutto 由 Felipe Domínguez、Ignacio Márquez 和 Antonia San Martin 於 2022 年創立，在聖地亞哥大都會聖地亞哥擁有 20 名員工...
+- **Qevlar AI** — [https://www.qevlar.com](https://www.qevlar.com)  
+  - EN: SOARs are limited and complex to manage. Level-up your SOC with 100% autonomous alert investigation. No playbook required.
+  - 中: SOAR 的管理是有限且複雜的。透過 100% 自主警報調查來升級您的 SOC。無需劇本。
+- **Regology** — [https://www.ycombinator.com/companies/regology](https://www.ycombinator.com/companies/regology)  
+  - EN: AI Agents for Regulatory Compliance. Founded in 2017 by Pavan Bayyapu and Mukund Goenka, Regology has 60 employees based in Palo Alto, CA, USA. Regology is hiring for 1 roles in engineering.
+  - 中: 監理合規人工智慧代理。 Regology 由 Pavan Bayyapu 和 Mukund Goenka 於 2017 年創立，擁有 60 名員工，總部位於美國加州帕洛阿爾托。 Regology 正在招聘 1 個工程職位。
+- **Rescript** — [https://www.ycombinator.com/companies/rescript](https://www.ycombinator.com/companies/rescript)  
+  - EN: AI Regulatory Analyst for Enterprises. Founded in 2023 by Nikhil Ajjarapu, Vincent Huang, and Alexander Pesendorfer, Rescript has 3 employees based in Washington, DC, USA.
+  - 中: 企業人工智慧監管分析師。 Rescript 由 Nikhil Ajjarapu、Vincent Huang 和 Alexander Pesendorfer 於 2023 年創立，擁有 3 名員工，總部位於美國華盛頓特區。
+- **RetailReady** — [https://www.ycombinator.com/companies/retailready](https://www.ycombinator.com/companies/retailready)  
+  - EN: An AI-powered supply chain compliance engine. Founded in 2024 by Sarah Hamer and Elle Smyth, RetailReady has 9 employees based in . RetailReady is hiring for 4 roles in product, engineering, operation…
+  - 中: 人工智慧驅動的供應鏈合規引擎。 RetailReady 由 Sarah Hamer 和 Elle Smyth 於 2024 年創立，擁有 9 名員工，總部位於 . RetailReady 正在招聘產品、工程、營運等 4 個職位…
+- **Rimba** — [https://www.ycombinator.com/companies/rimba](https://www.ycombinator.com/companies/rimba)  
+  - EN: AI to replace manual work in environmental compliance reporting. Founded in 2024 by Timothy Daniel, Rimba has 4 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧將取代環境合規報告中的手工工作。 Rimba 由 Timothy Daniel 於 2024 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **ROE** — [https://www.ycombinator.com/companies/roe](https://www.ycombinator.com/companies/roe)  
+  - EN: AI for risk and compliance. Founded in 2023 by Richard Meng, ROE has 9 employees based in San Mateo, CA, USA. ROE is hiring for 2 roles in engineering.
+  - 中: 人工智慧的風險和合規性。 ROE 由 Richard孟於 2023 年創立，擁有 9 名員工，總部位於美國加州聖馬刁。 ROE 正在招募 2 個工程職位。
+- **SafetyKit** — [https://www.ycombinator.com/companies/safetykit](https://www.ycombinator.com/companies/safetykit)  
+  - EN: AI agents for risk, compliance, and safety. Founded in 2023 by David Graunke and Steven Guichard, SafetyKit has 10 employees based in San Francisco, CA, USA. SafetyKit is hiring for 1 roles in enginee…
+  - 中: 用於風險、合規性和安全性的人工智慧代理。 SafetyKit 由 David Graunke 和 Steven Guichard 於 2023 年創立，擁有 10 名員工，總部位於美國加州舊金山。 SafetyKit 正在招募 1 個工程師職位…
+- **Sales Tax Automation & Compliance** — [https://trykintsugi.com/](https://trykintsugi.com/)  
+  - EN: Kintsugi is the global sales tax automation and compliance platform for ecommerce and SaaS companies. Save 10+ hrs/month on manual work and thousands on tax costs.
+  - 中: Kintsugi 是電子商務和 SaaS 公司的全球銷售稅自動化和合規平台。每月節省 10 多個小時的體力工作和數千美元的稅務成本。
+- **Sardine** — [https://www.sardine.ai](https://www.sardine.ai)  
+  - EN: Sardine's AI platform is at the core of enterprise risk and fraud workflows, allowing them to consolidate vendors and improve operational efficiency. Hundreds of enterprises in over 70 countries trust…
+  - 中: Sardine 的人工智慧平台是企業風險和詐欺工作流程的核心，使他們能夠整合供應商並提高營運效率。 70多個國家的數百家企業信賴…
+- **Shiboleth** — [https://www.ycombinator.com/companies/shiboleth](https://www.ycombinator.com/companies/shiboleth)  
+  - EN: Shiboleth automates lending compliance for financial institutions.... Founded in 2023 by Bivu Dhungana and Esty Scheiner, Shiboleth has 5 employees based in . Shiboleth is hiring for 1 roles in engine…
+  - 中: Shiboleth 自動化金融機構的貸款合規...Shiboleth 由 Bivu Dhungana 和 Esty Scheiner 於 2023 年創立，擁有 5 名員工，總部位於 。 Shiboleth 正在招募 1 個引擎職位…
+- **Sphinx** — [https://www.ycombinator.com/companies/sphinx](https://www.ycombinator.com/companies/sphinx)  
+  - EN: AI Compliance Analysts for Banks & Fintechs. Founded in 2024 by Alexandre Berkovic and Chrisjan Wust, Sphinx has 9 employees based in .
+  - 中: 銀行和金融科技公司的人工智慧合規分析師。 Sphinx 由 Alexandre Berkovic 和 Chrisjan Wust 於 2024 年創立，擁有 9 名員工，總部位於 。
+- **Sticky note** — (無連結)  
+從​根本性​上​(To Gov)​去​改變​compliance​ 合規​
+- **Taxwire - Global sales tax solved** — [https://www.taxwire.com/](https://www.taxwire.com/)  
+  - EN: Automate compliance across your finance and commerce stack. Easy implementation from our tax experts and engineers. Save time, money, and headache on sales tax.
+  - 中: 自動化整個金融和商業堆疊的合規性。我們的稅務專家和工程師可以輕鬆實施。節省時間、金錢，並減少銷售稅的麻煩。
+- **TectoAI** — [https://www.ycombinator.com/companies/tectoai](https://www.ycombinator.com/companies/tectoai)  
+  - EN: A Platform for AI Governance. Founded in 2025 by Niosha Afsharikia, PhD and Roksana Baleshzar, TectoAI has 2 employees based in San Francisco, CA, USA. TectoAI is hiring for 1 roles in engineering.
+  - 中: 人工智慧治理平台。 TectoAI 由 Niosha Afsharikia 博士和 Roksana Baleshzar 於 2025 年創立，在美國加州舊金山有 2 名員工。 TectoAI 正在招募 1 個工程職位。
+- **Text note** — [https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/](https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/)  
+  - EN: [https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/](https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/)
+  - 中: [[https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/]](https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/]) （[https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/）](https://theaiinsider.tech/2025/01/10/abstract-secures-4-8m-to-accelerate-its-ai-platform-for-managing-regulatory-risks-and-opportunities/）)
+- **Trava** — [https://www.ycombinator.com/companies/trava](https://www.ycombinator.com/companies/trava)  
+  - EN: AI agents for global trade compliance. Founded in 2025 by Pushkar Lanka, Trava has 1 employees based in San Francisco, CA, USA.
+  - 中: 全球貿易合規的人工智慧代理。 Trava 由 Pushkaranda 於 2025 年創立，在美國加州舊金山有 1 名員工。
+- **truthsystems** — [https://www.ycombinator.com/companies/truthsystems](https://www.ycombinator.com/companies/truthsystems)  
+  - EN: Automatically blocking risky behavior with real-time governance agents. Founded in 2023 by Alex Mac and Nam Nguyen, truthsystems has 3 employees based in San Francisco, CA, USA. truthsystems is hiring…
+  - 中: 透過即時治理代理自動阻止危險行為。 truthsystems 由 Alex Mac 和 Nam Nguyen 於 2023 年創立，擁有 3 名員工，總部位於美國加州舊金山。真相繫統正在招募…
+- **Vcheck** — [https://vcheckglobal.com/](https://vcheckglobal.com/)  
+  - EN: Vcheck provides due diligence and intelligence solutions with continuous monitoring, OSINT, and social media screening to protect your business reputation & investments.
+  - 中: Vcheck 提供盡職調查和情報解決方案，包括持續監控、OSINT 和社群媒體篩選，以保護您的商業聲譽和投資。
+- **Veriad** — [https://www.ycombinator.com/companies/veriad](https://www.ycombinator.com/companies/veriad)  
+  - EN: AI compliance officer. Founded in 2025 by Rohan Mahendraker and Anton Muratov, Veriad has 2 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧合規官。 Veriad 由 Rohan Mahendraker 和 Anton Muratov 於 2025 年創立，在美國加州舊金山有 2 名員工。
+- **Vespper** — [https://www.ycombinator.com/companies/vespper](https://www.ycombinator.com/companies/vespper)  
+  - EN: AI document authoring platform for regulatory professionals in life.... Founded in 2024 by Dudu Lasry and Topaz Turkenitz, Vespper has 2 employees based in .
+  - 中: 針對生活中監管專業人員的人工智慧文件創作平台... Vespper 由 Dudu Lasry 和 Topaz Turkenitz 於 2024 年創立，擁有 2 名員工，總部位於 .
+- **Virtue AI** — [https://www.virtueai.com/](https://www.virtueai.com/)  
+  - EN: Reduce enterprise AI risk with continuous, automated red-teaming, real-time guardrails, and adaptive, comprehensive governance in a single, scalable platform.
+  - 中: 透過在單一可擴展平台中持續、自動化的紅隊、即時護欄以及自適應、全面的治理來降低企業人工智慧風險。
+- **Vulcan Technologies** — [https://www.ycombinator.com/companies/vulcan-technologies](https://www.ycombinator.com/companies/vulcan-technologies)  
+  - EN: AI regulatory drafting and compliance. Founded in 2025 by Tanner Jones, Aleksander Mekhanik, and Chris Minge, Vulcan Technologies has 6 employees based in Austin, TX, USA. Vulcan Technologies is hirin…
+  - 中: 人工智慧監管起草和合規。 Vulcan Technologies 由 Tanner Jones、Aleksander Mekhanik 和 Chris Minge 於 2025 年創立，擁有 6 名員工，總部位於美國德克薩斯州奧斯汀。 Vulcan Technologies 正在招募…
+- **Weave Bio** — [https://www.weave.bio/](https://www.weave.bio/)  
+  - EN: Weave's AI platform streamlines complex regulatory dossiers with eCTD templates built for regulatory experts.
+  - 中: Weave 的 AI 平台透過為監管專家建立的 eCTD 範本簡化了複雜的監管檔案。
+- **Zania** — [https://zania.ai/](https://zania.ai/)  
+  - EN: Achieve security compliance fast with Zania's AI GRC Agents-automate assessments, streamline GRC, stay audit-ready, and focus on strategic priorities.
+  - 中: 透過 Zania 的 AI GRC 代理快速實現安全合規性 - 自動評估、簡化 GRC、做好審計準備並專注於策略優先事項。
+- **Zarna** — [https://www.ycombinator.com/companies/zarna](https://www.ycombinator.com/companies/zarna)  
+  - EN: AI Associates for Private Capital . Founded in 2025 by Vivan Agrawal, Rishabh Dhariwal, Hrishi Joshi, and Rakesh Mehta, Zarna has 4 employees based in San Francisco, CA, USA.
+  - 中: 私人資本人工智慧協會。 Zarna 由 Vivan Agrawal、Rishabh Dhariwal、Hrishi Joshi 和 Rakesh Mehta 於 2025 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+
+## Construction / Permitting｜建築與許可
+
+- **Advanced AI Takeoff Software for Construction & Field Services** — [https://attentive.ai](https://attentive.ai)  
+  - EN: Discover how 1000+ businesses use Attentive.ai's AI-based automated takeoff platform - Beam AI for construction and field services to save 90% time and bid 2X more jobs.
+  - 中: 了解 1000 多家企業如何使用 Attentive.ai 基於人工智慧的自動起飛平台 - Beam AI 進行建築和現場服務，以節省 90% 的時間並提高 2 倍的工作競價。
+- **ArchiLabs** — [https://www.ycombinator.com/companies/archilabs](https://www.ycombinator.com/companies/archilabs)  
+  - EN: AI Copilot for Architects. Founded in 2024 by Brian Bakerman and William Meng, ArchiLabs has 2 employees based in San Francisco, CA, USA.
+  - 中: 建築師的人工智慧副駕駛。 ArchiLabs 由 Brian Bakerman 和 William Ming 於 2024 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Articulate** — [https://www.ycombinator.com/companies/articulate](https://www.ycombinator.com/companies/articulate)  
+  - EN: Automatic Construction Drawing Clash Detection . Founded in 2025 by Blake Passe and Milind Sagaram, Articulate has 2 employees based in San Francisco, CA, USA.
+  - 中: 自動施工圖衝突檢測。 Articulate 由 Blake Passe 和 Milind Sagaram 於 2025 年創立，在美國加州舊金山有 2 名員工。
+- **Avoice** — [https://www.ycombinator.com/companies/avoice](https://www.ycombinator.com/companies/avoice)  
+  - EN: The AI Workspace For Architects. Founded in 2025 by Chawit Asavasaetakul and Chawin Asavasaetakul, Avoice has 4 employees based in San Francisco, CA, USA.
+  - 中: 建築師的人工智慧工作空間。 Avoice 由 Chawit Asavasaetakul 和 Chawin Asavasaetakul 於 2025 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **Bild AI** — [https://www.ycombinator.com/companies/bild-ai](https://www.ycombinator.com/companies/bild-ai)  
+  - EN: AI that understands construction blueprints. Founded in 2024 by Roop Pal and Puneet Sukhija, Bild AI has 5 employees based in San Francisco, CA, USA. Bild AI is hiring for 3 roles in engineering.
+  - 中: 理解建築藍圖的人工智慧。 Bild AI 由 Roop Pal 和 Puneet Sukhija 於 2024 年創立，擁有 5 名員工，總部位於美國加州舊金山。 Bild AI 正在招募 3 個工程職位。
+- **Bild AI** — [https://www.ycombinator.com/companies/bild-ai](https://www.ycombinator.com/companies/bild-ai)  
+  - EN: AI that understands construction blueprints. Founded in 2024 by Roop Pal and Puneet Sukhija, Bild AI has 5 employees based in San Francisco, CA, USA. Bild AI is hiring for 3 roles in engineering.
+  - 中: 理解建築藍圖的人工智慧。 Bild AI 由 Roop Pal 和 Puneet Sukhija 於 2024 年創立，擁有 5 名員工，總部位於美國加州舊金山。 Bild AI 正在招募 3 個工程職位。
+- **Bolster** — [https://www.ycombinator.com/companies/bolster](https://www.ycombinator.com/companies/bolster)  
+  - EN: The platform for buying, selling and managing residential construction. Founded in 2015 by Mike Bignold, Bolster has 25 employees based in Calgary, AB, Canada. Bolster is hiring for 2 roles in enginee…
+  - 中: 購買、銷售和管理住宅建設的平台。 Bolster 由 Mike Bignold 於 2015 年創立，擁有 25 名員工，總部位於加拿大艾伯塔省卡加利。 Bolster 正在招募 2 個工程師職位…
+- **camfer** — [https://www.ycombinator.com/companies/camfer](https://www.ycombinator.com/companies/camfer)  
+  - EN: Building the world's first AI mechanical engineer. Founded in 2024 by Arya Bastani, Keaton Elvins, and Roth Vann, camfer has 4 employees based in San Francisco, CA, USA. camfer is hiring for 3 roles i…
+  - 中: 打造世界上第一位人工智慧機械工程師。 camfer 由 Arya Bastani、Keaton Elvins 和 Roth Vann 於 2024 年創立，擁有 4 名員工，總部位於美國加州舊金山。 camfer 正在招募 3 個職位，我…
+- **CoCrafter** — [https://www.ycombinator.com/companies/cocrafter](https://www.ycombinator.com/companies/cocrafter)  
+  - EN: B2B construction marketplace to match contractors and subcontractors. Founded in 2023 by Johannes Lutz, Philipp Rollwage, and Annabell V., CoCrafter has 9 employees based in Munich, Germany.
+  - 中: 用於匹配承包商和分包商的 B2B 建築市場。 CoCrafter 由 Johannes Lutz、Philipp Rollwage 和 Annabell V. 於 2023 年創立，擁有 9 名員工，總部位於德國慕尼黑。
+- **Constructable** — [https://www.ycombinator.com/companies/constructable](https://www.ycombinator.com/companies/constructable)  
+  - EN: Building the next Procore. Founded in 2023 by Molly Abbott, Emma Nazim, and John Yoder, Constructable has 6 employees based in Santa Barbara, CA, USA.
+  - 中: 建構下一個 Procore。 Constructable 由 Molly Abbott、Emma Nazim 和 John Yoder 於 2023 年創立，擁有 6 名員工，總部位於美國加州聖塔芭芭拉。
+- **ContextFort** — [https://www.ycombinator.com/companies/contextfort](https://www.ycombinator.com/companies/contextfort)  
+  - EN: Helping construction contractors find errors in blueprints. Founded in 2025 by Ashwin Ramachandran, ContextFort has 2 employees based in San Francisco, CA, USA.
+  - 中: 幫助建築承包商發現藍圖中的錯誤。 ContextFort 由 Ashwin Ramachandran 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **Corgi** — [https://www.ycombinator.com/companies/corgi](https://www.ycombinator.com/companies/corgi)  
+  - EN: Corgi is building an AI financial infrastructure company. Founded in 2024 by Nico Laqua and Emily Yuan, Corgi has 70 employees based in San Francisco, CA, USA. Corgi is hiring for 20 roles in finance,…
+  - 中: Corgi 正在打造一家人工智慧金融基礎設施公司。 Corgi 由 Nico Laqua 和 Emily Yuan 於 2024 年創立，擁有 70 名員工，總部位於美國加州舊金山。 Corgi 正在招募 20 個金融職位，...
+- **Ender** — [https://ender.com/](https://ender.com/)  
+  - EN: Building the OS of Real Estate. Ender modernizes the largest asset class in the world.
+  - 中: 建構房地產作業系統。安德 (Ender) 實現了世界上最大的資產類別的現代化。
+- **Hammr** — [https://www.ycombinator.com/companies/hammr](https://www.ycombinator.com/companies/hammr)  
+  - EN: Rippling for the Construction Industry. Founded in 2023 by Sanket Firodiya and Brek Goin, Hammr has 10 employees based in San Francisco, CA, USA. Hammr is hiring for 2 roles in sales and support.
+  - 中: 為建築業帶來漣漪。 Hammr 由 Sanket Firodiya 和 Brek Goin 於 2023 年創立，擁有 10 名員工，總部位於美國加州舊金山。 Hammr 正在招募 2 個銷售和支援職位。
+- **HippoBuild** — [https://www.ycombinator.com/companies/hippobuild](https://www.ycombinator.com/companies/hippobuild)  
+  - EN: The Operating System of the construction industry. Founded in 2021 by Mads Schmidt Petersen, HippoBuild has 5 employees based in Bogotá, Bogota, Colombia.
+  - 中: 建築業操作系統。 HippoBuild 由 Mads Schmidt Petersen 於 2021 年創立，擁有 5 名員工，總部位於哥倫比亞波哥大波哥大。
+- **InspectMind AI** — [https://www.ycombinator.com/companies/inspectmind-ai](https://www.ycombinator.com/companies/inspectmind-ai)  
+  - EN: AI agent for construction drawings review. Founded in 2023 by Aakash Prasad and Shuangling Yin, InspectMind AI has 3 employees based in San Francisco, CA, USA. InspectMind AI is hiring for 2 roles in …
+  - 中: 施工圖審核人工智慧代理。 InspectMind AI 由 Aakash Prasad 和 Shuangling Yin 於 2023 年創立，擁有 3 名員工，總部位於美國加州舊金山。 InspectMind AI 正在招募 2 個職位：
+- **Launch YC** — [https://www.ycombinator.com/launches/MIK-fabricate-instantly-generate-engineering-drawings](https://www.ycombinator.com/launches/MIK-fabricate-instantly-generate-engineering-drawings)  
+  - EN: Mechanical Engineers spend too much time making engineering drawings. Fabricate does it for them.
+  - 中: 機械工程師花太多時間製作工程圖。 Fabricate 為他們做這件事。
+- **Macadamia** — [https://www.ycombinator.com/companies/macadamia](https://www.ycombinator.com/companies/macadamia)  
+  - EN: AI Agents for Complex Engineering Projects. Founded in 2025 by Brecht Pierreux and Abel Van Steenweghen, Macadamia has 2 employees based in . Macadamia is hiring for 1 roles in engineering.
+  - 中: 適用於複雜工程專案的人工智慧代理。 Macadamia 由 Brecht Pierreux 和 Abel Van Steenweghen 於 2025 年創立，擁有 2 名員工，總部位於 . Macadamia 正在招聘 1 個工程職位。
+- **Merlin AI** — [https://www.ycombinator.com/companies/merlin-ai](https://www.ycombinator.com/companies/merlin-ai)  
+  - EN: AI powered ERP for Construction. Founded in 2024 by Ayantika Dey, Sneha Kumari, and Kumar Siddhartha, Merlin AI has 28 employees based in Los Angeles, CA, USA. Merlin AI is hiring for 3 roles in engin…
+  - 中: 人工智慧驅動的建築 ERP。 Merlin AI 由 Ayantika Dey、Sneha Kumari 和 Kumar Siddhartha 於 2024 年創立，擁有 28 名員工，總部位於美國加州洛杉磯。 Merlin AI 正在招募 3 個工程師職位…
+- **MirageDoodle, Inc.** — [https://www.ycombinator.com/companies/miragedoodle-inc](https://www.ycombinator.com/companies/miragedoodle-inc)  
+  - EN: AI-native workspace for municipal development review. Founded in 2025 by Xuanshu Lin and George Zhai, MirageDoodle, Inc. has 2 employees based in .
+  - 中: 用於市政發展審查的人工智慧原生工作區。 MirageDoodle, Inc. 由Xuanshu Lin 和 George Zhai 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **MODE AI for Building Management** — [https://www.tinkermode.com/](https://www.tinkermode.com/)  
+  - EN: AI Solutions for Building Management
+  - 中: 樓宇管理人工智慧解決方案
+- **Outerport** — [https://www.ycombinator.com/companies/outerport](https://www.ycombinator.com/companies/outerport)  
+  - EN: Turn diagrams, technical documents, and CAD into structured data. Founded in 2024 by Towaki Takikawa and Allen Wang, Outerport has 2 employees based in . Outerport is hiring for 1 roles in engineering…
+  - 中: 將圖表、技術文件和 CAD 轉化為結構化資料。 Outerport 由 Towaki Takikawa 和 Allen Wang 於 2024 年創立，擁有 2 名員工，總部位於 。 Outerport 正在招募 1 個工程職位…
+- **PermitFlow** — [https://www.ycombinator.com/companies/permitflow](https://www.ycombinator.com/companies/permitflow)  
+  - EN: TurboTax for Construction Permitting. Founded in 2021 by Samuel Lam and Francis Thumpasery, PermitFlow has 80 employees based in New York, NY, USA. PermitFlow is hiring for 20 roles in operations, eng…
+  - 中: 建築許可渦輪稅。 PermitFlow 由 Samuel Lam 和 Francis Thumpasery 於 2021 年創立，擁有 80 名員工，總部位於美國紐約州紐約市。 PermitFlow 正在招募 20 個營運、工程職位…
+- **PermitPortal** — [https://www.ycombinator.com/companies/permitportal](https://www.ycombinator.com/companies/permitportal)  
+  - EN: AI Operating System for Pre-construction. Founded in 2024 by Alexandru Enache and Radu Mazilu, PermitPortal has 2 employees based in San Francisco, CA, USA.
+  - 中: 預施工人工智慧操作系統。 PermitPortal 由 Alexandru Enache 和 Radu Mazilu 於 2024 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Pirros** — [https://www.ycombinator.com/companies/pirros](https://www.ycombinator.com/companies/pirros)  
+  - EN: Github for Construction. Founded in 2022 by Ari Baranian and Peter Johann, Pirros has 38 employees based in Los Angeles, CA, USA. Pirros is hiring for 4 roles in design, operations, support, and sales…
+  - 中: 用於建構的 Github。 Pirros 由 Ari Baranian 和 Peter Johann 於 2022 年創立，擁有 38 名員工，總部位於美國加州洛杉磯。 Pirros 正在招募 4 個職位，涉及設計、營運、支援和銷售…
+- **RDash** — [https://www.ycombinator.com/companies/rdash](https://www.ycombinator.com/companies/rdash)  
+  - EN: New Age ERP for interior and construction business. Founded in 2021 by Amit Bansal, Puneet Bansal, and Amit Mishra, RDash has 80 employees based in Gurugram, Haryana, India.
+  - 中: 適用於室內和建築業務的新時代 ERP。 RDash 由 Amit Bansal、Puneet Bansal 和 Amit Mishra 於 2021 年創立，擁有 80 名員工，總部位於印度哈里亞納邦古爾岡。
+- **Sava** — [https://www.ycombinator.com/companies/savahq](https://www.ycombinator.com/companies/savahq)  
+  - EN: Building the future of trusts. Founded in 2025 by Nimit Maru and Rush Sadiwala, Sava has 2 employees based in San Francisco, CA, USA.
+  - 中: 建構信託的未來。 Sava 由 Nimit Maru 和 Rush Sadiwala 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **Semble AI** — [https://www.ycombinator.com/companies/semble-ai](https://www.ycombinator.com/companies/semble-ai)  
+  - EN: Autonomous building-system design for construction companies. Founded in 2025 by Ethan Boyers and Jonathan Tyshler, Semble AI has 2 employees based in San Francisco, CA, USA. Semble AI is hiring for 1…
+  - 中: 建築公司的自主建築系統設計。 Semble AI 由 Ethan Boyers 和 Jonathan Tyshler 於 2025 年創立，在美國加州舊金山有 2 名員工。 Semble AI 正在招募 1...
+- **Soverin** — [https://soverin.ai/product/anrok/](https://soverin.ai/product/anrok/)  
+  - EN: Soverin is a smarter way to work. We're building the marketplace for AI apps and agents.
+  - 中: Soverin 是一種更聰明的工作方式。我們正在為人工智慧應用程式和代理建立市場。
+- **Soverin** — [https://soverin.ai/product/cofi/](https://soverin.ai/product/cofi/)  
+  - EN: Soverin is a smarter way to work. We're building the marketplace for AI apps and agents.
+  - 中: Soverin 是一種更聰明的工作方式。我們正在為人工智慧應用程式和代理建立市場。
+- **Structured AI** — [https://www.ycombinator.com/companies/structured-ai](https://www.ycombinator.com/companies/structured-ai)  
+  - EN: AI workforce for Construction Engineering. Founded in 2025 by Issy Greenslade, Brandon Abreu Smith, and Raymond Zhao, Structured AI has 3 employees based in . Structured AI is hiring for 1 roles in en…
+  - 中: 建築工程人工智慧勞動力。 Structured AI 由 Issy Greenslade、Brandon Abreu Smith 和 Raymond Zhu 於 2025 年創立，擁有 3 名員工，總部位於 .結構化 AI 正在招聘 1 個職位...
+- **Sunflower** — [https://www.ycombinator.com/companies/sunflower](https://www.ycombinator.com/companies/sunflower)  
+  - EN: Building the Sobriety Platform for the future of Superintelligence. 🌻. Founded in 2024 by Koby Conrad, Sunflower has 15 employees based in . Sunflower is hiring for 1 roles in marketing.
+  - 中: 為超級智慧的未來建構清醒平台。 🌻。 Sunflower 由 Koby Conrad 於 2024 年創立，擁有 15 名員工，總部位於 。 Sunflower 正在招募 1 個行銷職位。
+- **Text note** — [https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/](https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/)  
+  - EN: [https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/](https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/)
+  - 中: [[https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/]](https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/]) （[https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/）](https://theaiinsider.tech/2025/11/29/attentive-ai-secures-30-5m-series-b-to-accelerate-ai-innovation-in-construction/）)
+- **Text note** — [https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-funding-to-pioneer-ai-driven-building-design/](https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-funding-to-pioneer-ai-driven-building-design/)  
+  - EN: [https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-funding-to-pioneer-ai-driven-building-design/](https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-funding-to-pioneer-ai-driven-building-design/)
+  - 中: [[https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-funding-to-pioneer-ai-driven-building-design/]](https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-funding-to-pioneer-ai-driven-building-design/])([https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-g](https://theaiinsider.tech/2025/03/12/augmenta-closes-10m-in-g)
+- **Text note** — [https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/](https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/)  
+  - EN: [https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/](https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/)
+  - 中: [[https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/]](https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/]) （[https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/）](https://theaiinsider.tech/2025/03/06/mode-inc-secures-5-3m-in-latest-funding-to-help-building-managers-cut-operational-costs/）)
+
+## Tax / Trade｜稅務與貿易
+
+- **Alt-X** — [https://www.ycombinator.com/companies/alt-x](https://www.ycombinator.com/companies/alt-x)  
+  - EN: AI Diligence Tools for Private Investors. Founded in 2024 by Ryan Samadi and Michael Wachsman, Alt-X has 2 employees based in San Francisco, CA, USA.
+  - 中: 面向私人投資者的人工智慧勤勉工具。 Alt-X 由 Ryan Samadi 和 Michael Wachsman 於 2024 年創立，在美國加州舊金山擁有 2 名員工。
+- **Automate your Finance procedures with AI - Finnt** — [https://www.finnt.com/](https://www.finnt.com/)  
+  - EN: Finnt streamlines your controllership and accounting process using custom built AI agents. Secure, Compliant and Private. Try Finnt now.
+  - 中: Finnt 使用客製化的人工智慧代理簡化您的控制和會計流程。安全、合規且私密。現在就試試芬特吧。
+- **BITE Data Use Cases** — [https://bitedata.io/use-cases](https://bitedata.io/use-cases)  
+  - EN: BITE assists a wide range of companies from small to large with low barrier to access - simply upload your trade data and quickly get answers on tariffs, denied parties, export controls and more.
+  - 中: BITE 以較低的准入門檻為從小到大的各種公司提供幫助 - 只需上傳您的貿易數據，即可快速獲得有關關稅、被拒絕方、出口管制等方面的答案。
+- **Black Ore** — [https://www.blackore.ai/](https://www.blackore.ai/)  
+  - EN: Black Ore is the first AI tax platform for CPAs, offering complete 1040 tax preparation automation to tax professionals, so they can focus on growing their firm.
+  - 中: Black Ore 是第一個註冊會計師的人工智慧稅務平台，為稅務專業人士提供完整的 1040 稅務準備自動化，以便他們可以專注於發展自己的公司。
+- **Column Tax** — [https://www.columntax.com/](https://www.columntax.com/)  
+  - EN: Column Tax enables mobile banks and fintech companies to offer top tier tax features to their end users.
+  - 中: Column Tax 使行動銀行和金融科技公司能夠為其最終用戶提供頂級稅務功能。
+- **Combinely** — [https://www.ycombinator.com/companies/combinely](https://www.ycombinator.com/companies/combinely)  
+  - EN: AI coworker for tax teams. Founded in 2024 by Arthur Granacher and Tom Invernizzi, Combinely has 5 employees based in .
+  - 中: 稅務團隊的人工智慧同事。 Jointly 由 Arthur Granacher 和 Tom Invernizzi 於 2024 年創立，擁有 5 名員工，總部位於 .
+- **F2** — [https://www.ycombinator.com/companies/f2](https://www.ycombinator.com/companies/f2)  
+  - EN: The AI platform for private markets investors. Founded in 2025 by Don Muir, F2 has 20 employees based in New York, NY, USA. F2 is hiring for 4 roles in operations and engineering.
+  - 中: 面向私募市場投資者的人工智慧平台。 F2 由 Don Muir 於 2025 年創立，擁有 20 名員工，總部位於美國紐約州紐約市。 F2 正在招募 4 個營運和工程職位。
+- **Forge** — [https://www.ycombinator.com/companies/forge](https://www.ycombinator.com/companies/forge)  
+  - EN: Getting companies refunds on tariffs & duties. Founded in 2023 by Emir Sahmanovic and Haris Sahmanovic, Forge has 3 employees based in San Francisco, CA, USA.
+  - 中: 讓公司退還關稅和關稅。 Forge 由 Emir Sahmanovic 和 Haris Sahmanovic 於 2023 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Gelt** — [https://www.joingelt.com/](https://www.joingelt.com/)  
+  - EN: Premium tax solutions, powered by technology and expert CPAs.
+  - 中: 由技術和專業註冊會計師提供支援的優質稅務解決方案。
+- **Haven** — [https://www.usehaven.com/](https://www.usehaven.com/)  
+  - EN: All your finance ops in one place. Accounting, tax, R&D credits, invoicing, bill pay, and real-time reporting - handled by Haven.
+  - 中: 您的所有財務操作都集中在一處。會計、稅務、研發信貸、發票、帳單支付和即時報告 - 由 Haven 處理。
+- **Invopop** — [https://www.ycombinator.com/companies/invopop](https://www.ycombinator.com/companies/invopop)  
+  - EN: We help global software companies comply with local tax reporting . Founded in 2021 by Sam Lown and Juan Moliner Malaxechevarría, Invopop has 7 employees based in Madrid, Spain. Invopop is hiring for …
+  - 中: 我們幫助全球軟體公司遵守當地稅務報告。 Invopop 由 Sam Lown 和 Juan Moliner Malaxechevarría 於 2021 年創立，擁有 7 名員工，總部位於西班牙馬德里。 Invopop 正在招募…
+- **Legal AI Software for Clearer Legal Writing** — [https://www.briefcatch.com](https://www.briefcatch.com)  
+  - EN: Enhance legal writing with BriefCatch-the AI-powered legal software trusted by lawyers and judges to edit, refine, and elevate every document you write.
+  - 中: 使用 BriefCatch 增強法律寫作，這是律師和法官信賴的人工智慧驅動的法律軟體，可以編輯、完善和提升您撰寫的每份文件。
+- **Magnetic** — [https://www.ycombinator.com/companies/magnetic](https://www.ycombinator.com/companies/magnetic)  
+  - EN: AI Tax Preparer for CPA firms. Founded in 2024 by Patrick Fay and Thomas Shelley, Magnetic has 2 employees based in . Magnetic is hiring for 3 roles in operations and engineering.
+  - 中: 面向會計師事務所的人工智慧稅務師。 Magnetic 由 Patrick Fay 和 Thomas Shelley 於 2024 年創立，擁有 2 名員工，總部位於 . Magnetic 正在招聘 3 個營運和工程職位。
+- **MarqVision** — [https://www.marqvision.com](https://www.marqvision.com)  
+  - EN: MarqVision delivers AI-driven brand protection, anti-piracy, and IP management. Quickly stop infringements to protect your business, brand, and innovation.
+  - 中: MarqVision 提供人工智慧驅動的品牌保護、反盜版和智慧財產權管理。快速阻止侵權行為，保護您的業務、品牌和創新。
+- **Metal** — [https://www.metal.ai/product](https://www.metal.ai/product)  
+  - EN: AI platform for Private Equity due diligence. Aggregate deal data, deploy custom workflows, and transform fund knowledge into proprietary intelligence.
+  - 中: 用於私募股權盡職調查的人工智慧平台。聚合交易資料、部署自訂工作流程並將基金知識轉化為專有情報。
+- **Numeral** — [https://www.ycombinator.com/companies/numeral](https://www.ycombinator.com/companies/numeral)  
+  - EN: SaaS & Ecommerce sales tax on autopilot. . Founded in 2022 by Matt DuVall and Sam Ross, Numeral has 50 employees based in San Francisco, CA, USA. Numeral is hiring for 12 roles in operations, recruiti…
+  - 中: 自動駕駛儀上的 SaaS 和電子商務銷售稅。 。 Numeral 由 Matt DuVall 和 Sam Ross 於 2022 年創立，擁有 50 名員工，總部位於美國加州舊金山。 Numeral 正在招募 12 個營運、招募職位…
+- **OpenCall AI - AI‑Powered Phone Calls & Sales Acceleration** — [https://opencall.ai/product](https://opencall.ai/product)  
+  - EN: OpenCall AI is an AI‑powered communications platform that automates telephone conversations, accelerates sales and elevates customer experience.
+  - 中: OpenCall AI 是一個人工智慧驅動的通訊平台，可實現電話對話自動化、加速銷售並提升客戶體驗。
+- **Saphira AI** — [https://www.ycombinator.com/companies/saphira-ai](https://www.ycombinator.com/companies/saphira-ai)  
+  - EN: Vanta for Hardware. Founded in 2024 by Oscar Avatare and Akshay Chalana, Saphira AI has 6 employees based in San Francisco, CA, USA. Saphira AI is hiring for 4 roles in engineering and sales.
+  - 中: 硬體萬塔。 Saphira AI 由 Oscar Avatare 和 Akshay Chalana 於 2024 年創立，擁有 6 名員工，總部位於美國加州舊金山。 Saphira AI 正在招募 4 個工程和銷售職位。
+- **Saturn** — [https://www.saturnos.com/](https://www.saturnos.com/)  
+  - EN: Elevate your financial advice firm with Saturn AI, the leading AI solution for Financial Advisory, designed to harness data insights, automate workflows like annual reviews and streamline administrati…
+  - 中: 利用 Saturn AI 提升您的財務顧問公司的水平，Saturn AI 是領先的財務諮詢人工智慧解決方案，旨在利用數據洞察、自動化年度審核等工作流程並簡化管理…
+- **Taiki** — [https://www.taiki.ai/](https://www.taiki.ai/)  
+  - EN: Universal API for tax documents
+  - 中: 稅務文件通用 API
+- **TaxGPT** — [https://www.ycombinator.com/companies/taxgpt](https://www.ycombinator.com/companies/taxgpt)  
+  - EN: AI tax assistant for professionals and businesses. Founded in 2023 by Kashif Ali and Isabella Maceda-Ali, TaxGPT has 28 employees based in San Francisco, CA, USA. TaxGPT is hiring for 7 roles in suppo…
+  - 中: 專業人士和企業的人工智慧稅務助理。 TaxGPT 由 Kashif Ali 和 Isabella Maceda-Ali 於 2023 年創立，擁有 28 名員工，總部位於美國加州舊金山。 TaxGPT 正在招聘 7 個職位，以支持…
+- **Text note** — [https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-enterprises-governments-worldwide/](https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-enterprises-governments-worldwide/)  
+  - EN: [https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-enterprises-governments-worldwid…](https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-enterprises-governments-worldwid…)
+  - 中: [[https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-enterprises-governments-innovation-and-to-expand-its-reach-to-enterprises-ernments](https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-enterprises-governments-innovation-and-to-expand-its-reach-to-enterprises-ernments). （[https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-worldprises-ernments）…](https://theaiinsider.tech/2025/04/28/dataminr-announces-100m-investment-from-fortress-to-accelerate-gen-ai-and-agentic-ai-product-innovation-and-to-expand-its-reach-to-worldprises-ernments）…)
+- **Text note** — [https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/](https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/)  
+  - EN: [https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/](https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/)
+  - 中: [[https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/]](https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/]) （[https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/）](https://theaiinsider.tech/2025/02/28/quanta-100xs-accountants-with-ai-powered-innovation-secures-4-7m-in-funding-led-by-accel-to-alleviate-pain-of-legacy-solutions/）)
+- **xPay** — [https://www.ycombinator.com/companies/xpay](https://www.ycombinator.com/companies/xpay)  
+  - EN: International Billing Ops, Sales Tax and Payments for SaaS businesses. Founded in 2024 by Rakshit Bansal and Aniket Gupta, xPay has 3 employees based in . xPay is hiring for 1 roles in sales.
+  - 中: SaaS 業務的國際計費作業、銷售稅和付款。 xPay 由 Rakshit Bansal 和 Aniket Gupta 於 2024 年創立，擁有 3 名員工，總部位於 . xPay 正在招聘 1 個銷售職位。
+
+## Government｜政府
+
+- **AI-Powered Real-Time Event, Threat & Risk Intelligence - Dataminr** — [https://www.dataminr.com/](https://www.dataminr.com/)  
+  - EN: Dataminr is the leading AI platform for real-time event, threat, and risk intelligence. Trusted by Fortune 50 leaders and over 100 U.S. government agencies, we deliver the instant clarity needed for f…
+  - 中: Dataminr 是領先的即時事件、威脅和風險情報人工智慧平台。我們受到《財星》50 強領導者和 100 多個美國政府機構的信賴，為您提供所需的即時清晰度…
+- **Archon** — [https://www.ycombinator.com/companies/archon](https://www.ycombinator.com/companies/archon)  
+  - EN: We help software companies sell to government. Founded in 2024 by George Parks, Archon has 3 employees based in San Francisco, CA, USA. Archon is hiring for 3 roles in engineering.
+  - 中: 我們幫助軟體公司向政府出售產品。 Archon 由 George Parks 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。 Archon 正在招募 3 個工程職缺。
+- **Beam AI Field Service Takeoff Software (Formerly Automeasure)** — [https://www.ibeam.ai/field-services](https://www.ibeam.ai/field-services)  
+  - EN: Automate your takeoff process for field services like landscape, snow, irrigation, and paving. Save 90% time and 2X your bidding capacity with Beam AI.
+  - 中: 自動化景觀、降雪、灌溉和鋪路等現場服務的起飛過程。使用 Beam AI 節省 90% 的時間和 2 倍的出價能力。
+- **Consus** — [https://www.ycombinator.com/companies/consus](https://www.ycombinator.com/companies/consus)  
+  - EN: Your single source of truth for government documents. Founded in 2024 by Eric Magliarditi, Consus has 1 employees based in .
+  - 中: 您政府文件的唯一真相來源。 Consus 由 Eric Magliarditi 於 2024 年創立，擁有 1 名員工，總部位於 。
+- **Cumbuca - The first proxy for the regulated ecosystem** — [https://www.cumbuca.com/en/](https://www.cumbuca.com/en/)  
+  - EN: The smallest layer between your company and the regulated ecosystem of BACEN. You build the infrastructure, we provide the license.
+  - 中: 您的公司與 BACEN 受監管的生態系統之間的最小層。您建置基礎設施，我們提供許可證。
+- **Darwin AI** — [https://www.darwingov.com](https://www.darwingov.com)  
+  - EN: Empowering state and local governments to harness generative AI responsibly. Darwin AI offers a secure, scalable platform for AI policy, risk, and inventory management - designed for the public sector…
+  - 中: 授權州和地方政府負責任地利用生成式人工智慧。 Darwin AI 為人工智慧政策、風險和庫存管理提供了一個安全、可擴展的平台 - 專為公共部門設計…
+- **EffiGov** — [https://www.ycombinator.com/companies/effigov](https://www.ycombinator.com/companies/effigov)  
+  - EN: The AI OS for Cities. Founded in 2025 by Aden Clemente and Aubteen Pour-Biazar, EffiGov has 3 employees based in . EffiGov is hiring for 2 roles in engineering.
+  - 中: 城市人工智慧作業系統。 EffiGov 由 Aden Clemente 和 Aubteen Pour-Biazar 於 2025 年創立，擁有 3 名員工，總部位於 。 EffiGov 正在招募 2 個工程職位。
+- **Hazel** — [https://www.ycombinator.com/companies/hazel-2](https://www.ycombinator.com/companies/hazel-2)  
+  - EN: AI-enabled procurement for government. Founded in 2024 by August Chen and Elton Lossner, Hazel has 5 employees based in New York, NY, USA.
+  - 中: 人工智慧支援的政府採購。 Hazel 由 August Chen 和 Elton Lossner 於 2024 年創立，擁有 5 名員工，總部位於美國紐約州紐約市。
+- **JustiFi** — [https://justifi.ai/](https://justifi.ai/)  
+  - EN: Growing platforms shouldn't have to choose easy integration OR white-label control, decent economics OR additional products, data ownership OR operational simplicity. Legacy processors condition you t…
+  - 中: 成長中的平台不必選擇簡單的整合或白標控制、體面的經濟效益或附加產品、資料所有權或操作簡單性。傳統處理器讓您...
+- **Sweetspot - AI for Government Contracting** — [https://www.sweetspot.so/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.sweetspot.so/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Sweetspot leverages AI to help businesses find, manage, and respond to government opportunities.
+  - 中: Sweetspot 利用人工智慧幫助企業尋找、管理和回應政府機會。
+- **Text note** — [https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsibly-and-at-scale/](https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsibly-and-at-scale/)  
+  - EN: [https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsibly-and-at-scale/](https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsibly-and-at-scale/)
+  - 中: [[https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsible-and-at-scale/]](https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsible-and-at-scale/]) （[https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsible-and-at-scale/）](https://theaiinsider.tech/2025/11/10/darwin-ai-secures-15m-series-a-led-by-insight-partners-to-help-governments-build-ai-solutions-responsible-and-at-scale/）)
+- **Visual Risk Intelligence** — [https://www.truepic.com](https://www.truepic.com)  
+  - EN: Truepic Vision helps businesses trust visuals in the age of AI. Prevent fraud, verify authenticity, and make faster, more confident decisions.
+  - 中: Truepic Vision 幫助企業信任人工智慧時代的視覺效果。防止詐欺、驗證真實性並做出更快、更有自信的決策。
+
+## Security｜安全
+
+- **AirMDR** — [https://airmdr.com](https://airmdr.com)  
+  - EN: AirMDR provides a new approach to managed detection & response with an AI powered virtual security analyst.
+  - 中: AirMDR 透過人工智慧驅動的虛擬安全分析師提供了一種新的託管偵測和回應方法。
+- **Bricklayer AI Use Cases** — [https://www.bricklayer.ai/use-cases/](https://www.bricklayer.ai/use-cases/)  
+  - EN: Bricklayer AI use cases include automated AI Security Analyst, AI Threat Intelligence Analyst, and AI Incident Responder. See how they work.
+  - 中: Bricklayer AI 用例包括自動化 AI 安全分析師、AI 威脅情報分析師和 AI 事件回應程式。看看他們是如何工作的。
+- **Enkrypt AI** — [https://www.enkryptai.com](https://www.enkryptai.com)  
+  - EN: Achieve AI security and safety with a platform that detects threats, removes vulnerabilities, and monitors performance for continuous insights.
+  - 中: 透過偵測威脅、消除漏洞並監控效能以獲得持續洞察的平台來實現 AI 安全。
+- **Prime Security** — [https://www.primesec.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.primesec.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Shift security to the design stage and solve software vulnerabilities before development starts.
+  - 中: 將安全性轉移到設計階段並在開發開始之前解決軟體漏洞。
+- **Sage** — [https://www.ycombinator.com/companies/sagecare](https://www.ycombinator.com/companies/sagecare)  
+  - EN: Automating home care agency operations with AI. Founded in 2024 by Ian Gillis and Jon Levinson, Sage has 4 employees based in San Francisco, CA, USA.
+  - 中: 利用人工智慧實現家庭護理機構營運自動化。 Sage 由 Ian Gillis 和 Jon Levinson 於 2024 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **SPLX** — [https://splx.ai/](https://splx.ai/)  
+  - EN: SplxAI provides the most comprehensive platform for AI Security Testing and Red Teaming, ensuring your AI Assistants and Agents are secure and reliable from build to runtime.
+  - 中: SplxAI 為 AI 安全測試和紅隊提供最全面的平台，確保您的 AI 助理和代理從建置到運行時都是安全可靠的。
+- **Text note** — [https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-critical-ai-security-gap/](https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-critical-ai-security-gap/)  
+  - EN: [https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-critical-ai-security-gap/](https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-critical-ai-security-gap/)
+  - 中: [[https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-ritic-ai-security-gap/]](https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-ritic-ai-security-gap/]) （[https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-ritic-ai-security-gap/）](https://theaiinsider.tech/2025/04/16/virtue-ai-raises-30m-in-seed-and-series-a-funding-to-bridge-the-ritic-ai-security-gap/）)
+
+## Voice / AI Agents｜語音與 Agent
+
+- **About - Skyfire** — [https://skyfire.xyz/about/](https://skyfire.xyz/about/)  
+  - EN: Redefining payments, identity, and monetization for AI agents. Skyfire is the financial stack built to unlock autonomous Agentic AI commerce. We empower AI agents to make and receive payments instantl…
+  - 中: 重新定義人工智慧代理的支付、身分和貨幣化。 Skyfire 是一個金融堆棧，旨在解鎖自主代理人工智慧商業。我們使人工智慧代理能夠即時付款和接收付款…
+- **Accend** — [https://www.ycombinator.com/companies/accend](https://www.ycombinator.com/companies/accend)  
+  - EN: Human-in-the-loop AI agents for business underwriting & onboarding. Founded in 2023 by Pranjal Daga, Yutong Pei, and Joseph Zhou, Accend has 3 employees based in . Accend is hiring for 1 roles in engi…
+  - 中: 用於業務核保和入職的人機互動人工智慧代理。 Accend 由 Pranjal Daga、Yutong Pei 和 Joseph Zhou 於 2023 年創立，擁有 3 名員工，總部位於 。 Accend 正在招募 1 個工程師職位…
+- **AI Voice Agent Platform for Phone Call Automation - Retell AI** — [https://www.retellai.com](https://www.retellai.com)  
+  - EN: Build, test, deploy, and monitor production-ready AI voice agents at scale with ease, boosting efficiency and performance across your operations.
+  - 中: 輕鬆大規模建置、測試、部署和監控可用於生產的 AI 語音代理，從而提高整個營運的效率和效能。
+- **AIUC** — [https://aiuc.com/](https://aiuc.com/)  
+  - EN: AIUC certifies and insures AI agents to unlock secure adoption.
+  - 中: AIUC 認證並確保人工智慧代理能夠實現安全採用。
+- **Altur** — [https://www.ycombinator.com/companies/altur](https://www.ycombinator.com/companies/altur)  
+  - EN: Voice AI Agents for Debt Collection. Founded in 2023 by Pedro Fernández and Luis Olave, Altur has 3 employees based in . Altur is hiring for 1 roles in engineering.
+  - 中: 用於債務催收的語音人工智慧代理。 Altur 由 Pedro Fernández 和 Luis Olave 於 2023 年創立，擁有 3 名員工，總部位於 。 Altur 正在招募 1 個工程職位。
+- **Arva AI** — [https://www.ycombinator.com/companies/arva-ai](https://www.ycombinator.com/companies/arva-ai)  
+  - EN: AI Agents to scale AML, KYB and KYC operations. Founded in 2024 by Rhim Shah and Oli Wales, Arva AI has 14 employees based in . Arva AI is hiring for 3 roles in sales and engineering.
+  - 中: AI 代理可擴充 AML、KYB 和 KYC 操作。 Arva AI 由 Rim Shah 和 Oli Wales 於 2024 年創立，擁有 14 名員工，總部位於 。 Arva AI 正在招募 3 個銷售和工程職位。
+- **Automating Back-Office. AI Agents to automate business services, to help you focus on what matters.** — [https://www.zalos.ai/](https://www.zalos.ai/)  
+  - EN: Automating Back-Office. AI Agents to automate business services, to help you focus on what matters.
+  - 中: 自動化後台。人工智慧代理可實現業務服務自動化，幫助您專注於重要的事情。
+- **Avallon AI** — [https://www.ycombinator.com/companies/avallon-ai](https://www.ycombinator.com/companies/avallon-ai)  
+  - EN: AI agents for insurance claims operations. Founded in 2025 by Bryan Guin and Cornelius Schramm, Avallon AI has 3 employees based in . Avallon AI is hiring for 2 roles in operations and engineering.
+  - 中: 用於保險理賠操作的人工智慧代理。 Avalon AI 由 Bryan Guin 和 Cornelius Schramm 於 2025 年創立，擁有 3 名員工，總部位於 . Avalon AI 正在招聘營運和工程領域的 2 個職位。
+- **AviaryAI** — [https://www.ycombinator.com/companies/aviaryai](https://www.ycombinator.com/companies/aviaryai)  
+  - EN: Outbound AI voice agents for the financial services industry. Founded in 2022 by Blesson Abraham and Jay Patel, AviaryAI has 10 employees based in Chicago, IL, USA.
+  - 中: 適用於金融服務業的出站人工智慧語音代理。 AviaryAI 由 Blesson Abraham 和 Jay Patel 於 2022 年創立，擁有 10 名員工，總部位於美國伊利諾伊州芝加哥。
+- **Decisional AI** — [https://www.ycombinator.com/companies/decisional-ai](https://www.ycombinator.com/companies/decisional-ai)  
+  - EN: Autonomous AI agents for spreadsheet based operations. Founded in 2024 by Sai Neeraj Kanuri, Adit Sanghvi, and Dhruv Tandon, Decisional AI has 3 employees based in San Francisco, CA, USA.
+  - 中: 用於基於電子表格的操作的自主人工智慧代理。 Decisional AI 由 Sai Neeraj Kanuri、Adit Sanghvi 和 Dhruv Tandon 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Eloquent AI** — [https://www.eloquentai.co/](https://www.eloquentai.co/)  
+  - EN: The Mission Control Engine For Reliable AI Agents
+  - 中: 用於可靠人工智慧代理的任務控制引擎
+- **Endex AI Agent to Automate Excel Work** — [https://endex.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://endex.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: An Excel-native AI Agent that accelerates financial modeling and data analysis backed by OpenAI and ChatGPT
+  - 中: Excel 原生 AI 代理，可加速 OpenAI 和 ChatGPT 支援的財務建模和資料分析
+- **Esgrid** — [https://esgrid.com/supplier-evaluation-template-generator](https://esgrid.com/supplier-evaluation-template-generator)  
+  - EN: Generate a free supplier evaluation template with Esgrid's AI agent Grid. Remove the countless hours spent on individual forms and spreadsheets by automating supplier evaluation with Esgrid.
+  - 中: 使用 Esgrid 的 AI 代理 Grid 產生免費的供應商評估範本。透過使用 Esgrid 自動評估供應商，消除在單一表單和電子表格上花費的無數時間。
+- **Fed10** — [https://www.ycombinator.com/companies/fed10](https://www.ycombinator.com/companies/fed10)  
+  - EN: AI agents that replace your policy consultants. Founded in 2025 by Armand Iorgulescu, Zayan Islam, and Winston Wei, Fed10 has 3 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧代理將取代您的政策顧問。 Fed10 由 Armand Iorgulescu、Zayan Islam 和 Winston Wei 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **HOAi** — [https://www.ycombinator.com/companies/hoai](https://www.ycombinator.com/companies/hoai)  
+  - EN: AI agent for community management. Founded in by Zhixuan Lai and Haoyu Zha, HOAi has 10 employees based in San Francisco, CA, USA.
+  - 中: 用於社群管理的人工智慧代理。 HOAi 由Zhixuan Lai 和Haoyu Zha 創立，擁有10 名員工，總部位於美國加州舊金山。
+- **IronLedger.ai** — [https://www.ycombinator.com/companies/ironledger-ai](https://www.ycombinator.com/companies/ironledger-ai)  
+  - EN: AI agents for property accounting. Founded in 2025 by Nick Amore and Samuel Li, IronLedger.ai has 2 employees based in . IronLedger.ai is hiring for 1 roles in engineering.
+  - 中: 用於財產會計的人工智慧代理。 IronLedger.ai 由 Nick Amore 和 Samuel Li 於 2025 年創立，擁有 2 名員工，總部位於 . IronLedger.ai 正在招聘 1 個工程職位。
+- **Kastle** — [https://www.ycombinator.com/companies/kastle](https://www.ycombinator.com/companies/kastle)  
+  - EN: AI agents for mortgage servicing. Founded in 2024 by Rishi Choudhary and Nitish Poddar, Kastle has 6 employees based in . Kastle is hiring for 4 roles in engineering.
+  - 中: 用於抵押貸款服務的人工智慧代理。 Kastle 由 Rishi Choudhary 和 Nitish Poddar 於 2024 年創立，擁有 6 名員工，總部位於 。 Kastle 正在招募 4 個工程職位。
+- **Lighthouz AI** — [https://www.ycombinator.com/companies/lighthouz-ai](https://www.ycombinator.com/companies/lighthouz-ai)  
+  - EN: AI Agents for AP and AR in Logistics. Founded in 2023 by Srijan Kumar and Sonali Pattnaik, Lighthouz AI has 4 employees based in San Francisco, CA, USA. Lighthouz AI is hiring for 8 roles in marketing…
+  - 中: 物流中 AP 和 AR 的人工智慧代理。 Lighthouz AI 由 Srijan Kumar 和 Sonali Pattnaik 於 2023 年創立，擁有 4 名員工，總部位於美國加州舊金山。 Lighthouz AI 正在招募 8 個行銷職位…
+- **midpage** — [https://www.midpage.ai/](https://www.midpage.ai/)  
+  - EN: Search all US case law, statutes and regulations. AI agents handle research, review, and drafting-turning results into briefs and memos. Upload contracts and motions to answer legal questions in the c…
+  - 中: 搜尋所有美國判例法、法規和法規。人工智慧代理負責研究、審查和起草，將結果轉化為簡報和備忘錄。上傳合約和動議以回答法律問題...
+- **Mod AI** — [https://www.ycombinator.com/companies/mod-ai](https://www.ycombinator.com/companies/mod-ai)  
+  - EN: Our AI Agents Replace Accounting Clerks. Founded in 2025 by Sunjeet Chugh and Evan Meyer, Mod AI has 3 employees based in .
+  - 中: 我們的人工智慧代理取代會計文員。 Mod AI 由 Sunjeet Chugh 和 Evan Meyer 於 2025 年創立，擁有 3 名員工，總部位於 .
+- **OmniAI** — [https://www.ycombinator.com/companies/omniai](https://www.ycombinator.com/companies/omniai)  
+  - EN: AI Agents for Commercial Lending. Founded in 2023 by Tyler Maran and Anna Pojawis, OmniAI has 5 employees based in San Francisco, CA, USA. OmniAI is hiring for 2 roles in engineering.
+  - 中: 商業貸款人工智慧代理。 OmniAI 由 Tyler Maran 和 Anna Pojawis 於 2023 年創立，擁有 5 名員工，總部位於美國加州舊金山。 OmniAI 正在招募 2 個工程職位。
+- **OpenDialog...The AI Agent Management System** — [https://opendialog.ai/](https://opendialog.ai/)  
+  - EN: OpenDialog's AI Agent Management System is built for regulated industries. Effortlessly build, manage, and scale AI agents with top-tier safety, transparency, and explainability.
+  - 中: OpenDialog 的 AI 代理管理系統專為受監管行業而建置。輕鬆建置、管理和擴展具有頂級安全性、透明度和可解釋性的 AI 代理程式。
+- **Palomma** — [https://www.ycombinator.com/companies/palomma](https://www.ycombinator.com/companies/palomma)  
+  - EN: AI Agents for Residential Property Managers & Real Estate Developers. Founded in 2023 by Cipriano Echavarria, Nicolas Gomez del Campo, and Felipe Monsalve, Palomma has 8 employees based in Medellín, M…
+  - 中: 住宅物業經理和房地產開發商的人工智慧代理商。 Palomma 由 Cipriano Echavarria、Nicolas Gomez del Campo 和 Felipe Monsalve 於 2023 年創立，擁有 8 名員工，總部位於馬裡蘭州麥德林…
+- **Panta** — [https://www.ycombinator.com/companies/panta](https://www.ycombinator.com/companies/panta)  
+  - EN: Commercial insurance brokerage run by AI agents. Scales like software. Founded in 2025 by Vincent Chen and Frank Wang, Panta has 3 employees based in San Francisco, CA, USA.
+  - 中: AI代理人所經營的商業保險經紀。像軟體一樣擴充。 Panta 由 Vincent Chen 和 Frank Wang 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Qualify.bot** — [https://www.ycombinator.com/companies/qualify-bot](https://www.ycombinator.com/companies/qualify-bot)  
+  - EN: AI phone agents for Commercial Lending . Founded in 2025 by Rohan Datta and Yash Goenka, Qualify.bot has 2 employees based in San Francisco, CA, USA.
+  - 中: 商業貸款人工智慧電話代理。 Qualify.bot 由 Rohan Datta 和 Yash Goenka 於 2025 年創立，在美國加州舊金山有 2 名員工。
+- **Retell AI** — [https://www.ycombinator.com/companies/retell-ai](https://www.ycombinator.com/companies/retell-ai)  
+  - EN: Supercharge Your Contact Center Operations with AI Phone Agents. Founded in 2023 by Todd Li, Evie Wang, Bing Wu, Weijia Yu, and Zexia Zhang, Retell AI has 24 employees based in . Retell AI is hiring f…
+  - 中: 利用 AI 電話座席增強您的聯絡中心營運。 Retell AI 由 Todd Li、Evie Wang、Bing Wu、Weijia Yu 和 Zexia 張於 2023 年創立，擁有 24 名員工，總部位於美國。 Retell AI 正在招募…
+- **Rulebase** — [https://www.ycombinator.com/companies/rulebase](https://www.ycombinator.com/companies/rulebase)  
+  - EN: AI agents for financial services. Founded in by Gideon Ebose and Chidi Williams, Rulebase has 2 employees based in .
+  - 中: 金融服務人工智慧代理。 Rulebase 由 Gideon Ebose 和 Chidi Williams 創立，擁有 2 名員工，總部位於 。
+- **Sei** — [https://www.ycombinator.com/companies/sei](https://www.ycombinator.com/companies/sei)  
+  - EN: AI Agents for Financial Institutions. Founded in 2023 by Pranay Shetty and Ramkumar Venkataraman, Sei has employees based in Delhi, India. Sei is hiring for 4 roles in engineering.
+  - 中: 金融機構的人工智慧代理。 Sei 由 Pranay Shetty 和 Ramkumar Venkataraman 於 2023 年創立，在印度德里擁有員工。 Sei 正在招募 4 個工程職位。
+- **Superunit** — [https://www.superunit.ai/](https://www.superunit.ai/)  
+  - EN: Superunit automates employment and income verifications by phone, email, and fax with AI agents.. Save time, reduce costs, and increase completion rates for background checks.
+  - 中: Superunit 透過人工智慧代理透過電話、電子郵件和傳真自動進行就業和收入驗證。節省時間、降低成本並提高背景調查的完成率。
+- **Tennis Finance - AI Agents Built For Lending & Collections** — [https://tennisfinance.com/](https://tennisfinance.com/)  
+  - EN: The AI Platform for Loan Servicing and Legal Collections
+  - 中: 用於貸款服務和法律催收的人工智慧平台
+- **Trace** — [https://tracetec.co/](https://tracetec.co/)  
+  - EN: AI Customer Service Agents for Fintechs and Banks. Beyond answering generic questions, Trace AI agents can actually take actions like "replace my card" or "dispute this charge".
+  - 中: 金融科技和銀行的人工智慧客戶服務代理。除了回答一般性問題之外，Trace AI 代理實際上還可以採取「更換我的卡片」或「對這筆費用提出異議」等操作。
+- **uiAgent - AI Agents for Accounting** — [https://uiagent.co/](https://uiagent.co/)  
+  - EN: Meet Ava, the first AI Agent for Accounting. Ava isn't another software you need to learn-it works directly within the tools your team already uses. Think of it as an extra pair of hands, seamlessly a…
+  - 中: Ava，第一位會計人工智慧代理。 Ava 不是您需要學習的另一種軟體 - 它可以直接在您的團隊已經使用的工具中運行。把它想像成一雙額外的手，無縫地...
+- **Veritus** — [https://www.ycombinator.com/companies/veritus](https://www.ycombinator.com/companies/veritus)  
+  - EN: AI agents for the consumer lending industry. Founded in 2025 by Joshua March, David Schlesinger, and Joseph Stein, Veritus has 10 employees based in San Francisco, CA, USA. Veritus is hiring for 1 rol…
+  - 中: 消費貸款產業的人工智慧代理。 Veritus 由 Joshua March、David Schlesinger 和 Joseph Stein 於 2025 年創立，總部位於美國加州舊金山，擁有 10 名員工。 Veritus 正在招募 1 名...
+
+## Finance / Audit｜金融與審計
+
+- **AI ERP Software** — [https://www.dualentry.com](https://www.dualentry.com)  
+  - EN: Transform your business with AI ERP software from DualEntry. Cut 90% of manual finance tasks, process 10x more transactions, and migrate in just 24 hours. The #1 AI-native ERP platform.
+  - 中: 利用 DualEntry 的 AI ERP 軟體實現業務轉型。減少 90% 的手動財務任務，處理的交易量增加 10 倍，並在短短 24 小時內完成遷移。 #1 人工智慧原生 ERP 平台。
+- **Bluebook** — [https://www.ycombinator.com/companies/bluebook](https://www.ycombinator.com/companies/bluebook)  
+  - EN: AI for accounting. Founded in 2024 by Philip Andersson and Filip Stål, Bluebook has 4 employees based in San Francisco, CA, USA.
+  - 中: 會計人工智慧。 Bluebook 由 Philip Andersson 和 Filip Stål 於 2024 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **Canopy** — [https://www.getcanopy.com](https://www.getcanopy.com)  
+  - EN: Canopy is a cloud-based accounting practice management software with CRM, document management, a client portal app, workflow, payments, time and billing.
+  - 中: Canopy 是一款基於雲端的會計實務管理軟體，具有 CRM、文件管理、客戶入口網站應用程式、工作流程、付款、時間和計費功能。
+- **Comulate - Accounting Automation & Revenue Intelligence** — [https://www.comulate.com/](https://www.comulate.com/)  
+  - EN: Comulate reinvents the revenue process for large broker accounting teams with purpose-built direct bill automation, cash application & carrier payables automation, and more.
+  - 中: Comulate 透過專門建構的直接帳單自動化、現金應用和營運商應付帳款自動化等，重塑了大型經紀商會計團隊的收入流程。
+- **Cranston AI** — [https://www.ycombinator.com/companies/cranston-ai](https://www.ycombinator.com/companies/cranston-ai)  
+  - EN: Full Stack AI Accounting Firm. Founded in 2025 by Max Minsker and Sean O'Bannon, Cranston AI has 2 employees based in San Francisco, CA, USA.
+  - 中: 全端人工智慧會計師事務所。 Cranston AI 由 Max Minsker 和 Sean O'Bannon 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **Cumbuca** — [https://www.ycombinator.com/companies/cumbuca](https://www.ycombinator.com/companies/cumbuca)  
+  - EN: Bare-metal access to Brazil's Open Finance and Pix systems. Founded in 2021 by Daniel Ruhman, Cumbuca has 5 employees based in São Paulo, State of São Paulo, Brazil.
+  - 中: 裸機訪問巴西的開放金融和 Pix 系統。 Cumbuca 由 Daniel Ruhman 於 2021 年創立，擁有 5 名員工，總部位於巴西聖保羅州聖保羅。
+- **Finto** — [https://www.ycombinator.com/companies/finto-de](https://www.ycombinator.com/companies/finto-de)  
+  - EN: AI accounting for enterprise finance teams. Founded in 2025 by Linus Boehm, Jonas Morgner, and Lorenz Neuner, Finto has 3 employees based in . Finto is hiring for 2 roles in engineering and product.
+  - 中: 企業財務團隊的人工智慧會計。 Finto 由 Linus Boehm、Jonas Morgner 和 Lorenz Neuner 於 2025 年創立，擁有 3 名員工，總部位於 . Finto 正在招聘工程和產品兩個職位。
+- **GreyLabs AI - AI That Powers Your Customer Engagement** — [https://www.greylabs.ai/](https://www.greylabs.ai/)  
+  - EN: Drive better business decisions with data-driven insights using GreyLabs AI's Speech and Text Analytics Solution for BFSI and Fintech industries.
+  - 中: 使用 GreyLabs AI 面向 BFSI 和金融科技產業的語音和文字分析解決方案，透過數據驅動的見解推動更好的商業決策。
+- **GreyLabs AI - AI That Powers Your Customer Engagement** — [https://greylabs.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://greylabs.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Drive better business decisions with data-driven insights using GreyLabs AI's Speech and Text Analytics Solution for BFSI and Fintech industries.
+  - 中: 使用 GreyLabs AI 面向 BFSI 和金融科技產業的語音和文字分析解決方案，透過數據驅動的見解推動更好的商業決策。
+- **Home** — [https://paro.ai/](https://paro.ai/)  
+  - EN: A Paro fractional CFO/COO shares his strategies for aligning finance and operations in order to connect performance goals with financial impact.
+  - 中: 一位帕羅財務長/營運長分享了他協調財務和營運的策略，以便將績效目標與財務影響聯繫起來。
+- **Karat Financial** — [https://www.ycombinator.com/companies/karat-financial](https://www.ycombinator.com/companies/karat-financial)  
+  - EN: Better financial services for creators. Founded in 2019 by Will Kim and Eric Wei, Karat Financial has 40 employees based in San Francisco, CA, USA. Karat Financial is hiring for 3 roles in engineering…
+  - 中: 為創作者提供更好的金融服務。 Karat Financial 由 Will Kim 和 Eric Wei 於 2019 年創立，擁有 40 名員工，總部位於美國加州舊金山。 Karat Financial 正在招募 3 個工程職位…
+- **Launch YC** — [https://www.ycombinator.com/launches/Oxa-cumbuca-the-first-proxy-for-the-brazilian-regulated-ecosystem](https://www.ycombinator.com/launches/Oxa-cumbuca-the-first-proxy-for-the-brazilian-regulated-ecosystem)  
+  - EN: Develop your own payments infra in Brazil using our license.
+  - 中: 使用我們的許可證在巴西開發您自己的支付基礎設施。
+- **Maximor** — [https://www.maximor.ai/](https://www.maximor.ai/)  
+  - EN: Maximor blends Generative AI with expert accountants to accelerate daily accounting tasks, book closure & financial reporting.
+  - 中: Maximor 將生成式人工智慧與專業會計師相結合，以加速日常會計任務、帳簿關閉和財務報告。
+- **Mid-Market** — [https://campfire.ai/solutions/mid-market](https://campfire.ai/solutions/mid-market)  
+  - EN: Campfire powers the accounting and financial reporting for modern mid-size companies. Built for global scale and automation, our solution streamlines processes and supports growth for mid-market techn…
+  - 中: Campfire 為現代中型公司的會計和財務報告提供支援。我們的解決方案專為全球規模和自動化而構建，可簡化流程並支援中端市場技術的成長…
+- **Minerva** — [https://www.ycombinator.com/companies/minerva](https://www.ycombinator.com/companies/minerva)  
+  - EN: AI native accounting firm. Founded in 2025 by Om Agarwal and Peter Zhu, Minerva has 5 employees based in . Minerva is hiring for 1 roles in finance.
+  - 中: AI原生會計師事務所。 Minerva 由 Om Agarwal 和 Peter Zhu 於 2025 年創立，擁有 5 名員工，總部位於 。 Minerva 正在招募 1 個財務職位。
+- **Model ML** — [https://www.modelml.com/](https://www.modelml.com/)  
+  - EN: Automate financial grunt work with precision. Model ML helps top finance firms move faster with AI that understands deals, models, and pitch decks.
+  - 中: 精確地自動化財務繁重工作。模型 ML 可以利用理解交易、模型和宣傳資料的人工智慧，幫助頂級金融公司更快發展。
+- **Nominal** — [https://www.nominal.so](https://www.nominal.so)  
+  - EN: Generative workflows, consolidation and dynamic reporting for strategy over spreadsheets - Join the smartest in finance who are moving beyond spreadsheets.
+  - 中: 電子表格策略的生成工作流程、整合和動態報告 - 加入財務領域最聰明的人，超越電子表格。
+- **PathPilot** — [https://www.ycombinator.com/companies/pathpilot](https://www.ycombinator.com/companies/pathpilot)  
+  - EN: AI platform helping fintech/bank teams scale efficiently. Founded in 2024 by Victor Laguna, PathPilot has 3 employees based in San Jose, CA, USA. PathPilot is hiring for 1 roles in engineering.
+  - 中: 人工智慧平台幫助金融科技/銀行團隊高效擴展。 PathPilot 由 Victor Laguna 於 2024 年創立，擁有 3 名員工，總部位於美國加州聖荷西。 PathPilot 正在招聘 1 個工程職位。
+- **Quanta - Real-time accounting, purpose-built for software companies.** — [https://www.usequanta.com/](https://www.usequanta.com/)  
+  - EN: Quanta automates bookkeeping and provides real-time clarity into your business - Because today's decisions require today's data.
+  - 中: Quanta 實現簿記自動化並為您的業務提供即時清晰的資訊 - 因為今天的決策需要今天的數據。
+- **Vinyl - AI Meeting Assistant For Accounting & Bookkeeping Firms** — [https://www.usevinyl.com/](https://www.usevinyl.com/)  
+  - EN: Vinyl automatically transcribes, summarizes, and generates action items from your client meetings-so you never miss a detail or follow-up.
+  - 中: Vinyl 會自動轉錄、總結並產生客戶會議中的行動項目，因此您絕對不會錯過任何細節或後續行動。
+
+## Other｜其他
+
+- **&AI** — [https://www.ycombinator.com/companies/ai-2](https://www.ycombinator.com/companies/ai-2)  
+  - EN: Collaborative workspace for patent litigators. Founded in 2024 by Caleb Harris and Herbert Turner, &AI has 13 employees based in San Francisco, CA, USA.
+  - 中: 專利訴訟律師的協作工作空間。 &AI 由 Caleb Harris 和 Herbert Turner 於 2024 年創立，擁有 13 名員工，總部位於美國加州舊金山。
+- **190903-amplified-logo-updated** — [https://www.amplified.ai/](https://www.amplified.ai/)  
+  - EN: —
+  - 中: —
+- **Acolite** — [https://www.ycombinator.com/companies/acolite](https://www.ycombinator.com/companies/acolite)  
+  - EN: AI Teammates for Insurance Agencies. Founded in 2024 by Barak Ben Noon and Daniel Siryakov, Acolite has 3 employees based in New York, NY, USA.
+  - 中: 保險機構的人工智慧隊友。 Acolite 由 Barak Ben Noon 和 Daniel Siryakov 於 2024 年創立，擁有 3 名員工，總部位於美國紐約州紐約市。
+- **Adaptional** — [https://www.ycombinator.com/companies/adaptional](https://www.ycombinator.com/companies/adaptional)  
+  - EN: AI underwriting for insurance. Founded in 2024 by Kevin Cox and Suril Kantaria, Adaptional has employees based in San Francisco, CA, USA.
+  - 中: 人工智慧承保保險。 Adaptional 由 Kevin Cox 和 Suril Kantaria 於 2024 年創立，員工位於美國加州舊金山。
+- **Affordable AI Legal Services Subscription** — [https://www.docdraft.ai](https://www.docdraft.ai)  
+  - EN: Discover DocDraft's affordable legal services subscription for individuals. Access AI-powered legal document automation and expert attorney connections to handle all your legal needs efficiently and c…
+  - 中: 了解 DocDraft 為個人提供的經濟實惠的法律服務訂閱。存取人工智慧驅動的法律文件自動化和專家律師聯繫，以有效處理您的所有法律需求並...
+- **Ai contract management software test winner** — [https://fynk.com/en/](https://fynk.com/en/)  
+  - EN: Efficient legal workflows for teams: create, edit, negotiate and sign contracts faster with fynk. Test it now for free & save your team valuable time!
+  - 中: 為團隊提供高效的法律工作流程：使用 fynk 更快地建立、編輯、談判和簽署合約。立即免費測試並為您的團隊節省寶貴的時間！
+- **AI Law Firm Marketing** — [https://firmpilot.com/](https://firmpilot.com/)  
+  - EN: The future of legal marketing A data-driven marketing platform built on hyper-personalized AI to help law firms attract better clients, faster. Talk to an expert Featured in: 0 %+ Cases generated by u…
+  - 中: 法律行銷的未來基於超個人化人工智慧的數據驅動行銷平台，可幫助律師事務所更快吸引更好的客戶。與專家交談精選於：0 %+ 由您產生的案例...
+- **AI Legal Review & Drafting - Trusted by 130k+ Users** — [https://www.genieai.co/en-us](https://www.genieai.co/en-us)  
+  - EN: Draft and review US legal documents, plus 108+ other jurisdictions, using Legal AI and the world's largest open-source legal database.
+  - 中: 使用 Legal AI 和世界上最大的開源法律資料庫起草和審查美國以及 108 多個其他司法管轄區的法律文件。
+- **AI Legal Software for Law Firms** — [https://www.relaw.ai](https://www.relaw.ai)  
+  - EN: Relaw is a comprehensive legal AI suite with drafting, notetaking, client intake, and document automation. Augment your practice with industry-leading tools designed for all law firms.
+  - 中: Relaw 是一款綜合性法律人工智慧套件，具有起草、筆記、客戶接收和文件自動化功能。使用專為所有律師事務所設計的行業領先工具來增強您的實踐。
+- **Aldara** — [https://www.ycombinator.com/companies/aldara](https://www.ycombinator.com/companies/aldara)  
+  - EN: HOA manager with automated operations. Founded in 2022 by , Aldara has 10 employees based in Barcelona, Spain.
+  - 中: 具有自動化操作的 HOA 經理。 Aldara 由 於 2022 年創立，擁有 10 名員工，總部位於西班牙巴塞隆納。
+- **Alexi** — [https://www.alexi.com/](https://www.alexi.com/)  
+  - EN: Securely built on your knowledge, deployed across your firm, and refined to deliver a lasting competitive advantage.
+  - 中: 安全地建立在您的知識之上，在整個公司進行部署，並進行改進以提供持久的競爭優勢。
+- **All-in-One Contract Management Platform, Powered by LinkAI** — [https://linksquares.com/](https://linksquares.com/)  
+  - EN: Businesses rely on LinkSquares to easily draft, review, and execute agreements with an AI-powered contract management platform.
+  - 中: 企業依靠 LinkSquares 透過人工智慧驅動的合約管理平台輕鬆起草、審查和執行協議。
+- **An end to end solution for all contracting needs** — [https://www.spotdraft.com](https://www.spotdraft.com)  
+  - EN: SpotDraft's contract management solution has been built from ground up to work with contract management processes of teams of all sizes. Bring your legal agreements to the 21st century with SpotDraft'…
+  - 中: SpotDraft 的合約管理解決方案是從頭開始建立的，可以與各種規模的團隊的合約管理流程搭配使用。透過 SpotDraft' 將您的法律協議帶入 21 世紀…
+- **Anterior** — [https://www.anterior.com/](https://www.anterior.com/)  
+  - EN: Lead your plan into the future.
+  - 中: 引導您的計劃走向未來。
+- **AP Automation Software** — [https://www.vic.ai](https://www.vic.ai)  
+  - EN: Revolutionize AP with Vic.ai, the AI-first AP automation software. Achieve 5X efficiency, 99% accuracy, and 85% no-touch invoice processing with unmatched ROI.
+  - 中: 使用人工智慧優先的 AP 自動化軟體 Vic.ai 徹底改變 AP。實現 5 倍的效率、99% 的準確性和 85% 的非接觸式發票處理，並具有無與倫比的投資回報率。
+- **Arcline** — [https://www.ycombinator.com/companies/arcline](https://www.ycombinator.com/companies/arcline)  
+  - EN: Fire your law firm: Cheaper and faster AI native lawyers for startups. Founded in 2025 by Pamir Ehsas and Stefan Mandaric, Arcline has 5 employees based in San Francisco, CA, USA.
+  - 中: 解僱你的律師事務所：為新創公司提供更便宜、更快速的人工智慧原生律師。 Arcline 由 Pamir Ehsas 和 Stefan Mandaric 於 2025 年創立，擁有 5 名員工，總部位於美國加州舊金山。
+- **Arini** — [https://www.ycombinator.com/companies/arini](https://www.ycombinator.com/companies/arini)  
+  - EN: AI receptionist for dentists. Founded in 2024 by Abdul Jamjoom and Rami Rustom, Arini has 15 employees based in San Francisco, CA, USA. Arini is hiring for 3 roles in engineering.
+  - 中: 牙醫的人工智慧接待員。 Arini 由 Abdul Jamjoom 和 Rami Rustom 於 2024 年創立，擁有 15 名員工，總部位於美國加州舊金山。 Arini 正在招募 3 個工程職位。
+- **Assembly HOA** — [https://www.ycombinator.com/companies/assembly-hoa](https://www.ycombinator.com/companies/assembly-hoa)  
+  - EN: AI-native HOA Management Company. Founded in 2022 by Shreyas Bharadwaj and Allen Liou, Assembly HOA has 9 employees based in San Francisco, CA, USA. Assembly HOA is hiring for 2 roles in engineering a…
+  - 中: AI原生HOA管理公司。 Assembly HOA 由 Shreyas Bharadwaj 和 Allen Liou 於 2022 年創立，擁有 9 名員工，總部位於美國加州舊金山。 Assembly HOA 正在招募 2 個工程職位…
+- **Assembly HOA** — [https://www.ycombinator.com/companies/assembly-hoa](https://www.ycombinator.com/companies/assembly-hoa)  
+  - EN: AI-native HOA Management Company. Founded in 2022 by Shreyas Bharadwaj and Allen Liou, Assembly HOA has 9 employees based in San Francisco, CA, USA. Assembly HOA is hiring for 2 roles in engineering a…
+  - 中: AI原生HOA管理公司。 Assembly HOA 由 Shreyas Bharadwaj 和 Allen Liou 於 2022 年創立，擁有 9 名員工，總部位於美國加州舊金山。 Assembly HOA 正在招募 2 個工程職位…
+- **Astro** — [https://www.ycombinator.com/companies/astro](https://www.ycombinator.com/companies/astro)  
+  - EN: The world’s first AI energy developer. Founded in 2024 by Alex Fuster, Astro has 1 employees based in .
+  - 中: 全球首家AI能源開發商。 Astro 由 Alex Fuster 於 2024 年創立，擁有 1 名員工，總部位於 .
+- **August - Configurable Legal AI** — [https://www.august.law/](https://www.august.law/)  
+  - EN: Custom agent-driven workflows built for your practice
+  - 中: 為您的實踐建立自訂代理驅動的工作流程
+- **August - Configurable Legal AI** — [https://www.august.law/](https://www.august.law/)  
+  - EN: Custom agent-driven workflows built for your practice
+  - 中: 為您的實踐建立自訂代理驅動的工作流程
+- **Automate Internal Document Workflows with AI** — [https://www.cradl.ai](https://www.cradl.ai)  
+  - EN: Put your document workflows on autopilot. Fast, accurate and without any coding. Get started for free.
+  - 中: 讓您的文件工作流程自動運作。快速、準確且無需任何編碼。免費開始使用。
+- **Automated credit and lending SaaS - Neofin** — [https://neo-fin.com/](https://neo-fin.com/)  
+  - EN: Neofin is a credit and lending automation SaaS. We will cover you from inquiry to credit scoring, issuing, and verification. Set up your credit product in just 1 day!
+  - 中: Neofin 是一種信貸和借貸自動化 SaaS。我們將為您提供從查詢到信用評分、簽發和驗證的全程服務。只需 1 天即可設定您的信用產品！
+- **Automated Electrical Design - Augmenta** — [https://www.augmenta.ai/](https://www.augmenta.ai/)  
+  - EN: Automated design of electrical raceway systems for Electrical Engineers, VDC Managers and General Contractors. Estimate and design fully detailed, code compliant electrical raceway systems in hours. P…
+  - 中: 為電氣工程師、VDC 經理和總承包商提供電氣管道系統的自動化設計。在數小時內即可估算並設計出詳細、符合規範的電氣管道系統。普…
+- **Autumn** — [https://www.ycombinator.com/companies/autumn](https://www.ycombinator.com/companies/autumn)  
+  - EN: Billing infrastructure for AI. Founded in 2025 by Ayush Rodrigues and John Yeo, Autumn has 2 employees based in .
+  - 中: 人工智慧的計費基礎設施。 Autumn 由 Ayush Rodrigues 和 John Yeo 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **Autumn** — [https://www.ycombinator.com/companies/autumn](https://www.ycombinator.com/companies/autumn)  
+  - EN: Billing infrastructure for AI. Founded in 2025 by Ayush Rodrigues and John Yeo, Autumn has 2 employees based in .
+  - 中: 人工智慧的計費基礎設施。 Autumn 由 Ayush Rodrigues 和 John Yeo 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **Avora** — [https://www.ycombinator.com/companies/avora](https://www.ycombinator.com/companies/avora)  
+  - EN: Agents for dental operations. Founded in 2024 by Daniel Bessonov and Justin Zhou, Avora has 4 employees based in San Francisco, CA, USA.
+  - 中: 牙科手術代理。 Avora 由 Daniel Bessonov 和 Justin Zhou 於 2024 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **Beluga Labs** — [https://www.ycombinator.com/companies/beluga-labs](https://www.ycombinator.com/companies/beluga-labs)  
+  - EN: Rippling for Content Creators. Founded in 2024 by Jack Swisher and Fernando Young, Beluga Labs has 2 employees based in San Francisco, CA, USA.
+  - 中: 內容創作者的漣漪。 Beluga Labs 由 Jack Swisher 和 Fernando Young 於 2024 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **BizzyAI** — [https://zandahealth.com/features/bizzyai/](https://zandahealth.com/features/bizzyai/)  
+  - EN: Supercharge and simplify your workflow with AI working behind the scenes. We handle the busy work, so you can do more of what you love!
+  - 中: 利用在幕後工作的人工智慧來增強和簡化您的工作流程。我們處理繁忙的工作，讓您可以做更多您喜歡的事情！
+- **Blueshoe** — [https://www.ycombinator.com/companies/blueshoe](https://www.ycombinator.com/companies/blueshoe)  
+  - EN: The AI platform for legal reasoning. Founded in 2024 by Casey O'Grady and Kai Yee Wan, Blueshoe has 2 employees based in Boston, MA, USA.
+  - 中: 用於法律推理的人工智慧平台。 Blueshoe 由 Casey O'Grady 和 Kai Yee Wan 於 2024 年創立，擁有 2 名員工，總部位於美國馬薩諸塞州波士頓。
+- **CandorIQ** — [https://www.candoriq.com](https://www.candoriq.com)  
+  - EN: The People Spend Platform, the modern way to manage your #1 spend
+  - 中: People Spend Platform，管理第一支出的現代方式
+- **CandorIQ** — [https://www.candoriq.com](https://www.candoriq.com)  
+  - EN: The People Spend Platform, the modern way to manage your #1 spend
+  - 中: People Spend Platform，管理第一支出的現代方式
+- **Canix** — [https://www.ycombinator.com/companies/canix](https://www.ycombinator.com/companies/canix)  
+  - EN: Canix makes it easy to get and stay compliant as a cannabis business. Founded in 2018 by Stacey Hronowski, Canix has 22 employees based in San Francisco, CA, USA.
+  - 中: Canix 讓大麻企業能夠輕鬆獲得並保持合規。 Canix 由 Stacey Hronowski 於 2018 年創立，擁有 22 名員工，總部位於美國加州舊金山。
+- **careCycle** — [https://www.ycombinator.com/companies/carecycle](https://www.ycombinator.com/companies/carecycle)  
+  - EN: Voice AI teams for medicare agencies. Founded in 2024 by Alex Doonanco and Evan Roubekas, careCycle has 4 employees based in San Mateo, CA, USA. careCycle is hiring for 1 roles in engineering.
+  - 中: 醫療機構的語音人工智慧團隊。 careCycle 由 Alex Doonanco 和 Evan Roubekas 於 2024 年創立，擁有 4 名員工，總部位於美國加州聖馬刁。 careCycle 正在招募 1 個工程職位。
+- **CareSwift** — [https://www.ycombinator.com/companies/careswift](https://www.ycombinator.com/companies/careswift)  
+  - EN: AI scribe for Ambulance Reports. Founded in 2025 by Brian Weigand and Jonathan Zero, CareSwift has 2 employees based in New York, NY, USA. CareSwift is hiring for 1 roles in engineering.
+  - 中: 救護車報告的人工智慧抄寫員。 CareSwift 由 Brian Weigand 和 Jonathan Zero 於 2025 年創立，在美國紐約州紐約市擁有 2 名員工。 CareSwift 正在招募 1 個工程職位。
+- **Caseflood.ai** — [https://www.ycombinator.com/companies/caseflood-ai](https://www.ycombinator.com/companies/caseflood-ai)  
+  - EN: the AI inbound sales team for law firms. Founded in 2025 by Ethan Hilton and Tolen Schreid, Caseflood.ai has 3 employees based in San Francisco, CA, USA. Caseflood.ai is hiring for 1 roles in engineer…
+  - 中: 律師事務所的人工智慧入站銷售團隊。 Caseflood.ai 由 Ethan Hilton 和 Tolen Schreid 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。 Caseflood.ai 正在招募 1 個工程師職位…
+- **Casey** — [https://www.ycombinator.com/companies/casey](https://www.ycombinator.com/companies/casey)  
+  - EN: Casey automates workflows for the insurance industry. Founded in 2025 by Nico Hänggi, Pascal Küng, and Maximilian Thoelen, Casey has 3 employees based in San Francisco, CA, USA.
+  - 中: Casey 實現了保險業工作流程的自動化。 Casey 由 Nico Hänggi、Pascal Küng 和 Maximilian Thoelen 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **CertifiedTrue - Best Image Verification App** — [https://certifiedtrue.com/](https://certifiedtrue.com/)  
+  - EN: CertifiedTrue is a trusted image verification app that secures digital integrity through image verification.
+  - 中: CertifiedTrue 是一款值得信賴的影像驗證應用程序，可透過影像驗證確保數位完整性。
+- **Chestnut** — [https://www.ycombinator.com/companies/chestnut](https://www.ycombinator.com/companies/chestnut)  
+  - EN: The first AI mortgage lender. Founded in 2025 by Spencer Brown, Chestnut has 2 employees based in San Francisco, CA, USA. Chestnut is hiring for 3 roles in operations and engineering.
+  - 中: 第一個人工智慧抵押貸款機構。 Chestnut 由 Spencer Brown 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。 Chestnut 正在招募 3 個營運和工程職位。
+- **Cifrato** — [https://www.ycombinator.com/companies/cifrato](https://www.ycombinator.com/companies/cifrato)  
+  - EN: AI Accountant for Retail. Founded in by Juan Pisco, Cifrato has 0 employees based in Bogotá, Bogota, Colombia.
+  - 中: 零售業人工智慧會計師。 Cifrato 由 Juan Pisco 創立，在哥倫比亞波哥大波哥大擁有 0 名員工。
+- **Clad** — [https://www.ycombinator.com/companies/clad](https://www.ycombinator.com/companies/clad)  
+  - EN: Project management software for infrastructure. Founded in 2022 by Jason Rudin, Clad has 6 employees based in New York, NY, USA. Clad is hiring for 2 roles in operations and engineering.
+  - 中: 基礎設施專案管理軟體。 Clad 由 Jason Rudin 於 2022 年創立，擁有 6 名員工，總部位於美國紐約州紐約市。 Clad 正在招募營運和工程兩個職位。
+- **Clad** — [https://www.ycombinator.com/companies/clad](https://www.ycombinator.com/companies/clad)  
+  - EN: Project management software for infrastructure. Founded in 2022 by Jason Rudin, Clad has 6 employees based in New York, NY, USA. Clad is hiring for 2 roles in operations and engineering.
+  - 中: 基礎設施專案管理軟體。 Clad 由 Jason Rudin 於 2022 年創立，擁有 6 名員工，總部位於美國紐約州紐約市。 Clad 正在招募營運和工程兩個職位。
+- **ClaimSorted** — [https://www.ycombinator.com/companies/claimsorted](https://www.ycombinator.com/companies/claimsorted)  
+  - EN: Making it easy for insurance companies to process claims. Founded in 2024 by Pavel Gertsberg and German Mikulski, ClaimSorted has 20 employees based in . ClaimSorted is hiring for 1 roles in engineeri…
+  - 中: 方便保險公司處理理賠。 ClaimSorted 由 Pavel Gertsberg 和 German Mikulski 於 2024 年創立，擁有 20 名員工，總部位於 。 ClaimSorted 正在招募 1 個工程職位…
+- **Clarifying the Complex** — [https://www.thomsonreuters.com/en](https://www.thomsonreuters.com/en)  
+  - EN: Thomson Reuters empowers professionals with cutting-edge technology solutions informed by industry-leading content and expertise.
+  - 中: 湯森路透為專業人士提供基於行業領先內容和專業知識的尖端技術解決方案。
+- **Clarum** — [https://www.ycombinator.com/companies/clarum](https://www.ycombinator.com/companies/clarum)  
+  - EN: Investment Due Diligence & Research, Accelerated by AI. Founded in 2023 by Tommy He and Anton Otaner, Clarum has 3 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧加速投資盡職調查和研究。 Clarum 由 Tommy He 和 Anton Otaner 於 2023 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Clio** — [https://www.clio.com](https://www.clio.com)  
+  - EN: Run your law firm with Clio, the #1 choice of legal professionals for managing clients, cases, billing, and more. Try it for free today-no credit card required.
+  - 中: 使用 Clio 來經營您的律師事務所，Clio 是管理客戶、案件、計費等方面法律專業人士的第一選擇。立即免費試用 - 無需信用卡。
+- **CLM Overview** — [https://ironcladapp.com/product/ai-based-contract-management](https://ironcladapp.com/product/ai-based-contract-management)  
+  - EN: Accelerate deals, gain insights, and reduce risk with Ironclad's contract lifecycle management platform. Read customer ratings, FAQ.
+  - 中: 利用 Ironclad 的合約生命週期管理平台加速交易、獲得見解並降低風險。閱讀客戶評級、常見問題。
+- **CollectWise** — [https://www.ycombinator.com/companies/collectwise](https://www.ycombinator.com/companies/collectwise)  
+  - EN: Automating consumer debt collection with AI. Founded in 2024 by Sean OBrien, CollectWise has 8 employees based in . CollectWise is hiring for 1 roles in engineering.
+  - 中: 利用人工智慧自動追收消費者債務。 CollectWise 由 Sean OBrien 於 2024 年創立，擁有 8 名員工，總部位於 。 CollectWise 正在招募 1 個工程職位。
+- **Common Paper** — [https://www.ycombinator.com/companies/common-paper](https://www.ycombinator.com/companies/common-paper)  
+  - EN: The SAFE for commercial contracts. Founded in 2020 by Benjamin Garvey and Jake Stein, Common Paper has 8 employees based in Philadelphia, PA, USA.
+  - 中: 商業合約的國家外匯管理局。 Common Paper 由 Benjamin Garvey 和 Jake Stein 於 2020 年創立，擁有 8 名員工，總部位於美國賓州費城。
+- **Confident LIMS** — [https://www.ycombinator.com/companies/confident-lims](https://www.ycombinator.com/companies/confident-lims)  
+  - EN: Laboratory Information Management System (LIMS) serving.... Founded in 2015 by Steve Albarran, Confident LIMS has 17 employees based in Palo Alto, CA, USA.
+  - 中: 實驗室資訊管理系統 (LIMS) 服務.... Confident LIMS 由 Steve Albarran 於 2015 年創立，擁有 17 名員工，總部位於美國加州帕洛阿爾托。
+- **Contract Performance Management for data-driven teams** — [https://postsig.com/](https://postsig.com/)  
+  - EN: PostSig automates post-signature contract management, ensuring obligations are met and deadlines tracked. Stay compliant, mitigate risks, and maximize contract value-turning your contracts from static…
+  - 中: PostSig 自動化簽名後合約管理，確保履行義務並追蹤截止日期。保持合規性、降低風險並最大化合約價值——將您的合約從靜態轉變為…
+- **Dalus** — [https://www.ycombinator.com/companies/dalus](https://www.ycombinator.com/companies/dalus)  
+  - EN: AI-Powered Hardware System Design Software. Founded in 2024 by Eliot Khachi and Sebastian Völkl, Dalus has 3 employees based in . Dalus is hiring for 2 roles in engineering.
+  - 中: 人工智慧驅動的硬體系統設計軟體。 Dalus 由 Eliot Khachi 和 Sebastian Völkl 於 2024 年創立，擁有 3 名員工，總部位於 。 Dalus 正在招募 2 個工程職位。
+- **Deel** — [https://www.ycombinator.com/companies/deel](https://www.ycombinator.com/companies/deel)  
+  - EN: The all-in-one HR and payroll platform for global teams. Founded in 2019 by Alex Bouaziz and Shuo Wang, Deel has 5000 employees based in San Francisco, CA, USA. Deel is hiring for 5 roles in sales.
+  - 中: 全球團隊的一體化人力資源和薪資平台。 Deel 由 Alex Bouaziz 和 Shuo Wang 於 2019 年創立，擁有 5000 名員工，總部位於美國加州舊金山。 Deel 正在招募 5 個銷售職位。
+- **Deel** — [https://www.ycombinator.com/companies/deel](https://www.ycombinator.com/companies/deel)  
+  - EN: The all-in-one HR and payroll platform for global teams. Founded in 2019 by Alex Bouaziz and Shuo Wang, Deel has 5000 employees based in San Francisco, CA, USA. Deel is hiring for 5 roles in sales.
+  - 中: 全球團隊的一體化人力資源和薪資平台。 Deel 由 Alex Bouaziz 和 Shuo Wang 於 2019 年創立，擁有 5000 名員工，總部位於美國加州舊金山。 Deel 正在招募 5 個銷售職位。
+- **DeepIP - Better & Faster Patents with Gen AI** — [https://www.deepip.ai](https://www.deepip.ai)  
+  - EN: High-quality patents in half of the time. Secure & Safe. We unleash Generative AI so that you, Patent Attorneys & Agents, steer the wheel and can do more.
+  - 中: 高品質專利只需一半的時間。安全可靠。我們釋放生成式人工智慧，以便您，專利律師和代理人，掌舵並可以做更多事情。
+- **Didero - Supply chains on autopilot** — [https://www.didero.ai/](https://www.didero.ai/)  
+  - EN: Didero is the leading AI procurement agent.
+  - 中: Didero 是領先的人工智慧採購代理商。
+- **DiligenceSquared** — [https://www.ycombinator.com/companies/diligencesquared-inc](https://www.ycombinator.com/companies/diligencesquared-inc)  
+  - EN: AI-powered market due diligence for investment decisions. Founded in 2025 by Soren Biltoft-Knudsen, Frederik Hansen, and Harshil Rastogi, DiligenceSquared has 3 employees based in San Francisco, CA, U…
+  - 中: 由人工智慧驅動的投資決策市場盡職調查。 DiligenceSquared 由 Soren Biltoft-Knudsen、Frederik Hansen 和 Harshil Rastogi 於 2025 年創立，擁有 3 名員工，總部位於加州舊金山、美國…
+- **Dimely** — [https://www.ycombinator.com/companies/dimely](https://www.ycombinator.com/companies/dimely)  
+  - EN: AI-Powered Spreadsheet for Billing Automation. Founded in 2024 by David Pang and Peter Sun, Dimely has 3 employees based in . Dimely is hiring for 1 roles in engineering.
+  - 中: 用於計費自動化的人工智慧電子表格。 Dimely 由 David Pang 和 Peter Sun 於 2024 年創立，擁有 3 名員工，總部位於 。 Dimely 正在招募 1 個工程職位。
+- **Docsum** — [https://www.ycombinator.com/companies/docsum](https://www.ycombinator.com/companies/docsum)  
+  - EN: AI contract repository. Founded in 2023 by Alex Leonov and Shaunak Turaga, Docsum has 4 employees based in New York, NY, USA.
+  - 中: 人工智慧合約儲存庫。 Docsum 由 Alex Leonov 和 Shaunak Turaga 於 2023 年創立，在美國紐約州擁有 4 名員工。
+- **Document Fraud Detection Software** — [https://resistant.ai](https://resistant.ai)  
+  - EN: Detect fake, tampered, and ai-generated documents in seconds, and keep fraudulent documents out of your workflows.
+  - 中: 在幾秒鐘內檢測偽造、篡改和人工智慧生成的文檔，並將欺詐性文檔排除在您的工作流程之外。
+- **Drillbit** — [https://www.ycombinator.com/companies/drillbit](https://www.ycombinator.com/companies/drillbit)  
+  - EN: Automating Office Work for Residential Contractors. Founded in 2023 by Alexander Seutin, Drillbit has 10 employees based in Austin, TX, USA. Drillbit is hiring for 4 roles in engineering and operation…
+  - 中: 住宅承包商的辦公室工作自動化。 Drillbit 由 Alexander Seutin 於 2023 年創立，擁有 10 名員工，總部位於美國德克薩斯州奧斯汀。 Drillbit 正在招募 4 個工程和營運職位…
+- **Edge** — [https://www.withedge.com/](https://www.withedge.com/)  
+  - EN: Edge is a platform that uses AI to help patent professionals get drafting done with lightning speed.
+  - 中: Edge 是一個利用人工智慧幫助專利專業人員以閃電般的速度完成起草的平台。
+- **Eloquent AI** — [https://www.ycombinator.com/companies/eloquent-ai](https://www.ycombinator.com/companies/eloquent-ai)  
+  - EN: The AI Operator for Financial Services. Founded in 2025 by Tugce Bulut and Aldo Lipani, Eloquent AI has 5 employees based in San Francisco, CA, USA. Eloquent AI is hiring for 10 roles in engineering, …
+  - 中: 金融服務AI運營商。 Eloquent AI 由 Tugce Bulut 和 Aldo Lipani 於 2025 年創立，擁有 5 名員工，總部位於美國加州舊金山。 Eloquent AI 正在招募 10 個工程職位，…
+- **Ember** — [https://www.ycombinator.com/companies/ember](https://www.ycombinator.com/companies/ember)  
+  - EN: AI RCM. A/R Analysis in 3 days or less. Reduce claim denials by 55%. . Founded in 2022 by Charlene Wang and Warren Wang, Ember has 10 employees based in San Francisco, CA, USA. Ember is hiring for 2 r…
+  - 中: 人工智慧RCM。應收帳款分析在 3 天或更短的時間內完成。將索賠拒絕率減少 55%。 。 Ember 由 Charlene Wang 和 Warren Wang 於 2022 年創立，擁有 10 名員工，總部位於美國加州舊金山。 Ember 正在招募 2 名…
+- **Eve** — [https://www.eve.legal](https://www.eve.legal)  
+  - EN: Eve works with you for the full case lifecycle, taking care of the tasks that slow you down so you can operate at your highest potential.
+  - 中: Eve 在整個案例生命週期中與您合作，處理那些拖慢您速度的任務，以便您可以發揮最大潛力。
+- **Fazeshift** — [https://www.fazeshift.com](https://www.fazeshift.com)  
+  - EN: Save your team valuable time and improve cash flow by automating tasks, from invoice generation to cash application, with Fazeshift's AI-powered platform.
+  - 中: 透過 Fazeshift 的 AI 支援平台，實現從發票生成到現金申請的自動化任務，為您的團隊節省寶貴的時間並改善現金流。
+- **Fernstone** — [https://www.ycombinator.com/companies/fernstone](https://www.ycombinator.com/companies/fernstone)  
+  - EN: Full-stack AI insurance brokerage for critical industries. . Founded in 2025 by Luke Button, James Chen, and Bryant Le, Fernstone has 3 employees based in San Francisco, CA, USA.
+  - 中: 針對關鍵產業的全端人工智慧保險經紀。 。 Fernstone 由 Luke Button、James Chen 和 Bryant Le 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **FINNY AI** — [https://www.ycombinator.com/companies/finny-ai](https://www.ycombinator.com/companies/finny-ai)  
+  - EN: The OS for independent financial advisors . Founded in 2024 by Theodore Janson, Eden Ovadia, and Victoria Toli, FINNY AI has 4 employees based in New York, NY, USA.
+  - 中: 獨立財務顧問的作業系統。 FINNY AI 由 Theodore Janson、Eden Ovadia 和 Victoria Toli 於 2024 年創立，擁有 4 名員工，總部位於美國紐約州紐約市。
+- **Finosu** — [https://www.ycombinator.com/companies/finosu](https://www.ycombinator.com/companies/finosu)  
+  - EN: AI Native Consumer Loan Servicer. Founded in 2024 by Gabriel Vincent Kho and Mark Ricciardi, Finosu has 5 employees based in .
+  - 中: AI原生消費貸款服務商。 Finosu 由 Gabriel Vincent Kho 和 Mark Ricciardi 於 2024 年創立，擁有 5 名員工，總部位於 .
+- **Fintool - AI Equity Research Copilot** — [https://fintool.com](https://fintool.com)  
+  - EN: Fintool scans millions of SEC filings, earnings calls, and conference transcripts to provide precise answers to complex financial questions. Fintool is engineered to discover financial insights beyond…
+  - 中: Fintool 掃描數百萬份 SEC 文件、財報電話會議和會議記錄，為複雜的財務問題提供準確的答案。 Fintool 旨在發現超越…的金融見解。
+- **Flowglad** — [https://www.ycombinator.com/companies/flowglad](https://www.ycombinator.com/companies/flowglad)  
+  - EN: The payment processor for natural language software. Founded in 2025 by Agree Ahmed and Harrison Telyan, Flowglad has 6 employees based in New York, NY, USA.
+  - 中: 自然語言軟體的支付處理器。 Flowglad 由 Agree Ahmed 和 Harrison Telyan 於 2025 年創立，擁有 6 名員工，總部位於美國紐約州紐約市。
+- **FlyCode** — [https://www.flycode.com/](https://www.flycode.com/)  
+  - EN: Boost Subscription Revenue and Reduce Involuntary Churn with AI-Powered Dunning. Failed payment recovery for SaaS and eCommerce
+  - 中: 透過人工智慧催款提高訂閱收入並減少非自願流失。 SaaS 與電子商務的付款恢復失敗
+- **FlyCode** — [https://www.flycode.com/](https://www.flycode.com/)  
+  - EN: Boost Subscription Revenue and Reduce Involuntary Churn with AI-Powered Dunning. Failed payment recovery for SaaS and eCommerce
+  - 中: 透過人工智慧催款提高訂閱收入並減少非自願流失。 SaaS 與電子商務的付款恢復失敗
+- **FurtherAI** — [https://www.ycombinator.com/companies/furtherai](https://www.ycombinator.com/companies/furtherai)  
+  - EN: AI Workforce for the Insurance Industry. Founded in 2023 by Sashank Gondala and Aman Gour, FurtherAI has 8 employees based in San Francisco, CA, USA. FurtherAI is hiring for 13 roles in marketing, ope…
+  - 中: 保險業的人工智慧勞動力。 FurtherAI 由 Sashank Gondala 和 Aman Gour 於 2023 年創立，擁有 8 名員工，總部位於美國加州舊金山。 FurtherAI 正在招募 13 個行銷、營運等職位…
+- **Gale** — [https://www.ycombinator.com/companies/gale](https://www.ycombinator.com/companies/gale)  
+  - EN: Fast and Data-Driven Immigration Platform. Founded in 2024 by Rahul Gudise, Haokun Qin, and Rishabh Sambare, Gale has 3 employees based in San Francisco, CA, USA. Gale is hiring for 2 roles in enginee…
+  - 中: 快速且數據驅動的移民平台。 Gale 由 Rahul Gudise、秦浩坤和 Rishabh Sambare 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。 Gale 正在招募 2 個工程師職位…
+- **Gale** — [https://www.ycombinator.com/companies/gale](https://www.ycombinator.com/companies/gale)  
+  - EN: Fast and Data-Driven Immigration Platform. Founded in 2024 by Rahul Gudise, Haokun Qin, and Rishabh Sambare, Gale has 3 employees based in San Francisco, CA, USA. Gale is hiring for 2 roles in enginee…
+  - 中: 快速且數據驅動的移民平台。 Gale 由 Rahul Gudise、秦浩坤和 Rishabh Sambare 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。 Gale 正在招募 2 個工程師職位…
+- **Goldbridge** — [https://www.ycombinator.com/companies/goldbridge](https://www.ycombinator.com/companies/goldbridge)  
+  - EN: Ramp for Real Estate. Founded in 2025 by Greg Rami and Alvin Salehi, Goldbridge has 2 employees based in .
+  - 中: 房地產坡道。 Goldbridge 由 Greg Rami 和 Alvin Salehi 於 2025 年創立，擁有 2 名員工，總部位於 。
+- **Greenboard** — [https://www.ycombinator.com/companies/greenboard](https://www.ycombinator.com/companies/greenboard)  
+  - EN: Modern OS for the financial back office. . Founded in 2023 by Dave Feldman and Edward Schembor, Greenboard has 17 employees based in New York, NY, USA. Greenboard is hiring for 4 roles in engineering …
+  - 中: 財務後台的現代作業系統。 。 Greenboard 由 Dave Feldman 和 Edward Schembor 於 2023 年創立，擁有 17 名員工，總部位於美國紐約州紐約市。 Greenboard 正在招募 4 個工程職位…
+- **GroundControl** — [https://www.ycombinator.com/companies/groundcontrol](https://www.ycombinator.com/companies/groundcontrol)  
+  - EN: Vertical AI for highly-regulated manufacturing. Founded in 2024 by Matthew Noseworthy, Mehul Shah, and Nick Warren, GroundControl has 8 employees based in San Francisco, CA, USA. GroundControl is hiri…
+  - 中: 適用於高度監管製造的垂直人工智慧。 GroundControl 由 Matthew Noseworthy、Mehul Shah 和 Nick Warren 於 2024 年創立，擁有 8 名員工，總部位於美國加州舊金山。地面控制很受歡迎…
+- **Handoff** — [https://www.ycombinator.com/companies/handoff](https://www.ycombinator.com/companies/handoff)  
+  - EN: AI estimator & agent for remodelers. Founded in 2019 by Dmitry Alexin, Handoff has 20 employees based in Austin, TX, USA. Handoff is hiring for 3 roles in engineering.
+  - 中: 適合改造者的人工智慧估算器和代理商。 Handoff 由 Dmitry Alexin 於 2019 年創立，擁有 20 名員工，總部位於美國德克薩斯州奧斯汀。 Handoff 正在招募 3 個工程職位。
+- **Harper** — [https://www.ycombinator.com/companies/harper](https://www.ycombinator.com/companies/harper)  
+  - EN: AI-native commercial insurance brokerage. Founded in 2024 by Tushar Nair and Dakotah Rice, Harper has 25 employees based in San Francisco, CA, USA. Harper is hiring for 10 roles in operations, sales, …
+  - 中: AI原生商業保險經紀。 Harper 由 Tushar Nair 和 Dakotah Rice 於 2024 年創立，擁有 25 名員工，總部位於美國加州舊金山。 Harper 正在招募 10 個營運、銷售等職位…
+- **Harvey - Professional Class AI** — [https://www.harvey.ai](https://www.harvey.ai)  
+  - EN: Harvey is the platform built to meet the standards of the world's leading professional service firms.
+  - 中: Harvey 是為滿足世界領先的專業服務公司標準而打造的平台。
+- **Haven** — [https://www.ycombinator.com/companies/haven-2](https://www.ycombinator.com/companies/haven-2)  
+  - EN: AI workforce for property management. Founded in 2022 by Juan Burgos and Satya Koppu, Haven has 3 employees based in . Haven is hiring for 1 roles in engineering.
+  - 中: 用於物業管理的人工智慧勞動力。 Haven 由 Juan Burgos 和 Satya Koppu 於 2022 年創立，擁有 3 名員工，總部位於 。 Haven 正在招募 1 個工程職位。
+- **HealthSpark** — [https://www.ycombinator.com/companies/healthspark](https://www.ycombinator.com/companies/healthspark)  
+  - EN: Empowering Physical Therapists to Go Independent. Founded in 2024 by Stephen Grinich, HealthSpark has 1 employees based in San Francisco, CA, USA.
+  - 中: 賦予物理治療師獨立的能力。 HealthSpark 由 Stephen Grinich 於 2024 年創立，擁有 1 名員工，總部位於美國加州舊金山。
+- **Heron Data** — [https://www.ycombinator.com/companies/heron-data](https://www.ycombinator.com/companies/heron-data)  
+  - EN: We automate document-heavy workflows in financial services and beyond. Founded in 2020 by Johannes Jaeckle, Dominic Kwok, and Jamie Parker, Heron Data has 26 employees based in New York, NY, USA. Hero…
+  - 中: 我們自動化金融服務及其他領域的大量文件工作流程。 Heron Data 由 Johannes Jaeckle、Dominic Kwok 和 Jamie Parker 於 2020 年創立，總部位於美國紐約州紐約市，擁有 26 名員工。英雄…
+- **Home** — [https://www.galini.ai/](https://www.galini.ai/)  
+  - EN: Ensure your AI applications comply with your company policies, industry standards and regulations
+  - 中: 確保您的人工智慧應用符合公司政策、行業標準和法規
+- **Home** — [https://www.dataiku.com/](https://www.dataiku.com/)  
+  - EN: Build, deploy, and manage data, analytics, and AI projects, realizing your Everyday AI vision with The Universal AI Platform™
+  - 中: 建置、部署和管理資料、分析和 AI 項目，透過通用 AI Platform™ 實現您的日常 AI 願景
+- **Home** — [https://nl.pragmaworld.net/](https://nl.pragmaworld.net/)  
+  - EN: Pragma is uw partner voor EAMaaS+. Met de unieke combinatie van consultancy, managed services, software en training bieden wij één geïntegreerde oplossing.
+  - 中: Pragma 是 EAMaaS+ 的合作夥伴。集諮詢、管理服務、軟體和培訓於一體，是您的最佳選擇。
+- **Home Agent Hub** — [https://www.parcha.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.parcha.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Parcha's AI analyzes documents, researches business, screens entities, remediates issues and more.
+  - 中: Parcha 的人工智慧分析文件、研究業務、篩選實體、修復問題等等。
+- **Huski.ai** — [https://huski.ai/](https://huski.ai/)  
+  - EN: Huski has created the best trademark search and monitoring service using the most advanced AI in the industry. Our suite of tools will transform how you generate revenue and how you help your clients …
+  - 中: Huski 使用業內最先進的人工智慧創造了最好的商標搜尋和監控服務。我們的工具套件將改變您創造收入的方式以及幫助客戶的方式…
+- **Hydrus** — [https://www.hydrus.ai/](https://www.hydrus.ai/)  
+  - EN: Hydrus offers an intuitive sustainability management platform to solve your biggest sustainability data challenges.
+  - 中: Hydrus 提供直覺的永續發展管理平台來解決您最大的永續發展數據挑戰。
+- **Investment Banking AI Platform - Finster** — [https://finster.ai/sectors/investment-banking-ai](https://finster.ai/sectors/investment-banking-ai)  
+  - EN: Finster accelerates complex investment decisions, purpose-built, AI native for investment banking. Ramp-up, save time, automate, and gain insights.
+  - 中: Finster 加速複雜的投資決策，這是專門為投資銀行而建構的人工智慧。加速、節省時間、自動化並獲得洞見。
+- **IP Copilot** — [https://ipcopilot.ai/](https://ipcopilot.ai/)  
+  - EN: Invent Faster. Better.
+  - 中: 更快地發明。更好的。
+- **IPRally** — [https://iprally.com/](https://iprally.com/)  
+  - EN: IPRally is the AI-native patent search platform used by IP and R&D teams to make faster, smarter decisions with AI that's explainable, accurate, and built for how patent work really happens.
+  - 中: IPRally 是人工智慧原生專利搜尋平台，智慧財產權和研發團隊使用它來利用人工智慧做出更快、更明智的決策，該決策可解釋、準確，並且針對專利工作的實際發生方式而建構。
+- **Josef** — [https://joseflegal.com/](https://joseflegal.com/)  
+  - EN: Automate contracts like MSAs, streamline your intake workflows, and answer questions on demand with AI. With Josef, it's easy!
+  - 中: 實現 MSA 等合約的自動化，簡化您的接收工作流程，並透過 AI 按需回答問題。有了約瑟夫，一切就變簡單了！
+- **Kalinda** — [https://www.ycombinator.com/companies/kalinda](https://www.ycombinator.com/companies/kalinda)  
+  - EN: Deep research for class action law firms. Founded in 2025 by Sohil Bhatia and Sayan Bhatia, Kalinda has 2 employees based in . Kalinda is hiring for 1 roles in engineering.
+  - 中: 集體訴訟律師事務所的深入研究。 Kalinda 由 Sohil Bhatia 和 Sayan Bhatia 於 2025 年創立，擁有 2 名員工，總部位於 。 Kalinda 正在招募 1 個工程職位。
+- **Kita** — [https://www.ycombinator.com/companies/kita](https://www.ycombinator.com/companies/kita)  
+  - EN: Turn documents into signals for lenders in emerging markets. Founded in 2025 by Carmel Limcaoco and Rhea Malhotra, Kita has 2 employees based in San Francisco, CA, USA.
+  - 中: 將文件轉化為新興市場貸方的訊號。 Kita 由 Carmel Limcaoco 和 Rhea Malhotra 於 2025 年創立，在美國加州舊金山有 2 名員工。
+- **Knowtex** — [https://www.ycombinator.com/companies/knowtex](https://www.ycombinator.com/companies/knowtex)  
+  - EN: Making doctors 2x more efficient with AI note-taking & charge capture. Founded in 2022 by Jocelyn Kang and Caroline Zhang, Knowtex has employees based in San Francisco, CA, USA. Knowtex is hiring for …
+  - 中: 透過人工智慧筆記和電荷捕獲，使醫生的效率提高 2 倍。 Knowtex 由 Jocelyn Kang 和 Caroline Zhu 於 2022 年創立，員工位於美國加州舊金山。 Knowtex 正在招募…
+- **Lakonia** — [https://www.ycombinator.com/companies/lakonia](https://www.ycombinator.com/companies/lakonia)  
+  - EN: Delivering AI-powered situational awareness in tactical environments. Founded in 2025 by Gordy Sun, Lakonia has 2 employees based in San Francisco, CA, USA.
+  - 中: 在戰術環境中提供人工智慧驅動的態勢感知。 Lakonia 由 Gordy Sun 於 2025 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Lark** — [https://www.ycombinator.com/companies/lark](https://www.ycombinator.com/companies/lark)  
+  - EN: Billing for modern pricing models. Founded in 2025 by Jack Brown and Vijit Dhingra, Lark has 2 employees based in San Francisco, CA, USA.
+  - 中: 現代定價模型的計費。 Lark 由 Jack Brown 和 Vijit Dhingra 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **Lark** — [https://www.ycombinator.com/companies/lark](https://www.ycombinator.com/companies/lark)  
+  - EN: Billing for modern pricing models. Founded in 2025 by Jack Brown and Vijit Dhingra, Lark has 2 employees based in San Francisco, CA, USA.
+  - 中: 現代定價模型的計費。 Lark 由 Jack Brown 和 Vijit Dhingra 於 2025 年創立，在美國加州舊金山擁有 2 名員工。
+- **Launch YC** — [https://www.ycombinator.com/launches/Opo-selfin-building-the-first-ai-bank](https://www.ycombinator.com/launches/Opo-selfin-building-the-first-ai-bank)  
+  - EN: All in one financial platform where you can connect all your financial products
+  - 中: 多合一金融平台，您可以連接所有金融產品
+- **Launch YC** — [https://www.ycombinator.com/launches/Li5-dataleap-perplexity-for-consultants](https://www.ycombinator.com/launches/Li5-dataleap-perplexity-for-consultants)  
+  - EN: Instead of relying on the general web, Dataleap searches through a curated database of market data from public and commercial data providers.
+  - 中: Dataleap 不依賴一般網絡，而是搜尋來自公共和商業資料提供者的精選市場資料資料庫。
+- **Launch YC** — [https://www.ycombinator.com/launches/LIr-ai-automate-patent-due-diligence-in-an-instant](https://www.ycombinator.com/launches/LIr-ai-automate-patent-due-diligence-in-an-instant)  
+  - EN: Comprehensively find prior art, produce robust claim language, invalidate weak patents, and more.
+  - 中: 全面尋找現有技術、產生穩健的權利要求語言、使弱專利無效等。
+- **Lawgeex - Conquer Your Contracts** — [https://www.lawgeex.com/](https://www.lawgeex.com/)  
+  - EN: LawGeex automates legal work, redlining and negotiating contracts better, faster and cheaper than lawyers.
+  - 中: LawGeex 比律師更好、更快、更便宜地實現法律工作、紅線劃線和合約談判的自動化。
+- **Lawgeex - Conquer Your Contracts** — [https://www.lawgeex.com/](https://www.lawgeex.com/)  
+  - EN: LawGeex automates legal work, redlining and negotiating contracts better, faster and cheaper than lawyers.
+  - 中: LawGeex 比律師更好、更快、更便宜地實現法律工作、紅線劃線和合約談判的自動化。
+- **Legal AI** — [https://robinai.com/](https://robinai.com/)  
+  - EN: Robin makes contracts simple for legal teams with AI-powered contract software that reviews contracts 80% faster, 3 seconds to search for a clause. Legal...
+  - 中: Robin 借助人工智慧驅動的合約軟體讓法律團隊的合約變得簡單，該軟體審查合約的速度提高了 80%，搜尋條款只需 3 秒。合法的...
+- **Legal AI Contract Review & Drafting** — [https://www.spellbook.legal](https://www.spellbook.legal)  
+  - EN: Spellbook is the #1 Legal AI for for transactional lawyers. Using GPT-4o and other large language models to review and suggest language for your contracts, right in Microsoft Word.
+  - 中: Spellbook 是交易律師的第一大法律人工智慧。直接在 Microsoft Word 中使用 GPT-4o 和其他大型語言模型來審查和建議合約語言。
+- **Legora (formerly Leya)** — [https://www.ycombinator.com/companies/legora](https://www.ycombinator.com/companies/legora)  
+  - EN: The AI workspace for lawyers. Founded in 2023 by Max Junestrand and Sigge Labor, Legora (formerly Leya) has 65 employees based in Stockholm, Sweden. Legora (formerly Leya) is hiring for 1 roles in eng…
+  - 中: 律師的人工智慧工作空間。 Legora（原 Leya）由 Max Junestrand 和 Sigge Labor 於 2023 年創立，總部位於瑞典斯德哥爾摩，擁有 65 名員工。 Legora（原 Leya）正在招募 1 個工程職位…
+- **Lucite** — [https://www.ycombinator.com/companies/lucite](https://www.ycombinator.com/companies/lucite)  
+  - EN: Supercharging Insurance Brokers & Advisors. Founded in 2024 by Richard Greenbaum and Jason Spector, Lucite has 4 employees based in New York, NY, USA. Lucite is hiring for 1 roles in engineering.
+  - 中: 增壓保險經紀人和顧問。 Lucite 由 Richard Greenbaum 和 Jason Spector 於 2024 年創立，擁有 4 名員工，總部位於美國紐約州紐約市。 Lucite 正在招募 1 個工程職位。
+- **Lucite** — [https://www.ycombinator.com/companies/lucite](https://www.ycombinator.com/companies/lucite)  
+  - EN: Supercharging Insurance Brokers & Advisors. Founded in 2024 by Richard Greenbaum and Jason Spector, Lucite has 4 employees based in New York, NY, USA. Lucite is hiring for 1 roles in engineering.
+  - 中: 增壓保險經紀人和顧問。 Lucite 由 Richard Greenbaum 和 Jason Spector 於 2024 年創立，擁有 4 名員工，總部位於美國紐約州紐約市。 Lucite 正在招募 1 個工程職位。
+- **Luminai** — [https://www.luminai.com/](https://www.luminai.com/)  
+  - EN: Luminai's proprietary AI systems eliminate the manual, repetitive work from your business processes.
+  - 中: Luminai 的專有人工智慧系統消除了業務流程中的手動重複性工作。
+- **Luminance · Legal-Grade™ AI Contract Management Platform** — [https://www.luminance.com/](https://www.luminance.com/)  
+  - EN: End-to-End AI for Every Contract Touchpoint. Luminance uses Legal-Grade™ Agents to Automate, Expedite & Enhance Contract Activity across your business.
+  - 中: 每個合約接觸點的端到端人工智慧。 Luminance 使用 Legal-Grade™ 代理來自動化、加速和增強整個企業的合約活動。
+- **Mandel AI** — [https://www.ycombinator.com/companies/mandel-ai](https://www.ycombinator.com/companies/mandel-ai)  
+  - EN: AI Supply Chain Coordinator. Founded in 2023 by Nick Gospodinov, Mandel AI has 2 employees based in .
+  - 中: 人工智慧供應鏈協調員。 Mandel AI 由 Nick Gospodinov 於 2023 年創立，擁有 2 名員工，總部位於 .
+- **Manus** — [https://manus.im/](https://manus.im/)  
+  - EN: Manus is the action engine that goes beyond answers to execute tasks, automate workflows, and extend your human reach.
+  - 中: Manus 是一個行動引擎，它超越了執行任務、自動化工作流程和擴展人力範圍的答案。
+- **Matey AI Product Overview - Bring AI Efficiency to Every Case** — [https://www.matey.ai/product](https://www.matey.ai/product)  
+  - EN: Using the industry's most capable AI, Matey uncovers relations otherwise lost in the chaos of non sequiturs, built upon the industry's most densely connected knowledge graph.
+  - 中: 利用業界最強大的人工智慧，Matey 建立在業界最緊密連接的知識圖譜之上，揭示了在不合邏輯的混亂中失去的關係。
+- **Metaview** — [https://www.metaview.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.metaview.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Metaview is the AI platform for recruiting. From sourcing to offer, teams rely on our Notetaker, Reports, Job Posts, and Candidate Search to hire faster and smarter.
+  - 中: Metaview 是一個人工智慧招募平台。從採購到錄用，團隊依靠我們的記事本、報告、職位發布和候選人搜尋來更快、更聰明地招募。
+- **Metaview** — [https://www.metaview.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.metaview.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Metaview is the AI platform for recruiting. From sourcing to offer, teams rely on our Notetaker, Reports, Job Posts, and Candidate Search to hire faster and smarter.
+  - 中: Metaview 是一個人工智慧招募平台。從採購到錄用，團隊依靠我們的記事本、報告、職位發布和候選人搜尋來更快、更聰明地招募。
+- **Midship** — [https://www.ycombinator.com/companies/midship](https://www.ycombinator.com/companies/midship)  
+  - EN: AI for SOX testing. Founded in 2024 by Aahel Iyer, Max Maio, and Kieran Taylor, Midship has 3 employees based in . Midship is hiring for 2 roles in engineering.
+  - 中: 用於 SOX 測試的人工智慧。 Midship 由 Aahel Iyer、Max Maio 和 Kieran Taylor 於 2024 年創立，擁有 3 名員工，總部位於 。 Midship 正在招募 2 個工程職位。
+- **Mulligan** — [https://www.ycombinator.com/companies/mulligan](https://www.ycombinator.com/companies/mulligan)  
+  - EN: AI automation for insurance brokerages. Founded in 2022 by Emily Dorsey and Aman Raghuvanshi, Mulligan has 4 employees based in San Francisco, CA, USA.
+  - 中: 保險經紀的人工智慧自動化。 Mulligan 由 Emily Dorsey 和 Aman Raghuvanshi 於 2022 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **Nabis** — [https://www.ycombinator.com/companies/nabis](https://www.ycombinator.com/companies/nabis)  
+  - EN: Nabis is the largest licensed cannabis wholesale platform. Founded in 2018 by Vince Ning and Jun S. Lee, Nabis has 300 employees based in San Francisco, CA, USA. Nabis is hiring for 5 roles in product…
+  - 中: Nabis 是最大的特許大麻批發平台。 Nabis 由 Vince Ning 和 Jun S. Lee 於 2018 年創立，擁有 300 名員工，總部位於美國加州舊金山。 Nabis 正在招募 5 個產品職位…
+- **Nozomio** — [https://www.ycombinator.com/companies/nozomio](https://www.ycombinator.com/companies/nozomio)  
+  - EN: Context augmentation for agents. Founded in 2025 by Arlan Rakhmetzhanov, Nozomio has 1 employees based in . Nozomio is hiring for 2 roles in operations and engineering.
+  - 中: 代理的上下文增強。 Nozomio 由 Arlan Rakhmetzhanov 於 2025 年創立，擁有 1 名員工，總部位於 。 Nozomio 正在招募營運和工程領域的 2 個職位。
+- **Numerous.ai** — [https://numerous.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://numerous.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: An AI-powered spreadsheet plugin that brings ChatGPT to Google Sheets and Excel.
+  - 中: 由人工智慧驅動的電子表格插件，可將 ChatGPT 引入 Google Sheets 和 Excel。
+- **o11** — [https://www.ycombinator.com/companies/o11](https://www.ycombinator.com/companies/o11)  
+  - EN: The AI Platform for Capital Market Firms. Founded in 2025 by Ajay Misra and Aryah Oztanir, o11 has 4 employees based in San Francisco, CA, USA.
+  - 中: 資本市場公司的人工智慧平台。 o11 由 Ajay Misra 和 Aryah Oztanir 於 2025 年創立，擁有 4 名員工，總部位於美國加州舊金山。
+- **Old Home V2** — [https://www.kaveatapp.com/copy-of-home](https://www.kaveatapp.com/copy-of-home)  
+  - EN: —
+  - 中: —
+- **OpenIntake** — [https://www.ycombinator.com/companies/openintake](https://www.ycombinator.com/companies/openintake)  
+  - EN: The AI Front Door For Law Firms. Founded in 2025 by Grayson Pike and Yash Sahota, OpenIntake has 2 employees based in New York, NY, USA.
+  - 中: 律師事務所的人工智慧前門。 OpenIntake 由 Grayson Pike 和 Yash Sahota 於 2025 年創立，在美國紐約州擁有 2 名員工。
+- **Openroll** — [https://www.ycombinator.com/companies/openroll](https://www.ycombinator.com/companies/openroll)  
+  - EN: AI-Native Workday. Founded in 2024 by Porsev Aslan and Mattias Lindell, Openroll has 4 employees based in Stockholm, Sweden.
+  - 中: 人工智慧原生工作日。 Openroll 由 Porsev Aslan 和 Mattias Lindell 於 2024 年創立，擁有 4 名員工，總部位於瑞典斯德哥爾摩。
+- **Openroll** — [https://www.ycombinator.com/companies/openroll](https://www.ycombinator.com/companies/openroll)  
+  - EN: AI-Native Workday. Founded in 2024 by Porsev Aslan and Mattias Lindell, Openroll has 4 employees based in Stockholm, Sweden.
+  - 中: 人工智慧原生工作日。 Openroll 由 Porsev Aslan 和 Mattias Lindell 於 2024 年創立，擁有 4 名員工，總部位於瑞典斯德哥爾摩。
+- **Operand** — [https://www.operand.com/](https://www.operand.com/)  
+  - EN: Operand builds and deploys AI systems to drive the biggest levers of company growth.
+  - 中: Operand 建構和部署人工智慧系統，以推動公司發展的最大槓桿。
+- **Opusense AI** — [https://www.ycombinator.com/companies/opusense-ai](https://www.ycombinator.com/companies/opusense-ai)  
+  - EN: AI for Field Inspection Reports. Founded in 2024 by Michael Bacani and Roya Cody, Opusense AI has 2 employees based in .
+  - 中: 人工智慧用於現場檢查報告。 Opusense AI 由 Michael Bacani 和 Roya Cody 於 2024 年創立，擁有 2 名員工，總部位於 .
+- **Pace** — [https://withpace.com/](https://withpace.com/)  
+  - EN: Pace is an AI-native business process outsourcer (BPO) for the world's leading insurers. We combine AI for document processing and web automation with human review to automate tasks like submission in…
+  - 中: Pace 是一家為全球領先保險公司服務的人工智慧原生業務流程外包商 (BPO)。我們將用於文件處理和網路自動化的人工智慧與人工審核相結合，以自動化提交等任務…
+- **Parlay** — [https://www.parlay.finance/](https://www.parlay.finance/)  
+  - EN: Parlay helps small businesses get funding-ready and enables lenders to close more deals. AI-powered insights. Inclusive access. Real results.
+  - 中: Parlay 協助小型企業做好融資準備，並使貸款人能夠完成更多交易。人工智慧驅動的見解。包容性訪問。真實的結果。
+- **Parley** — [https://www.ycombinator.com/companies/parley](https://www.ycombinator.com/companies/parley)  
+  - EN: Automating flat-fee legal work, starting with work visas + green cards. Founded in 2024 by Ian Edwards, Jackson Perry, and Philip Smart, Parley has 3 employees based in San Francisco, CA, USA.
+  - 中: 從工作簽證+綠卡開始，實現固定費用法律工作自動化。 Parley 由 Ian Edwards、Jackson Perry 和 Philip Smart 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Parley** — [https://www.ycombinator.com/companies/parley](https://www.ycombinator.com/companies/parley)  
+  - EN: Automating flat-fee legal work, starting with work visas + green cards. Founded in 2024 by Ian Edwards, Jackson Perry, and Philip Smart, Parley has 3 employees based in San Francisco, CA, USA.
+  - 中: 從工作簽證+綠卡開始，實現固定費用法律工作自動化。 Parley 由 Ian Edwards、Jackson Perry 和 Philip Smart 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Parrot - Leading Platform for Remote Depositions** — [https://www.parrot.us](https://www.parrot.us)  
+  - EN: Legally and Technically Robust. Reliable and Remarkably Easy
+  - 中: 法律上和技術上都是穩健的。可靠且非常簡單
+- **Patent Watch** — [https://www.ycombinator.com/companies/patent-watch](https://www.ycombinator.com/companies/patent-watch)  
+  - EN: AI for detecting patent infringements. Founded in 2025 by Andreas Stroe and Alexander Stroe, Patent Watch has 2 employees based in Toronto, ON, Canada.
+  - 中: 用於檢測專利侵權的人工智慧。 Patent Watch 由 Andreas Stroe 和 Alexander Stroe 於 2025 年創立，擁有 2 名員工，總部位於加拿大安大略省多倫多。
+- **Patented.ai** — [https://www.patented.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai](https://www.patented.ai/?utm_source=soverin.ai&utm_medium=soverin.ai&utm_campaign=soverin.ai)  
+  - EN: Patented.ai - Powerful Intellectual Property Capabilities
+  - 中: Patented.ai - 強大的智慧財產權能力
+- **Patlytics * Premier AI-Powered Patent Intelligence** — [https://www.patlytics.ai](https://www.patlytics.ai)  
+  - EN: Reduce cycle times. Increase margins. Augment research. Deliver winning IP outcomes.
+  - 中: 減少循環時間。增加利潤。加強研究。交付獲勝的知識產權成果。
+- **PAXTON** — [https://www.paxton.ai/](https://www.paxton.ai/)  
+  - EN: Paxton is the AI legal assistant built for lawyers. Instantly draft documents, analyze files, and research law with greater speed and accuracy. Trusted by attorneys to streamline legal work.
+  - 中: Paxton是專為律師打造的AI法律助理。以更快的速度和準確性即時起草文件、分析文件和研究法律。深受律師信賴，可簡化法律工作。
+- **Pincites - AI contract review for busy legal teams** — [https://www.pincites.com](https://www.pincites.com)  
+  - EN: Pincites lets you to redline contracts faster and more consistently, right in Microsoft Word.
+  - 中: Pincites 讓您在 Microsoft Word 中更快、更一致地對合約進行紅線修改。
+- **Pinegap - AI Platform for Equity Research** — [https://www.pinegap.ai/home](https://www.pinegap.ai/home)  
+  - EN: AI-powered equity research platform for Wall Street to automates key parts of the analyst workflow - ramping up on new companies, earnings reviews, Thesis Tracking and idea generation pipelines.
+  - 中: 華爾街的人工智慧股票研究平台，可實現分析師工作流程關鍵部分的自動化 - 加強新公司、收益審查、論文追蹤和創意生成流程。
+- **Poggio** — [https://poggio.io/product](https://poggio.io/product)  
+  - EN: Poggio is an AI-powered account intelligence platform that arms go-to-market teams with an exec-level point of view for every account.
+  - 中: Poggio 是一個由人工智慧驅動的客戶智慧平台，為行銷團隊提供每個客戶的高階主管的觀點。
+- **Poggio** — [https://poggio.io/product](https://poggio.io/product)  
+  - EN: Poggio is an AI-powered account intelligence platform that arms go-to-market teams with an exec-level point of view for every account.
+  - 中: Poggio 是一個由人工智慧驅動的客戶智慧平台，為行銷團隊提供每個客戶的高階主管的觀點。
+- **PointOne** — [https://www.ycombinator.com/companies/pointone](https://www.ycombinator.com/companies/pointone)  
+  - EN: Automated time tracking and billing for law firms. Founded in 2023 by Jeremy Ben-Meir and Katon Luaces, PointOne has 7 employees based in New York, NY, USA. PointOne is hiring for 7 roles in engineeri…
+  - 中: 律師事務所的自動時間追蹤和計費。 PointOne 由 Jeremy Ben-Meir 和 Katon Luaces 於 2023 年創立，擁有 7 名員工，總部位於美國紐約州紐約市。 PointOne 正在招募 7 個工程職位…
+- **PointOne** — [https://pointone.com/](https://pointone.com/)  
+  - EN: PointOne uses AI to passively track time and review bills. Capture detailed time data that drives insights across your practice, business and people
+  - 中: PointOne 使用人工智慧被動追蹤時間並審查帳單。擷取詳細的時間數據，推動對您的實踐、業務和人員的洞察
+- **Product - 1Fort AI** — [https://1fort.ai/product](https://1fort.ai/product)  
+  - EN: 1Fort saves insurance agencies time and money by automating operations with AI.
+  - 中: 1Fort 透過人工智慧實現營運自動化，節省了保險機構的時間和金錢。
+- **ProhostAI** — [https://www.ycombinator.com/companies/prohostai](https://www.ycombinator.com/companies/prohostai)  
+  - EN: AI Property Manager for Airbnb & Short-Term Rental Hosts. Founded in 2024 by Andrew Lawson and Bill Ulammandakh, ProhostAI has 5 employees based in San Francisco, CA, USA. ProhostAI is hiring for 1 ro…
+  - 中: 適用於 Airbnb 和短期租賃房東的人工智慧物業經理。 ProhostAI 由 Andrew Lawson 和 Bill Ulammandakh 於 2024 年創立，擁有 5 名員工，總部位於美國加州舊金山。 ProhostAI 正在招募 1 名...
+- **Propaya** — [https://www.ycombinator.com/companies/propaya](https://www.ycombinator.com/companies/propaya)  
+  - EN: AI commercial lease abstractions and review. Founded in 2024 by Jake Golas and Reader Wang, Propaya has 2 employees based in San Francisco, CA, USA.
+  - 中: 人工智慧商業租賃摘要和審查。 Propaya 由 Jake Golas 和 Reader Wang 於 2024 年創立，在美國加州舊金山擁有 2 名員工。
+- **Propexo** — [https://www.ycombinator.com/companies/propexo](https://www.ycombinator.com/companies/propexo)  
+  - EN: Plaid for Commercial Real Estate. Founded in 2022 by Nick Johnson, Ben Keller, and Remen Okoruwa, Propexo has 6 employees based in Boston, MA, USA.
+  - 中: 商業地產格子。 Propexo 由 Nick Johnson、Ben Keller 和 Remen Okoruwa 於 2022 年創立，擁有 6 名員工，總部位於美國馬薩諸塞州波士頓。
+- **Quandri** — [https://www.quandri.io/](https://www.quandri.io/)  
+  - EN: Quandri's Renewal Intelligence Platform completes manual, repetitive tasks and unlock informative insights buried in your personal lines book of business.
+  - 中: Quandri 的更新智慧平台可完成手動重複性任務，並釋放隱藏在您個人業務簿中的資訊洞察。
+- **Quilt Labs** — [https://www.quiltlabs.ai/](https://www.quiltlabs.ai/)  
+  - EN: Ensure your research perspectives stand out, shorten time to initiation, pull full context easily, and carefully track commentary. Generate differentiated content and answer clients quickly.
+  - 中: 確保您的研究觀點脫穎而出，縮短啟動時間，輕鬆獲得完整背景，並仔細追蹤評論。產生差異化內容並快速回覆客戶。
+- **Qumis - Expert AI built for the top minds in insurance** — [https://www.qumis.ai/](https://www.qumis.ai/)  
+  - EN: Qumis is an expert AI solution designed to streamline coverage analysis end-to-end by dramatically cut analysis time while delivering attorney-level insights, precision, and reliability across all lin…
+  - 中: Qumis 是一款專業的人工智慧解決方案，旨在透過大幅縮短分析時間來簡化端到端的覆蓋率分析，同時在所有領域提供律師級的見解、精確度和可靠性…
+- **Ready** — [https://www.ycombinator.com/companies/ready](https://www.ycombinator.com/companies/ready)  
+  - EN: Collaborative platform for optimizing regulated utilities such as.... Founded in 2020 by Mike Faloon and Jase Wilson, Ready has 60 employees based in San Francisco, CA, USA. Ready is hiring for 1 role…
+  - 中: Ready 由 Mike Faloon 和 Jase Wilson 於 2020 年創立，位於美國加州舊金山，擁有 60 名員工。 Ready 正在招募 1 個職位...
+- **Redouble AI** — [https://www.ycombinator.com/companies/redouble-ai](https://www.ycombinator.com/companies/redouble-ai)  
+  - EN: Scale human-in-the-loop for AI workflows in regulated industries. Founded in 2024 by Martin Bittner, Haotian Li, and Andrey Santrosyan, Redouble AI has 3 employees based in San Francisco, CA, USA.
+  - 中: 在受監管行業中擴展人工智慧工作流程的人機互動。 Redouble AI 由 Martin Bittner、Haotian Li 和 Andrey Santrosyan 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Reduce Recurring Payment Failures** — [https://www.slickerhq.com/](https://www.slickerhq.com/)  
+  - EN: No-code AI platform that helps subscription businesses convert failed subscription invoices into revenue.
+  - 中: 無程式碼人工智慧平台，幫助訂閱企業將失敗的訂閱發票轉化為收入。
+- **Responsible AI Platform** — [https://pacific.ai/](https://pacific.ai/)  
+  - EN: Ensure ethical, transparent and fair AI with our Responsible AI solution to align technology with human values and norms
+  - 中: 透過我們負責任的人工智慧解決方案確保道德、透明和公平的人工智慧，使科技與人類價值和規範保持一致
+- **Revi** — [https://www.ycombinator.com/companies/revi](https://www.ycombinator.com/companies/revi)  
+  - EN: AI-enabled M&A deal origination. Founded in 2023 by Benjamin McKinzey and Max Nuyen, Revi has 10 employees based in .
+  - 中: 人工智慧支援的併購交易發起。 Revi 由 Benjamin McKinzey 和 Max Nuyen 於 2023 年創立，擁有 10 名員工，總部位於 .
+- **Rhino Federated Computing** — [https://www.rhinofcp.com](https://www.rhinofcp.com)  
+  - EN: Rhino Federated Computing integrates trusted research environments and a harmonized data layer to enable secure AI in drug discovery and analytics.
+  - 中: Rhino 聯合運算整合了可信賴的研究環境和統一的資料層，以在藥物發現和分析中實現安全的人工智慧。
+- **RiskCube** — [https://www.ycombinator.com/companies/riskcube](https://www.ycombinator.com/companies/riskcube)  
+  - EN: AI-Powered Insurance Comparison for Startups. Founded in 2024 by Andrei Craciunescu, RiskCube has 2 employees based in San Francisco, CA, USA.
+  - 中: 針對新創公司的人工智慧保險比較。 RiskCube 由 Andrei Craciunescu 於 2024 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **Rogo** — [https://rogo.ai/](https://rogo.ai/)  
+  - EN: Rogo is the secure generative AI platform built for elite financial institutions. Save time, unlock insights and automate workflows in days.
+  - 中: Rogo 是專為精英金融機構打造的安全生成式人工智慧平台。節省時間、釋放見解並在幾天內將工作流程自動化。
+- **SalesPatriot** — [https://www.ycombinator.com/companies/salespatriot](https://www.ycombinator.com/companies/salespatriot)  
+  - EN: We help defense firms win more contracts with the Pentagon. Founded in 2024 by Nelson Ray, Ben Rhodes-Kropf, and Maciej Szymczyk, SalesPatriot has 9 employees based in San Francisco, CA, USA. SalesPat…
+  - 中: 我們幫助國防公司贏得更多與五角大廈的合約。 SalesPatriot 由 Nelson Ray、Ben Rhodes-Kropf 和 Maciej Szymczyk 於 2024 年創立，擁有 9 名員工，總部位於美國加州舊金山。銷售專利…
+- **Salient** — [https://www.ycombinator.com/companies/salient](https://www.ycombinator.com/companies/salient)  
+  - EN: AI Servicing for Auto Lenders. Founded in 2023 by Ari Malik and Mukund Tibrewala, Salient has 40 employees based in San Francisco, CA, USA. Salient is hiring for 4 roles in engineering.
+  - 中: 為汽車貸款人提供人工智慧服務。 Salient 由 Ari Malik 和 Mukund Tibrewala 於 2023 年創立，擁有 40 名員工，總部位於美國加州舊金山。 Salient 正在招募 4 個工程職位。
+- **SchemeFlow** — [https://www.ycombinator.com/companies/schemeflow](https://www.ycombinator.com/companies/schemeflow)  
+  - EN: AI Report Generation for Engineering & Environmental Review. Founded in 2023 by Andrew Browning, Jonny Browning, and James Griffith, SchemeFlow has 5 employees based in .
+  - 中: 用於工程和環境審查的人工智慧報告產生。 SchemeFlow 由 Andrew Browning、Jonny Browning 和 James Griffith 於 2023 年創立，擁有 5 名員工，總部位於 .
+- **Scribe** — [https://scribe.com](https://scribe.com)  
+  - EN: Scribe documents your processes for you. Build visual guides with text, links and screenshots instantly.
+  - 中: Scribe 為您記錄您的流程。立即使用文字、連結和螢幕截圖建立視覺指南。
+- **Scribe** — [https://scribe.com](https://scribe.com)  
+  - EN: Scribe documents your processes for you. Build visual guides with text, links and screenshots instantly.
+  - 中: Scribe 為您記錄您的流程。立即使用文字、連結和螢幕截圖建立視覺指南。
+- **Scribenote** — [https://www.scribenote.com/how-it-works](https://www.scribenote.com/how-it-works)  
+  - EN: Scribenote turns your words into structured notes - customizable, shareable, and tailored to your workflow.
+  - 中: Scribenote 將您的文字轉換為結構化筆記 - 可自訂、可分享且適合您的工作流程。
+- **Sculpt** — [https://www.ycombinator.com/companies/sculpt](https://www.ycombinator.com/companies/sculpt)  
+  - EN: Fully automated should-cost analysis for precision manufacturers. Founded in 2022 by Vidhi Vakharia, Sculpt has 2 employees based in San Francisco, CA, USA.
+  - 中: 精密製造商的全自動應該成本分析。 Sculpt 由 Vidhi Vakharia 於 2022 年創立，在美國加州舊金山有 2 名員工。
+- **Sensa** — [https://www.getsensa.io/](https://www.getsensa.io/)  
+  - EN: A collaborative AI assistant and platform for insurers.
+  - 中: 面向保險公司的協作人工智慧助理和平台。
+- **Shimmer** — [https://www.ycombinator.com/companies/shimmer](https://www.ycombinator.com/companies/shimmer)  
+  - EN: 1:1 ADHD coaching, 5-10X More affordable than alternatives. Founded in 2021 by Vikram Sreedhar and Christal Wang, Shimmer has 9 employees based in San Francisco, CA, USA.
+  - 中: 1:1 ADHD 輔導，比其他選擇便宜 5-10 倍。 Shimmer 由 Vikram Sreedhar 和 Christal Wang 於 2021 年創立，擁有 9 名員工，總部位於美國加州舊金山。
+- **Shor** — [https://www.ycombinator.com/companies/shor](https://www.ycombinator.com/companies/shor)  
+  - EN: The fastest, most affordable payroll for global teams. Founded in 2025 by Daivik Goel and Avi Konduru, Shor has 3 employees based in San Francisco, CA, USA.
+  - 中: 為全球團隊提供最快、最實惠的薪資。 Shor 由 Daivik Goel 和 Avi Konduru 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Shor** — [https://www.ycombinator.com/companies/shor](https://www.ycombinator.com/companies/shor)  
+  - EN: The fastest, most affordable payroll for global teams. Founded in 2025 by Daivik Goel and Avi Konduru, Shor has 3 employees based in San Francisco, CA, USA.
+  - 中: 為全球團隊提供最快、最實惠的薪資。 Shor 由 Daivik Goel 和 Avi Konduru 於 2025 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Sirion** — [https://www.sirion.ai/](https://www.sirion.ai/)  
+  - EN: Sirion's AI Contract Management Software will redefine how your business approaches contracts.
+  - 中: Sirion 的人工智慧合約管理軟體將重新定義您的企業處理合約的方式。
+- **Smarter sheets. Effortless work.** — [https://opuzapp.com/](https://opuzapp.com/)  
+  - EN: Opuz is an intelligent layer for Excel and Sheets that lets you model, edit, format and visualise spreadsheets using plain-language commands. No formulas. No templates. Just ask and Opuz executes dire…
+  - 中: Opuz 是 Excel 和 Sheets 的智慧層，可讓您使用簡單語言指令對電子表格進行建模、編輯、格式化和視覺化。沒有公式。沒有模板。只要提出要求，奧普茲就會執行可怕的…
+- **Solva** — [https://www.ycombinator.com/companies/solva](https://www.ycombinator.com/companies/solva)  
+  - EN: Automates insurance claims and stops incorrect payouts. Founded in 2025 by Sorena Amini, Herman Båverud Olsson, and Linus Malmén, Solva has 10 employees based in . Solva is hiring for 1 roles in engin…
+  - 中: 自動執行保險索賠並停止錯誤支付。 Solva 由 Sorena Amini、Herman Båverud Olsson 和 Linus Malmén 於 2025 年創立，擁有 10 名員工，總部位於 。 Solva 正在招募 1 個工程師職位…
+- **Solve Intelligence** — [https://www.ycombinator.com/companies/solve-intelligence](https://www.ycombinator.com/companies/solve-intelligence)  
+  - EN: AI patent drafting, prosecution, harvesting and more for legal teams. Founded in 2023 by Sanj Ahilan, Angus Parsonson, and Chris Parsonson, Solve Intelligence has 21 employees based in . Solve Intelli…
+  - 中: 為法律團隊提供人工智慧專利起草、申請、收集等服務。 Solve Intelligence 由 Sanj Ahilan、Angus Parsonson 和 Chris Parsonson 於 2023 年創立，擁有 21 名員工，總部位於 .解決智慧...
+- **Speck** — [https://www.ycombinator.com/companies/speck](https://www.ycombinator.com/companies/speck)  
+  - EN: AI Notetaker that automates all your admin work. Founded in 2024 by Raghav Pillai, Speck has 3 employees based in San Francisco, CA, USA.
+  - 中: AI Notetaker 可自動執行您的所有管理工作。 Speck 由 Raghav Pillai 於 2024 年創立，擁有 3 名員工，總部位於美國加州舊金山。
+- **Splendor** — [https://www.ycombinator.com/companies/splendor](https://www.ycombinator.com/companies/splendor)  
+  - EN: We make dealing with insurance less annoying. Founded in 2024 by Tiwa Aina, Splendor has 1 employees based in Cambridge, MA, USA.
+  - 中: 我們讓與保險打交道變得不再那麼煩人。 Splendor 由 Tiwa Aina 於 2024 年創立，擁有 1 名員工，總部位於美國麻薩諸塞州劍橋。
+- **StartEngine** — [https://www.startengine.com](https://www.startengine.com)  
+  - EN: On StartEngine, everyday people can invest and buy shares in startups and early stage companies.
+  - 中: 在StartEngine上，一般人可以投資和購買新創公司和早期公司的股票。
+- **Sticky note** — (無連結)  
+智​能​體 ​根據​法規、​行業​先例​和​內部​政策​分析​文件、​媒體​和​流程，​並標​記​哪些​內容​合規、​哪些​內容​不​合規​以及​原因。​
+- **Sticky note** — (無連結)  
+Super Vertical , Corgi
+- **Sticky note** — (無連結)  
+IPO Niche
+- **Sticky note** — (無連結)  
+Crowd funding
+- **Sticky note** — (無連結)  
+solve regulation to help company to go IPO
+- **Sticky note** — (無連結)  
+Sweat spot
+- **Summation - Decision-Grade AI Platform for Enterprise Leaders** — [https://www.summation.com/](https://www.summation.com/)  
+  - EN: Summation provides verified insights that reveal hidden opportunities and power confident decisions.
+  - 中: 求和提供經過驗證的見解，揭示隱藏的機會並增強自信的決策。
+- **Sunset** — [https://www.ycombinator.com/companies/sunset](https://www.ycombinator.com/companies/sunset)  
+  - EN: Find and move money after a death. Founded in 2024 by Stephen Walter and Kaela Worthen, Sunset has 2 employees based in .
+  - 中: 死後尋找並轉移金錢。 Sunset 由 Stephen Walter 和 Kaela Worthen 於 2024 年創立，擁有 2 名員工，總部位於 。
+- **Superunit** — [https://www.ycombinator.com/companies/superunit](https://www.ycombinator.com/companies/superunit)  
+  - EN: Faster, more profitable background checks with AI. Founded in 2024 by Peter Marler and Zach Yellin-Flaherty, Superunit has 2 employees based in San Francisco, CA, USA.
+  - 中: 利用人工智慧進行更快、更有利可圖的背景調查。 Superunit 由 Peter Marler 和 Zach Yellin-Flaherty 於 2024 年創立，擁有 2 名員工，總部位於美國加州舊金山。
+- **TabAI** — [https://www.tabai.io/](https://www.tabai.io/)  
+  - EN: Weeks of Work, Done in Minutes. DCF modeling, financial statements, projections, historical analysis, and more.
+  - 中: 幾週的工作，幾分鐘內完成。 DCF 建模、財務報表、預測、歷史分析等。
+- **Tabula** — [https://www.ycombinator.com/companies/tabula](https://www.ycombinator.com/companies/tabula)  
+  - EN: AI Copilot for SMEs & their accountants in Europe. Founded in 2024 by Tim Hermes, Markus Jungnickel, and Kilian Justus, Tabula has 5 employees based in Berlin, Germany.
+  - 中: 歐洲中小企業及其會計師的人工智慧副駕駛。 Tabula 由 Tim Hermes、Markus Jungnickel 和 Kilian Justus 於 2024 年創立，在德國柏林擁有 5 名員工。
+- **Taktile - The Agentic Decision Platform** — [https://taktile.com/](https://taktile.com/)  
+  - EN: Taktile: The Agentic Decision Platform empowering financial institutions to combine the speed of AI automation with the oversight of human judgement - so teams can safely approve customers, catch more…
+  - 中: Taktile：代理決策平台使金融機構能夠將人工智慧自動化的速度與人類判斷的監督結合在一起——這樣團隊就可以安全地批准客戶、捕獲更多…
+- **Text note** — [https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/](https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/)  
+  - EN: [https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/](https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/)
+  - 中: [[https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/]](https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/]) ([https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/](https://theaiinsider.tech/2025/11/10/cipherowl-secures-15m-from-general-catalyst-flourish-ventures-and-coinbase-ventures/))
+- **Text note** — [https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/](https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/)  
+  - EN: [https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/](https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/)
+  - 中: [[https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/]](https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/]) （[https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/）](https://theaiinsider.tech/2025/09/29/salt-ai-secures-10m-to-define-the-next-era-for-contextual-ai-in-life-sciences/）)
+- **Text note** — [https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/](https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/)  
+  - EN: [https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/](https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/)
+  - 中: [[https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/]](https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/]) （[https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/）](https://theaiinsider.tech/2025/03/27/silna-health-announces-27m-in-funding-to-tackle-americas-prior-authorization-crisis/）)
+- **Text note** — [https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/](https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/)  
+  - EN: [https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/](https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/)
+  - 中: [[https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/]](https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/]) ([https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/](https://theaiinsider.tech/2025/03/27/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-agentic-ai-systems/))
+- **Text note** — [https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/](https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/)  
+  - EN: [https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/](https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/)
+  - 中: [[https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/]](https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/]) ([https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/](https://theaiinsider.tech/2025/01/10/prudentia-sciences-launches-with-7m-in-funding-to-transform-the-life-sciences-marketplace-for-dealmaking/))
+- **Text note** — [https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/](https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/)  
+  - EN: [https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/](https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/)
+  - 中: [[https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/]](https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/]) （[https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/）](https://theaiinsider.tech/2025/03/17/retinalogik-secures-1-1m-in-funding-and-health-canada-class-ii-approval-advancing-the-future-of-eye-care/）)
+- **Text note** — [https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/](https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/)  
+  - EN: [https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/](https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/)
+  - 中: [[https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/]](https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/]) （[https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/）](https://theaiinsider.tech/2025/02/27/taktile-raises-54m-to-enable-risk-experts-to-take-control-of-ai-adoption-for-decision-making-in-financial-services/）)
+- **Text note** — [https://meet.bnext.com.tw/articles/view/52553](https://meet.bnext.com.tw/articles/view/52553)  
+  - EN: [https://meet.bnext.com.tw/articles/view/52553](https://meet.bnext.com.tw/articles/view/52553)
+  - 中: [https://meet.bnext.com.tw/articles/view/52553](https://meet.bnext.com.tw/articles/view/52553)
+- **Text note** — [https://www.dcard.tw/f/youtuber/p/259130249](https://www.dcard.tw/f/youtuber/p/259130249)  
+  - EN: [https://www.dcard.tw/f/youtuber/p/259130249](https://www.dcard.tw/f/youtuber/p/259130249)
+  - 中: [https://www.dcard.tw/f/youtuber/p/259130249](https://www.dcard.tw/f/youtuber/p/259130249)
+- **Text note** — [https://www.genspark.ai/](https://www.genspark.ai/)  
+  - EN: [https://www.genspark.ai/](https://www.genspark.ai/)
+  - 中: [https://www.genspark.ai/](https://www.genspark.ai/)
+- **Text note** — (無連結)  
+Third Chair 正在為企業內部法務團隊打造專屬代理人。我們首先從媒體/娛樂產業入手，我們的代理人能夠識別智慧財產權侵權行為、收集證據，並幫助企業大規模追回數百萬美元的損失。
+- **Text note** — [https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agencies-across-north-america/](https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agencies-across-north-america/)  
+  - EN: [https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agencies-across-north-america/](https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agencies-across-north-america/)
+  - 中: [[https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agcies-across-north-america/]](https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agcies-across-north-america/]) （[https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agcies-across-north-america/）](https://theaiinsider.tech/2025/07/21/quandri-raises-12m-to-scale-ai-automation-for-insurance-agcies-across-north-america/）)
+- **Text note** — [https://theaiinsider.tech/2025/08/08/august-raises-7m-to-deliver-configurable-legal-ai-to-midsize-firms/](https://theaiinsider.tech/2025/08/08/august-raises-7m-to-deliver-configurable-legal-ai-to-midsize-firms/)  
+  - EN: [https://theaiinsider.tech/2025/08/08/august-raises-7m-to-deliver-configurable-legal-ai-to-midsize-firms/](https://theaiinsider.tech/2025/08/08/august-raises-7m-to-deliver-configurable-legal-ai-to-midsize-firms/)
+  - 中: [[https://theaiinsider.tech/2025/08/08/august-raises-7m-to-deliver-configurable-legal-ai-to-midsize-firms/]](https://theaiinsider.tech/2025/08/08/august-raises-7m-to-deliver-configurable-legal-ai-to-midsize-firms/])([https://theaiinsider.tech/2025/08/08/august-raises-7m-to-delivers-p-deliverin-c​​an-raises-7m-deliver](https://theaiinsider.tech/2025/08/08/august-raises-7m-to-delivers-p-deliverin-c​​an-raises-7m-deliver)
+- **Text note** — [https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/](https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/)  
+  - EN: [https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/](https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/)
+  - 中: [[https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/]](https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/]) （[https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/）](https://theaiinsider.tech/2025/09/22/postsig-closes-4-1m-in-funding-to-power-ai-native-intelligence-layer-for-business-documents/）)
+- **Text note** — [https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraising-platform/](https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraising-platform/)  
+  - EN: [https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraising-platform/](https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraising-platform/)
+  - 中: [[https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraise-platform/]](https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraise-platform/]) （[https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraise-platform/）](https://theaiinsider.tech/2025/04/25/instrumentl-raises-55m-from-summit-partners-to-accelerate-their-ai-grant-fundraise-platform/）)
+- **Text note** — [https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/](https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/)  
+  - EN: [https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/](https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/)
+  - 中: [[https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/]](https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/]) （[https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/）](https://theaiinsider.tech/2025/02/10/cash-is-king-neofin-secures-7m-seed-round-to-revolutionize-accounts-receivable-in-brazil-with-ai-powered-solutions/）)
+- **Text note** — [https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/](https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/)  
+  - EN: [https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/](https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/)
+  - 中: [[https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/]](https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/]) （[https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/）](https://theaiinsider.tech/2025/01/23/qumis-raises-2-2m-pre-seed-to-revolutionize-insurance-industry-knowledge-work-with-ai/）)
+- **Text note** — [https://x.com/PineGapHQ](https://x.com/PineGapHQ)  
+  - EN: [https://x.com/PineGapHQ](https://x.com/PineGapHQ)
+  - 中: [https://x.com/PineGapHQ](https://x.com/PineGapHQ)
+- **The RFP platform asset managers adopt.** — [https://www.governgpt.com/](https://www.governgpt.com/)  
+  - EN: Upon arrival we automate 90% of the process.
+  - 中: 抵達後，我們將 90% 的流程自動化。
+- **Third Chair** — [https://www.ycombinator.com/companies/third-chair](https://www.ycombinator.com/companies/third-chair)  
+  - EN: Agents for in-house legal teams. Founded in 2024 by Shourya Lala and Yoav Zimmerman, Third Chair has 2 employees based in . Third Chair is hiring for 2 roles in engineering and legal.
+  - 中: 內部法律團隊的代理人。 Third Chair 由 Shourya Lala 和 Yoav Zimmerman 於 2024 年創立，擁有 2 名員工，總部位於 。第三主席正在招募工程和法律領域的 2 個職位。
+- **Thyme** — [https://www.ycombinator.com/companies/thyme](https://www.ycombinator.com/companies/thyme)  
+  - EN: The OS for financial advisors. Founded in 2024 by Daniel Lantz and Fernando San Martin, Thyme has 2 employees based in San Francisco, CA, USA.
+  - 中: 財務顧問的作業系統。 Thyme 由 Daniel Lantz 和 Fernando San Martin 於 2024 年創立，在美國加州舊金山有 2 名員工。
+- **timveroOS - Framework-Native Lending OS & SDK** — [https://timvero.com/](https://timvero.com/)  
+  - EN: Build and run lending products faster: framework with SDK, LOS+LMS workflows, AI decisioning, compliant servicing & reporting. Cloud or on-prem with full data control.
+  - 中: 更快地建立和運行貸款產品：包含 SDK 的框架、LOS+LMS 工作流程、人工智慧決策、合規服務和報告。具有完全資料控制的雲端或本地部署。
+- **Tint** — [https://www.tint.ai/](https://www.tint.ai/)  
+  - EN: Tint is a leading embedded insurance platform, providing SaaS platforms and marketplaces with plug-and-play or white-labeled insurance.
+  - 中: Tint 是領先的嵌入式保險平台，為 SaaS 平台和市場提供即插即用或白標保險。
+- **TrueBiz** — [https://www.ycombinator.com/companies/truebiz](https://www.ycombinator.com/companies/truebiz)  
+  - EN: Instant Background Checks for Businesses. Founded in 2022 by Danny Hakimian, TrueBiz has 6 employees based in .
+  - 中: 企業即時背景調查。 TrueBiz 由 Danny Hakimian 於 2022 年創立，擁有 6 名員工，總部位於 .
+- **Use Cases** — [https://www.lido.app/use-cases](https://www.lido.app/use-cases)  
+  - EN: Lido doesn't work on mobile yet, but we'll send you an email with your login details for when you're back at a desktop!
+  - 中: Lido 尚無法在行動裝置上執行，但當您返回桌面時，我們會向您發送電子郵件，其中包含您的登入詳細資訊！
+- **Usul** — [https://www.ycombinator.com/companies/usul](https://www.ycombinator.com/companies/usul)  
+  - EN: Win defense contracts with AI. Founded in 2024 by Oliver Gomez, Joonghyun Lee, and Jarren Reid, Usul has 5 employees based in . Usul is hiring for 1 roles in engineering.
+  - 中: 利用人工智慧贏得國防合約。 Usul 由 Oliver Gomez、Joonghyun Lee 和 Jarren Reid 於 2024 年創立，擁有 5 名員工，總部位於 . Usul 正在招聘 1 個工程職位。
+- **Vantel** — [https://www.ycombinator.com/companies/vantel](https://www.ycombinator.com/companies/vantel)  
+  - EN: AI Platform for Commercial Insurance Brokerages. Founded in 2024 by Love Redin and Ulme Wennberg, Vantel has 2 employees based in . Vantel is hiring for 1 roles in engineering.
+  - 中: 商業保險經紀人工智慧平台。 Vantel 由 Love Redin 和 Ulme Wennberg 於 2024 年創立，擁有 2 名員工，總部位於 。 Vantel 正在招募 1 個工程職位。
+- **Vecindario** — [https://www.ycombinator.com/companies/vecindario](https://www.ycombinator.com/companies/vecindario)  
+  - EN: We make it easier for real estate to sell properties and mortgages. Founded in 2019 by , Vecindario has 87 employees based in Medellín, Medellin, Antioquia, Colombia.
+  - 中: 我們使房地產銷售房產和抵押貸款變得更加容易。 Vecindario 於 2019 年創立，擁有 87 名員工，總部位於哥倫比亞安蒂奧基亞省麥德林市。
+- **Versable** — [https://www.ycombinator.com/companies/versable](https://www.ycombinator.com/companies/versable)  
+  - EN: AI powered product description enhancement for the auto parts industry. Founded in 2021 by Christina Seong, Versable has 3 employees based in Los Angeles, CA, USA. Versable is hiring for 2 roles in en…
+  - 中: 人工智慧驅動的汽車零件產業產品描述增強。 Versable 由 Christina Seong 於 2021 年創立，擁有 3 名員工，總部位於美國加州洛杉磯。 Versable 正在招募 2 個職位…
+- **Vesence** — [https://www.ycombinator.com/companies/vesence](https://www.ycombinator.com/companies/vesence)  
+  - EN: Cursor for Lawyers. Agentic AI in MS Office. Founded in 2025 by Henrik Hansson and Ludvig Swanstrom, Vesence has 2 employees based in .
+  - 中: 律師的遊標。 MS Office 中的代理人工智慧。 Vesence 由 Henrik Hansson 和 Ludvig Swanstrom 於 2025 年創立，擁有 2 名員工，總部位於 .
+- **Vessel** — [https://vessel.co/](https://vessel.co/)  
+  - EN: One platform for all your investor relations needs.
+  - 中: 一個平台可滿足您所有投資者關係需求。
+- **Vetnio** — [https://www.ycombinator.com/companies/vetnio](https://www.ycombinator.com/companies/vetnio)  
+  - EN: AI Copilot that automates admin work for veterinary professionals. Founded in 2024 by Arman Karégar and Max Henry Xie, Vetnio has 6 employees based in .
+  - 中: AI Copilot 可自動化獸醫專業人員的管理工作。 Vetnio 由 Arman Karégar 和 Max Henry Xie 於 2024 年創立，擁有 6 名員工，總部位於 。
+- **Vijil** — [https://vijil.ai/](https://vijil.ai/)  
+  - EN: Vijil helps organizations build and operate autonomous agents that humans can trust
+  - 中: Vijil 幫助組織建構和運作人類可以信任的自主代理
+- **Village Labs** — [https://www.ycombinator.com/companies/village-labs](https://www.ycombinator.com/companies/village-labs)  
+  - EN: Helping America's businesses become employee owned. Founded in 2023 by Roger Cawdette and Turja Chowdhury, Village Labs has 2 employees based in New York, NY, USA.
+  - 中: 幫助美國企業實現員工所有權。 Village Labs 由 Roger Cawdette 和 Turja Chowdhury 於 2023 年創立，擁有 2 名員工，總部位於美國紐約州紐約市。
+- **Village Labs** — [https://www.ycombinator.com/companies/village-labs](https://www.ycombinator.com/companies/village-labs)  
+  - EN: Helping America's businesses become employee owned. Founded in 2023 by Roger Cawdette and Turja Chowdhury, Village Labs has 2 employees based in New York, NY, USA.
+  - 中: 幫助美國企業實現員工所有權。 Village Labs 由 Roger Cawdette 和 Turja Chowdhury 於 2023 年創立，擁有 2 名員工，總部位於美國紐約州紐約市。
+- **Visalaw.Ai - Home** — [https://www.visalaw.ai/](https://www.visalaw.ai/)  
+  - EN: AI-based research and drafting for immigration law firms.
+  - 中: 移民律師事務所是基於人工智慧的研究和起草。
+- **Warp** — [https://www.ycombinator.com/companies/warp](https://www.ycombinator.com/companies/warp)  
+  - EN: AI-native HR and Payroll for Startups. Founded in 2023 by Ayush Sharma, Warp has 20 employees based in New York, NY, USA.
+  - 中: 新創公司的人工智慧原生人力資源和薪資。 Warp 由 Ayush Sharma 於 2023 年創立，擁有 20 名員工，總部位於美國紐約州紐約市。
+- **Warp** — [https://www.ycombinator.com/companies/warp](https://www.ycombinator.com/companies/warp)  
+  - EN: AI-native HR and Payroll for Startups. Founded in 2023 by Ayush Sharma, Warp has 20 employees based in New York, NY, USA.
+  - 中: 新創公司的人工智慧原生人力資源和薪資。 Warp 由 Ayush Sharma 於 2023 年創立，擁有 20 名員工，總部位於美國紐約州紐約市。
+- **Wordsmith Legal AI** — [https://wordsmith.ai/](https://wordsmith.ai/)  
+  - EN: Complete AI platform for legal teams. Streamline contract reviews, drafting, and legal workflows with seamless integrations.
+  - 中: 為法律團隊提供完整的人工智慧平台。透過無縫整合簡化合約審查、起草和法律工作流程。
+- **Write Patents With AI** — [https://www.solveintelligence.com](https://www.solveintelligence.com)  
+  - EN: We use AI to help legal professionals write high-quality patents efficiently. We do this by providing an in-browser document editor.
+  - 中: 我們利用人工智慧幫助法律專業人士有效率地撰寫高品質的專利。我們透過提供瀏覽器內文件編輯器來做到這一點。
+- **YouTube** — [https://www.youtube.com/watch?v=tJBv3kHZtzg](https://www.youtube.com/watch?v=tJBv3kHZtzg)  
+  - EN: —
+  - 中: —
+- **Zocks** — [https://www.zocks.io](https://www.zocks.io)  
+  - EN: Save 10+ hours a week with AI. Thousands of financial advisors & wealth managers use Zocks to automate note-taking, client emails, intake forms & more.
+  - 中: 利用 AI 每週節省 10 多個小時。成千上萬的財務顧問和財富經理使用 Zocks 來自動記錄筆記、客戶電子郵件、表格等。
+- **志祺七七** — [https://www.youtube.com/shasha77](https://www.youtube.com/shasha77)  
+  - EN: 🤝 如果你想與志祺七七合作，歡迎寫信到：[hi77@simpleinfo.cc](mailto:hi77@simpleinfo.cc) 與我們聯繫 Hiho 大家好，我是志祺。 你現在收看的是志祺七七， 這裡我們會討論各種人們熱切關注的各種議題！ 遇到各種議題的時候，社會上總是充滿對立。 常常不同立場之間，只剩下謾罵，無法互相溝通、討論。 志祺七七，剖析不同立場觀點， 能讓關心社會上重要議題、擔心立場極化的你， 了解不同立場的不同想法。 ＿＿＿＿＿＿＿＿…
+  - 中: 🤝 如果你想與志祺七七合作，歡迎寫信到：[hi77@simpleinfo.cc](mailto:hi77@simpleinfo.cc) 與我們聯繫 Hiho 大家好，我是志祺。 你現在收看的是志祺七七， 這裡我們會討論各種人們熱切關注的各種議題！ 遇到各種議題的時候，社會上總是充滿對立。 常常不同立場之間，只剩下謾罵，無法互相溝通、討論。 志祺七七，剖析不同立場觀點， 能讓關心社會上重要議題、擔心立場極化的你， 了解不同立場的不同想法。 ＿＿＿＿＿＿＿＿…
+- **第一次報稅如何報稅？報稅要帶什麼？ 2025 首報族申報所得稅常見問題解答- Money101** — [https://www.money101.com.tw/blog/%E5%A0%B1%E7%A8%85-%E6%87%B6%E4%BA%BA%E5%8C%85-%E9%A6%96%E5%A0%B1%E6%97%8F-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C](https://www.money101.com.tw/blog/%E5%A0%B1%E7%A8%85-%E6%87%B6%E4%BA%BA%E5%8C%85-%E9%A6%96%E5%A0%B1%E6%97%8F-%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)  
+  - EN: 稅季來了，準備要來繳納個人綜合所得稅，不過稅報稅有非常多的規定，計算公式中的列舉扣除額、標準扣除額、免稅額，還有扶養申報、夫妻報稅、股利課稅等等不同的計稅方式，連報稅的申報方式也有五、六種，讓第一次報稅的人不知該如何是好，Money101就整理出首報族新手報稅必知、必問的五大報稅問題
+  - 中: 稅季來了，準備要來繳納個人綜合所得稅，不過稅報稅有非常多的規定，計算公式中的列舉扣除額、標準扣除額、免稅額，還有扶養申報、夫妻報稅、股利課稅等等不同的計稅方式，連報稅的申報方式也有五、六種，讓第一次報稅的人不知該如何是好，Money101就整理出首報族新手報稅必知、必問的五大報稅問題
+- **繼承1000萬的遺產，要繳5000萬的稅？這是哪門子的道理？！【陽光暖男 蘇家宏律師】** — [https://www.youtube.com/watch?v=JE5_zp6lIbU](https://www.youtube.com/watch?v=JE5_zp6lIbU)  
+  - EN: —
+  - 中: —
+- **這一款AI工具，能取代全台灣7萬名仲介！以後買房，再也不必恐懼房仲的話術了！！** — [https://www.youtube.com/watch?v=FH6bTN7re1o](https://www.youtube.com/watch?v=FH6bTN7re1o)  
+  - EN: —
+  - 中: —
+- **食品原料供應商的下一步，用 AI 把文件變知識，把作業變可控 - 華苓科技** — [https://www.flowring.com/2025/11/28/%E9%A3%9F%E5%93%81%E5%8E%9F%E6%96%99%E4%BE%9B%E6%87%89%E5%95%86%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5%EF%BC%8C%E7%94%A8-ai-%E6%8A%8A%E6%96%87%E4%BB%B6%E8%AE%8A%E7%9F%A5%E8%AD%98%EF%BC%8C%E6%8A%8A/](https://www.flowring.com/2025/11/28/%E9%A3%9F%E5%93%81%E5%8E%9F%E6%96%99%E4%BE%9B%E6%87%89%E5%95%86%E7%9A%84%E4%B8%8B%E4%B8%80%E6%AD%A5%EF%BC%8C%E7%94%A8-ai-%E6%8A%8A%E6%96%87%E4%BB%B6%E8%AE%8A%E7%9F%A5%E8%AD%98%EF%BC%8C%E6%8A%8A/)  
+  - EN: 華苓科技融合BPM、流程管理、文件管理、入口網站、雲端辦公、智慧製造、物聯網、社群商務、區塊鏈等技術打造智慧系統，協助企業達成數位轉型。
+  - 中: 華苓科技融合BPM、流程管理、文件管理、入口網站、雲端辦公、智慧製造、物聯網、社群商務、區塊鏈等技術打造智慧系統，協助企業達成數位轉型。
+- **食品廣告「美味」背後的法律風險！品牌如何用 AI 守住行銷紅線？** — [https://www.xcomply.ai/blog/food-ad-ai-violation](https://www.xcomply.ai/blog/food-ad-ai-violation)  
+  - EN: 在競爭激烈的食品市場，品牌為了吸引目光，往往用盡各種吸睛詞彙來包裝商品價值。對於行銷與品牌團隊來說，既要追求行銷效果，也要保障合規安全，除了靠經驗，更需有專業的法規守門。
+  - 中: 在競爭激烈的食品市場，品牌為了吸引目光，往往用盡各種吸睛詞彙來包裝商品價值。對於行銷與品牌團隊來說，既要追求行銷效果，也要保障合規安全，除了靠經驗，更需有專業的法規守門。
+
+---
+
+*本清單為中英對照版。分類標題與說明採「英文｜中文」格式；條目介紹以英文為主。*  
+*This list is in Chinese–English format. Section headers and notes use "English｜Chinese"; entry descriptions are in English.*

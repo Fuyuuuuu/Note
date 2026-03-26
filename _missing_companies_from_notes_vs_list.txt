@@ -1,0 +1,261 @@
+$147M
+$21.6M 總融資
+$31M Series B
+$4.6B 估值
+$46M 總融資
+$500K ARR 在上線四週內達成
+$600M+
+$7.4M Seed
+$800M 營收
+$812M 總融資
+1. Plaid 模式
+10. Pier 模式
+2. Stripe 模式
+21st.dev / 1Code
+4. 諮詢 + FDE
+5. Doola 模式
+6. Firm 轉型賦能
+600% YoY 收入成長
+7. 監管端工具（Vulcan）
+8. Marketplace / 模板
+9. AI Employee 訂閱
+Aaron
+Accounting
+Accounting & audit $50-80B
+Addy AI
+Agent + 按任務收費
+Agent 自身合規市場
+Agentive
+AI 模式
+AI 治理 / 合規
+AI 治理/合規
+AI 記帳合規
+AJ Asver
+AlphaPrivacy AI
+Alvin Salehi（CEO）
+Ambiguous
+AML 篩查：
+Anchr
+Annotations 是本地的
+AP 自動化
+APAC / 東南亞 ASEAN
+APAC 金融執照
+API + Autopilot
+API + Platform
+API + 用量計費
+API 級上下文
+AR 自動化
+Arcline
+Artifact
+Autopilot + Platform
+Autopilot + 替代定價
+Autopilot：
+Avenir AI
+B2B2C / 嵌入 B2B2C
+Bancoli
+Bek 框架
+Billow
+Blend
+BotBot
+Brainbase AI
+Brico / Payna
+Bridge.xyz
+Brief
+BSA/AML：
+Call reports / regulatory reporting：
+Campfire / Stripe
+Cash Application
+Claude Code / Claude Cowork
+Claude Code SDK 當底層
+Clawbots
+CodeGuard AI
+Coding Niche / Build Compliance Prototype
+Collections compliance：
+Compliance Officers
+Complyance（GRC）
+Copilot + Autopilot
+Covenant compliance：
+Cranston / AI 事務所
+Crunched
+CSC Global
+CSRD / SFDR
+Cumbuca 模式
+Denki AI / Oxus AI
+Denki/Oxus
+Doola
+Dr. Aldo Lipani
+Eloquent AI
+Ema AI
+EmaFusion™
+End Close
+Eos
+ESG
+EverCurrent
+Excess & Surplus (E&S) 保險市場
+Fact Checking
+Factity AI
+Fair Lending（ECOA/Fair Housing Act）：
+FCRA：
+FDA 製藥
+Fearn
+Fed10
+Feedback 流回給作者
+Feroot
+Fintool 思路
+Flutterwave
+Forbes Top 50 FinTechs 2025
+General Catalyst
+Generative Workflow Engine™
+Genspark
+Geoff
+Glean
+Global Trade / 跨境電子商務合規
+Golden Bridge
+Gov / FedRAMP / 政府採購審核
+Greg Rami（CTO）
+GTM
+HappyRobot
+Harbor Compliance
+HealthData Shield AI
+High Risk Countries：
+High Risk Industries：
+HMDA：
+HVAC 合規 / 承包商執照
+Impact Report 生成
+Incremental fetch
+Intelligence work：
+IP / 專利合規
+IPO Niche
+Isabela Rodriguez
+Ivan Tsarynny
+Jooba
+Justinian
+Knowledge Hub + Agent
+Knowledge Hub + API
+Knowledge Hub + Platform
+KYB 審查：
+KYC / AML / 反洗錢
+KYC/AML/反洗錢
+Labyrinth
+Law
+Layerpath
+Legal & Contract Teams
+Legal transactional $20-25B
+Lexi AI
+Limy AI
+Loan Labs
+LoanOfficer.ai
+Lock-in 策略
+Logical Health
+Maniac
+Manufacture / F4 / VLA / CAD
+Manus AI
+Margin
+Marketing / AI Content Compliance
+MCC Classification：
+Metal
+Miguel
+Minerva
+MobileGuard AI
+Mohammed Hayat
+Moona Health
+Mukund Goenka
+Next.js
+Nexxa.ai
+NMLS 本身
+Noetic
+OpenAI Frontier
+Pallet
+Paralegal / LPO $36B
+Pat Utz
+Paul Bruin
+Pavan Bayyapu
+PaymentGuard AI
+Payroll & compliance $50-70B
+PEP Exposure：
+Peter Thiel 起步哲學
+Pier Finance
+Pipe
+Presia
+Prox
+QM/ATR Rules：
+Raycaster
+React
+Regulatory Proxy（監管代理）
+RESPA：
+Rhizome AI
+Risk & Audit Teams
+Risk & Opportunity 識別
+Sans Strings Studio
+Sarah AI
+Scoop
+Security Managers
+SOC 2 Type 2 認證
+SOC2 / ISO / HIPAA 自動化
+SOC2/ISO/HIPAA 自動化
+Solon
+Sourcerer
+SOX / 金融合規
+Stack AI
+State-specific：
+Stripe + Atlas + Agent
+Tax advisory $30-35B
+TherapiAI
+Tom
+Tony Montes
+Translation Layer + Autopilot
+TRID（TILA-RESPA）：
+TRUE
+Tugce Bulut
+UCC（Uniform Commercial Code）：
+Valor
+Vanta
+Vanta 市場
+Varick Agents
+Veriad
+Vitaliy Lim
+Vulcan
+Wedge AI
+Wolters Kluwer / CT Corporation
+YC Batch
+YC Spring 2026
+YC W26
+Zest AI
+① Copilot（人問 AI 答）
+① 按任務收費（pay-per-task / credit-based）
+② Autopilot（AI 直接做）
+② SaaS 訂閱（月/年、seat）
+③ API / Infrastructure
+③ 項目制 ACV（年約）
+④ API 用量計費（usage-based）
+④ Platform / OS
+⑤ Translation Layer（翻譯層）
+⑤ 成功抽成（outcome-based）
+⑥ Agent（端到端執行者）
+⑥ 替代定價（vendor swap）
+三天 close，12 倍超額認購
+中東 GCC
+你的 API 對他們的價值
+供應鏈 AI 代理
+內部稽核 / SOX 稽核
+嵌入 B2B2C
+廣度 vs 深度
+建築 / Construction 合規與專案 Agent
+按 connection 收費
+數據 → 標準化 API
+法規 AI chatbot
+法規→AI 可消費格式
+知識 → AI 工作平台
+硬體安全認證（CE、FCC、UL、ISO、FAA 等）
+私募 / PE 合規
+私募/PE 合規
+網站隱私合規（PCI DSS、GDPR、CCPA 等）
+藥品法規寫作（CTD、IND、BLA 等）
+融合是結果，不是 Day 1 設計
+賣工作成果（work）
+賣工具（tool）
+醫療執照 / Credentialing（跨州）
+醫療機構 AI 合規
+靈活 FinTech / Capital Market
+食品 / CPG / 飲料許可證
+高 intelligence

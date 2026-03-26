@@ -1,0 +1,434 @@
+[CannabisRegulations.ai](http://CannabisRegulations.ai)
+Aaron
+Abstract
+Accounting
+Accounting & audit $50-80B
+Addy AI
+Agent + 按任務收費
+Agent 自身合規市場
+Agentive
+AI 模式
+AI 治理 / 合規
+AI 治理/合規
+AI 記帳合規
+AJ Asver
+AlphaPrivacy AI
+Alvin Salehi（CEO）
+Ambiguous
+AML 篩查：
+Anchr
+Annotations 是本地的
+AP 自動化
+APAC / 東南亞 ASEAN
+APAC 金融執照
+API + Autopilot
+API + Platform
+API + 用量計費
+API 級上下文
+AR 自動化
+Arcline
+Artifact
+Autopilot + Platform
+Autopilot + 替代定價
+Autopilot：
+Avenir AI
+B2B2C / 嵌入 B2B2C
+Balance
+Bancoli
+Bek 框架
+Billow
+Blend
+BotBot
+Brainbase AI
+Brico
+Brico / Payna
+Bridge.xyz
+Brief
+BSA/AML：
+Call reports / regulatory reporting：
+Campfire / Stripe
+Cash Application
+Checkr
+Claude Code / Claude Cowork
+Claude Code SDK 當底層
+Clawbots
+CodeGuard AI
+Coding Niche / Build Compliance Prototype
+Collections compliance：
+Compliance Library as a Service
+Compliance Officers
+Complyance
+Complyance（GRC）
+Context Engine
+Context Evals
+Context Workspace
+Context 來源
+Context.ai
+Copilot + Autopilot
+Covenant compliance：
+Cranston / AI 事務所
+Crunched
+CSC Global
+CSRD / SFDR
+Cumbuca
+Cumbuca 模式
+Denki AI / Oxus AI
+Denki/Oxus
+Doola
+Dr. Aldo Lipani
+EigenPal
+Eloquent AI
+Ema AI
+EmaFusion™
+End Close
+Eos
+ESG
+EverCurrent
+Excess & Surplus (E&S) 保險市場
+Fact Checking
+Factity AI
+Fair Lending（ECOA/Fair Housing Act）：
+FCRA：
+FDA 製藥
+Fearn
+Fed10
+Feedback 流回給作者
+Feroot
+Fintool 思路
+Flutterwave
+Forbes Top 50 FinTechs 2025
+FullSeam
+General Catalyst
+Generative Workflow Engine™
+Genspark
+Geoff
+Glean
+Global Trade / 跨境電子商務合規
+Golden Bridge
+Gov / FedRAMP / 政府採購審核
+Greg Rami（CTO）
+GTM
+HappyRobot
+Harbor Compliance
+HealthData Shield AI
+High Risk Countries：
+High Risk Industries：
+HMDA：
+HVAC 合規 / 承包商執照
+Impact Report 生成
+Incremental fetch
+Intelligence work：
+IP / 專利合規
+IPO Niche
+Isabela Rodriguez
+Ivan Tsarynny
+Jinba
+Jooba
+Justinian
+Knowledge Hub + Agent
+Knowledge Hub + API
+Knowledge Hub + Platform
+KYB 審查：
+KYC / AML / 反洗錢
+KYC/AML/反洗錢
+LaaS 模式
+Labyrinth
+Law
+Layerpath
+Legal & Contract Teams
+Legal transactional $20-25B
+Lexi AI
+Library as a Service (LaaS)
+Library → Agent 可調用的服務
+Limy AI
+Loan Labs
+LoanOfficer.ai
+Lock-in 策略
+Logical Health
+Maniac
+Manufacture / F4 / VLA / CAD
+Manus AI
+Margin
+Marketing / AI Content Compliance
+MCC Classification：
+Metal
+Miguel
+Minerva
+MobileGuard AI
+Mohammed Hayat
+Moona Health
+Mukund Goenka
+Next.js
+Nexxa.ai
+NMLS 本身
+Noetic
+Norm AI
+OpenAI Frontier
+OpenEvidence
+Pallet
+Panta
+Paralegal / LPO $36B
+Pat Utz
+Paul Bruin
+Pavan Bayyapu
+PaymentGuard AI
+Payna
+Payroll & compliance $50-70B
+PEP Exposure：
+Peter Thiel 起步哲學
+Pier Finance
+Pipe
+Plaid
+Presia
+Prox
+Proximitty
+QM/ATR Rules：
+Raycaster
+React
+Reducto
+Regology
+Regulatory Proxy（監管代理）
+RESPA：
+Rhizome AI
+Risk & Audit Teams
+Risk & Opportunity 識別
+Sans Strings Studio
+Sarah AI
+Scoop
+Security Managers
+SOC 2 Type 2 認證
+SOC2 / ISO / HIPAA 自動化
+SOC2/ISO/HIPAA 自動化
+Solon
+Sourcerer
+SOX / 金融合規
+Stack AI
+State-specific：
+Stilta
+Stripe + Atlas + Agent
+Tax advisory $30-35B
+TherapiAI
+Tom
+Tony Montes
+Translation Layer + Autopilot
+TRID（TILA-RESPA）：
+TRUE
+Tugce Bulut
+UCC（Uniform Commercial Code）：
+Valor
+Vanta
+Vanta 市場
+Varick Agents
+Veriad
+Vitaliy Lim
+Vulcan
+Vulcan Technologies
+Wedge AI
+Wolters Kluwer / CT Corporation
+YC Batch
+YC Spring 2026
+YC W26
+Zest AI
+一句話
+一句話定位
+三天 close，12 倍超額認購
+上游
+上游 ←
+上線才幾週
+下游
+中市場
+中東 GCC
+交付形式
+交通 / 物流許可證
+交通/物流許可證
+介面
+低競爭
+你的 API 對他們的價值
+使用場景
+供應鏈 AI 代理
+保險
+保險代理人執照（50 州）
+保險合規
+保險經紀 / 保險合規
+保險經紀合規
+個人報稅 / 帳單檢查
+傳統模式
+內部審計自動化
+內部稽核 / SOX 稽核
+全球法規數據庫
+全球薪資合規
+全部串起來
+公司
+具體客戶
+分散的數據源
+切入點
+創辦人背景
+勞動合規 / 薪資合規
+勞動合規自動化
+危險品法規
+取代誰
+台灣
+合規知識來源
+合規自動化平台
+合規處理
+合規認證
+合規類型
+員工
+商戶風險合規
+商業模式
+商業貸款服務
+團隊
+團隊規模
+地域範圍
+地理
+地理覆蓋
+型態
+執照申請
+大市場
+大麻法規 / 執照申請
+學術 + 金融機構深度關係
+安全認證
+完美適合
+定位
+定價
+客戶
+客戶得到什麼
+客戶最終狀態
+客戶規模
+客戶類型
+客戶（公部門）
+客戶（私部門）
+客戶：BitGo、Better、Marqeta、Bilt、Funding Circle、Tilt (Empower)
+專利侵權監測
+對帳
+小市場（長尾）
+嵌入 B2B2C
+州層：
+差異化角度
+已外包
+已外包/人力密集：
+已外包：
+已簽六位數年合約
+平台安全合規
+廣度 vs 深度
+建築 / Construction 合規與專案 Agent
+建築/營造
+建築許可 / 審圖
+弱點
+成功抽成
+成立
+成立：
+房地產
+房地產合規（房產稅、租賃法規、銀行合規）
+房產稅+租賃法規+銀行合規
+技術
+技術架構
+技術路線
+投資人
+抵押貸款 / 房貸
+抵押貸款合規
+拉丁美洲 / 巴西
+持續維護
+指標：
+按 connection 收費
+擴展方向
+擴展路徑
+教育 / 培訓認證
+教育/培訓
+教育/培訓認證
+整合方式
+數據 → 標準化 API
+文件 → 結構化數據
+時間價值
+核心功能
+核心問題
+核心差異
+核心資產
+模式
+歐盟 27 國
+每個州分別申請牌照
+法規 AI chatbot
+法規→AI 可消費格式
+法規→知識圖譜
+法規監測 / 政策情報
+法規監測情報
+法規知識圖譜
+法規範圍
+法規級上下文
+法規覆蓋
+海關合規
+消費貸款合規
+演化順序的範例
+無人機 / 自駕車許可
+無人機商業
+然後
+營收
+牌照本身
+物流 / 車隊合規
+獨特優勢
+環境
+環境許可證
+產品型態
+產品形態
+用戶
+監管機構 / 市政審查
+目前的解決方案
+目標客戶
+知識 → AI 工作平台
+知識 → 專業決策
+知識來源
+硬體安全認證（CE、FCC、UL、ISO、FAA 等）
+私募 / PE 合規
+私募/PE 合規
+端到端硬體合規
+策略投資者
+維度
+網站隱私合規
+網站隱私合規（PCI DSS、GDPR、CCPA 等）
+線上博弈 / 運動博彩
+縣/市層：
+美國 50 州
+聯邦層：
+自駕 / 機器人安全驗證
+自駕安全驗證
+藥品法規寫作
+藥品法規寫作（CTD、IND、BLA 等）
+處理什麼
+融合是結果，不是 Day 1 設計
+融資
+融資：
+行業層：
+行業聚焦
+行業覆蓋
+解決什麼痛點
+解決的問題
+解法
+訂閱制
+護城河
+賣什麼
+賣工作成果（work）
+賣工具（tool）
+跟你的關係
+跨境貿易合規
+跨境電商產品合規
+跨管轄區趨勢
+車隊合規
+運輸/物流
+運輸法規
+遠距醫療執照
+避免一次做滿
+醫療合規自動化
+醫療執照 / Credentialing（跨州）
+醫療執照/認證
+醫療機構 AI 合規
+金融執照（50 州）
+金融執照（美國 50 州）
+銷售方式
+關稅 / 進出口合規
+關稅法規
+階段 1→4 演化
+靈活 FinTech / Capital Market
+食品 / CPG / 飲料許可證
+食品/飲料
+食品/飲料許可證
+高 intelligence
