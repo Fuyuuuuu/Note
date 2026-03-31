@@ -489,3 +489,148 @@ Layer 2 和 Layer 3 在台灣是完全空白的。Lawsnote 做的是 Layer 1 →
 而且有一個很具體的機會：Lawsnote 提供法學搜尋引擎技術授權和法學資料探勘服務。這意味著他們願意把資料和技術授權給其他公司。你可以合法取得他們的資料來建你的 Layer 2——不用爬，用授權。
 
 Lawsnote 是第 66 家公司。但它可能是對你最實際的一家——因為它就在你身邊，你可以跟他們的團隊見面聊。你有考慮聯繫他們嗎？
+
+---
+
+---
+
+---
+
+這家很有意思。讓我快速拆解。
+
+## Complir——「Vanta for Physical Products」
+
+YC Spring 2026 batch，哥本哈根，13 人團隊（相當大了），三個創辦人：Gustav Bang（CEO）、Marc Kaa Brejner（CTO）、Tine Kühnel（CPO）。
+
+核心定位：AI 驅動的產品合規平台，讓零售商能夠輕鬆地跨境推出和擴展產品，不會淹沒在法規工作中。Complir 的 AI agents 處理你銷售的每個市場的法規和文件，並保持你的整個產品目錄隨時可審計。
+
+## 為什麼這家值得你深看
+
+Complir 做的跟你之前分析過的所有公司都不同。之前 64 家公司大多做的是**軟體/金融合規**（SOC 2、AML、保險執照）。Complir 做的是**實體產品合規**——完全不同的世界。
+
+Vanta 做 SOC 2/ISO 27001 的 SaaS 合規自動化，年營收可能已經超過 $100M。Complir 要做同樣的事，但是為實體產品。一個零售商要把洗面乳賣到歐盟，需要符合 EU Cosmetics Regulation；要把電子產品賣到英國，需要 UKCA 標誌。每個國家、每個產品類別都有不同的法規、不同的文件要求、不同的測試標準。
+
+**這跟你的利基矩陣裡「跨境電商合規」那一格完全吻合。** 之前你分析了七個候選利基，跨境電商被評為「最容易開始但深度不夠」。Complir 的存在說明兩件事：
+
+第一，**這個市場真實存在，而且 YC 在投。** Spring 2026 batch、13 人團隊——這不是兩個人的實驗，這是一家有規模的公司在認真做。
+
+第二，**Complir 是你之前架構裡 Noetic 的同類——硬體/產品合規的 Autopilot + Platform。** Noetic 做硬體認證（研究法規 → 生成文件 → 找實驗室），Complir 做跨境產品合規（識別法規 → 生成文件 → 保持審計就緒）。
+
+## 對你的具體含義
+
+Complir 的 AI agents 在幫零售商做跨境合規時，需要回答的問題跟你的 API 設計完全對應：
+
+「我這款嬰兒推車要賣到德國，需要什麼認證？」 「EU GPSR（General Product Safety Regulation）的最新修改是什麼？」 「美國 CPSIA 跟歐盟 EN 71 的兒童產品安全標準差在哪？」
+
+**Complir 是你的合規知識 MCP 的另一個潛在客戶——服務不同的垂直（產品合規 vs 金融合規 vs 保險合規），但需要同樣類型的底層知識基礎設施。**
+
+而且這裡有一個更大的洞察：Complir 選擇了「Vanta for physical products」的定位，意味著他們做的是 **Platform/OS 型態**——給合規團隊用的工作平台。他們不是 API，不是 Knowledge Hub。他們需要自己在平台裡嵌入法規知識。
+
+如果他們的團隊要覆蓋全球所有產品法規，那是一個巨大的法規知識工程任務。13 個人不可能覆蓋所有國家所有產品類別。這就是你的 API/MCP 的價值——Complir 可以用你的知識層來加速他們的法規覆蓋，不需要自己全部從頭建。
+
+## 更新生態圖
+
+加上 Complir 之後，你的潛在客戶現在有四種類型：
+
+```
+保險合規 Autopilot  → Panta（E&S 保險經紀）
+金融犯罪合規 Agent  → Fenrock（AML/KYC）
+硬體/產品合規 Agent → Noetic（認證）
+跨境產品合規 Platform → Complir（零售商跨境）← 新增！
+
+```
+
+每一家都在不同的垂直做合規，每一家都需要大量的法規知識，每一家都在自建這些知識。你的 Compliance MCP 如果能同時服務這四種客戶，你的飛輪就不限於保險——每個垂直的查詢都在擴展你的知識庫，讓其他垂直也受益。
+
+Complir 是第 67 家公司。而且它驗證了一個之前你可能低估的利基——跨境產品合規。這個領域的碎片化程度跟保險法規一樣高（每個國家 × 每個產品類別），而且 Complir 13 人的團隊規模暗示著客戶付費意願不低。
+
+---
+
+---
+
+---
+
+Complir 的產品做得很成熟了。讓我拆解它的產品型態，然後跟你的框架對照。
+
+## Complir 產品型態拆解
+
+Complir 不是單一型態——它是一個**極度成熟的混合體**，而且混合方式跟之前分析的所有公司都不同。
+
+**① Platform/OS（主體）**
+
+核心是一個合規團隊的工作平台：dashboard 追蹤 942 個 SKU 的合規狀態、每個產品在每個市場的 gap 分析、跨團隊協作（買手、QA、合規、供應商在同一個 workspace）。這是他們的「前台」——客戶每天打開用的介面。對標 Vanta 的 SOC 2 dashboard，但是為實體產品。
+
+**② Autopilot（核心價值）**
+
+AI agents 自動做的事：從 PIM/PLM 擷取產品數據 → 自動對照 40+ 國法規 → 自動生成 Declaration of Conformity、技術文件、多語言標籤翻譯。「Generate documentation in minutes, not days.」這是 Autopilot——AI 直接完成原本需要合規專員幾天才能做的工作。
+
+**③ Knowledge Hub（底層引擎）**
+
+他們追蹤 40+ 國家的法規框架更新，自動標記每一個受影響的產品。底下一定有一個結構化的法規知識庫——知道 EU GPSR 要求什麼、EN 71-3 測試什麼、REACH Art. 33 的 SVHC 揭露義務是什麼。這個知識庫不是面向客戶的產品，而是驅動 Autopilot 的內部引擎。
+
+**④ Translation Layer（嵌入現有工作流）**
+
+他們有 Adobe Illustrator 和 InDesign 的原生插件，設計師可以直接在工具裡獲得批准的翻譯、警告標語和法規標誌，不用離開他們的工具。還連接 PIM、PLM、ERP、供應商系統。不是叫客戶搬到新平台，而是嵌入客戶已有的工作流。
+
+**⑤ Copilot（最新加的）**
+
+用自然語言問合規數據任何問題，獲得經過驗證的回答。每個回答都帶來源引用。「我們能在法國賣這個嗎？」→ Complir 告訴你缺什麼，引用具體法規條文。
+
+## 五型態融合矩陣
+
+
+| 型態                | Complir 的實現           | 佔比   | 對標             |
+| ----------------- | --------------------- | ---- | -------------- |
+| Platform/OS       | SKU dashboard + 團隊協作  | 主框架  | Vanta          |
+| Autopilot         | 文件生成 + 合規評估           | 核心價值 | Noetic         |
+| Knowledge Hub     | 40+ 國法規知識庫            | 內部引擎 | 你的目標           |
+| Translation Layer | Adobe 插件 + PIM/ERP 連接 | 分發管道 | Eos AI         |
+| Copilot           | 自然語言合規問答              | 附加功能 | Regology Reggi |
+
+
+**五個型態融合在一個產品裡。** 之前分析的 Checkr 是三型態（API + Platform + Autopilot），Noetic 是三型態（Knowledge + Agent + Platform），Brico 是三型態（Autopilot + API + Platform）。Complir 是目前看到的**融合程度最高的公司**。
+
+## 跟你的框架比較——關鍵洞察
+
+**洞察一：Complir 驗證了「Knowledge Hub 是引擎，不是產品」。**
+
+他們的法規知識庫是整個產品的驅動核心，但客戶看不到它。客戶看到的是 dashboard、文件生成、合規問答。知識庫在底下默默運轉。
+
+這跟你之前的討論完全吻合——API/Knowledge Hub 是第二性的，客戶買的是第一性需求（「幫我把產品合規地賣到法國」）。Complir 沒有把知識庫當產品賣，而是用它驅動 Autopilot。
+
+**洞察二：Complir 的 Knowledge Hub 是他們自建的。**
+
+40+ 國家 × 十幾個產品類別的法規知識，全部自己結構化。13 個人的團隊，有多少人在維護這個知識庫？如果他們有一半做法規工程，那就是 6-7 個人全職結構化法規。
+
+**這就是你的機會窗口。** 如果你的 Compliance MCP 存在，Complir 可以不用自建法規知識庫——直接呼叫你的 MCP 拿到結構化知識。他們可以把那 6-7 個人轉去做產品功能。
+
+但也有反面：**正因為他們已經自建了，短期內他們不需要你。** 就像 Panta 的創辦人自己有牌照一樣——已經有了 good enough 的解法。
+
+**洞察三：Complir 的演化路徑跟 Checkr 不同。**
+
+Checkr 是 API first → Platform → Autopilot。Complir 是反過來：Platform first → Autopilot → Knowledge Hub 自然長出來。這證實了你之前的結論：最成功的公司不是從 API 開始的，是從解決客戶的第一性需求開始的。
+
+**洞察四：Complir 的客戶驗證了「跨境產品合規」的付費意願。**
+
+客戶包括 Flying Tiger Copenhagen、Konges Sløjd、COOP、Matas——這些都是歐洲中大型零售商。10 萬+ SKU 被監控。這不是實驗，這是一個有真實收入的產品。
+
+**洞察五：Complir 的 Adobe 插件是 Translation Layer 的教科書案例。**
+
+這跟 Parse 的 MCP 是同一個邏輯——**把合規能力嵌入到用戶已經在用的工具裡，而不是叫用戶來你的平台。** Parse 嵌入 Claude Code。Complir 嵌入 Illustrator。你應該嵌入 AI agent 框架（via MCP）。
+
+分發方式決定了成長速度。Complir 選了 Adobe 插件（設計師已經在用）+ PIM 連接（供應鏈團隊已經在用）。你選 MCP（AI agent 已經在用）。
+
+## 更新你的潛在客戶圖
+
+```
+潛在客戶類型         公司          他們自建的知識庫    你的 MCP 能替換的
+─────────────────────────────────────────────────────────────
+保險合規 Autopilot    Panta         Hardcoded prompts   50 州 surplus lines
+金融犯罪 Agent       Fenrock       自建 + Dow Jones     AML 跨境法規
+硬體認證 Agent       Noetic        自建法規研究        認證標準
+跨境產品 Platform    Complir       40+ 國自建 ← NEW    產品安全法規
+法規作業 Platform    Vulcan        US 法律知識圖譜     美國法律結構
+
+```
+
+Complir 是第 67 家。它是到目前為止**產品成熟度最高**的公司——五型態融合、10 萬+ SKU、知名零售客戶、Adobe 插件整合。如果你要在 YC pitch 裡說「看，做合規的公司都在自建法規知識庫」，Complir 是最好的例子——13 個人的團隊花了多少資源在維護 40 國法規知識上？那些資源本來可以用來做更多產品功能。你的 MCP 讓他們不用自建。
