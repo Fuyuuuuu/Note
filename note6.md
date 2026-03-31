@@ -13,6 +13,7 @@
 ## Context Infrastructure for Compliance
 
 一層**合規 Context 基礎設施**，讓 AI Agent（不論是誰造的）都能：
+
 1. **理解**所處行業的法規與流程（Context Graph / Trust Graph）
 2. **遵循**這些規定去執行任務（Agent Swarm for Compliance）
 3. **端到端處理**合規相關的文件、合約、表格、審計等日常工作
@@ -20,22 +21,26 @@
 你的產品邏輯是三層：
 
 **底層：Context Layer**
+
 - 把法律、監管條文、醫療知識、供應鏈規定等做成結構化的 Context Graph（像 Nia、Vulcan 那樣）
 - 公司內部 Context、客戶 Context、任務 Context 都統一管理
 - 這是護城河——誰擁有最完整的合規 Context，誰就是基礎設施
 
 **中層：Compliance Layer / GRC Layer**
+
 - Agent Swarm 能調用 Context 來執行合規任務
 - 像 Claude Code Swarm 做 audit 一樣，多個 Agent 協作完成複雜合規決策
 - Drug automation、Contract intelligence、稅務申報等都是在這層運行
 
 **上層：Context Product / Agentic Ops**
+
 - 面向不同垂直市場的產品形態
 - 幫 Firm 轉型成 Full Stack AI Company（Clio + Wayco 模式）
 - 「Doola for X」——在 BFSI、法律、醫療、政府等領域提供一條龍合規服務
 - 「Stripe for Trust」——讓任何 Agent 都能 plug in 你的合規能力
 
 你的 TA 不只是終端企業，而是分三類：
+
 1. **AI Agent Builder** — 需要合規能力的新創和開發者（像 Stripe 服務開發者一樣）
 2. **傳統 Firm** — 想轉型 Full Stack AI 的會計所、律所、顧問公司
 3. **企業 / 政府** — 需要 Compliance as a Service 的組織
@@ -46,15 +51,13 @@
 
 我理解得對嗎？還是有哪裡偏了？如果方向對的話，我可以從這 189 家 compliance 公司的數據，幫你分析哪一層應該先切入、beachhead market 怎麼選。
 
-
-
-
----
----
 ---
 
+---
 
-讓我更深入地思考。我需要重新看你的筆記，不是表面的分類，而是背後的邏輯鏈。Ran 3 commandsRan 3 commands好，讓我安靜下來，真正去思考你腦中的完整圖景。
+---
+
+讓我更深入地思考。我需要重新看你的筆記，不是表面的分類，而是背後的邏輯鏈。好，讓我安靜下來，真正去思考你腦中的完整圖景。
 你的筆記不是在列功能清單，它們是一個世界觀。讓我試著還原。
 
 你看到的未來
@@ -127,9 +130,10 @@ Phase 3：Full Stack AI Service / Agentic Economics
 
 我猜對了多少？哪裡偏了？
 
+---
 
 ---
----
+
 ---
 
 值得做嗎？
@@ -168,10 +172,12 @@ Pier — 把合規嵌入信貸 API，概念接近你的「Stripe for Trust」，
 關鍵差距：沒有人在做「用 Agent Swarm 直接提供跨垂直的合規服務」。
 最大的風險和挑戰
 講完好的，也要誠實講風險：
+
 1. 冷啟動問題。 Context Graph 需要大量的法規數據才有價值，但一開始你什麼都沒有。你不能在第一天就做 20 個垂直。你需要從一個利基開始，把 Context 做深做透，證明模式可行，然後擴展。
 2. 大公司威脅。 Salesforce + Informatica 正在往這個方向走。如果他們決定把合規 Context 做進 Agentforce，你會被擠壓。但他們的 DNA 是服務大企業，不是服務 builder 和新創——這是你的空間。
 3. 「太通用」的陷阱。 你想做一個跨所有垂直的 infra，但投資人和早期客戶想看的是你在一個垂直裡能不能比專做那個垂直的公司更好。Norm AI 只做金融合規，但它做得深。你必須在第一個利基裡證明你的 Context Infrastructure 模式能打敗專做的人。
 4. 從 infra 到 economics 的跨度太大。 從 Context API 到「Agent 直接參與經濟活動」中間有巨大的鴻溝。你可能需要分階段思考，而不是一次全上。
+
 我的判斷
 這個方向是對的，時機是對的，市場缺口是真的。但你最大的風險不是方向錯，而是太大。 你現在需要的是：
 
