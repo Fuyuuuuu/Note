@@ -1285,3 +1285,93 @@ Mintlify 路径：文件工具 → AI 知识介面 → MCP → 收购 RAG → AI
 Nia 和 [21st.dev](http://21st.dev) 处理的是**已经有结构**的内容（代码有语法、元件有 props）。Mintlify 处理的是**半结构化**的内容（Markdown 文件）。Manicule 处理的是**需要人类判断**的内容（产品定位和讯息传达）。
 
 你处理的法规知识是**最难结构化的**——PDF、扫描件、模糊的法律语言、管辖区差异、法规间的矛盾关系。这意味着：起步更慢、门槛更高，但护城河也最深。索引是技术问题（可复制），结构化法规是领域知识问题（不可复制）。
+
+
+
+Hadrius 非常值得深入看。這是你生態系裡一個重要的拼圖。
+
+## Hadrius——金融合規的 full-stack Autopilot
+
+### 基本面
+
+2023 年成立，Thomas Stewart（連續創業者，有過 exit）、Som Mohapatra（投資組合經理兼 CCO）、Allen Calderwood（前 Google、前 Chime 資深工程師）共同創立。三人之前一起創辦並經營了 SEC 註冊的機器人投顧 Quantbase 兩年，深刻體會到 SEC 合規的痛苦。
+
+總融資 $28.8M，兩輪。YC W23，51 名員工，正在招 17 個職位。
+
+500+ 金融機構客戶，覆蓋 $5T+ AUM。客戶包括 M1 Finance、Republic、SmartAsset、Altruist、BBVA、Mercury、Sagard 等。
+
+### 產品——五大模組
+
+Firm Oversight（集中風險追蹤、自動合規測試、可審計報告）、Marketing Oversight（AI 驅動的行銷審查）、Employee Oversight（即時監控個人交易、認證）、Communications Oversight（email、聊天、社媒監管）、Transaction Oversight（員工和公司交易監控）。
+
+數字驚人：每位用戶每週節省 19 小時，99% 減少誤報，行銷審查週期減少 10 倍，電子通訊監管時間減少 96%。
+
+### 創辦人背景——這是關鍵
+
+Thomas Stewart 輟學創辦第一家公司 Quantbase（一個網路投資公司），不到一年就成長到數千萬 AUM，賣給了競爭對手。用那筆錢幫助資助和發展 Hadrius。現在他在賣合規軟體給「長得像 Quantbase」的公司。
+
+這跟 Panta 的故事一模一樣——**自己痛過，然後自動化自己的痛。**
+
+## Hadrius 對你的戰略意義
+
+Hadrius 跟你之前分析的公司都不一樣。它不是做「法規知識」的（Parsagon、Regology），不是做「法規編碼」的（Norm AI），不是做「合規框架管理」的（Complyance）。
+
+**Hadrius 是一個 full-stack 合規作業系統——面向人類合規團隊的 Platform + Autopilot。** 它自動化的是合規團隊的日常工作流程：審查行銷材料、監控員工通訊、追蹤交易、管理認證。
+
+### 在你的七種產品型態裡的位置
+
+Hadrius = **Platform（合規團隊的工作台）+ Autopilot（自動完成合規任務）+ Copilot（AI 輔助審查）**。三種型態的融合，非常成熟。
+
+但注意——Hadrius 是**面向人類**的。合規主管用 Hadrius 的 dashboard 來管理。不是讓 AI agent 自動做合規決策。
+
+### Hadrius 跟你的關係
+
+Hadrius 服務的是「有人類合規團隊」的金融機構——500+ 家 RIA、broker-dealer、私募基金。他們的客戶已經有 CCO，已經有合規流程，只是流程太慢太手動。
+
+你服務的是「根本沒有合規團隊」的 AI-native 新創——Panta、Fenrock 這種 2-3 人團隊，他們的 AI agent 直接做合規決策，不經過人類合規官。
+
+**但這裡有一個更深的洞察。**
+
+Hadrius 的存在揭示了一個你之前可能低估的市場現實：**大部分金融合規市場仍然是「人類做決策，軟體幫忙管理」的模式。** 500 家機構、$5T AUM、$28.8M 融資——這都是面向人類合規團隊的。AI agent 自主做合規決策（Panta 模式）目前還是極少數。
+
+這意味著兩件事：
+
+**第一，你的 Autopilot agent 市場（Panta 這種）比你想像的更早期。** Hadrius 兩年做到 500 家客戶和 $28.8M 融資，是因為他們服務的是已經存在的、龐大的人類合規團隊市場。你服務的 AI agent 合規市場目前可能只有幾十家公司。
+
+**第二，Hadrius 未來可能是你的客戶。** 當 Hadrius 的客戶（那些 RIA 和 broker-dealer）開始部署自己的 AI agent 來做客戶服務、交易執行、行銷內容生成時，那些 agent 需要即時的合規知識。Hadrius 的 platform 可以整合你的 MCP 來為這些 agent 提供合規推理能力。
+
+### 更新後的完整生態系
+
+```
+面向人類合規團隊                    面向 AI agents
+（現在的大市場）                    （未來的大市場）
+                                    
+Hadrius $28.8M ──────────┐    ┌── Panta (保險 agent)
+  Platform + Autopilot   │    │   Fenrock (FCC agent)
+  500+ 金融機構           │    │   Eloquent (客服 agent)
+  人類用 dashboard        │    │   AI 直接做決策
+                         │    │
+Norm AI $147M ───────────┤    │
+  Full-stack 合規 AI      │    │
+  Fortune 100 金融機構    │    │
+                         │    │
+              ┌──────────┴────┴──────────┐
+              │  法規知識基礎設施         │
+              │                          │
+              │  Parsagon: Layer 1 文件   │
+              │  你: Layer 2-3 知識+推理  │
+              │                          │
+              │  兩邊都需要你             │
+              └──────────────────────────┘
+
+```
+
+Hadrius 的客戶（500 家金融機構）未來會部署 AI agent。那些 agent 需要合規知識。Panta/Fenrock 的 agent 現在就需要合規知識。**你坐在兩個市場的交匯點。**
+
+### 對你的具體啟發
+
+Hadrius 驗證了一件事：**金融合規市場願意為 AI 自動化付大錢（$28.8M 融資、500+ 客戶）。** 但 Hadrius 選擇了「幫人類更快」的路線，你選擇的是「讓 AI 直接懂」的路線。這兩條路最終會在一個點匯合——當人類合規團隊開始使用 AI agent 作為助手時，那些 agent 就需要你的 MCP。
+
+Hadrius 也給了你一個現實的 PMF 路標。他們花了大約兩年從 seed 到 500 客戶。你服務的 AI agent 市場更早期，但如果你的 MCP tool 做對了，分發速度可能比 Hadrius 快得多——因為 MCP 的安裝成本趨近於零，而 Hadrius 需要企業銷售。
+
+第 66 家公司。Hadrius 把你的生態系地圖補完了一個重要象限：面向人類的 full-stack 合規平台。
