@@ -40,13 +40,13 @@ mirofish
 
 ---
 
-Compliacne Autopilot 
+Compliacne Autopilot :  
 Panya , Onshore , Parcha , Fenrock
 
-Compliance infra API , WorkOS
+Compliance infra API , WorkOS:  
 WorkOS , Regology , Cumbuca
 
-Regulatory Translation Layer , Eos AI
+Regulatory Translation Layer , Eos AI:  
 Eos AI , Abstract , Vulcan , ContextHub
 
 ## Dexter , Fintool
@@ -89,5 +89,7 @@ Manus Playbook
 **導航：** Products | Solutions | Enterprise | Pricing
 
 **Solutions 選單：**
+
 - 依角色：Founders, Product Managers, Designers, Marketers (Most popular), Sales, Ops, People
 - 依使用場景：Prototyping, Internal Tools
+

@@ -1,5 +1,7 @@
 Tech + Entreprnure 自媒體:
 
+[https://x.com/aaditsh/status/2039673645967229259/photo/1](https://x.com/aaditsh/status/2039673645967229259/photo/1)
+
 - Tech share
 - tech lead insight
 - 生態圈分析
