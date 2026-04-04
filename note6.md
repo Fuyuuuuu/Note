@@ -8,7 +8,9 @@
 
 也就是說——所有法規、流程、行業知識、公司內部規定、客戶資料、合約條文——這些都是 **Context**。今天這些 Context 散落在各處，沒有結構化，Agent 無法理解也無法遵循。
 
-你想打造的是：
+---
+
+---
 
 ## Context Infrastructure for Compliance
 
