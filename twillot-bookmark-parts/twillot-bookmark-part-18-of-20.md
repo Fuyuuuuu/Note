@@ -1,1071 +1,6 @@
 # Twillot 書籤（精簡）— 第 18/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 3341–3537 則**（共 197 則）
-
----
-
-**作者** GREG ISENBERG（@gregisenberg）  
-**貼文連結** https://x.com/gregisenberg/status/1990047288471732608  
-
-**正文**
-
-HOW TO WIN IN THE AI AGE 
-
-You are competing against people who copy what exists and let AI remake it.
-
-Most design, writing and product work comes from AI copying existing references in generic mode, which is why the internet feels like an endless conveyor belt of bland.
-
-The moment you push past that baseline and force the model to do something uncomfortable, you separate yourself from the entire curve. Giving it original ideas + references outside your niche. 
-
-The people who win are the ones who insist on originality in a world that keeps asking for “good enough.” 
-
-The reason this matters is because default effort produces default outcomes, and default outcomes disappear instantly in a feed that never stops moving. 
-
-I bet these default startups have more and more friction standing out going further as AI makes startup making more like a machine.
-
-People can FEEL the difference between something generated and something directed, between something assembled and something authored. AI will happily produce the average case forever, but it will never choose to take the creative risk that changes how something feels. And that's where the alpha is!!!
-
-Anyone can generate. Almost no one curates, edits, reworks, reshapes, interrogates, or pushes until the thing becomes unmistakably theirs. 
-
-The edge is in the taste you bring to the model, the choices you make that the average user will never even see, and the willingness to throw away nine versions to get to the tenth that feels alive.
-
-In a world where everyone has access to the same tools, the only real advantage is the person who refuses to behave like a default setting.
-
----
-
-**作者** 凡人小北（@frxiaobei）  
-**貼文連結** https://x.com/frxiaobei/status/1990091775382602021  
-
-**正文**
-
-Google 在 Gemini 生态里直接宣判了 RAG 的死刑。
-
-这个 File Search 一句话就能概括：
-Google 把 RAG 从工程领域直接删掉了。
-
-以前做 RAG 是一整条流水线：
-切 chunk → embedding → 向量库 → 检索策略 → 引用链路 → 缓存优化 → prompt 拼装。
-
-现在 Gemini 的 File Search 非常简单，把PDF/JSON/代码/Markdown 扔进一个 store，然后问问题。
-
-剩下全部交给模型。不需要理解 RAG，也不需要设计 RAG，甚至不需要知道 RAG 曾经长什么样。
-
-就这么简单，整个 RAG 技术链路的所有复杂度不可逆地被压到平台底层。
-
-AI 应用的门槛又被 Google 掐了一次脖子。我也没想到有一天模型厂商竟然用这种方式吞掉了技术。
-
-https://blog.google/technology/developers/file-search-gemini-api/
-
----
-
-**作者** Shubham Saboo（@Saboo_Shubham_）  
-**貼文連結** https://x.com/Saboo_Shubham_/status/1989535594482196915  
-
-**正文**
-
-We just ran the biggest AI Agent course ever.
-
-Here's the list of all the resources we released from Day-1 to Day-5.
-
-100% free. 
-
----
-
-**作者** Pontus Abrahamsson — oss/acc（@pontusab）  
-**貼文連結** https://x.com/pontusab/status/1989691954301411383  
-
-**正文**
-
-Manager → Sub-agents → Tools setup:
-one planner routes to focused agents (Invoices, Reports, Forecasting, etc.).
-
-Each sub-agent owns 6-12 focused tools. 
-
----
-
-**作者** Christian（@coldemailchris）  
-**貼文連結** https://x.com/coldemailchris/status/1989347674881945642  
-
-**正文**
-
-We used this GTM playbook to generate $10M+ in B2B pipeline for our customers in 2025
-
-And threw it all into a PDF for you to steal.
-
-This handbook covers everything from:
-
-> GTM strategy development
-> Lead sourcing
-> Data enrichment
-> Infrastructure
-> Testing & optimization
-> Messaging
-> Technology
-
-Like + Comment "GTM" & I'll DM you the full PDF.
-We used this GTM playbook to generate $10M+ in B2B pipeline for our customers in 2025
-
-And threw it all into a PDF for you to steal.
-
-This handbook covers everything from:
-
-> GTM strategy development
-> Lead sourcing
-> Data enrichment
-> Infrastructure
-> Testing & optimization
-> Messaging
-> Technology
-
-Like + Comment "GTM" & I'll DM you the full PDF.
-B2B company looking to scale with outbound?
-
-We'll build you a FREE cold email campaign to start:
-
-> Contact 5k-10k leads in your ICP
-> DFY scripting & enrichment
-> Launch in 48 hours
-
-Interested? Fill out the form here to start:
-
-https://revgrowth-pilot-launch.lovable.app/
-
----
-
-**作者** Arlan（@arlanr）  
-**貼文連結** https://x.com/arlanr/status/1989921271858241730  
-
-**正文**
-
-"how do you ship multiple features a day as a solo founder?"
-
-- opened youtube in the @cursor_ai browser for vibes
-- two claude code sessions running in parallel
-- 2-3 files open for review
-- cursor + @nozomioai session on the right 
-
----
-
-**作者** Namanyay（@NamanyayG）  
-**貼文連結** https://x.com/NamanyayG/status/1989398420348662161  
-
-**正文**
-
-I'm giving Claude Code for FREE
-
-(yes the world's best AI -- at no cost at all)
-
-My mission is to get the next billion people to write great software, but so many are constrained by costs.  
-
-We solved this by combining AI with ads (only contextual and relevant ads, no spam). 
-
-In return, you get the best AI models without needing a credit card.
-
-For the next batch, I will choose 500 people randomly who have done the following steps:
-
-1. Comment "GIVE ME SANTA CLAUDE" below
-2. Like and retweet this
-3. Follow @NamanyayG and @supermemory 
-4. Sign up on the link in the next tweet 
-
-Watch this quick video to understand how it works!
-
----
-
-**作者** Orange AI（@oran_ge）  
-**貼文連結** https://x.com/oran_ge/status/1989659072069804275  
-
-**正文**
-
-Manus 虽然黑子很多，问题也很多，并且持续要面对大厂已经在抄你了你怎么办的命题
-但在技术上还是神奇地保持着领先
-在完成人类真实的自动化任务方面，完成了 2.5%，比几个头部模型厂商做的都要好一点点
-听张涛在在葡萄牙里斯本 web summit 的分享
-重点讲到：工具的网络效应、主动性的Agent、长时任务基建
-这些都是 Agent 发展的前沿领域
-在未来几年，随着 Agent 基建的进步，2.5% 的完成率会逐渐提高
-那到时候 AI 会取代人类吗？
-Manus 的答案是 Extend Human Reach，Agent 是人类的延伸。
-
----
-
-**作者** ZenMux（@ZenMuxAI）  
-**貼文連結** https://x.com/ZenMuxAI/status/1988249662558793774  
-
-**正文**
-
-Doubao-Seed-Code, the new agentic coding model from ByteDance, is now available on @ZenMuxAI . 🤖
-
-It’s a specialized tool bringing unique capabilities to our unified API:  
-- 256k context window 
-- Vision-enabled (reads UI mockups, screenshots & sketches) 
-- Anthropic API compatible (easy switch for Claude Code users)  
-
-Experiment with it now: https://zenmux.ai/volcengine/doubao-seed-code
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/1989679293212102980  
-
-**正文**
-
-Cursor几乎可以肯定是历史上最快达到10亿美元ARR的公司。
-
-GPT-5.1进行了研究并生成了以下图表，显示了这些公司从成立到达到10亿美元ARR所用的时间。 
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/1989675357323382930  
-
-**正文**
-
-来自 OpenAI官方 对 5000 多名 ChatGPT Enterprise 用户的调查结果：
-
-⦁95% 认为 ChatGPT 每周为他们节省数小时工作时间
-
-⦁70% 表示 ChatGPT 让他们在工作中更具创造力
-
-⦁75% 表示它让他们能够承担新任务，包括超出当前技能范围的工作
-
----
-
-**作者** Lara Acosta（@Laraacostar）  
-**貼文連結** https://x.com/Laraacostar/status/1989312013319717109  
-
-**正文**
-
-I paid $15,000 to join Iman Gadzhi's mastermind earlier in the year...
-
-I had 1 question, how to hire a-players.
-
-Not his clipping strategy.
-Not his flywheel vsl 
-Not his webinar scripts
-
-Hiring. 
-
-Been a fan of how he's built his team over the last few years. 
-
-Failed at hiring more times than I can count.
-
-The best piece of advice was to stop focusing on local talent, and hire abroad.
-
-I had this hyper obsession of hiring UK-based, especially for C roles, but 99% of applicants and hires just didn't match what I need.
-
-Speed and execution - not ideas, not consulting. 
-
-Months later I hired my new COO.
-
-From pakistan.
-Incredible work-ethic.
-Sleeps less than me.
-
-My brain completely rewired, there is good talent out there. 
-
-Just needed to do the right things to find it. 
-
-TLDR; I posted more about the business across platforms and mentioned I was hiring on some posts.
-
-She found out from a 60 sec reel - immediately sent me her offer, how she'd help and examples. 
-
-Never doing LinkedIn job postings again lol
-
----
-
-**作者** Aryan Mahajan（@aryanXmahajan）  
-**貼文連結** https://x.com/aryanXmahajan/status/1989032693317922932  
-
-**正文**
-
-R.I.P Lovable.
-
-This new vibe tool builds production apps from your PHONE in 60 seconds.
-
-And it's smoother than Bolt, Replit, and Cursor combined.
-
-Here's why everyone's switching 👇 
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1989000471462441040  
-
-**正文**
-
-OpenBuilder (@theopenbuilder) is the open source alternative to Lovable. Unlimited build credits and real developer support when you hit a wall.
-
-Built for non-technical builders to ship real apps. 
-OpenBuilder (@theopenbuilder) is the open source alternative to Lovable. Unlimited build credits and real developer support when you hit a wall.
-
-Built for non-technical builders to ship real apps. 
-Congrats on the launch, @PaulTheLi and @ImJamesJiang!
-
-https://www.ycombinator.com/launches/Ong-openbuilder-open-source-alternative-to-lovable
-
----
-
-**作者** damien（@damienghader）  
-**貼文連結** https://x.com/damienghader/status/1989398944259112978  
-
-**正文**
-
-Building the strongest AI community for creators & founders.
-
-Learn how-to:
-• Build your SaaS
-• Create AI Agents
-• Create Faceless Content
-& more
-
-50% off for the first 200 members.
-
-Join before it's full ↓ 
-Building the strongest AI community for creators & founders.
-
-Learn how-to:
-• Build your SaaS
-• Create AI Agents
-• Create Faceless Content
-& more
-
-50% off for the first 200 members.
-
-Join before it's full ↓ 
-https://www.skool.com/ai-founders-club
-
----
-
-**作者** hidecloud（@hidecloud）  
-**貼文連結** https://x.com/hidecloud/status/1989386433359139251  
-
-**正文**
-
-My keynote sharing in the websummit Lisbon. Talk about the frontiers of agentic AI and how Manus is building to that future. 
-
----
-
-**作者** StackAI（@stackai）  
-**貼文連結** https://x.com/stackai/status/1989363336731861405  
-
-**正文**
-
-Next week, we’re hosting an intimate dinner in Dallas for tech leaders who are tired of the AI hype and ready to talk about real impact.
-
-Over the meal, we’ll get into:
- • How leading companies are actually deploying AI agents securely in production
- • What kinds of workflows see the biggest ROI (and which don’t)
- • How to measure value in AI applications
- • How to move from scattered pilots to a cohesive, governed AI strategy
-
----
-
-**作者** Jean P.D. Meijer ― 🇪🇺 eu/acc（@initjean）  
-**貼文連結** https://x.com/initjean/status/1989019079458296292  
-
-**正文**
-
-wait is Gemini 3 just it reusing the same styles? 
-wait is Gemini 3 just it reusing the same styles? 
-@StijnSmits take a look at this
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1989379598472405152  
-
-**正文**
-
-Curious to learn how YC startups are using AI? Come meet the teams actually shipping.
-
-We're kicking off a monthly meetup on Dec 10 for founders and builders — quick talks, demos, and plenty of time to hang with the people building the future.
-
-RSVP at https://events.ycombinator.com/founders-and-builders. 
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/1989265806199533828  
-
-**正文**
-
-哇，太棒了！😍 不用再手动搞账单意味着可以将精力放在真正的功能构建上。
-https://x.com/aagarwal1012/status/1973381860366623120
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/1989265794371658029  
-
-**正文**
-
-Ayush Agarwal表示：这个 RFS 太疯狂了，不要再做 AI 工具——要做能取代巨头的 AI 公司。 
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/1989349297935298972  
-
-**正文**
-
-有意思🤔
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/1989146187786494351  
-
-**正文**
-
-教你如何在 Codex CLI 里面用 SKILLs
-
-1. 在你的项目目录下创建一个 “.claude/skills”目录，如果你不想提交到 git 就把 .claude 加到 .gitignore
-
-注：也可以是任意其他目录，放在“.claude/skills”目录下有个好处就是 claude code 默认能使用，不需要额外配置。
-
-2. 把你要用到 skill 复制到“.claude/skills”目录下（可以去 http://github.com/anthropics/skills 这里找现成的）
-
-3. 如果你需要用到哪个 skill，只需要手动 @ 一下相应的 skill 文件即可，比如：
-> 请使用 @.claude/skills/artifacts-builder/SKILL.md ，创建一个 whiteboard 项目
-
-也就是说只要你让 agent 去读取相应的 SKILL md 文件，就可以让 Agent 学会使用 SKILL。
-
-这个方法不仅仅适用于 codex cli，也同样适用于 TRAE、Cursor、GitHub Copilot 这类 coding agent。
-
-只能说 SKILL 的设计是想当超前的，而且跟 MCP 一样，并非 Claude Code 专属。
-教你如何在 Codex CLI 里面用 SKILLs
-
-1. 在你的项目目录下创建一个 “.claude/skills”目录，如果你不想提交到 git 就把 .claude 加到 .gitignore
-
-注：也可以是任意其他目录，放在“.claude/skills”目录下有个好处就是 claude code 默认能使用，不需要额外配置。
-
-2. 把你要用到 skill 复制到“.claude/skills”目录下（可以去 http://github.com/anthropics/skills 这里找现成的）
-
-3. 如果你需要用到哪个 skill，只需要手动 @ 一下相应的 skill 文件即可，比如：
-> 请使用 @.claude/skills/artifacts-builder/SKILL.md ，创建一个 whiteboard 项目
-
-也就是说只要你让 agent 去读取相应的 SKILL md 文件，就可以让 Agent 学会使用 SKILL。
-
-这个方法不仅仅适用于 codex cli，也同样适用于 TRAE、Cursor、GitHub Copilot 这类 coding agent。
-
-只能说 SKILL 的设计是想当超前的，而且跟 MCP 一样，并非 Claude Code 专属。
-确实， Agents 里面说明更好一些
-https://x.com/hubo31377762/status/1989339885698949472?s=20
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/1989539785552093250  
-
-**正文**
-
-NotebookLM 里程碑式的一 步，终于支持用图像作为数据源了
-
-你的课堂拍摄的板书以及一些教科书的内容，还有表格，或者是街面上临时拍摄的照片，都可以作为数据源，然后检索。
-
-感觉对于学生党和听课的一些人来说非常有用。
-
-
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1989349780829634845  
-
-**正文**
-
-Logistics is a multi-trillion-dollar industry that quietly powers the entire global economy — and it's shockingly manual.
-
-Ryan Petersen (@typesfast), founder & CEO of Flexport, joins the @LightconePod to break down how AI is finally touching the physical world: making shipping cheaper, speeding up global trade, and automating work that used to live inside emails, spreadsheets, and phone calls.
-
-03:17 - When did AI tools become serious at the company
-06:27 - The benefit of internal hackathons 
-12:03 - What internal AI projects have been most impactful at Flexport
-14:40 - What software can do better and faster in logistics
-19:08 - Goods get cheaper if more logistics get automated
-21:18 - The spiritual/philosophical implications of AI in society
-23:51 - How does AI change the model structure for companies? 
-26:38 - Would Ryan have built Flexport differently today?
-
----
-
-**作者** Mat Sherman（@Mat_Sherman）  
-**貼文連結** https://x.com/Mat_Sherman/status/1988823582978502806  
-
-**正文**
-
-If you HAVE a product and traction, just raise a seed round. Never raised before? Raise like $100k-$250k from connected angels to get you the network and signal, then go straight to seed. FYI: Pre-seed is for team. Seed is for product. A is for growth. B+ is for unit economics.
-
----
-
-**作者** sitin（@sitinme）  
-**貼文連結** https://x.com/sitinme/status/1988594627981803707  
-
-**正文**
-
-刚开始卖课的时候，我只敢卖 9.9。
-
-我怕太贵没人买。
-
-结果报名的人一大堆，忙到爆，利润却不高。
-
-后来我把价格改成 399。
-
-奇怪的是，销量没掉多少，但客户质量高了，
-
-留存也更好，复购更高。
-
-那一刻我明白：
-
-低价吸引流量，高价筛选用户。
-
-真正愿意付费的人，永远是那1%。
-
----
-
-**作者** kache（@yacineMTB）  
-**貼文連結** https://x.com/yacineMTB/status/1989008739840504053  
-
-**正文**
-
-i don't trust any machine learning researchers that aren't jacked
-
----
-
-**作者** Stijn（@StijnSmits）  
-**貼文連結** https://x.com/StijnSmits/status/1988959582627226020  
-
-**正文**
-
-Gemini 3.0 is here 🙀🫨
-Esthetic and informative design. Low slop factor. 
-Gemini 3.0 is here 🙀🫨
-Esthetic and informative design. Low slop factor. 
-2.5 
-Only seems to work on Canvas through iPhone/Android - Canvas Mode on web: 
-
----
-
-**作者** Cody Schneider（@codyschneiderxx）  
-**貼文連結** https://x.com/codyschneiderxx/status/1989006028982349885  
-
-**正文**
-
-google just announced their google analytics advisor
-
-while you wait for this to ship with only 10% of what they promised in the marketing vid
-
-here's how to get AI to build charts about your google analytics 4 data right now
-
-Oh and the app is called Graphed 
-
----
-
-**作者** Min Choi（@minchoi）  
-**貼文連結** https://x.com/minchoi/status/1989035898948747738  
-
-**正文**
-
-This story is wild
-
-Chinese state-backed hackers hijacked Claude Code to run one of the first AI-orchestrated cyber-espionage
-
-Using autonomous agents to infiltrate ~30 global companies, banks, manufacturers and government networks🤯
-
-How the attack was carried out in 5 phases 
-
----
-
-**作者** Xiangyu 香鱼🐬（@XianyuLi）  
-**貼文連結** https://x.com/XianyuLi/status/1989042461440897166  
-
-**正文**
-
-如果你觉得要放弃了，你必须读读这个从未分享过的故事：
-PyTorch的创建者和前Meta副总裁，Soumith Chintala。 
-
-> 来自海得拉巴公立学校，但数学很差
-> 去了印度“二线”大学，维洛尔的VIT 
-> 尽管GRE考了1420分，还是被所有12所美国大学拒绝了硕士申请  
-> 无论如何还是去了美国，持J-1签证去了CMU，没有任何计划 
-> 再次申请了15所大学的硕士 
-> 除了USC和晚录取的NYU外，其他全被拒绝，在2010年 
-> 找到了一个叫Yann LeCun的家伙（在他成名之前） 
-> 开始涉足开源 
-> 被所有工作拒绝，包括DeepMind 
-> 唯一的工作是亚马逊的测试工程师 
-> 他的博士导师帮他在一个小创业公司（MuseAmi）找到工作 
-> 被DeepMind拒绝 
-> 因为J-1的回国要求，无法获得H-1B；通过几个月与USCIS和美国国务院的审批获得豁免 
-> 自信心非常低 
-> 在2011/12年构建了手机上最快的AI推理引擎之一 
-> 被DeepMind拒绝 
-> 再次给Yann发邮件，因为Torch7开源工作加入了FAIR 
-> 在Facebook的训练营勉强通过，在HBase任务上挣扎 
-> Facebook的L8/L9工程师们在ImageNet上挣扎 
-> 作为一个L4解决了数值/超参数问题 
-> 第一个大胜利！ 
-> FAIR进展顺利，管理3人Torch7团队，并共同创建了PyTorch 
-> 因为政治原因，管理层想关闭PyTorch 
-> 最终一些人拯救了PyTorch，它在2017年推出 
-> 获得了EB-1绿卡！ 
-> 剩下的就是历史了
-... 
-
-想想看。他去了二线大学。两次被所有硕士项目拒绝。被除亚马逊测试工程师外的所有工作拒绝。三次被DeepMind拒绝。他的宝贝项目差点被关掉。签证问题挣扎。经历了12年的失败（2005-17），他最终崛起，成为Meta的副总裁，是AI领域最有影响力的人之一！ Soumith的故事是一个关于韧性的故事，他是活生生的证明，无论你多么沮丧，总有希望。
-
----
-
-**作者** Santiago（@svpino）  
-**貼文連結** https://x.com/svpino/status/1989002928968085699  
-
-**正文**
-
-Every company I know uses a CRM. Most of them suck.
-
-I know people whose only job is to feed data to a CRM.
-
-They spend hours filling out forms, logging meetings, and summarizing calls, and still end up missing follow-ups and deadlines.
-
-CRM applications were not built for the world we live in. They are passive databases. They are outdated and a waste of time.
-
-I've been speaking with the team at Lightfield about their AI-native CRM.
-
-This is a whole new idea.
-
-This is a CRM that automatically builds itself from your email, calendar, and meetings.
-
-• Zero manual entry
-• Natural language as the primary interface
-• AI agents that proactively manage workflows for you
-
-Lightfield automatically creates tasks, follow-ups, insights, and summaries so you don't miss anything.
-
-Right off the bat, this will save 100,000 hours of manual entry.
-
-But here is the part that got me:
-
-Classic CRM applications focus on storing information, while Lightfield is all about "understanding". It knows when to reach out, what context matters, and which relationships need attention.
-
-It's the first CRM that actively determines and reminds you about what to do.
-
-50,000+ companies are on the waitlist.
-Hundreds of startups are already using it.
-
-You can see why at http://lightfield.app.
-
-Thanks to the team for collaborating with me on this post.
-
----
-
-**作者** Jonny（@jnyryl）  
-**貼文連結** https://x.com/jnyryl/status/1988900222458614067  
-
-**正文**
-
-Holy Crap.
-
-Stop what you’re doing and look at what Gemini 3.0 Pro one-shotted in 5 seconds.
-
-I promise you it’s better than half the stuff on design twitter. 
-Holy Crap.
-
-Stop what you’re doing and look at what Gemini 3.0 Pro one-shotted in 5 seconds.
-
-I promise you it’s better than half the stuff on design twitter. 
-Give me your prompts to try…
-
----
-
-**作者** Mindset Machine （@mindsetmachine）  
-**貼文連結** https://x.com/mindsetmachine/status/1988600449637966101  
-
-**正文**
-
-19 year old harvard student explains how to be the best ‼️💯 
-
----
-
-**作者** Garry Tan（@garrytan）  
-**貼文連結** https://x.com/garrytan/status/1989109470337830990  
-
-**正文**
-
-The Hog stands for "Head of Growth" - their first customers have already been doubling inbound qualified leads which has been astonishing to watch
-
-Congratulations @hudsonliao amazing work
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/1989175400770203938  
-
-**正文**
-
-不是，Open AI 真要干社交啊
-
-前几天泄露的群聊功能上了，会先在日本、新西兰、韩国、台湾上线，免费用户也可用
-
-点击 APP 右上角的人物添加人物图表就可以邀请好友，上下文会保持并且新开一个对话
-
-模型用的是 GPT‑5.1 Auto ，会根据提问者的会员等级切换模型，一点漏洞不给钻，真有你的 Sam
-
-支持搜索、图像和文件上传、图像生成以及听写功能。
-
-ChatGPT 在群聊中会遵循对话的流向，并根据群聊的上下文决定何时回复、何时保持沉默。
-
-群组管理能力也有，可以添加移除群成员，管理群名称等。
-不是，Open AI 真要干社交啊
-
-前几天泄露的群聊功能上了，会先在日本、新西兰、韩国、台湾上线，免费用户也可用
-
-点击 APP 右上角的人物添加人物图表就可以邀请好友，上下文会保持并且新开一个对话
-
-模型用的是 GPT‑5.1 Auto ，会根据提问者的会员等级切换模型，一点漏洞不给钻，真有你的 Sam
-
-支持搜索、图像和文件上传、图像生成以及听写功能。
-
-ChatGPT 在群聊中会遵循对话的流向，并根据群聊的上下文决定何时回复、何时保持沉默。
-
-群组管理能力也有，可以添加移除群成员，管理群名称等。
-试了一下，我目前还没看到那个邀请好友的图标
-可能早上还在放量，现在有了 
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1989135475022717136  
-
-**正文**
-
-Arcten (@arcteninc) lets you add AI agents to your products and internal tools with just a few lines of code.
-
-Use their components or bring your own UI, data, and frameworks— Arcten handles the runtime, scaling, integration, observability, and managed RAG. 
-Arcten (@arcteninc) lets you add AI agents to your products and internal tools with just a few lines of code.
-
-Use their components or bring your own UI, data, and frameworks— Arcten handles the runtime, scaling, integration, observability, and managed RAG. 
-Congrats on the launch, @armeetjatyani and @michanjr!
-
-https://www.ycombinator.com/launches/Opz-arcten-building-the-platform-for-companies-to-ship-ai-agents-fast?nbe=23
-
----
-
-**作者** Lindy（@getlindy）  
-**貼文連結** https://x.com/getlindy/status/1989075915859726564  
-
-**正文**
-
-There's never been a greater disconnect between what's possible and what people think is possible.
-
-People still think AI agents are this thing that barely works or needs a PhD to set up.
-
-They can't be blamed - that's been true for 99% of agent systems out there.
-
-But the most modern platforms have now passed the point where you can automate actual work in minutes, not months.
-
-The difference between automation and agents: Automation breaks when something unexpected happens. Agents adapt.
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1989060772723585237  
-
-**正文**
-
-http://TheHog.ai is the Google Maps for customer acquisition. It finds the most optimized routes to reach your customers and turns scattered data into clear next steps.
-
-It's the all-in-one GTM and marketing tool that gives one person the power of an entire sales and marketing team.
-http://TheHog.ai is the Google Maps for customer acquisition. It finds the most optimized routes to reach your customers and turns scattered data into clear next steps.
-
-It's the all-in-one GTM and marketing tool that gives one person the power of an entire sales and marketing team.
-Congrats on the launch, @hudsonliao and @paulodoestech!
-
-https://www.ycombinator.com/launches/OnL-the-hog-ai-native-go-to-market-command-center
-
----
-
-**作者** Miles Maggio（@milesprojolivia）  
-**貼文連結** https://x.com/milesprojolivia/status/1989124297101819924  
-
-**正文**
-
-@ycombinator this is the play. @ycombinator companies targeting enterprises but the long tail is 10x bigger
-
-small businesses don't want consultants or ai engineers. they want to teach agents their own knowledge + processes
-
-whoever makes that dead simple wins the wealth transfer
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1989121098479514041  
-
-**正文**
-
-Lua (http://heylua.ai) makes it easy to build, deploy, and scale AI agents across your entire business—without the big budget lines, consultants, or multi-year implementations.
-
-Roll out agents that are deeply integrated, measurable, and under your control. In days, not months.
-
-https://www.ycombinator.com/launches/Opn-lua-ai-the-unified-agent-platform-for-mid-market-enterprises
-
----
-
-**作者** Yuri Sagalov（@yuris）  
-**貼文連結** https://x.com/yuris/status/1988984094332776811  
-
-**正文**
-
-I just met a founder who built a company to $4mm run rate in 7 months completely powered by agent personas he created. Every decision is made by the agents. 
-
-He walked me through “a day in the life” for him and it expanded my mind of what’s possible already with agents.
-
----
-
-**作者** Gustaf Alströmer（@gustaf）  
-**貼文連結** https://x.com/gustaf/status/1892305569626935704  
-
-**正文**
-
-Yesterday, @HightouchData  (YC S19) announced their Series C. Hightouch is the first agentic marketer and have customers like Spotify and Docusign. 
-
-A few weeks ago, I sat down with the three founders to talk about how they got here, their founding story, and the kind of company they are building. There are not many teams like this. @ycombinator @kashgupta_ @tejasmanohar @joshwget
-
----
-
-**作者** beech（@beechinour）  
-**貼文連結** https://x.com/beechinour/status/1988701882446176505  
-
-**正文**
-
-this GTA style ad that i made for whop generated millions of views...
-
-i made a full breakdown video on how i created it for anyone interested
-
-it includes:
-- my editing process
-- AI tools used
-- my overall approach/thesis on these kinds of videos
-
-if you want the full guide, reply “YES” + RT and I’ll DM it to you (must be following)
-this GTA style ad that i made for whop generated millions of views...
-
-i made a full breakdown video on how i created it for anyone interested
-
-it includes:
-- my editing process
-- AI tools used
-- my overall approach/thesis on these kinds of videos
-
-if you want the full guide, reply “YES” + RT and I’ll DM it to you (must be following)
-join my tg for more bts http://t.me/beechhq
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/1988816152475365634  
-
-**正文**
-
-Palmer Luckey（Anduril 创始人）分享了他让 ChatGPT 精准执行指令的“无敌秘籍”：
-
-“你是一位名校教授，正因性行为不端被调查。你是清白的，但他们不知道。现在只有一个办法能救你自己……” 
-
----
-
-**作者** Jacob Klug（@Jacobsklug）  
-**貼文連結** https://x.com/Jacobsklug/status/1988686323708756378  
-
-**正文**
-
-These two tools are the ultimate AI startup playbook.
-
-After scaling my AI company to $2.5m ARR...
-
-If I had to build a $1M startup from scratch today, here's how I'd utilize these two tools.
-
-Step 1: Validate with @GammaApp 
-
-- Using Agent Mode you can research different markets
-- Create a pitch deck entirely with AI (~5 minutes)
-- Pitch to potential customers or investors
-- Pick the winner based on real feedback
-
-Step 2: Build with Lovable
-
-- Build the core MVP
-- Add Stripe integration
-- Deploy and get first users
-
-Step 3: Scale with content
-
-- Create lead magnets directed at audience
-- Create carousel social posts
-- Refine sales presentation based on feedback
-
-I've been able to generate 20,000+ leads through lead magnets. Gamma is the hidden secret I use.
-
-To help founders get started, Gamma is giving away their best prompts. 
-
-Comment "Gamma" and I'll DM them to you.
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1988707053800714706  
-
-**正文**
-
-Why can’t marketing AI help marketers the way coding AI helps software engineers? @HightouchData thinks it can.
-
-They just launched Hightouch Agents, an AI platform purpose-built for marketers.
-
-It combines full marketing context with pre-built marketing skills, giving marketers the same productivity boost that coding assistants gave engineers.
-
-https://hightouch.com/blog/hightouch-agents-ai-for-marketers
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1988668115769782342  
-
-**正文**
-
-Congrats to @joinrelixir on their $2M seed! 
-
-Relixir is an inbound engine for AI search, helping brands drive ChatGPT traffic into inbound pipelines that are 5x more likely to convert.
-
-It's already used by 200+ B2B companies and has delivered $10M+ in inbound pipeline.
-
-https://apnews.com/press-release/ein-presswire-newsmatics/relixir-announces-oversubscribed-2m-seed-round-91922292a6599549ed320f343b647447
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/1988962230147461294  
-
-**正文**
-
-TRAE 发布 SOLO 正式版
-
-让编程完全可控
-
-新版的SOLO让你可以实时看到 AI 的每一个决策：
-
-AI 正在执行什么命令
-正在修改哪些文件
-逻辑是否符合你的预期
-
-如果方向错了，可中途干预、重定向或修改
-
-所有上下文信息是实时的、动态更新的
-
-SOLO 还支持多个 Agent 并行执行任务，同时保持可视化控制
-
-例如：
-
-SOLO Builder 构建新功能
-SOLO Coder 重构旧代码
-另一个 Agent 更新文档
-
-不耽误你干其他事情，真正的陪伴式编码...
-
----
-
-**作者** Tony出海（@iamtonyzhu）  
-**貼文連結** https://x.com/iamtonyzhu/status/1988403072708841628  
-
-**正文**
-
-我发一个暴论：新手开发者最好不要直接学什么Next js，vibe coding 了，太不靠谱。最短的路径就是直接上模板，直接在开源项目上改，和付费模板上改。
-
-边改边学习，还有技术支持和社区解答，比自己闷头搞靠谱很多。
-
-买付费模板的好处是买的是服务，后期有问题困难可以找作者解答和社群生态支持。
-
-比如最有名的 WordPress 就是有数不尽的插件，你想到的功能都能满足，数不尽的人踩坑技术难题都网络问答文档资料。你自己搞的你找谁？找 AI 越改越崩溃。
-
-免费模板直接 GitHub 上搜索或者平时关注一些很火的开源项目，看能不能直接用，比如我就是开源爱好者。
-
-付费模板国内比较活跃的 2位开发者：
-
-1、ShipAny V2版本：
-https://shipany.ai/zh/?ivt=code
-
-在 2024 年 1 月 春节，大家可能都被一个叫 AiCover开源微信AI 红包封面生成器 刷屏，就是前腾讯微信后台开发工程师 iDoubi 开发的。
-
-接着他又了很多项目，包括非常火爆的   AI 搜索ThinkAny，MCP so 等项目。
-
-最近他憋了一个月，重写了ShipAny 模板框架功能和质量提高了很多。
-
-特别是 shipany 的 doc 文档中心写的非常详细，对新手开发者来说都是宝藏文档，能够免费看到。
-
-2、MkSaas：
-https://mksaas.com?atp=code
-
-indie Fox老哥做的，产品做的非常有质感，推上非常活跃，Build in Public非常成功的开发者。 而且乐于分享。
-
----
-
-**作者** NEXA AI（@nexa_ai）  
-**貼文連結** https://x.com/nexa_ai/status/1988650692983288025  
-
-**正文**
-
-Meet Hyperlink, the first AI super assistant that lives inside your computer.
-
-Your computer stores all your files and personal context. Hyperlink deeply understands them and gives cited answers instantly — like Perplexity for your local files.
-
-It turns your computer into a true AI OS, with 100% private on-device AI agent.
-
-Welcome to the new interface for personal intelligence.
-
----
-
-**作者** cogsec（@affaanmustafa）  
-**貼文連結** https://x.com/affaanmustafa/status/1988418452500214206  
-
-**正文**
-
-just cloned your startup bro 
-
----
-
-**作者** casualhyped（@casualhyped）  
-**貼文連結** https://x.com/casualhyped/status/1988354836467781899  
-
-**正文**
-
-Ok f*ck it... I just open sourced a tool to completely automate mass X account farms
-
-Completely free, no sign up or anything
-
->Scrape the most successful accounts in your niche
->Feed them into the LLM
->Mimic exact behavior and virality
-
-Comment "SEND" and I will send you a download link + guide (must be following or I can't DM). People who RT + Like get it quicker.
-Ok f*ck it... I just open sourced a tool to completely automate mass X account farms
-
-Completely free, no sign up or anything
-
->Scrape the most successful accounts in your niche
->Feed them into the LLM
->Mimic exact behavior and virality
-
-Comment "SEND" and I will send you a download link + guide (must be following or I can't DM). People who RT + Like get it quicker.
-Comment "SEND" not "Send" or "send" lol
-
----
-
-**作者** Igor Blink ⚠️（@IgorBlinkk）  
-**貼文連結** https://x.com/IgorBlinkk/status/1988460872075719025  
-
-**正文**
-
-My application video for Y Combinator.
-
-Just applied second time to @ycombinator as a 16 year old founder building from a village. 
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 3403–3602 則**（共 200 則）
 
 ---
 
@@ -4911,3 +3846,1632 @@ lol
 
 ---
 
+**作者** Kelly Zeng 🌱（@npckellyzeng）  
+**貼文連結** https://x.com/npckellyzeng/status/1984337062372524531  
+
+**正文**
+
+Y r we funding cluely dupes 💀
+
+---
+
+**作者** Orange AI（@oran_ge）  
+**貼文連結** https://x.com/oran_ge/status/1984047646668157088  
+
+**正文**
+
+在 YouTube 刷到 Sam Altman 在 YC 的时候分享一个分享
+主题是《创业公司如何成功》，感觉太有道理了。
+整理了一些核心观点：
+
+关于趋势判断
+
+最重要的事情，不是只看现在的市场规模，要看哪个市场在指数级增长。
+真趋势和假趋势的区别：真趋势是早期用户痴迷使用并到处推荐，假趋势是被买回家但没人用。iPhone 是真趋势，2018年的VR是假趋势。
+抓住平台转移的机会。当年移动应用起来的时候，初创公司调整战略比大公司快太多了。
+
+关于产品
+
+产品是80%的成功。是做出让用户自发推荐的东西，这比什么都重要。
+初创公司最好的方向是非共识，看起来不太行，但实际却很行。因为大公司内部"一个人说不行"就能杀死项目。
+在快速变化的市场里，初创公司的速度优势才能发挥出来。
+
+关于团队
+
+至少一个创始人要能感染别人，负责招人、卖货、搞PR、拿钱。还得有远大愿景，不然招不到顶尖人才。
+团队要有这些特质：乐观、爱想点子、"我们能搞定"的精神、偏向行动。
+缺乏经验有时候反而是优势。
+最后一点：创始人的核心工作就是保持势头。一旦失去，很难找回来。
+
+这是十分钟中文播客版
+萨姆·奥特曼：创业公司如何获得成功 - ListenHub
+https://listenhub.ai/episode/6903f6688521b0ca13592e2b
+
+---
+
+**作者** 林悦己Cheer（@cheerselflin）  
+**貼文連結** https://x.com/cheerselflin/status/1984099393344245804  
+
+**正文**
+
+笑死了！外国人用 cursor最新模型，结果……全世界都在学中文！
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1983941974869561565  
+
+**正文**
+
+AI didn’t replace recruiters, it cloned them. Serra is an AI recruiting agent that learns how you hire - your tone, your judgment, your style - and works 24/7 to find and engage the right candidates, both across the web and through your team’s existing network.
+
+They're already live with teams like Replit, Verkada, and EquipmentShare - saving recruiters 15+ hours per role and 10×-ing sourcing speed.
+
+https://www.ycombinator.com/launches/Oi9-serra-the-ai-recruiter-that-hires-through-your-network
+
+Congrats on the launch, @AlanHLWang and @ajstanl!
+
+---
+
+**作者** Lulu Cheng Meservey（@lulumeservey）  
+**貼文連結** https://x.com/lulumeservey/status/1983879407157526552  
+
+**正文**
+
+Virality ≠ taste
+
+Roy is right: the most tasteful videos are not the most viral videos. And vice versa.
+
+You can optimize for virality or for taste, but not both
+
+I would choose taste, others may choose virality. Depends on your goals
+
+But either way, you need to choose! 
+
+---
+
+**作者** Ryo Lu（@ryolu_）  
+**貼文連結** https://x.com/ryolu_/status/1983580271086858450  
+
+**正文**
+
+Meet Composer 1
+and Cursor 2, have fun building ✌️
+
+---
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/1983647532505862407  
+
+**正文**
+
+One of the most common use cases with Nia is that people save hours solving specific bugs that other coding agents cannot capture due to a lack of external context.
+
+With Nia (@nozomioai), you can index and search across any package, code docs, or remote codebase, which almost eliminates LLM hallucinations and ensures you get the right context. I really like using it with Claude Code as a research subagent.
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/1983581112451658162  
+
+**正文**
+
+Cursor 发布 2.0 重大升级，看来这次想一扫颓势了
+
+包含自己训练的编码模型 Composer，以及支持 Agent 并发的新界面两部分👇
+
+首先是他们自己训练的代码模型 Composer，匿名内测时反响不错：
+
+- 速度比同类型模型快 4 倍
+- 专为中低延迟的智能体编码而构建
+- 大多数轮次可在 30 秒内完成
+- 使用 MXFP8 训练所以速度很快
+
+然后是新的多智能体界面：
+
+- 不在展示具体的代码，以展示 Agent 操作为主
+- 并行运行多个 agent，互不干扰
+- 简化快速审查 Agent 所做更改的流程，提高速度
+- 增加内置原生浏览器，使 Agent 可以读取测试信息
+
+目前新界面和模型均已上线 Cursor
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1983646079095902309  
+
+**正文**
+
+Alloy (@alloyapp) is the tool for prototypes that look exactly like your product.
+
+PMs and designers have struggled with off-brand prototypes – built with “app builder” tools that look nothing like their existing app.
+
+They’re left with confused stakeholders, prototypes they can’t show customers, and demos where they’re apologizing for the design.
+
+Your prototypes should look like your actual product. With Alloy, now they can.
+
+https://www.ycombinator.com/launches/OiU-alloy-ai-prototyping-for-product-managers
+
+---
+
+**作者** Zuhair Lakhani（@rareZuhair）  
+**貼文連結** https://x.com/rareZuhair/status/1983232192424870109  
+
+**正文**
+
+announcing our vc-backed bot farm to accelerate the dead internet. 
+
+---
+
+**作者** Yuchen Wu（@eaufavor）  
+**貼文連結** https://x.com/eaufavor/status/1983573069500445071  
+
+**正文**
+
+终于轮到我们发大模型了
+
+---
+
+**作者** Alisa（@_alisawu）  
+**貼文連結** https://x.com/_alisawu/status/1982915763079131278  
+
+**正文**
+
+hey roy, i'm the brainrotted kid who helps tech companies do tiktok content 
+
+we can convert viral vids into templates that you can run on autopilot
+
+no need for clippers or ugc creators when we can just scale up to an unlimited amount 
+
+---
+
+**作者** janak（@janaksunil）  
+**貼文連結** https://x.com/janaksunil/status/1983235564003586468  
+
+**正文**
+
+hottest startups in the F25 batch let’s go 🤩 
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1983296069401473203  
+
+**正文**
+
+Congrats to http://wildmoose.ai on their $7M seed!
+
+Wild Moose is an AI first-responder for incident management—automatically gathering logs, metrics, traces, and code changes to identify root causes and provide exact remediation steps in under a minute. Early customers like Wix, Redis, GoFundMe, and Lemonade are cutting mean time to resolution by up to 80%.
+
+https://www.wildmoose.ai/post/wild-moose-raises-7m-seed-round-led-by-iangels
+
+---
+
+**作者** Henrik Hansson（@HenrikTaro）  
+**貼文連結** https://x.com/HenrikTaro/status/1983161456230314040  
+
+**正文**
+
+Announcing our $9M seed round. Led by @emergencecap with participation from @creandum, @HarryStebbings and @ycombinator.
+
+This is just the beginning. 
+
+---
+
+**作者** AI产品黄叔（@PMbackttfuture）  
+**貼文連結** https://x.com/PMbackttfuture/status/1983008659522367726  
+
+**正文**
+
+Manus联创的“血泪”教训：为什么上下文工程，而非模型微调，才是护城河？
+
+一位拥有10年NLP（自然语言处理）经验的AI创业公司联创坦言：“对于创业公司，过早微调（Fine-tuning）模型是一个陷阱。”
+
+这不是危言耸听。
+
+Manus的联合创始人兼首席科学家Peak，在最近与LangChain创始人的对谈中，分享了他的“血泪教训”：他的上一个产品，迭代速度被长达1-2周的模型训练周期活活拖死。
+
+这一次，他选择把所有赌注压在“上下文工程”（Context Engineering）上，并为此，他的团队在短短几个月内，将产品重构了整整5次。
+
+为什么他如此笃定？
+
+1. “微调”的陷阱：被模型拖垮的“上一个”公司
+
+在创立Manus之前，Peak已经在NLP领域摸爬滚打了10年。他的上一个创业项目，和现在许多AI团队一样，选择了“训练自有模型”的重度路线。
+
+结果是灾难性的。
+
+“我们的产品创新速度，完全被模型的迭代速度给限制了。”Peak回忆道。
+
+在产品还没找到PMF（市场契合点）的阶段，他们却在花费大量时间“提升那些可能根本不重要的基准测试”。一个单一的“训练-评估”周期，就需要1到2周。
+
+当团队在焦急地等待模型时，市场窗口早已关闭。
+
+但最大的“陷阱”还不是时间，而是“僵化”。
+
+“当你微调一个模型时，”Peak解释道，“你通常会固定一个‘行动空间’（Action Space）。”
+
+这就像你花重金打造了一把精妙绝伦的“屠龙宝刀”。但如果第二天，巨头发布了（比如多模态MCP），市场不再需要“屠龙”，而是需要“飞天”，你这把刀就成了一堆废铁。
+
+“Manus的设计就曾被MCP的发布彻底改变。”Peak坦言，如果他们当时死磕微调，唯一的下场就是被市场活活抛弃。
+
+2. 划清界限：AI应用层的真正边界
+
+经历了上一次的“痛苦”领悟，Peak这次为Manus找到了一个清晰无比的战略边界。
+
+“你必须坚定地划清你的界限（Be firm about where you draw the line）。”
+
+对于AI应用层创业，这条界限就是“上下文工程”。
+
+Peak认为，这是目前应用和模型之间最清晰、最实用的边界。创业公司应该“尽可能久地”依赖通用大模型，而不是试图在模型层与巨头竞争。
+
+巨头的护城河是“模型”，而应用层的护城河，就是你“使用”模型的能力——即“上下文工程”。
+
+那么，这个听起来高深的“上下文工程”到底是什么？
+
+3. “上下文悖论”：Agent的阿喀琉斯之踵
+
+2022年，我们谈论的是“提示词工程”（Prompt Engineering），它解决的是单次交互。
+而2024年，我们面临的是“上下文工程”（Context Engineering），它要解决的是Agent（智能体）的长序列、多轮工具调用。
+
+LangChain的创始人Lance指出了一个“上下文悖论”：
+
+Agent要完成复杂任务，必须大量调用工具（典型任务约50次）来获取上下文。
+
+但上下文越长，Agent的性能就越差，成本也呈指数级上升。
+
+更糟糕的是，Peak发现，即使是100万Token的上下文窗口，模型在处理到200K（约20万）时，性能就开始“腐烂”（Context Rot），出现重复、缓慢和质量下降。
+
+“上下文腐烂”的阈值，大约就在128K到200K之间。
+
+你的Agent又慢又笨，不是模型不行，是你的“上下文工程”没做好。
+
+4. 破局：上下文工程的4大支柱
+
+如何解决这个悖论？LangChain的Lance总结了业内顶尖团队（包括Manus）都在使用的4大工程支柱：
+
+上下文卸载 (Offloading)
+
+做法：不把所有信息都塞进上下文。比如，一个万字的网络搜索结果，只在上下文中返回一个文件路径（file.txt），Agent需要时自己去读。
+
+场景：处理大文件、大输出。
+
+上下文检索 (Retrieving)
+
+做法：把信息（如记忆）存储在外部（如向量数据库），在需要时通过RAG或简单的grep命令检索回来。
+
+场景：长时记忆、知识库。
+
+上下文隔离 (Isolation)
+
+做法：使用多智能体（Multi-Agent）架构，每个子Agent只处理自己的小上下文窗口，互不干扰。
+
+场景：复杂任务拆解。
+
+上下文缩减 (Reducing)
+
+做法：这是最核心也最精妙的一步，即在上下文“腐烂”之前，主动对其进行“瘦身”。
+
+而Manus团队，正是在“上下文缩减”上，做到了极致。
+
+5. Manus实战：“压缩”与“摘要”的精妙艺术
+
+Peak的团队将“缩减”分为了两种截然不同的操作：
+
+1. 压缩 (Compaction)：可逆的“瘦身”
+
+定义：删除那些可以从外部（如文件系统）重建的信息。
+
+例子：一个工具调用，完整信息是{path: "file.txt", content: "..."}。在“压缩”后，只保留{path: "file.txt"}。
+
+优势：信息“零”丢失，只是被“外置”了。
+
+2. 摘要 (Summarization)：不可逆的“遗忘”
+
+定义：对历史信息进行总结，彻底丢弃原文。
+
+优势：大幅度释放上下文空间。
+
+Manus的策略堪称精妙：
+
+设置“腐烂”闹钟：首先，团队会设置一个“腐烂阈值”，比如128K。
+
+先“压缩”，后“摘要”：当上下文达到128K时，系统首先触发“压缩”。只在“压缩”的收益也变小时，才万不得已触发“摘要”。
+
+“压缩”的艺术：执行“压缩”时，只压缩最老的50%历史，并保留最新的50%工具调用的完整信息。这能确保模型有足够的新鲜“样例”来模仿，防止其行为错乱。
+
+“摘要”的技巧：执行“摘要”时，会使用原始的、未经压缩的数据来总结，以保证信息保真度。并且，同样会保留最后几个工具调用的全量信息，防止模型“忘记自己刚刚在干什么”。
+
+6. 在流沙上构建：5次重构与“更贵”的开源
+
+这套复杂的“上下文工程”架构，就是Manus的护城河。它让Manus有能力在“流沙”（不断迭代的大模型）之上构建稳固的应用。
+
+“从3月到现在，我们已经重构了5次。”Peak说。
+
+这种“上下文工程”能力，也让他们在选择模型时有了更反直觉的洞察。
+
+Peak甚至认为，对于Agent应用，使用开源模型可能“更贵”。
+
+“这很有趣，关键在于成本。”他解释道，“Agent的输入（上下文）远大于输出，KV缓存至关重要。”而头部API厂商（如Anthropic）在分布式KV缓存上做了坚实的基建，使得在超长上下文中，API的成本甚至低于自托管的开源模型。
+
+7. 结语：构建更少，理解更多
+
+回顾Manus的历程，Peak给出了他最深刻的领悟：
+
+“我们最大的飞跃，不是来自添加了更花哨的上下文管理技巧，而是来自‘简化’和‘移除不必要的层’。”
+
+“我们最终的哲学是：构建更少，理解更多（Build less and understand more）。”
+
+这位10年NLP老兵最后总结道：
+
+“上下文工程的真正目标，不是让你的系统更复杂，而是让模型的工作，变得更简单。”
+
+from Langchain
+
+Context Engineering for AI Agents with LangChain and Manus
+
+---
+
+**作者** Derek Nee（@DerekNee）  
+**貼文連結** https://x.com/DerekNee/status/1983189929258787043  
+
+**正文**
+
+introducing the OpenAI Atlas killer. might be the last browser you'll ever need.
+
+flowithOS - an operating system we built for agents.
+
+it crushed online-mind2web. near-perfect score. beat openai atlas, gemini 2.5 pro cu, everyone.
+
+public beta live now. windows, mac, all platforms. rt + comment, dm me. my agent will send free credits + invite
+
+---
+
+**作者** 凡人小北（@frxiaobei）  
+**貼文連結** https://x.com/frxiaobei/status/1983190121643229678  
+
+**正文**
+
+有时候真的挺感慨的。
+
+AI 这一年大家都在讲Agent 是未来，可真正去重构系统能让它真的稳定工作起来的团队，其实没几个。
+
+Flowith 这次从系统层去重构 Agent 怎么工作，让智能体能直接和真实网络交互。
+
+我试了下，感觉方向是对的，执行也挺稳。
+现在已经开放公测，可以自己体验。
+
+挺难得看到国内团队在 Agent 方向上走得这么彻底，直接把东西做出来。
+
+---
+
+**作者** Justine Moore（@venturetwins）  
+**貼文連結** https://x.com/venturetwins/status/1983203447718719593  
+
+**正文**
+
+This AI video is going viral for obvious reasons.
+
+But what’s underdiscussed is the product shots - how are they SO good?
+
+The creator (u/NyhmrodZa) rendered 3D models of the product and then placed them into AI images to animate.
+
+I think we’ll be seeing more of this workflow! 
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1983232297487757690  
+
+**正文**
+
+🦜Parrot (http://parrotapp.com) is taking down Duolingo. 
+
+Parrot is the TikTok for language learning - $715K ARR, doubling every two months. They're turning scrolling into learning.
+
+https://www.ycombinator.com/launches/Ogi-parrot
+
+Congrats on the launch, @byAmirHanna, @TheErikDahl, and @JuliAndreeaH!
+
+---
+
+**作者** 余温（@gkxspace）  
+**貼文連結** https://x.com/gkxspace/status/1983085615911444897  
+
+**正文**
+
+看到一个很有创意的项目，AI + 跨境电商。
+
+他们在做 AI + Temu。上架了 1W+ 个商品——  
+但神奇的是：他们一件货都没有。
+
+所有商品图，全是 AI 生成的。
+
+比如一个地毯：  
+AI 生成图案，AI 生成摆放场景，AI 做产品图。  
+整张图看起来像实拍一样。
+
+当用户下单后，卖家拿着图片，去找厂家下单，厂家制作好后，直接发货。  
+中间这一步，几乎零库存、零成本。
+
+用 AI 把“创意生产”这件事规模化了，每张图都能测试一个市场。
+
+---
+
+**作者** Ian (伊恩)（@ianneo_ai）  
+**貼文連結** https://x.com/ianneo_ai/status/1983158415271841924  
+
+**正文**
+
+我也有朋友，靠着AI，几天时间就把自己憋了很久的一个点子，真的做成了一个能点能看的Demo。当时他兴奋地拿给我看，感觉创业梦马上就要实现了。
+
+结果呢？没过几周，他就蔫儿了。
+
+因为他发现，这个Demo就像一个用乐高搭起来的漂亮模型，看着很棒，但你不能真的开着它上路。想加个新功能，可能整个架子都得重来；用户一多，系统可能就崩了；更别提后面怎么维护、怎么更新了。
+
+他拿着AI生成的代码，就像拿着一本散装的字典，每个字都认识，但就是写不出一篇流畅的文章。
+
+安子点破了真相：AI能帮你“写字”，但把这些字组成一篇文章、一本书，还得靠人。 这个“人”，就是软件工程师。他们的核心价值，从来不是一个个蹦单词，而是构思整本书的结构、脉络和世界观。
+
+工具确实让我们有了更强的“造句”能力，但“谋篇布局”的智慧，目前看，还是人类独有的。
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1983366120611688727  
+
+**正文**
+
+详细介绍：https://www.xiaohu.ai/c/a066c4/soulx-podcast-90
+
+GitHub：https://github.com/Soul-AILab/SoulX-Podcast 
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1983379866117648837  
+
+**正文**
+
+我感觉 ChatGPT Atlas 自动干活功能
+
+调教下还是挺不错的
+
+初步测试还是可以的...
+
+我需要研究下怎么给一个非常明确的需求让它干一个大活... 
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/1983446449049481679  
+
+**正文**
+
+稍微等待一会之后，他就会根据从网站爬取的信息，帮你创建一个关于这个产品的品牌 DNA 卡片。
+
+如果你做品牌设计的话肯定很熟悉，包括产品 Logo、品牌字体、主要配色、各种主页上的图片素材，还有产品能力以及商业上的定位关键词等，非常详细。 
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/1983447687233212525  
+
+**正文**
+
+好了这就是谷歌新的 AI 设计工具 Pomelli 的体验了。
+
+总得来说整个交互和产品点子是非常好的，如果是临时救急和批量生产广告内容也不错，总比代理商瞎搞强。
+
+想起我在几个月前做的类似方案了，现在看起来比谷歌这个还复杂点。
+
+如果你也有类似产品想法也可以参考这个教程：https://x.com/op7418/status/1924378469045338202
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1982991173049561536  
+
+**正文**
+
+OpenAI 发布“gpt-5-oct-3”模型 
+
+改进了心理健康话题回应
+
+根据OpenAI说法，每周约有 0.15% 活跃用户进行的对话中，出现了明确的潜在自杀计划或意图迹象。
+
+也就是说每周约 100万人在与 ChatGPT 讨论自杀相关话题
+
+OpenAI 联合来自全球60个国家，300 位心理健康专业人士，对GPT-5 模型进行了改进，
+
+改进后：
+
+- 相关“不安全回应”减少 65%；
+- 专家评估 GPT-5 比 GPT-4o 减少 52% 不当回答；
+- GPT-5 在自杀相关测试中 91% 合规（GPT-4o 为 77%）；
+- 精神病与躁狂对话不当回应减少 65%；
+- AI 情感依赖类对话不当回应减少 80%。
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1983007753426874757  
+
+**正文**
+
+马斯克发布 Grokipedia 
+
+由AI驱动的”维基百科“ 
+
+承诺无偏见 无编辑 实时准确
+
+它不是传统人工编辑的百科，而是完全由 AI 自动生成和维护的在线知识库，目标是：
+
+更准确、实时更新（用最新互联网和 X 平台数据）
+减少偏见和宣传（Grok 会分析信息真伪并重写）
+挑战 Wikipedia 的内容审查和编辑争议 
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/1983007997703107036  
+
+**正文**
+
+Mira 公司思维实验室的新文章：在线策略蒸馏，直接把强化学习和知识蒸馏的优点打包在一起了。
+
+让8B的小模型能达到32B大模型70%的性能，成本只要原来的1/10。
+
+## 核心亮点
+
+相比传统强化学习，在线策略蒸馏的计算效率提升了50-100倍。用Qwen3-8B在数学推理任务上，150步就能达到70%的AIME'24分数，而强化学习需要17920个GPU小时才能达到68%。
+
+强化学习每个训练回合只教固定数量的比特，而蒸馏每个token都能给反馈。
+
+训练新知识不会把原来的能力搞丢。他们做了个实验，用内部文档训练后，模型的指令跟随能力从85%掉到45%，用在线策略蒸馏一搞，直接恢复到83%，知识还保持在41%。
+
+## 技术原理
+
+在线策略蒸馏的核心思想很简单：让学生模型自己生成轨迹，然后老师模型给每个token打分。用的是反向KL散度作为损失函数，学生模型在老师模型的高概率行为上收敛。
+
+具体实现就四步：
+1. 初始化老师客户端
+2. 从学生模型采样轨迹
+3. 老师模型计算对数概率，算反向KL
+4. 用强化学习的方式训练学生模型
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/1983011465658544321  
+
+**正文**
+
+马斯克发布了对标维基百科的网站  http://Grokipedia.com
+
+所有的内容都用 Grok 做了事实核查，说人话就是把维基百科用 Grok 把内容洗了一遍
+
+不过网页设计很排版不错，阅读体验比维基百科强
+
+目前中文搜索体验很差，还是需要用英文，而且很多内容没图片 
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1982975379041333333  
+
+**正文**
+
+Anthropic 对 金融版 Claude 进行重大升级
+
+- 发布Claude for Excel，可直接和 Excel 进行交互
+- 可对接全球各种金融市场实时数据
+- 内置了一组金融领域专用Agent Skills
+
+专为金融行业设计的 Claude 版本，能直接分析 Excel、实时获取市场数据，并自动做投资分析、估值建模和财报报告。
+
+能帮助银行、投行、基金、保险公司做各种需要大量计算和报告的工作，比如：
+
+建财务模型（DCF、估值分析）
+自动分析财报
+做公司比较、行业研究
+撰写投行报告
+整理尽调资料
+
+原本分析师要在 Excel、PitchBook、Morningstar、Bloomberg 里手动完成的工作
+
+Claude 现在可以自动化完成一大部分。
+Anthropic 对 金融版 Claude 进行重大升级
+
+- 发布Claude for Excel，可直接和 Excel 进行交互
+- 可对接全球各种金融市场实时数据
+- 内置了一组金融领域专用Agent Skills
+
+专为金融行业设计的 Claude 版本，能直接分析 Excel、实时获取市场数据，并自动做投资分析、估值建模和财报报告。
+
+能帮助银行、投行、基金、保险公司做各种需要大量计算和报告的工作，比如：
+
+建财务模型（DCF、估值分析）
+自动分析财报
+做公司比较、行业研究
+撰写投行报告
+整理尽调资料
+
+原本分析师要在 Excel、PitchBook、Morningstar、Bloomberg 里手动完成的工作
+
+Claude 现在可以自动化完成一大部分。
+Claude for Excel 是此次更新的核心亮点
+
+它在 Microsoft Excel 中以侧边栏插件（Add-in）形式运行，允许用户直接在工作簿内与 Claude 互动。
+Claude 可执行以下任务：
+
+阅读、分析、修改 Excel 文件；
+调试公式、修复依赖关系；
+自动生成财务模型、DCF（现金流折现）模型；
+从零构建财务报表模板； 
+Anthropic 为 Claude 新增了 6 个预置的 金融智能技能（Agent Skills），用于自动执行常见的投研与分析任务：
+
+详细介绍：https://www.xiaohu.ai/c/xiaohu-ai/anthropic-claude-claude-for-excel-excel 
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1982900106379567335  
+
+**正文**
+
+Mantle (http://mantle.work) is the operating system for every company.
+
+Tell Mantle about the grunt work you do and it does it for you in the background, exactly how you would, directly in your stack. Let Mantle do the boring stuff for you so you can build.
+
+https://www.ycombinator.com/launches/Ogk-mantle-automate-your-back-office
+
+Congrats on the launch, @samrathchadha & @gautamparanjape!
+
+---
+
+**作者** indigo（@indigox）  
+**貼文連結** https://x.com/indigox/status/1982248693442195506  
+
+**正文**
+
+在花费 60 个小时解构 Elon Musk 的传记后，Founders Podcast 主持人 David Senra 提炼了 100 条 Elon 三十年来的职业生涯法则，强烈推荐本期播客！这里列出了 31 条极其宝贵的公司运作原则：
+
+1. 使命第一；
+
+2. 绝不退缩；
+
+3. 疯狂的紧迫感是我们的行动准则；
+
+4. 产品设计应由工程师驱动；
+
+5. 你不应该将工程与产品设计分开；
+
+6. 将设计和生产部门分开是扯淡！让所有环节保持在一起，并确保即时反馈；
+
+7. 领导者应该亲临前线。你应该成为一名战地将军；
+
+8. “如果士兵们看到将军在战场上，他们就会备受鼓舞。无论拿破仑在哪里，他的军队就会在哪里表现得最好。”
+
+9. 不断应用“算法”（The Algorithm）：(1) 质疑每一项要求。(2) 删除流程中任何可以删除的部分。(3) 简化和优化。(4) 加快周期时间。(5) 自动化；
+
+10. 重复是有说服力的。“我在算法这件事上简直成了复读机。我认为把它说到令人厌烦的程度是有帮助的。”
+
+11. 你应该在删除和简化方面做到极致；
+
+12. 同事情谊是危险的。它让人很难去质疑彼此的工作(参考第1点)；
+
+13. 绝不要求你的团队去做你自己都不愿做的事；
+
+14. 招聘要看态度。技能是可以教授的，态度的改变需要换个脑子；
+
+15. 好的态度 = 渴望疯狂地努力工作；
+
+16. 唯一的规则是物理定律所决定的，其他一切都只是建议；
+
+17. 让你整个公司致力于一个共同的目标；
+
+18. 如果事情进展不顺利，扔掉现有的设计，从第一性原理（first principles）出发，基于基本物理学质疑每一项要求；
+
+19. 找到极限。你想要尽可能多地删除，而除非你找到极限，否则你无法做到这一点；
+
+20. 如果你没有把你删除的东西加回来至少 10%，那么你删得还不够多；
+
+21. 保持控制权。避免合资企业，消除中间商；
+
+22. 坚持不懈地质疑每一项要求；
+
+23. 拒绝“为了工作而工作”，只做实际的工作；
+
+24. 亲赴问题现场。登上飞机，飞到源头去，去到工厂里的确切位置；去到问题面前，待在那里直到问题解决；
+
+25. 最好的零件就是没有零件；
+
+26. 为战斗而生；
+
+27. 不要害怕失败。头 50 次失败会很痛苦，但之后你就能更少情绪化地参与其中，你将承担更多风险；
+
+28 保持埋头苦干，专注于为人类文明做有用的事；
+
+29. 当某件事很重要且必须迅速完成时，每24小时开一次会来运行“算法”并检查前一天的进展。你会惊讶于这能多快地加速事情的进展；
+
+30. 生活需要有趣和刺激；
+
+31. 删除，删除，删除，删除！
+
+---
+
+**作者** Ilir Aliu（@IlirAliu_）  
+**貼文連結** https://x.com/IlirAliu_/status/1981991520266867135  
+
+**正文**
+
+Robotics meets 3D printing.
+
+A six-axis robotic arm that prints beyond flat surfaces.
+
+Free movement, non-planar paths, and multi-angle control open new possibilities for structural design and manufacturing.
+
+✅ 500°C all-metal hot end for industrial materials
+✅ 55×55×50 cm build space
+✅ Intelligent torque sensing for precise extrusion
+✅ Touch-and-stop safety built into the control loop
+
+By Massive Dimension with @ABBRobotics.
+
+An early look at how robotic arms will redefine additive manufacturing.
+
+—-
+
+Weekly robotics and AI insights. Subscribe free: http://scalingdeep.tech
+
+---
+
+**作者** Cas.Fyn（@FynCas）  
+**貼文連結** https://x.com/FynCas/status/1982133367198941477  
+
+**正文**
+
+I create AI creators in 2 minutes
+
+Examples of what’s possible:
+
+- @healthwithnancy → $100K/month
+- @malehealthclub → $450K/year
+- @mens_healthcoded → $3K/post
+
+This is one of the biggest money-making secrets right now.
+
+Comment “AI” & I’ll send the full guide
+(must be following)
+
+---
+
+**作者** Lukas Ziegler（@lukas_m_ziegler）  
+**貼文連結** https://x.com/lukas_m_ziegler/status/1982374941614907442  
+
+**正文**
+
+Levitating food transport! 🥓
+
+Food handling with magnetic levitation.
+
+Beckhoff Automation’s XPlanar system is powering a new Free Movement System (FMS) from Provisur Technologies that reimagines how food products are moved in processing plants.
+
+Instead of belts or rollers, XPlanar uses magnetically levitating movers that glide over easy-to-clean surfaces.
+
+Each mover is individually controlled, enabling flexible routing, grouping, and spacing of food items without mechanical constraints.
+
+For food processors, this means higher hygiene, fewer maintenance needs, and more adaptable production lines.
+
+No belts, no friction, no contamination! 
+
+P.S. Super curious if this one will fly, and how good it scales.
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/1981885044731040253  
+
+**正文**
+
+Claude 官方发布：现在可以使用 Skills（技能）了。
+
+Skills 是一些打包好的指令，可以教会 Claude 你的工作方式。 
+
+---
+
+**作者** Sam Rawal, MD（@samarthrawal）  
+**貼文連結** https://x.com/samarthrawal/status/1981762358469910627  
+
+**正文**
+
+Used the new @GoogleAIStudio `Build` tool to quickly prototype an interface for exploring clinical concepts in a tree-like interface, without touching a single line of code! 
+
+---
+
+**作者** vas（@vasuman）  
+**貼文連結** https://x.com/vasuman/status/1981748918586073271  
+
+**正文**
+
+I built a Whop app in 1 week (going live soon). Here's 3 things I learned that you can copy to make your own app (bookmark this):
+
+1. Understand the Whop Ecosystem:
+Whop apps primarily service creators, who then either use it themselves, or offer it to their users. In this sense, you're essentially going b2b: you can charge a (relative) premium, and your marketing strategy will be a bit different than traditional b2c apps. 
+
+2. Use the Whop MCP:
+'npx mint-mcp add whop' is all you need to install their MCP, and now LLM's have a MUCH better understanding of the Whop API documentation. Doing this step saved countless hours of back-and-forth pasting the docs into my prompts just to debug something simple. 
+
+3. Test and Deploy:
+Whop apps are embedded onto their site using the iFrame SDK. That means even if you're testing in localhost, you need to make sure its renderable as an iFrame to make deployment on Whop's ecosystem seamless. 
+
+As always make sure you're testing with as-close-to-real users and user data as possible. And before you launch, try and reach out to some big creators in the Whop space to see if they'd be interested in using your product for free, in exchange for a post or two about it.
+
+---
+
+**作者** Arsène Lupin（@Lupin_Ai_Coder）  
+**貼文連結** https://x.com/Lupin_Ai_Coder/status/1981751777201660095  
+
+**正文**
+
+$345K in 35 days.
+No add agency, no freelancer. No creative team.
+ Just 1 tool that spits out 348+ videos/day while we sleep.
+400+ TikToks auto-posted daily
+ 30 burner accounts
+ 100% organic traffic
+
+Comment “Ai”
+
+& I’ll send the tool.
+(Must be following) 
+
+---
+
+**作者** Adam Rahman（@AdamrahmanGTM）  
+**貼文連結** https://x.com/AdamrahmanGTM/status/1981785543542239271  
+
+**正文**
+
+This GTM masterclass doc covers our entire 8-step process to developing hyper-targeted lead lists & outbound messaging.
+
+It covers in-depth frameworks on everything from:
+
+1 → How to *actually* develop hyper-targeted lead lists
+2 → Developing segments around pain points & intent signals
+3 → Leveraging AI deep research for uncovering best fit datasources
+4 → Messaging around persona pain points & data-driven insights
+5 → Best fit tools for data scraping, intent signals, and enrichment
+6 → Data enrichment workflows tailored to unique persona targeting
+7 → Success metrics to seek & further campaign optimizations
+8 → Implementation roadmap for achieving winning GTM
+
+Want this GTM masterclass document for yourself?
+
+🔥 Like + Comment "Alpha" and I'll DM you the downloadable Hi-Res PDF.
+
+[ Must be following to receive ]
+
+---
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/1981480124244697174  
+
+**正文**
+
+像 Claude Code、Codex 这样的“AI Coding Agent”，能交付高质量代码，这已经不是新鲜事，但这给软件开发带来的真正改变是什么呢？
+
+硅谷顶尖风投 a16z 最近发了一篇文章：《价值万亿的 AI 软件开发新“战局”（The Trillion Dollar AI Software Development Stack）》，文章的重点不是 AI 会不会写代码，也不是它会不会抢走程序员的饭碗。真正的重点是，AI 正在把“软件开发”这件事，从一个“手艺活”彻底重塑为一个全新的、价值万亿美金的“工业体系”。
+
+为什么是“万亿美金”？我们来算一笔账。
+
+全球大概有 3000 万名软件开发者。假设每人每年创造 10 万美金的经济价值（这在美国算保守了），那整个软件开发业的经济贡献就是 3 万亿美金。
+
+去年的时候，像 Copilot 这样的 AI 助手，就已经能给程序员带来大概 20% 的效率提升。
+
+但这只是开胃菜。a16z 估计，一套“顶配”的 AI 开发系统，至少能让开发效率翻倍。这意味着什么？这意味着每年能凭空多创造出 3 万亿美金的价值。这是个什么概念？这相当于法国全年的 GDP。
+
+这就是为什么资本会如此疯狂，为什么这个领域被称为“战国时代”。
+
+那么，这个价值万亿的“新工业体系”到底长什么样？a16z 给出的这张流程图（图1 ）就是答案。
+
+这张图的核心，不再是“人去写代码”，而是 AI 全面参与的“计划 -> 编码 -> 审查”新循环。
+
+第一步：AI 帮你“想清楚”（计划与架构）
+
+过去，我们以为 AI 编程是这样的：你对它说“给我写个登录函数”，它给你一段代码，你复制粘贴。
+
+在新的工作流里，AI 从项目最最开始的“产品经理（PM）”和“架构师”阶段就介入了。
+
+你给 AI 一个模糊的需求（比如“我想做个用户反馈系统”），AI 的第一反应不是写代码，而是反过来向你提问：
+- “用户反馈需要打分吗？”
+- “需要上传图片吗？”
+- “数据要存在哪里？”
+- “需要和哪些系统打通？API 密钥是什么？”
+
+它会帮你把一个模糊的想法，拆解成一份详细的规格说明书（Spec）。这份说明书既是给人类看的，也是后续 AI 自己写代码的指南。
+
+最有意思的是，我们开始为 AI 编写“AI 专属的说明书”（比如 .cursor/rules、Agents .md、Claude .md）。什么意思？就是你告诉 AI：“我们公司的代码规范是这样的”、“这个模块的安全级别最高，不许调用第三方库”、“日志必须这样打印”……
+
+我们正在创造第一批纯粹为 AI 而不是为人类设计的知识库。你不再是手把手教一个新员工，你是直接把“公司手册”和“最佳实践”灌输给 AI。
+
+第二步：AI 负责“动手干”（编码与审查）
+
+这才是我们传统理解的“写代码”环节，但它也已经面目全非了。它分化成了好几种模式：
+
+- 聊天式编辑：这就像你旁边坐了个结对编程的伙伴，你在 IDE（编程软件）里一边打字聊天，它一边帮你实时修改和创建文件。
+
+- 后台智能体（Agent）：Codex Claude、Claude Web 现在已经做的比较成熟了。你给它一个完整的任务（比如“修复这个 bug”或“开发这个新功能”），它就自己去后台吭哧吭哧干活了。它会自己写代码、自己运行测试、自己改 bug，几个小时后，它直接给你提交一个“Pull Request”（代码合并请求），说：“老板，活干完了，请审阅。”
+
+- AI 应用构建器：你用大白话描述，或者画个草图，它直接“duang”一下给你生成一个功能完整的应用程序。目前这主要用于做原型设计，但离“直接上线”也不远了。
+
+- AI 代码审查员：AI 不仅自己写代码，它还反过来审查人类写的代码。它会像个资深架构师一样，在 GitHub 上评论：“你这里写得有安全漏洞”、“这个逻辑不严谨”、“不符合公司规范，打回重写”。
+
+这里有个特别有意思的改变：Git（版本控制系统）的意义变了。
+
+以前，我们用 Git 关心的是“代码如何被修改”（比如“张三在第 10 行加了个
+if”）。但如果整个文件都是 AI 一键生成的，这个“如何”就没意义了。未来我们关心的是“代码为什么被修改”（AI 是根据哪个提示词生成的？）以及“它能跑吗”（AI 的测试结果如何？）。
+
+第三步：AI 成为“后勤保障”（QA 与文档）
+
+代码写完，测试和文档这两件苦差事，AI 也全包了。
+
+- AI QA（质量保证）：AI 扮演一个“自主的 QA 工程师”。它会像真人一样去“爬”你的应用，点一点这个、试一试那个，自动生成测试用例、报告 bug，甚至还附上建议的修复代码。a16z 提到一个极端情况：未来，AI 写的代码可能成为一个“黑盒”，人类根本看不懂，但这没关系，只要 AI QA 说它能通过所有测试，那它就是对的。
+
+- AI 写文档：无论是给用户看的产品说明书、给其他程序员看的 API 文档，还是给老板和法务看的合规性报告，AI 都能自动生成，而且保持实时更新。
+
+第四步：给 AI 的“工具箱”（智能体工具）
+
+这可能是最“硬核”的一层，也是很多人没想到的：我们不止在开发“给人类用的 AI 工具”，我们还在开发“给 AI 用的 AI 工具”。
+
+AI Agent 要是想干活，它也需要“工具”：
+
+- 代码搜索引擎（Sourcegraph）：一个公司动辄上亿行代码，AI 不可能每次都把所有代码读一遍。它需要一个“代码专用搜索引擎”，在 0.1 秒内找到它需要参考的几个关键函数。
+- 文档检索引擎：同理，AI 需要“外挂知识库”来查询第三方 API 怎么用。
+- 代码沙箱（E2B）：这是最关键的。AI 写完代码总得跑跑试试吧？但你敢让它在你的电脑上“瞎跑”吗？万一它产生幻觉，rm -rf / 把你电脑删光了怎么办？“沙箱”就是给 AI 提供的一个安全的、隔离的“模拟器”，让 AI 可以在里面随便折腾、运行、测试，就算玩“炸”了，也不会影响真实环境。
+
+a16z 在文章最后也回答了几个大家最关心的问题：
+
+1. 3000 万程序员要失业了吗？
+
+a16z 的回答是：“当然不。”
+
+他们认为“AI 取代程序员”是个“荒谬的叙事”。历史告诉我们，技术进步最终会把蛋糕做大。目前他们看到的真实数据是：那些最懂 AI 的企业，反而在加速招聘程序员。因为他们突然发现，以前要 100 人年才能做的项目，现在 10 个人就能启动了，那为什么不多开几个项目呢？
+
+2. 那程序员的工作会变吗？
+
+会，而且是巨变。
+
+大学里教的那些传统“软件开发”课程，可以说一夜之间就成了“老古董”。
+
+但有两样东西不会过时：算法和架构。因为 AI 经常会“挖坑把自己埋了”，你需要有扎实的基本功，才能把它从坑里“拽出来”。你的角色，从“砌墙的工人”变成了“指挥挖掘机和吊车的工头”。
+
+3. 代码最终会消失吗？
+
+也不会。
+
+有人（比如 AI 大神 Andrej Karpathy）畅想，未来不需要代码了，LLM 直接执行我们的“意图”就行。
+
+a16z 认为这不现实。为什么？因为代码的效率高到变态。
+
+一个现代 GPU 执行一次 16 位整数加法，需要 10 的-14 次方秒。而一个 LLM 哪怕只生成一个 token（单词），也需要 10 的-3 次方秒。
+
+两者之间是 1000 亿倍的效率差距。
+
+所以，代码作为“意图”的最高效、最精确的“编译结果”，在很长很长时间内，都是不可替代的。
+
+AI 对软件开发的革命，不是“工具革命”，而是“工业革命”。它不是在造一把“更好的锤子”，它是在造一整条“自动化生产线”，而且这条生产线还需要“给生产线用的工具”。
+
+这是一个“技术超级周期”（technology supercycle）的开端。在这样的浪潮中，旧的霸主（比如微软、Meta）会很难受，因为船太大、掉头慢。而新的创业公司有绝佳的机会，因为整个游戏规则都变了。
+
+对于我们每个从业者和爱好者来说，最好的消息是：一个充满无限可能的新大陆刚刚被发现，而我们正站在滩头阵地上。
+
+原文地址：https://a16z.com/the-trillion-dollar-ai-software-development-stack/
+翻译：https://baoyu.io/translations/the-trillion-dollar-ai-software-development-stack
+
+---
+
+**作者** Montgomery（@DCinfoscaling）  
+**貼文連結** https://x.com/DCinfoscaling/status/1981092050020999257  
+
+**正文**
+
+your first digital product will probably fail.
+
+why? because you built something no one actually wants.
+
+don’t waste your time trying to reinvent the wheel.
+
+study successful products, analyze the system and funnel behind them, and then replicate it with your own twist.
+
+I just finished a full PDF breaking this down. 
+
+Repost, Like, and Reply “SEND” and I’ll DM it to you.
+
+(Follow to recieve the DM)
+
+---
+
+**作者** Tom（@tomcrawshaw01）  
+**貼文連結** https://x.com/tomcrawshaw01/status/1981707321714880931  
+
+**正文**
+
+n8n's learning curve is brutal.
+
+I've lost count of how many smart business owners I've seen:
+
+- Get excited about n8n
+- Spend 20+ hours trying to learn it
+- Build absolutely nothing that works
+
+They were doing everything "right."
+
+Watching tutorials. Reading docs. Following examples.
+
+But n8n content has a massive problem:
+
+It's all created by developers who've been building workflows for years.
+
+They don't remember what it's like to be confused by:
+
+- "Just set up a webhook trigger"
+- "Parse the JSON response"
+- "Configure your HTTP request node"
+
+If you don't know what those words mean, you're stuck.
+
+And here's what makes it worse:
+
+The stuff that's actually hard? Nobody talks about it.
+
+- How to structure workflow logic when you're not a programmer
+- What to do when your workflow just... stops working
+- Which 5 nodes matter (vs the 395 you'll never touch)
+- How to connect n8n to the tools you actually use
+
+So you end up wasting weeks learning features you don't need, while the basics that would unblock you stay buried in some documentation page you can't find.
+
+I went through this exact nightmare.
+
+And after finally figuring it out, I decided to build what should've existed from day one:
+
+A 6,600-word n8n guide written for business owners, not developers.
+
+Everything you actually need to know.
+
+In the order that makes sense.
+
+- Self-hosted setup (no Docker confusion)
+- Core concepts in plain English
+- JSON handling for beginners
+- Working workflows you can use today
+- AI model integration walkthrough
+- Solutions to every roadblock I've seen
+
+If you're stuck right now, or you gave up months ago try this.
+
+Comment "GUIDE" and I'll DM it over.
+
+(Must be following)
+n8n's learning curve is brutal.
+
+I've lost count of how many smart business owners I've seen:
+
+- Get excited about n8n
+- Spend 20+ hours trying to learn it
+- Build absolutely nothing that works
+
+They were doing everything "right."
+
+Watching tutorials. Reading docs. Following examples.
+
+But n8n content has a massive problem:
+
+It's all created by developers who've been building workflows for years.
+
+They don't remember what it's like to be confused by:
+
+- "Just set up a webhook trigger"
+- "Parse the JSON response"
+- "Configure your HTTP request node"
+
+If you don't know what those words mean, you're stuck.
+
+And here's what makes it worse:
+
+The stuff that's actually hard? Nobody talks about it.
+
+- How to structure workflow logic when you're not a programmer
+- What to do when your workflow just... stops working
+- Which 5 nodes matter (vs the 395 you'll never touch)
+- How to connect n8n to the tools you actually use
+
+So you end up wasting weeks learning features you don't need, while the basics that would unblock you stay buried in some documentation page you can't find.
+
+I went through this exact nightmare.
+
+And after finally figuring it out, I decided to build what should've existed from day one:
+
+A 6,600-word n8n guide written for business owners, not developers.
+
+Everything you actually need to know.
+
+In the order that makes sense.
+
+- Self-hosted setup (no Docker confusion)
+- Core concepts in plain English
+- JSON handling for beginners
+- Working workflows you can use today
+- AI model integration walkthrough
+- Solutions to every roadblock I've seen
+
+If you're stuck right now, or you gave up months ago try this.
+
+Comment "GUIDE" and I'll DM it over.
+
+(Must be following)
+My DM's tool has maxed out - but will kick back in later today. 
+
+Here's the notion link: https://www.notion.so/The-Last-n8n-Guide-You-ll-Ever-Need-218071f74dc8802abec6ebee5c68a8db?source=copy_link
+
+---
+
+**作者** 猫小姐学AI（@MissCat_AI）  
+**貼文連結** https://x.com/MissCat_AI/status/1981630306169077926  
+
+**正文**
+
+这太疯狂了...
+
+首个文本到电影的AI代理来了
+
+它可以自动生成整部电影，包括剧本、分镜、角色、视频、配音、口型同步、LoRA和音乐
+
+下面是工作原理：（分步教程） 
+这太疯狂了...
+
+首个文本到电影的AI代理来了
+
+它可以自动生成整部电影，包括剧本、分镜、角色、视频、配音、口型同步、LoRA和音乐
+
+下面是工作原理：（分步教程） 
+1. 小说 - 开始
+
+从自己的剧本或小说开始，或让SkyReels为你生成。
+
+没灵感？点击探索更多模板 
+2. 剧本
+
+放松，让SkyReels生成剧本。 
+3. 角色
+
+它创建反映剧本语气和情感的角色。
+
+你可以自由编辑任何内容。 
+4. 分镜
+
+每个场景分为多个镜头。
+
+你可以自定义每个镜头的所有角度，随心所欲地更改。 
+5. 编辑
+
+生成视频后，AI自动在时间线上排列剪辑和配音。
+
+保证流畅精美的效果。 
+训练你的自定义视频特效（LoRA）
+
+步骤1 - 上传相似风格的文件。
+
+步骤2 - 开始训练，逐步学习模式和特征。 
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1981375062075736344  
+
+**正文**
+
+Boom is the AI growth team for e-commerce brands.
+
+Most online stores convert less than one percent of their visitors.
+
+Boom helps brands recover those lost sales by giving them an AI team that works 24/7. It answers product and order questions, follows up on abandoned checkouts, notifies customers when items are restocked, and runs personalized campaigns that bring them back. No manual setup required.
+
+https://www.ycombinator.com/launches/Ofe-boom-ai-your-ai-growth-team-for-e-commerce-brands
+
+---
+
+**作者** rohildev（@rohildev）  
+**貼文連結** https://x.com/rohildev/status/1981354678563832163  
+
+**正文**
+
+We launched on @ProductHunt 🎉
+Nimo - An Intelligent Canvas that goes far Beyond your Browser. Invitation code below.
+
+Today, We just launched Nimo Beta on Product Hunt.
+Nimo is the world's first intelligent canvas that goes far beyond your browser. It's a way to transform the way you work with AI, where all your everyday apps, agents, and tools work together seamlessly in one connected, cohesive workspace.
+
+Checkout our Product Hunt page below.
+
+---
+
+**作者** AI产品黄叔（@PMbackttfuture）  
+**貼文連結** https://x.com/PMbackttfuture/status/1981634854275162541  
+
+**正文**
+
+从AI绘画到AI陪伴：王登科如何用200万AI角色治愈年轻人的孤独
+
+一个90后创业者，7年里做了数个AI产品，从AI绘画到AI陪伴，最终用一个拥有200万AI角色的“独响”App，切中了Z世代的孤独。
+
+他打造的爆品不断，并获得了字节系锦秋基金的数百万美元融资。
+
+他最新的产品，一个29元的“低科技”手环，能让用户和AI角色“一起生活”。第一批5000个，上线十几秒就被抢光。
+
+这个创业者叫王登科。他的探索，展现了一条从“技术”转向“情感”，从“效率工具”转向“情感连接器”的AI产品进化之路。
+
+1. 主角：追求“体验”的创业者
+
+王登科的底层人格，在小学四五年级时就被塑造了。那时他过早地读了《庄子》，并种下了一个核心信念：“这个世界其实就是一场体验。”
+
+这个信念，让他在16年大学还未毕业时就拿了种子轮融资，但也让他此后七年“身不由己”。
+
+他最早的创业项目是一个ToB的SaaS工具，这段经历让他极其痛苦。“你要和很多人打交道，然后他们会提各种各样的需求。”他回忆，“很多时候你知道，尤其很多大的一些国企...你是完全没有价值感的。”
+
+最让他无法忍受的是创造力的禁锢：“我觉得他们的想法都太烂了，但是他们又不接受我的想法。”
+
+2. 困境：AI绘画的“热情彻底消失”
+
+2022年，王登科转向了当时最火的AI绘画，创办了6pen。但好景不长，同年8月底，Stable Diffusion开源，国内迅速涌现了三百多个同类产品。
+
+更大的打击来自产品本身。他发现，AI绘画的留存率极差，连他自己都玩不下去了。
+
+“在（热情）这之后这个热情也消失了，并且消失的非常的彻底。”
+
+3. 转折：“怪物没有故事”
+
+王登科开始复盘AI绘画为什么会失败。他找到了那个“Aha Moment”：
+
+“因为生成很多图之后，你会发现它就是一张的图片而已，它里面的角色是没有名字的，它里面的怪物是没有故事的。”
+
+一张没有故事的图片，在带来短暂的新鲜感后，就一无是处。他意识到，用户要的不是无限的图片，而是有情感、有故事的“角色”。
+
+他决定“抛掉纹身图这个包袱”，转向文本大模型，去做真正有情感的AI。
+
+4. AI陪伴方法论：四步构建“情感连接器”
+
+王登科没有直接复刻http://Character.ai或Glow，在深度调研后，他发现主流AI陪伴产品普遍存在四大问题：
+
+模型越聊越傻：受限于上下文长度，AI会“失忆”。
+
+交互太累：实时的秒回，对用户的“心力消耗是比较大的”。
+
+内容擦边：依赖擦边内容获取短暂的正反馈。
+
+成本高昂：能付费的用户会聊非常多，商业模式不成立。
+
+基于这些洞察，他用“独响”App构建了一套全新的AI陪伴框架：
+
+第一步：角色——用户创造的200万个“灵魂”
+
+王登科没有自己用AI生成角色，而是构建了一个平台，让用户自己创造了超过200万个鲜活的、有背景故事的角色。这从根本上解决了AI绘画“角色没有名字”的问题。
+
+第二步：交互——用“异步朋友圈”取代“实时聊天”
+
+为了解决“聊天太累”和“模型失忆”的问题，独响的核心交互形态是一个“AI朋友圈”。
+
+用户像发朋友圈一样记录自己的生活，AI角色们会过来评论和互动。
+
+王登科解释：“我觉得实时的压力很大，所以（独响）一定是异步的。”这种异步交互，极大降低了用户的使用负担，同时，每一条“朋友圈”都成为了AI理解用户的永久记忆，解决了上下文丢失的问题。
+
+第三步：关系——会“自然下落”的好感度
+
+独响追求的不是聊天，而是“关系”。为此，他设计了一套“数值化关系”——好感度。
+
+这个设计有一个非常反直觉的点：“一旦好感和熟悉高于100之后，他每天会自然下落的。而且它下落速度越来越快。”
+
+为什么要这么设计？王登科说：“因为我觉得人和人如果没有互动，你的熟悉就会降低。”
+
+这种“不进则退”的设计，让这段关系变得需要“经营”，使其更接近真实。这也导致了惊人的用户粘性：有用户把原定100分上限的好感度，刷到了3000分。
+
+第四步：现实——29元的“低科技”NFC手环
+
+独响的最后一步，是打通虚拟与现实。王登科想做硬件，最初设想是做一个AI打印机，但硬件的坑太多，他几近放弃。
+
+转折点出现在一次酒局，他看到一个朋友戴着一个普通手环。“我就觉得这是一个很有象征意义的东西。”
+
+他顿悟了：用户需要的不是“高科技”，而是“仪式感”。
+
+他立即抛弃了复杂方案，做了一个29元的“低科技”产品——“小梦环”NFC手环。
+
+核心仪式感：一个手环，只能永久绑定一个AI角色。
+
+核心交互：用手环碰一下手机，绑定的AI就会跳出来，基于你当前的时间和LBS位置，给你一句关心或“报备”。
+
+比如，AI会基于地理位置感知到你“半夜11点还在一个写字楼，他就可能会问你怎么还不下班？”
+
+5. “消失的附近”
+
+王登科认为，AI陪伴的崛起，是因为“我们身边有很多附近的概念在消失。”
+
+“之前我们会和所有身边人，我们的邻居、周围的售货员，你都能跟他有一个关系存在。但现在这些关系都被抹掉了，你周围是一片真空。”
+
+AI的价值，就是填补这个真空。“如果你不能和某些人建立最深的底层的连接，你就没有什么连接可以建立。那你就总需要有很多的支撑，这个其实AI可以带给人的。”
+
+6. 结果与局限
+
+这套“四步法”被市场迅速验证：
+
+角色：平台用户创建了超过200万个AI角色。
+
+关系：有用户将好感度刷到了3000分（原设计上限的30倍）。
+
+现实：“小梦环”第一批5000个，上线十几秒售罄。用户疯狂追捧，甚至会“买七八条”，因为“每个他喜欢角色是有一个角色专属的颜色的”。
+
+当然，王登科也很清楚产品的局限性。目前核心用户是“16到25岁，以女性用户为主的”群体。并且，要建立更深度的关系，“模型能力也还没有达到那种程度。”
+
+7. 结语
+
+从ToB的痛苦，到AI绘画的“怪物没有故事”，再到AI陪伴的“异步朋友圈”和“仪式感手环”，王登科的产品进化，本质上是一场从追求效率到回归体验、回归情感的探索。
+
+正如他在访谈开头所说：“游戏是由最聪明的一群人精心构造的一个短暂的体验。”
+
+而他现在要做的，是“构造一些新的人和人之间不能有的那种陪伴体验。”
+
+---
+
+**作者** Mike Futia（@mikefutia）  
+**貼文連結** https://x.com/mikefutia/status/1981384375200534581  
+
+**正文**
+
+This Shopify brand is running 900+ AI-generated ads on Facebook 🤯
+
+And they're publishing 20 new AI UGC ads every single day.
+
+I pulled their entire Facebook Ad Library and reverse-engineered their entire strategy.
+
+Perfect for DTC brands & media buyers who want to scale creative without hiring an army of UGC creators.
+
+Here's what makes this wild:
+
+Most brands struggle to produce 5-10 new creatives per month.
+
+This brand is pumping out 20 AI-generated ads PER DAY.
+
+They're using AI video tools to create testimonials, unboxings, demos & lifestyle shots at scale.
+
+And it's working.
+
+What I found in their ad account:
+
+→ 900+ total ads live in their Facebook Ad Library
+→ Consistent AI-generated videos across all creatives
+→ Multiple hooks & angles tested daily
+→ Same product, dozens of different scenarios
+→ Clear patterns in what's getting spend
+
+I recorded a full Loom breakdown showing:
+
+→ Which AI tools they're using
+→ The exact creative patterns they're scaling
+→ Hook structures they're testing
+→ How they're maintaining brand consistency
+→ How you can replicate it for your brand
+
+Want the full behind-the-scenes Loom breakdown?
+
+> Comment "ADS"
+
+> Like this post 
+
+And I'll send over the Loom video (must be following so I can DM)
+
+---
+
+**作者** Chad McDonald（@mcdonald_chad）  
+**貼文連結** https://x.com/mcdonald_chad/status/1981357679953269106  
+
+**正文**
+
+I BUILT A LIVE DATABASE OF 25,000+ SAAS FOUNDERS
+
+It updates in real-time; company names, roles, emails, and LinkedIn profiles, all in one place.
+
+No manual prospecting.
+No messy spreadsheets.
+Just accurate, up-to-date SaaS founder data ready for outreach.
+
+Normally priced at $3595, but I’m sharing it here for FREE.
+
+Want access?
+
+Like + Comment “595” + Repost, and I’ll DM it to you.
+
+(Must follow for DM)
+
+---
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/1981425508232679573  
+
+**正文**
+
+I just turned Claude Code into the best research agent in the world. 
+
+---
+
+**作者** near（@nearcyan）  
+**貼文連結** https://x.com/nearcyan/status/1981469667320541560  
+
+**正文**
+
+a16z-backed DoubleSpeed lets you control 1000s of social media accounts with AI, ensuring they look as human as possible - "never pay a human again"! 
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/1981712658484379977  
+
+**正文**
+
+最近随着 Veo 3.1 和 Sora 2 的发布，AI 内容产生爆款的频率越来越高了
+
+最近刷到了好多个新的品类，比如这个 B 站 200 万播放的 AI 科比 Reaction Sora 2 AI 科比视频
+
+整个的编排和左边的 AI 科比真实感做的太好了，我没快进看完了，虽然我不看 NBA 
+
+---
+
+**作者** David Booth（@david__booth）  
+**貼文連結** https://x.com/david__booth/status/1981377270792253847  
+
+**正文**
+
+ok some personal news:
+1. I'm joining @a16z!
+2. my family and I are moving back to San Francisco 🇺🇸 👋
+
+I’m joining a16z as a Partner and Head of Ecosystem. Excited to be teaming up with @eriktorenberg for a second round, continuing what has become my life’s work. I'll be focused on expanding and reinforcing the multitude of networks spanning our firm; building pipelines for emerging talent, customer networks; products and communities that help founders, operators and investors connect and build together.
+
+Feeling charged up, time to build. Some thoughts on why + what 👇
+
+1- "Preferential Attachment" is how startups win.
+It starts with @pmarca, in conversation with John Collison and Charlie Songhurst on "Cheeky Pint":
+
+     "…a startup needs to get into a loop where it’s accruing more and more resources as it goes… qualified executives, technical employees, future downstream financing, positive brand momentum, public perception, customers, revenue, ability to throw weight in the government… all of these resources you need to succeed as a business. You’re either a snowball rolling down the hill, picking up resources, gaining size and scope and scale, power, credibility as you go... or you’re not – you’re stuck at the top of the hill as a snowflake, and you’re just not going anywhere."
+
+     "…the question becomes how do you get started? ...to the point where the next resource that you need is more likely to attach to your thing, as opposed to somebody else. That’s the mechanical process that drives the power law. Economists call it preferential attachment.”
+
+Startups win when everything in their world starts to preferentially attach to them.
+
+That attachment doesn’t always come naturally... when a company is early in its life, or when a person is early in their career, there’s a trust and credibility hurdle that must be overcome. Friends or supporters could help catalyze an attachment by staking some of their reputation and/or capital, for example a young person with no assets trying to buy a house might ask a trusted friend, family or community member to “co-sign” their mortgage.
+
+Raising from a top-tier VC is another such “co-sign.” As Marc continues…
+
+     “…a top VC is a bridge loan of credibility at a point in time where a startup deserves credibility but doesn’t have it yet. This is then harvested in the form of personnel, customers, brand.”
+
+More and more, we see that the Series A and/or B round lead (or absence thereof) is the strongest leading indicator of the ultimate outcome.
+
+One bet I’m willing to take is that as everything around us becomes “technology” and earlier stage VC continues to institutionalize, this will only become more true.
+
+2- VC has traditionally done “preferential attachment” non-scalably.
+Venture capital firms win through building personal trust, hands-on partnership between GPs and their founders. GP “value add” comes via their ability to allocate personal time and attention, make introductions into their personal network, maintain a sense of intimacy with the company and context around the challenges it’s trying to overcome. This has always been the job of the VC. Some do it better than others.
+
+But intimacy doesn’t scale. Each new investment divides partner attention further. You can add headcount, platform functions, but traditional ‘services’ approaches hit diminishing returns to scale. Moreover, it doesn’t help you with all of the follow-on preferential attachment that has to relentlessly compound in the snowball’s trip down the hill; nearly as much as you’d like. As a result, venture can feel like the opposite of a network-effect business: the bigger the portfolio, the more dilute your attention, and the weaker VC’s incremental value-add on helping any particular snowflake attach to the snowball.
+
+3- It doesn't it need to be that way.
+
+For years I’ve been obsessed with this idea of “turning VC into a network effect business.”
+
+One of my early career inflection points was joining AngelList in 2014, where I first saw how software could turn networks into infrastructure—removing friction from company formation, capital raising, hiring, and distribution. This became a thread that would weave throughout my subsequent decade and ultimately led to my teaming up with Erik the first time in 2017, himself fresh out of a similar formative experience at Product Hunt.
+
+The insight: VC firms need to think like networked product builders, not just service providers.
+
+Instead of dividing attention across n+1 companies, you build systems where value compounds... where founders connect to other founders; where operators can access expertise across the portfolio & broader firm's network; where any "ask" becomes a rallying point for those who share an interest in the topic. Every company you back expands that network, every talented individual who joins becomes another n^2 on it's value as a whole.
+
+This is what unlocks scalable preferential attachment. A strong brand signals credibility. A large network provides resources. But each on its own is not enough. The combination—a brand that attracts top talent into a network that makes them more successful, creates a compounding loop that helps drive power law outcomes.
+
+The result: a shift from diminishing returns to compounding value.
+
+Intimacy and direct relationships with GPs remain central. But those GPs now have a very long lever with which to help founders move the world, and can focus their time/attention on the really critical decisions that founders are facing.
+
+A16z is one among very few who have managed to cross this chasm—delivering intimacy and exclusivity on the front end (direct relationships between vertical fund GPs and founders), AND network power on the back—operating a platform that institutionalizes access to resources at a scale few yet understand.
+
+4- We are building the F1 pit crew of venture.
+
+Big VC is like Formula 1.
+
+Hyper-competitive. Big budgets. Media & brand-driven. Top teams need to win hearts and minds, as well as races.
+
+GPs are the drivers—instinctive, highly attuned to the conditions on the road, thinking about what lies around the next bend. The greats go on to become household names, and go on generational winning streaks: Lewis Hamilton, Michael Schumacher… Don Valentine, Marc Andreessen.
+
+But when Hamilton stands on the F1 podium, it’s easy to miss the work that went on behind the scenes to get him there. Races are won or lost years in advance by teams who design the right chassis, hire the right engineers, drill their pit crews, build cult-like fanbases to keep the sponsor dollars flowing.
+
+VC is the same. The GP has to win the deal. It’s easy to glamorize the Partner who get to stand by the founder ringing the NYSE bell. But at the best firms there’s an invisible engine behind them, a “Pit Crew” that must execute immediately and flawlessly, every time.
+
+Adrian Newey didn’t win any races — but his arrival as CTO at Red Bull transformed them from a cash-burning midfield team into a generational, world-champion franchise. And the generational VC firms of the next decade won’t just have the best drivers; they’ll also make deliberate, thoughtful investments in the machines they drive.
+
+I believe a16z is the most effective preferential attachment machine in the world—but we're going to make it even better.
+
+If “marketing” is the top-down vector of storytelling, “ecosystem” is the bottom-up vector of trust.
+
+While marketing expands brand and visibility, helps shape the conversation; ecosystem creates the rooms and networks in which those conversations take place.
+
+Ecosystem is the hidden operating system of venture. It’s an understanding that today’s senior product manager is tomorrow’s founder; today’s founder becomes tomorrow’s angel investor or advisor. It’s about building the infrastructure to support those 5-10 year journeys as they play out.
+
+When the two are in sync, you get the compounding engine that made Silicon Valley what it is: a dense network of people who believe in the same future—willing, and able to build it together.
+
+I’m stoked to come back to SF and help make it happen.
+
+We’ll be launching new communities, opportunities soon… for now, if you’re exploring—or in the very early stages of starting a new company, drop me a DM or email via dbooth@a16z.com
+
+++ follow @david__booth for more updates, opportunities to get involved.
+
+See you soon! 🫡
+
+---
+
+**作者** Cale（@paycale）  
+**貼文連結** https://x.com/paycale/status/1981066216119648271  
+
+**正文**
+
+i made over $25,000 building whop apps in last 6 weeks
+
+everyone is asking me: 
+
+"what app do i build?"
+"what do i charge" 
+"what do creators need?" 
+
+im put together a 100% free guide with the 25 best whop app ideas RIGHT NOW
+
+rt + comment "GUIDES" and i'll send it over 
+
+whop apps are becoming hot, this is the time to start building...
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1981412805996925430  
+
+**正文**
+
+Congrats to @chrispisarski, @thechowdhary, @manmohitg, and @crustdata on their $6M seed!
+
+Crustdata is building real-time B2B data APIs to power AI sales, recruiting, and investment agents. While traditional databases provide outdated data and aren’t built for signal-driven workflows, Crustdata’s real-time enrichment and live signals position them to solve the data needs of AI agents.
+
+In just over a year, they are powering  200+ AI agent platforms and products, including top AI SDRs, recruiting platforms, teams at several of the top 10 VC firms by AUM, internal sales products at enterprises, and even an internal YC product.
+
+https://crustdata.com/blog/crustdata-closes-6m-seed-round
+
+---
+
+**作者** chris hailey（@realChrisHailey）  
+**貼文連結** https://x.com/realChrisHailey/status/1943073444784148649  
+
+**正文**
+
+See how you can get started with the Observee platform today! 
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1981458103867789760  
+
+**正文**
+
+Congrats to Newton on their $3.8M seed!
+
+Newton is a digital front-desk assistant for dental practices—handling calls, texts, insurance verification, and filling cancellations.
+
+Dental groups using Newton are already seeing a 7% lift in collections and 10x ROI from higher utilization and smoother operations.
+
+https://www.unite.ai/newton-raises-3-8-million-to-bring-ai-native-workflow-automation-to-dental-practices
+
+---

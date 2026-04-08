@@ -1,12 +1,3 @@
-你首先可以先去參考 OpenAI 他們 最新推出的一個產品叫做 OpenAI Frontier 平台，
-這些影片也很重要先留著你可以先不用看
-[https://www.youtube.com/watch?v=SZePy52I9Vc&t=368s](https://www.youtube.com/watch?v=SZePy52I9Vc&t=368s)
-[https://www.youtube.com/watch?v=quwaZPVMG9M&t=322s](https://www.youtube.com/watch?v=quwaZPVMG9M&t=322s)
-[https://www.youtube.com/watch?v=-LywX3T5Scc](https://www.youtube.com/watch?v=-LywX3T5Scc)
-[https://www.youtube.com/watch?v=3XVDtPU8xKE](https://www.youtube.com/watch?v=3XVDtPU8xKE)
-
----
-
 不讓監管 Growth 成為 絆腳石 而是 競爭優勢
 
 我想的產品型態會是 一個 做 Infra的層 ， 跟產品層 我會想要參考claude 生態系的成功 像是 claude code 、 claude cowork的成功例子，有多個Multi agent 去做不同利基的合規 ， 甚至 幫助合規產品更好維護 快速上架、
@@ -26,8 +17,6 @@ GRC Layer -> AI Agent Compliance Ops
 要真的做出來我還需要研讀 目前 x 上關於 enterprise 的文章
 Context Graph 、 Wiki Compliance
 
-
-
 Internal Context
 ERP Agent CONTEXT
 Customer context
@@ -37,8 +26,6 @@ Task Agent Context Colab
 
 任何需要流程化或是遵守規定的組織 , 流程-> Context  
 Glean
-
-
 
 ---
 
@@ -98,8 +85,6 @@ AIOps : Context infra + Context Product
 Eloquent AI financial service , bfsi ,
 Eloquent AI + Norm AI/Context Infra
 Eloquent AI : The AI Operator for Financial Services
-
-
 
 例如Arcline:  Arcline 為新創公司提供基於人工智慧的法律服務，當天即可完成，並由頂尖律師全程參與。我們的人工智慧可以完成 80% 的工作，因此新創公司只需為最後 20% 的工作支付律師費。
 

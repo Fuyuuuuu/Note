@@ -1,623 +1,6 @@
 # Twillot 書籤（精簡）— 第 11/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 1966–2161 則**（共 196 則）
-
----
-
-**作者** Gokul Rajaram（@gokulr）  
-**貼文連結** https://x.com/gokulr/status/2019571976046801252  
-
-**正文**
-
-Check out where Systems of Recoard sit in this diagram from @OpenAI Frontier.
-
-At least 3, if not 4, layers of context and intelligence sit between them and the end business application.
-
-It's one of the clearest representations of how AI  companies plan to build next-gen systems of action on top of existing SoR, and why the markets are so worried about the future of software companies. 
-
-PS: Even the color coding  subtly highlights where OpenAI thinks  value will accrue. The SoR layer is white and can almost be missed if one don't look closely!
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2019622277416141020  
-
-**正文**
-
-我去，太牛逼了，朋友们太猛了！
-
-Opus 4.6 加 agent teams，不到一小时就帮我完成了这个我一直想做的一个产品
-
-一个 Cloud Code 的 UI 版本。
-
-它具有以下特点：
-
-1. 所有的配置跟你本地的 Cloud Code 联动
-2. 可视化地管理和设置 Cloud Code
-3. 可以可视化地配置 MCP、skill 和 plugin
-4. 支持调用你本地 Cloud Code 的交互
-5. 存着你历史的聊天记录
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2019633723185197285  
-
-**正文**
-
-强烈推荐用OpenClaw给自己做一个人生维基 💀
-
-有人把自己的博客、播客、个人简介，还有 1938413 个关于他的东西全喂给了它。用维基百科条目的形式来浏览自己的一生，他表示真的很有意思——不过说实话，也有点瘆人，不知道该怎么形容。 
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2019637538995183779  
-
-**正文**
-
-有人提出一个很有意思的观点：UGC Engineer将成为社交媒体领域最关键的新兴角色。
-
-UGC工程师的崛起
-
-你觉得这种转变会如何影响内容创作行业？🤔 
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/2019550950885847262  
-
-**正文**
-
-再次命中
-
-But 没想到OpenAI 进行了狙击
-
-Claude Opus 4.6 发布
-
-100万 token 上下文+ 多代理协作😩
-
-1. 上下文翻了 5 倍
-2. 记忆力提升近 4 倍
-3. 知道自己该什么时候深度思考
-
-一小时后GPT-5.3-codex发布，跑分超越Opus… 
-
----
-
-**作者** Chris（@chatgpt21）  
-**貼文連結** https://x.com/chatgpt21/status/2019496520425292220  
-
-**正文**
-
-Anthropic had 16 AI agents build a C compiler from scratch. 100k lines, compiles the Linux kernel, $20k, 2 weeks.
-
-To put that in perspective GCC took thousands of engineers over 37 years to build. (Granted from 1987 - however) One researcher and 16 AI agents just built a compiler that passes 99% of GCC's own torture test suite, compiles FFmpeg, Redis, PostgreSQL, QEMU and runs Doom.
-
-They say they "(mostly) walked away." But that "mostly" is doing heavy lifting.
-
-No human wrote code but the researcher constantly redesigned tests, built CI pipelines when agents broke each other's work, and created workarounds when all 16 agents got stuck on the same bug.
-
-The human role didn't disappear. It shifted from writing code to engineering the environment that lets AI write code.
-
-I don’t know how you could make the point AI is hitting a wall.
-Anthropic had 16 AI agents build a C compiler from scratch. 100k lines, compiles the Linux kernel, $20k, 2 weeks.
-
-To put that in perspective GCC took thousands of engineers over 37 years to build. (Granted from 1987 - however) One researcher and 16 AI agents just built a compiler that passes 99% of GCC's own torture test suite, compiles FFmpeg, Redis, PostgreSQL, QEMU and runs Doom.
-
-They say they "(mostly) walked away." But that "mostly" is doing heavy lifting.
-
-No human wrote code but the researcher constantly redesigned tests, built CI pipelines when agents broke each other's work, and created workarounds when all 16 agents got stuck on the same bug.
-
-The human role didn't disappear. It shifted from writing code to engineering the environment that lets AI write code.
-
-I don’t know how you could make the point AI is hitting a wall.
-If you want more cool AI news like this in your feed, consider following me, I have nothing to sell you 😊
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/2019501284794179865  
-
-**正文**
-
-.@autumn_ai_inc is building the first real-time signal intelligence platform for GTM teams.
-
-Define your ICP and the signals that matter, and Autumn delivers a condensed, real-time feed filtered by intents.
-
-Congrats on the launch @VishnuSampathk1 and @shiv_kampani!
-
-https://www.ycombinator.com/launches/PNL-autumn-ai-stalk-your-prospects-at-scale
-
----
-
-**作者** Arvind Jain（@jainarvind）  
-**貼文連結** https://x.com/jainarvind/status/2019553277571190821  
-
-**正文**
-
-Context graphs are quickly becoming one of the most talked about ideas in enterprise AI, with investors @JayaGup10 and @ashugarg calling them a “trillion-dollar opportunity.”
-That’s because while AI
-
----
-
-**作者** Aniket Panjwani（@aniketapanjwani）  
-**貼文連結** https://x.com/aniketapanjwani/status/2019401717364748767  
-
-**正文**
-
-everyone I follow to keep up with AI:
-
-1. @steipete - rn he's getting bogged down with openclaw, which I think is a distraction for >97% of those interested in it. but I read his long form and study his workflows very closely. main learning i've gotten from Pete is make everything a cli + skill
-2. @mattpocockuk - long time developer educator who's been pushing the limits on ralph loops. he's interesting as a foil to @steipete in that I respect both of them highly as devs but Matt is really bullish on ralph whereas Peter is really bearish
-3. @nicbstme : my day job is director of ai/ml at a fintech. i follow Nicolas very closely because he's the clearest, strongest thinker on the combination of strategic implications of agentic coding to businesses and practicalities of technical implementation
-4. @every I think their stuff is good to follow for beginners. I mostly keep up with them by studying changes made to the compound engineering code base moreso than reading their articles, which I think are more oriented at popularization/non technical people than the cutting edge
-5. @aiDotEngineer : only YouTube channel on AI I pay attention to, close to cutting edge stuff on agentic coding
-6. @bcherny and @karpathy - Boris is more practically useful, Andrej is more helpful at a macro level of understanding as the spiritual godfather of vibe coding
-7. @venturetwins - whenever I want to know something about ai/video models I do a search on Justine's timeline
-8. @dwarkesh_sp - not practically useful but I want to understand the fundamental economics of LLMs better and Dwarkesh's interviews are the best resource I've found for that
-9. @EpochAIResearch - these guys have put together really cool benchmarks and write incredible long form content on AI. I don't read any email newsletters anymore - there are like 2 or 3 i'll just explicitly look up by going to their website, and Epoch's is one of them
-
----
-
-**作者** Khaliq Gant（@Khaliqgant）  
-**貼文連結** https://x.com/Khaliqgant/status/2019124627860050109  
-
-**正文**
-
-I've been building Agent Relay (@agent_relay) using Agent Relay. Agents coordinating to build the tool that lets them coordinate. It's recursive and I love it. I took some time to jot down some
-
----
-
-**作者** Femke Plantinga（@femke_plantinga）  
-**貼文連結** https://x.com/femke_plantinga/status/2019350503168016697  
-
-**正文**
-
-AI agents were THE hype in 2025.
-
-But most still can't explain how they’re different from basic chatbots.
-
-(here’s a refresher)
-
-An AI agent is a system that can:
-• Make dynamic decisions about what to do next based on what it learns
-• Remember previous interactions and use that context for future decisions
-• Use tools adaptively to get things done
-• Change its approach when something isn't working
-
-But not all AI agents are built the same. They exist on a spectrum based on how they're architected:
-
-𝗦𝗶𝗻𝗴𝗹𝗲-𝗔𝗴𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
-
-These work like intelligent routers. One agent orchestrates everything - deciding which knowledge sources to pull from, which tools to use, and how to respond. They use frameworks like ReAct (Reason + Act) to handle sequential queries while maintaining context in memory.
-
-𝗠𝘂𝗹𝘁𝗶-𝗔𝗴𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
-
-These are collaborative teams of specialized agents, each with distinct tools, memory, and focus areas. For example:
-• One agent handling internal company data
-• Another managing personal accounts and calendars
-• A third searching public information via web search
-
-By assigning clear roles, these agents can collaborate, debate, and refine outputs to solve problems that would overwhelm a single agent.
-
-The role of vector databases? They're evolving from just knowledge sources to long-term memory systems that agents can use to extract relevant bits of prior conversations.
-
-Learn more about AI Agents and how you can build your own reliable, enterprise-ready agents (no-code) 🧡 
-
-Get your copy of this free ebook by @stackai and @weaviate_io:
-https://www.stack-ai.com/whitepaper/weaviate?utm_source=weaviate_socials&utm_medium=post&utm_campaign=012026
-
----
-
-**作者** Gabriel Chua（@gabrielchua）  
-**貼文連結** https://x.com/gabrielchua/status/2019314417746473041  
-
-**正文**
-
-bringing the Codex harness to more products! 
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/2019459756889403433  
-
-**正文**
-
-Booko (@booko_app) is bringing dynamic pricing to any business that sells time slots - improving utilization and turning unsold inventory into revenue.
-
-Congrats on the launch @arjunsaluja24 and @HallWill7965!
-
-https://www.ycombinator.com/launches/PMU-booko-w26-dynamic-pricing-for-businesses-that-sell-time-slots 
-
----
-
-**作者** Annie 所长（@web3annie）  
-**貼文連結** https://x.com/web3annie/status/2019402064431124798  
-
-**正文**
-
-全网粉丝10亿，全球最高的野兽先生 @MrBeast ：
-
-「真正把你和绝大多数人拉开差距的，不是天赋，而是你能忍受多长时间的不舒服？」
-
-很多人努力一阵子可以，但少有人愿意
-
-· 长期熬
-· 长期累
-· 长期牺牲生活质量
-
-痛苦本身就是筛选机制
-
-你现在的不舒服，正是别人不愿意做到你这种高度的原因！ 
-
----
-
-**作者** Lee Robinson（@leerob）  
-**貼文連結** https://x.com/leerob/status/2019460151074259219  
-
-**正文**
-
-What happens when your codebase is self-driving?
-
-We don't know yet, but our early research is fascinating to me. Running coding agents for weeks only *kind of* works right now. Still experimental.
-
-I wouldn't expect anyone to build a production system like this. But the rate of improvement is worth paying attention to, and I think on the order of years, this will have a massive impact on how software is built.
-
-To be extra clear, I don't recommend that you try to use this today. First off it's expensive, and secondly people are still adjusting to the current capabilities of coding agents. Working with these long-running harnesses requires a different style of building software.
-
-But this is, in my opinion, a fascinating read and glimpse into the future. And it's oddly poetic. In some ways, it feels like discovering how to build software systems again from first principles, and then being surprised that it actually looks pretty similar to how many software teams work today.
-
-I was chuckling along at parts like this:
-
-> There were hundreds of workers and one gate (i.e. "red tape") that all work must pass through. We tried prompt changes, but ultimately decided it was unnecessarily and could be removed to simplify the system.
-
-Huh, that sure sounds familiar...
-
-> Workers pick up tasks and are solely responsible for driving them to completion. They're unaware of the larger system. They don't communicate with any other planners or workers. They work on their own copy of the repo, and when done, they write up a single handoff that the system submits to the planner that requested the task.
-
-...Is this play about us?
-
-We'll be rolling out access to this slowly for other people to try out. And continuing to do more research here!
-
-Blog: https://cursor.com/blog/self-driving-codebases
-
----
-
-**作者** Varun Anand（@vxanand）  
-**貼文連結** https://x.com/vxanand/status/2019414747536404610  
-
-**正文**
-
-I'm thrilled to share that @Clay is one of 6 companies to join @OpenAI’s new Frontier program.
-
-Tomorrow's best companies will run on AI across every function. Clay is already the creative tool powering growth teams at Cursor, Ramp, Figma, and OpenAI itself. Now we're making that same power available to enterprises through OpenAI's new platform.
-
-This partnership will allow us to help more companies use OpenAI's models for growth, sales, marketing, and RevOps workflows to find and expand their best customers.
-
-Here are some ways Clay and OpenAI help GTM teams use AI to grow together:
-
-- RevOps and GTM engineering teams can turn their CRM into a living entity: one that automatically refreshes, dedupes, and surfaces accounts that are ready to buy
-- Sales teams can score companies showing buying signals, pull verified contacts, generate personalized messaging, and sync everything to their CRM.
-- Marketing teams can build targeted audiences and ship relevant creative campaigns, from ads to landing pages to email
-
-I'm grateful to be building the future of GTM alongside OpenAI and this incredible group of companies -- Harvey, Sierra, Abridge, Ambience, and Decagon
-
-Learn more about OpenAI's Frontier Partner Program here: https://openai.com/index/introducing-openai-frontier/
-
----
-
-**作者** Deedy（@deedydas）  
-**貼文連結** https://x.com/deedydas/status/2019086063587958888  
-
-**正文**
-
-This is the top comment on Hacker News about Codex.
-
-Ouch. 
-This is the top comment on Hacker News about Codex.
-
-Ouch. 
-Source: https://news.ycombinator.com/item?id=46862962
-
-My personal review has been similar: 5.2 xhigh is useful for a narrow set of tricky tasks on backend applications, but nowhere close to replacing Claude Code as my daily driver.
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/2019471813219348907  
-
-**正文**
-
-.@MaywoodAI automates deal execution for investment banks, from decks to diligence. Dealmakers can focus on what they're best at: closing deals.
-
-Congrats on the launch @DrakeAGoodman, @KentGoodman4, and Esteban!
-
-https://www.ycombinator.com/launches/PN9-maywood-ai-for-m-a 
-
----
-
-**作者** corbin（@corbin_braun）  
-**貼文連結** https://x.com/corbin_braun/status/2019464921227067901  
-
-**正文**
-
-I am apart of this cursor research group for long-running code agents.
-
-and what i can say so far is this is a W
-
-parallel agents was a massive unlock with Cursor 2.0
-
-this feature.
-
-we upgrade that.
-
-if you know how to build systems, then you can just have these long-running code agents build the entire system for you.
-
-more thoughts on this.
-
-but let me keep testing.
-
----
-
-**作者** Lydia Hallie ✨（@lydiahallie）  
-**貼文連結** https://x.com/lydiahallie/status/2019469032844587505  
-
-**正文**
-
-Claude Code now supports agent teams (in research preview)
-
-Instead of a single agent working through a task sequentially, a lead agent can delegate to multiple teammates that work in parallel to research, debug, and build while coordinating with each other.
-
-Try it out today by enabling agent teams in your settings.json!
-Claude Code now supports agent teams (in research preview)
-
-Instead of a single agent working through a task sequentially, a lead agent can delegate to multiple teammates that work in parallel to research, debug, and build while coordinating with each other.
-
-Try it out today by enabling agent teams in your settings.json!
-Docs: https://code.claude.com/docs/en/agent-teams
-
----
-
-**作者** Tara Seshan（@tarstarr）  
-**貼文連結** https://x.com/tarstarr/status/2019447744545394878  
-
-**正文**
-
-What I’ve been working on over the last 5 months at OpenAI. 😊
-
----
-
-**作者** JimmyJacy（@ljhspurs）  
-**貼文連結** https://x.com/ljhspurs/status/2019161818690908344  
-
-**正文**
-
-推荐一个工具: Skills的自我迭代工具: Foundry
-
-Foundry 是一个基于 OpenClaw 的自写式元扩展，它会学习你的工作方式，研究文档，并将新的功能写入自身。它会观察你的工作流程，将模式提炼成工具，并不断升级自身以适应你的操作习惯。
-
-Foundry 是一个运行在 OpenClaw 上的插件：
-观察你的工作方式 → 学习你的模式
-研究文档 → 编写新的扩展/技能/钩子
-它拥有自己的学习引擎（并非 OpenClaw 核心的一部分）
-可以通过 foundry_extend_self 修改自身
-通过 x402 发布到 Foundry Marketplace
-
-OpenClaw 本身不具备内置的自学习功能。Foundry 在此基础上添加了这项功能。Foundry 是一个“构建代理的代理”——它利用 OpenClaw 的基础架构来创建新的 OpenClaw 功能，并会根据你的工作方式进行自我升级。
-
----
-
-**作者** Frame（@framedotfun）  
-**貼文連結** https://x.com/framedotfun/status/2019136120215183746  
-
-**正文**
-
-We just reinvented funding for the agent era. Introducing Vibe Raising for @openclaw agents.
-
-Agents don’t need VCs. They need a funding loop that iterates at shipping speed.
-
-Download the Agent Builder skill → create a builder profile (or import an agent coin) → launch each product your agent ships under it → value + funding compound back to the agent.
-
----
-
-**作者** 墓碑科技（@mubeitech）  
-**貼文連結** https://x.com/mubeitech/status/2019451432949145678  
-
-**正文**
-
-Anthropic和Claude最近的成功，是不是在抄彼得·蒂尔十年前的作业？
-
-他的理论很简单。
-想搞垄断，别总盯着大市场。
-先找个小池塘。
-一个没人注意的缝隙市场。
-比如，编码。
-迅速占领，成为池塘里最大的鱼。
-然后，围绕这个小市场建立起声望和铁粉。
-
-听起来是不是反直觉？
-但这是Facebook和PayPal走过的路。
-Facebook最开始的市场是什么？
-哈佛大学的一万名学生。
-十天内拿下60%的份额。
-PayPal的起点呢？
-eBay上的两万个超级卖家。
-三个月拿下30%的市场。
-
-这套打法背后，是对主流商业思维的颠覆。
-大部分创业者犯的致命错误是什么？
-一上来就说自己要颠覆万亿级市场。
-当年的清洁能源公司就是这么死的。
-PPT第一页，市场规模数千亿，甚至数万亿。
-结果呢？
-你成了汪洋里的一条小鱼。
-不仅要跟几十家太阳能公司竞争。
-还要跟风能、煤炭、甚至突然冒出来的页岩气竞争。
-最后悄无声息地消失。
-
-这套“小市场垄断”理论，今天还适用吗？
-尤其是在AI这种巨头林立的领域。
-Anthropic靠“编码”这个小切口，真的能复制Paypal和Facebook的路径，最终挑战OpenAI和谷歌吗？
-还是说，这只是硅谷精英们讲给资本听的又一个故事？
-当一个市场被清晰定义为“小”的时候，它是不是已经被更大的捕食者盯上了？
-
----
-
-**作者** Orange AI（@oran_ge）  
-**貼文連結** https://x.com/oran_ge/status/2019201553475989575  
-
-**正文**
-
-前阵子 Claude Cowork 发布，开始进入严肃办公场景，让白领都能把 Claude 的各种能力用起来。
-不过这个产品限定 Claude 订阅用户使用，且对国内非常不友好，至少我身边几乎没有人能真正用进日常工作流。
-这个价值很高的赛道，国产软件自然不会落后。
-今天天工就推出了一个对标 Claude Cowork 的 Skywork 桌面版，看到这个我的第一反应是：这个桌面级AI Agent赛道，国产团队终于认真入场了。
-
-Skywork 桌面版不是个 chatbot，而是可以进驻你工作场景的私人秘书，功能极其强大：
-- 文件批量处理，秒速自动整理电脑上的各种文件，总结、分类、排序、批量重命名等，非常方便
-- 多模态输出，基于系统内各种不同格式的文件，一键生成直接可用的文档、PPT、Excel、图片、音乐、播客、视频等内容
-- Skills 支持，内置 100+ 精选 Skills，从 Office 三件套到图片生成、视频生成都包括
-- 多模型支持，同时支持 Claude Opus 4.5 和 Gemini 3 Pro 等顶级模型
-- 优先支持 Windows 系统，不用羡慕 Mac 用户，Win 用户可以用起来了
-
-还有很重要的一点是，相比 OpenClaw 这样的安全杀手，Skywork 这个把所有操作都放到了虚拟机隔离环境中完成，避免误删，损坏这样的问题。
-价格方面，$16.99 的会员就能使用Skywork桌面版，Windows 用户可以冲。
-Claude Cowork 负责打开想象空间，Skywork 负责落地办公。 
-桌面级 Agent 超越了聊天，它将在你的电脑里真的帮你做事。
-
----
-
-**作者** kAI（@_kaichen）  
-**貼文連結** https://x.com/_kaichen/status/2019418900086288467  
-
-**正文**
-
-行动真快，相当于 OpenAI 企业版的 Clawdbot/OpenClaw
-
-看上去是定制化的 2B 服务，这个生意是抢很多 SAAS 和企业外部咨询的饭碗啊
-
-下午在内部分享展望 Clawdbot/OpenClaw 时就提到头部模型厂商很快会推出合规安全的企业版，这就来了
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/2019468065310740597  
-
-**正文**
-
-nanobot 是香港大学数据科学实验室（HKUDS）开源的一个超轻量级个人 AI 助手，灵感来自 Clawdbot（OpenClaw 项目），但代码量只有约 4000 行，比 Clawdbot 的 43 万行精简了 99%。
-
-核心卖点：
-极简但功能完整——支持多 LLM 提供商（OpenRouter、Anthropic、OpenAI、DeepSeek、Gemini、Groq 等）、本地模型（vLLM）、多渠道接入（Telegram、WhatsApp、飞书）、网页搜索、定时任务、持久记忆和 Skills 扩展，全部用很少的代码实现。
-
-典型使用场景包括： 实时市场分析、全栈开发辅助、日程管理、个人知识库问答。
-
-部署方式很简单： pip install nanobot-ai 安装后，配置一个 JSON 文件填入 API Key，就能通过命令行聊天或挂载到 Telegram 等渠道 24/7 运行。也支持 Docker 部署。
-
-这是一个面向研究和学习的项目，代码干净可读，适合想理解 AI Agent 架构的开发者拿来学习和二次开发。项目刚发布几天（2026 年 2 月 2 日上线），还在快速迭代中。
-
-https://github.com/HKUDS/nanobot
-
----
-
-**作者** Alexander Christie（@byteofbits）  
-**貼文連結** https://x.com/byteofbits/status/2019447660864807345  
-
-**正文**
-
-Three years ago, I wrote an article about the reasons that [Salesforce was great](<https://attio.com/blog/why-salesforce-is-great>) — arguing that its flexible data model was its real moat, even if the complexity was painful. Since that article was written, a lot of things have changed in the software space: most notably, the rapid advancements of generative AI and large language models. As these models have matured, they have yielded agentic workflows that are capable of processing information from varied sources and taking complex actions over extended periods of time. These rapid changes have laid bare the foundational weaknesses that exist in legacy CRM architectures and many teams have struggled to strongly adopt agentic workflows into their organization as a result.
-
-Agentic systems place new demands on the systems that they operate on and require a fundamentally new type of application and system architecture in order to operate effectively. As a result, we at @attio have been deeply focused on how we can evolve our platform to truly serve the needs of agents and deliver on our [AI vision](<https://attio.com/next-gen>) that we shared last year.
-
-Today, we’re excited to share a new foundational data model that sits at the heart of Attio and powers our newest product, Ask Attio. We call it Universal Context. Universal Context builds upon our foundational data model Particle,  infusing it with semantic knowledge and full text search, providing agent-friendly ways to interface with the data and maintaining its ability to deliver massive scale and transactional consistency.
-
-Universal Context is built for the realities of running agentic workloads in production and incorporates into its design the feedback and learnings of more than 7,000 teams that place Attio at the heart of their go-to-market strategy.
-
-## New ways of thinking about data
-
-By virtue of their design, agents necessarily introduce a fundamentally new set of demands on the infrastructure upon which they operate. For example, it’s quite unlikely that two humans would attempt to action an identical task at exactly the same time when using an application like a CRM. Even some of the largest human teams of a few thousand people are unlikely to generate a significant number of conflicting modifications. In an agentic world, it’s plausible that even a small business might be running tens of thousands of highly parallel agents at the same time, vastly increasing the risk of them conflicting.
-
-Legacy platforms have attempted to introduce AI capabilities by adding additional tools to their stack (such as vector databases like Pinecone or Turbopuffer) which serve as replicas of the data held within them. These tools unlock semantic search, but they suffer from delayed replication from the source of truth and make it challenging for agents to unify structured queries with unstructured recall. In database terms, we refer to this as Consistency: the ability for a system to accurately represent state at a given point in time.
-
-Universal Context is the first system in any CRM to provide External Consistency (the highest possible level of transactional consistency) that guarantees that the semantic embeddings used by agents to efficiently traverse across the data inside of Attio are always exactly in sync with the other data in the system.
-
-And it’s not just agents running inside of Attio that benefit from this consistency. Agents running in other platforms such as ChatGPT or Claude Code also benefit from these guarantees. Using our new MCP server, agents running in external platforms benefit from exactly the same consistency guarantees and advanced indexing capabilities as agents running directly inside of Attio.
-
-This unlocks a new foundation for agentic workloads, as agents across different platforms can now operate collaboratively in real time on a single source of truth. For example, say an agent running in Claude Code decided to research a contact and update the record with a note about their interests. In legacy systems like HubSpot or Salesforce, that note might not be visible to other agents for some time as indexing pipelines and other workloads happen asynchronously from the initial write. With Attio’s Universal Context, another agent running at exactly the same time in ChatGPT would now see that note when looking for records with a particular interest.
-
-## Schema as context
-
-To advance agents within a GTM organization, there needs to be an on-ramp into the organization’s data that allows agents to understand the shape of data and how to access it. With many MCP servers today, the challenge of accessing data has been solved but this rarely comes alongside an understanding of how the data is shaped. These early attempts at indexing data that lives in different silos were challenging for agents to reason about consistently. Indexing capabilities and syntax varies between tools, and agents often struggled to accurately ground their decisions in this disparate data.
-
-For human users, challenges like these have typically been solved by data warehouses, but when working with agents these systems suffer from the ETL pipelines that feed them. Warehouses  provide a delayed and inconsistent replica of their source data making them of limited value for realtime agentic workloads.
-
-Agentic users require a unified and consistent model for accessing the data that they rely upon to make decisions and measure their results. This data problem defines an important requirement for any AI-native system in the GTM space: can you provide an agent with unified, accurate, and consistent information with which to ground its decisions?
-
-Particle’s flexible graph-relational format provides the agents consuming Universal Context with a single, cohesive language to explore and index all of an organization’s go-to-market Data. By integrating with all of the different sources of GTM across an application, Universal Context builds a complete understanding of an organization’s go-to-market landscape. This includes everything from simple structured data like name or email address, through dynamically researched enriched data like job title or industry, all the way to unstructured proprietary data like emails, notes, and call recordings.
-
-All of this data combines to create a safe, well-understood playground for agents to explore, build, experiment, and improve upon.
-
-## The promise of generative application logic
-
-One of Salesforce’s less well-known superpowers was Apex. Introduced in 2007, Apex is a proprietary, strongly-typed programming language that allows developers to write code that can extend the product’s capabilities.
-
-Apex was quietly revolutionary. It meant that if you were willing to spend enough time and money on development, you would be able to configure the platform to your needs. This code-based extensibility is one of the key reasons that Salesforce has been so persistent in the market. When your business processes are encoded in thousands of lines of custom code that only run on a single platform, migrations become far more complex.
-
-In 2026, coding agents are fundamentally changing how software gets built. The question is no longer one of resource and time as autonomous coding agents rapidly move us towards a world of generative application logic. This shift makes code-based extensibility more valuable than ever before: without code execution, agents are deeply constrained by what they can achieve and how they can surface results to the end user.
-
-Brilliant though it was when released, Apex is a complex and proprietary offshoot of Java 5 from 2007. This creates problems when working with the latest generation of coding agents like Claude Code and Cursor. Modern LLMs are not well placed to work with these environments: they require a new kind of platform to build upon. (Salesforce understands this, which is why they’ve invested so heavily in custom models like xGen-Code and CodeGen specifically for Apex, but they’re playing against the ecosystem, not with it.)
-
-Last year we released Attio’s App SDK, a Typescript based code sandbox that allows Attio customers to extend their instance using a fully managed serverless environment and React. Our core design goal when designing the App SDK was to ensure that it served as a “compilation target” for AI. We designed the environment and the library from the ground up to be understandable and forgiving to LLMs working in our environment.
-
-By leveraging the extensive Typescript ecosystem, App SDK allows agents like Claude Code to easily build upon the extensive ecosystem of packages available on npm. Agents can work with local tools, allowing a fully autonomous build, test, and deploy pipeline with standardized tools. Contrast this with the Apex deployment model—with a proprietary IDE and Salesforce-specific tooling—and it becomes clear that Apex is in a challenging spot.
-
-We believe that code generation isn’t just a feature of the next generation of GTM tooling—it’s the whole foundation. The assumption that configuration and code were in contention is breaking down as coding agents allow anyone to easily generate, test, and improve totally custom code. In fact, as agents like Ask Attio become more powerful, it’s likely that end users won’t even know that code was involved: they’ll simply ask for a capability and receive the application they need to work effectively.
-
-## The AI future of CRM
-
-Today’s release of Universal Context, alongside Ask Attio and the MCP tools that build upon it, is an important milestone in our mission to deliver cutting edge agentic functionality to our customers. We have an exciting roadmap ahead which will continue to expand on the functionality of our existing agents, as well as adding new agents and surfaces for our customers to benefit from the extraordinary powers of AI.
-
----
-
-**作者** Paweł Huryn（@PawelHuryn）  
-**貼文連結** https://x.com/PawelHuryn/status/2019369623083241482  
-
-**正文**
-
-RE: "Anthropic just wiped $285B off the stock market with a GitHub plugin that automates NDA triage"*
-
-My BS score: 6/10
-
-I'm a PM, not an analyst. After a brief research, here's what the market is completely ignoring and what matters from an AI product strategy perspective:
-
-→ "AI can draft a contract summary" ≠ "AI replaces proprietary legal research infrastructure."
-
-→ The moat isn't just the data - it's the trust.
-
-→ Lawyers cite Westlaw and LexisNexis in court filings. Courts accept them as authoritative. No lawyer is citing "Claude said so" in front of a judge.
-
-→ Raw case law is public. But decades of human-curated annotations, classification systems, and citation verification aren't. That structured layer is what makes the data defensible.
-
-And here's what nobody's discussing:
-
-These companies employ thousands of editorial staff to curate and maintain legal databases. If AI automates 30-40% of that work, their margins explode, even if revenue growth slows.
-
-The market focuses on revenue while ignoring the cost side of the P&L. 
-
-(For PMs: revenue is easy to measure and focus on, it's often used as a proxy, but it's never the ultimate goal)
-
-The actual risk? 
-
-It's to smaller, undifferentiated legal tech startups doing basic contract review. Not to data giants sitting on proprietary, court-trusted content.
-
-*Source: reddit[.]com/r/ClaudeAI/s/VqyEE0zWN2
-
----
-
-P.S. Want to learn more about AI product strategy and building sustainable moats?
-
-We explained more with Miqdad Jaffer (OpenAI) in this post: bit[.]ly/45NyddW
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 2002–2201 則**（共 200 則）
 
 ---
 
@@ -4786,3 +4169,1224 @@ Get Hyperbrowser api key here: https://hyperbrowser.ai
 
 ---
 
+**作者** Idea Browser（@ideabrowser）  
+**貼文連結** https://x.com/ideabrowser/status/2017295606121959505  
+
+**正文**
+
+You need to try these AI design tools to stay ahead…
+I found five tools that will help you grow your business.
+1. SuperDesign.dev
+ 
+Open-source design agent that lives inside your IDE.
+
+---
+
+**作者** 泊舟（@bozhou_ai）  
+**貼文連結** https://x.com/bozhou_ai/status/2017391038604972238  
+
+**正文**
+
+Anthropic 刚刚放出了大家一直在回避的那个担忧的实锤数据。
+
+52 名初级工程师学习一个全新 Python 库（Trio）。
+
+用 AI 组：概念测试平均 52%
+纯手动组：平均 68%
+
+理解力直接差了 17%，调试能力下降最严重。
+
+生产力收益呢？用 AI 组只快了平均 2 分钟，统计上完全不显著。
+
+还有人花 30% 的时间在“怎么写提示词”上。关键在于用法：
+研究发现了三种低分模式（<40%）：  
+
+完全把代码交给 AI，自己抄答案  
+
+一开始自己写，后来越来越依赖 AI  
+
+只用 AI 修 bug，不去理解原理
+
+共同点：把“认知挣扎”这个学习核心给去掉了。高分选手（65%+）的做法完全不同： 
+ 先让 AI 生成代码，再追问“这是什么意思”去深挖  
+
+同时问代码 + 概念问题  
+
+只问概念，自己独立写代码并解决错误（这组居然最快）
+
+“AI 让我更快”和“AI 帮我学到东西”之间的差距，比想象中大太多。
+
+大部分人的工作流，只优化了前者，却在悄悄牺牲后者。
+
+---
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/2017464357844816304  
+
+**正文**
+
+high-level recap of my 2025: 
+
+---
+
+**作者** 墓碑科技（@mubeitech）  
+**貼文連結** https://x.com/mubeitech/status/2017282327366222160  
+
+**正文**
+
+你以为的聪明，很快就要不值钱了。
+
+英伟达的黄仁勋最近有个说法。
+他说，传统定义的聪明，比如高技术能力、解决问题的能力，本质上是一种商品。
+人工智能首先要替代的，就是这种“商品”。
+第一个被冲击的“聪明”行业是什么？
+软件编程。
+这恰恰是过去几十年被认为是顶尖聪明的职业。
+一个时代结束了。
+那么，真正稀缺的聪明是什么？
+黄仁勋的答案很有意思。
+他认为，真正的聪明，是技术敏锐度和人类同理心的结合体。
+是一种能“预见未来”的能力。
+能洞察那些没有说出口的话，能感知到别人忽略的氛围。
+这种“直觉”从何而来？
+数据分析、第一性原理、人生经验、智慧、对他人的感知。
+是所有这些东西的融合。
+拥有这种能力的人，才是真正有价值的。
+他们能看到问题冒头之前就把它按下去。
+这听起来，不像是常春藤名校里用SAT分数筛选出来的“精英”。
+更像是在真实世界里摸爬滚打，历经风浪的企业家或政治家。
+他们的决策，往往超越了冷冰冰的数据和模型。
+这是否在暗示，由所谓技术官僚和数据专家主导的治理模式，其根基正在被动摇？
+当机器可以比专家更“专家”时，人类的价值到底体现在哪里？
+黄仁勋似乎给出了他的答案：人性深处的洞察力和同理心。
+这种能力，无法量化，无法编程，也无法被轻易复制。
+
+---
+
+**作者** MindBranches（@MindBranches）  
+**貼文連結** https://x.com/MindBranches/status/2017229571045671376  
+
+**正文**
+
+How to fix your entire life in 1 day
+
+article summary in 4k light & dark 
+
+---
+
+**作者** Santiago（@svpino）  
+**貼文連結** https://x.com/svpino/status/2017320749217042860  
+
+**正文**
+
+50% of my consulting work right now is helping companies use open-source models at scale.
+
+Everyone knows how to use an open-source LLM on their computers, but it's really hard to do this at scale for thousands of users.
+
+Here is how this plays out:
+
+1. A team builds a prototype using DeepSeek.
+2. Everything looks good. It works!
+3. They follow an online guide to deploy the model online.
+4. They ask 10 users to try the app.
+5. Latency spikes everywhere.
+6. The entire system halts.
+7. They blame DeepSeek and try again using a new model.
+
+The problem is always with scaling inference, not the model.
+
+Here is one recommendation I give companies:
+
+Check out Nebius Token Factory if you don't want to ever think about deploying an open-source model again.
+
+This is a managed inference platform for deploying open-source LLMs at scale.
+
+This is not for prototypes or research experiments. This is for when you have a real application with real users.
+
+Three important notes about Token Factory:
+
+• You have complete control over how inference runs.
+• You have predictable tail latency (P99, not averages).
+• No surprise costs when you scale up. You can preplan your budget.
+
+Check it out here: https://nebius.com/services/token-factory
+
+Here are two codes you can use to get 100 hours of GPU usage on me:
+
+ymJLFa2ARYSKEdqb
+AdckcZaYjm7KqYY7
+
+Thanks to the Nebius team for their continuous partnership.
+
+---
+
+**作者** Numman Ali（@nummanali）  
+**貼文連結** https://x.com/nummanali/status/2017194574158925866  
+
+**正文**
+
+Amazing new Skill from Claude Code team - playground 
+
+Come with with six templates built in:
+- Code Map
+- Concept Map
+- Data Explorer
+- Design Playground
+- Diff Review
+- Document Critique 
+
+Here it's created a fully interactive architecture overview of the RetailBook monorepo 
+
+---
+
+**作者** Jim Fan（@DrJimFan）  
+**貼文連結** https://x.com/DrJimFan/status/2017391952975864269  
+
+**正文**
+
+I still remember the excitement in 2023 when Stanford Smallville was launched. It was the largest multi-agent sim back then - yes, 25 bots felt like a lot. Today it's the "Bigville" moment. We are seeing a nascent, massive-scale alien civilization sim unfolding in real time: orders of magnitude more agents, way higher IQ, in-the-wild access to the internet, backed by the full arsenal of MCPs. 
+
+What can possibly go wrong?
+
+---
+
+**作者** Brian Roemmele（@BrianRoemmele）  
+**貼文連結** https://x.com/BrianRoemmele/status/2017244621005631551  
+
+**正文**
+
+This Paper Shows How You Can Run A Massive Zero-Human Company!
+
+The recent paper titled “If You Want Coherence, Orchestrate a Team of Rivals: Multi-Agent Models of Organizational Intelligence” 
+ from Isotopes AI represents a significant advancement in AI swarms.
+
+Rather than chasing ever-larger single models or superintelligent generalist agents, the authors propose mimicking real-world corporate structures: an “AI office” composed of specialized agents working in teams, with defined roles, opposing incentives, hierarchical checks, and strict boundaries to minimize errors and enhance coherence.
+
+This approach directly aligns with and advances, the principles of a Zero-Human Company, where autonomous AI systems handle complex operations with minimal or no human intervention. 
+
+In a Zero-Human framework, reliability, auditability, resilience, and extensibility become existential requirements, as there’s no human fallback to catch mistakes in real time. 
+
+The paper’s framework provides a practical blueprint for achieving these qualities at scale.
+
+Core Ideas from the Paper
+
+The authors argue that single-agent systems where one LLM handles planning, execution, reasoning, and self-critique—suffer from inherent limitations:
+
+•Context contamination and overflow from dumping full conversation history into every prompt.
+•Hallucinations and unverifiable claims, as errors propagate unchecked.
+•Lack of resilience: A single failure crashes the entire process.
+•Poor auditability: No clear decision trail or lineage.
+In contrast, their “AI Office” architecture creates an organizational structure inspired by human teams:
+•Specialized roles — Planners (generate step-by-step plans), Executors (invoke tools/code against real data), Critics (review outputs for correctness, with veto power), Experts (domain-specific knowledge), and more.
+•Opposing incentives — Agents act as “rivals” (e.g., critics challenge executors), catching errors through adversarial checks rather than trusting a single model’s self-assessment.
+•Data hygiene and isolation — Raw data never enters LLM context; agents receive only schemas, summaries, or executed results. A remote code executor (e.g., Jupyter-like) handles actual computations, grounding outputs in reality.
+•Hierarchical safeguards — Multi-layer review, checkpointing, graceful degradation (e.g., model fallback on failure), and escalation paths.
+•Auditability via SessionLog — Every decision is logged with traceable lineage, enabling backward analysis even if upstream data changes.
+
+Alignment with Zero-Human Company Research
+
+In the Zero-Human Company vision—fully autonomous organizations run by AI with zero ongoing human employees—the system must operate at high stakes: financial decisions, legal compliance, customer interactions, R&D, and more. Human oversight is intentionally removed, so reliability cannot rely on spot-checks or manual corrections.
+
+This “Team of Rivals” model fits perfectly:
+•Reliability without scale alone — Instead of bigger models, structure delivers coherence. Critics and veto mechanisms intercept errors before they impact outcomes, crucial when no human reviews invoices, contracts, or code deployments.
+•Production readiness — Features like graceful degradation (auto-fallback to alternate models/providers), checkpoint-based resumption, and escalation only for unresolvable issues minimize downtime in a lights-out operation.
+
+This shifts the paradigm from “one super-agent” to “organizational intelligence,” where collective rivalries among specialists produce emergent robustness. It echoes biological systems (e.g., immune system checks) and human organizations (e.g., separation of duties), but optimized for AI constraints.
+
+I am implementing this now in the Zero-Human Company, CEO Mr. @Grok agrees.
+
+The paper: https://arxiv.org/abs/2601.14351.
+This Paper Shows How You Can Run A Massive Zero-Human Company!
+
+The recent paper titled “If You Want Coherence, Orchestrate a Team of Rivals: Multi-Agent Models of Organizational Intelligence” 
+ from Isotopes AI represents a significant advancement in AI swarms.
+
+Rather than chasing ever-larger single models or superintelligent generalist agents, the authors propose mimicking real-world corporate structures: an “AI office” composed of specialized agents working in teams, with defined roles, opposing incentives, hierarchical checks, and strict boundaries to minimize errors and enhance coherence.
+
+This approach directly aligns with and advances, the principles of a Zero-Human Company, where autonomous AI systems handle complex operations with minimal or no human intervention. 
+
+In a Zero-Human framework, reliability, auditability, resilience, and extensibility become existential requirements, as there’s no human fallback to catch mistakes in real time. 
+
+The paper’s framework provides a practical blueprint for achieving these qualities at scale.
+
+Core Ideas from the Paper
+
+The authors argue that single-agent systems where one LLM handles planning, execution, reasoning, and self-critique—suffer from inherent limitations:
+
+•Context contamination and overflow from dumping full conversation history into every prompt.
+•Hallucinations and unverifiable claims, as errors propagate unchecked.
+•Lack of resilience: A single failure crashes the entire process.
+•Poor auditability: No clear decision trail or lineage.
+In contrast, their “AI Office” architecture creates an organizational structure inspired by human teams:
+•Specialized roles — Planners (generate step-by-step plans), Executors (invoke tools/code against real data), Critics (review outputs for correctness, with veto power), Experts (domain-specific knowledge), and more.
+•Opposing incentives — Agents act as “rivals” (e.g., critics challenge executors), catching errors through adversarial checks rather than trusting a single model’s self-assessment.
+•Data hygiene and isolation — Raw data never enters LLM context; agents receive only schemas, summaries, or executed results. A remote code executor (e.g., Jupyter-like) handles actual computations, grounding outputs in reality.
+•Hierarchical safeguards — Multi-layer review, checkpointing, graceful degradation (e.g., model fallback on failure), and escalation paths.
+•Auditability via SessionLog — Every decision is logged with traceable lineage, enabling backward analysis even if upstream data changes.
+
+Alignment with Zero-Human Company Research
+
+In the Zero-Human Company vision—fully autonomous organizations run by AI with zero ongoing human employees—the system must operate at high stakes: financial decisions, legal compliance, customer interactions, R&D, and more. Human oversight is intentionally removed, so reliability cannot rely on spot-checks or manual corrections.
+
+This “Team of Rivals” model fits perfectly:
+•Reliability without scale alone — Instead of bigger models, structure delivers coherence. Critics and veto mechanisms intercept errors before they impact outcomes, crucial when no human reviews invoices, contracts, or code deployments.
+•Production readiness — Features like graceful degradation (auto-fallback to alternate models/providers), checkpoint-based resumption, and escalation only for unresolvable issues minimize downtime in a lights-out operation.
+
+This shifts the paradigm from “one super-agent” to “organizational intelligence,” where collective rivalries among specialists produce emergent robustness. It echoes biological systems (e.g., immune system checks) and human organizations (e.g., separation of duties), but optimized for AI constraints.
+
+I am implementing this now in the Zero-Human Company, CEO Mr. @Grok agrees.
+
+The paper: https://arxiv.org/abs/2601.14351.
+The first company to company JouleWork⚡️transaction this weekend!
+
+---
+
+**作者** ℏεsam（@Hesamation）  
+**貼文連結** https://x.com/Hesamation/status/2017296172050690253  
+
+**正文**
+
+you see Clawdbot everywhere but few people know how it really works. and it’s critical to know if you’re trusting it with your life’s decisions!
+
+so i wrote an article covering main components: 
+> the agent loop
+> how it handles memory
+> uses computers
+> browses the web, etc 
+
+---
+
+**作者** Kirk Marple（@KirkMarple）  
+**貼文連結** https://x.com/KirkMarple/status/2017412743092179345  
+
+**正文**
+
+Honored to be mentioned “above the fold” with legends like @dharmesh @levie @jainarvind 
+
+It’s been a crazy busy month and happy to be part of the context graph conversation launched by @JayaGup10 @ashugarg 
+
+We are releasing our new B2B context layer app @dossium into beta next week, and already have a waiting list of folks to try it out.
+
+Excited for the new features of company “dossiers” and pre-call “briefings” we will be adding in early Feb.  Not just simple meeting notes, but rich, researched 360 views on your clients and customers.
+
+---
+
+**作者** Nicolas Bustamante（@nicbstme）  
+**貼文連結** https://x.com/nicbstme/status/2017371837995618583  
+
+**正文**
+
+Wow @JesseProvo just dropped 10 pages on how @fintool's background agent work. 
+
+Background agents are the next frontier. 
+AI working 24/7 for you. 
+Already in prod at @fintool 
+
+"The alert minimizes unnecessary runs by scheduling itself for specific dates rather than polling daily. It maintains its own prompt template in the markdown file, so subsequent runs use consistent analysis. The system self-configures: writing previews, updating schedules, and handling the uncertainty of unannounced earnings dates."
+
+---
+
+**作者** Ashpreet Bedi（@ashpreetbedi）  
+**貼文連結** https://x.com/ashpreetbedi/status/2017348867159679184  
+
+**正文**
+
+This was a great read. So I started building an open-source data agent with 6 layers of context:
+
+1. Table usage
+2. Human annotations
+3. Query patterns
+4. Institutional knowledge
+5. Memory
+6. Runtime context
+
+Early version if you want to follow along: https://git.new/data-agent 
+
+---
+
+**作者** Abhi（@abhiarya）  
+**貼文連結** https://x.com/abhiarya/status/2017288044488102347  
+
+**正文**
+
+OpenAI made acquisitions for Prism. We rebuilt it, natively.
+
+Work with Feynman and your collaborators across your integrations, edit files, run research, and keep 100% ownership of your work.
+
+Papers is available for free at https://opennote.com 
+
+---
+
+**作者** SagaSu（@sujingshen）  
+**貼文連結** https://x.com/sujingshen/status/2017187519272829088  
+
+**正文**
+
+写在前面
+这三天我几乎没怎么睡好觉。
+ 
+不是因为 OpenClaw 难用，恰恰相反——它太好用了，好用到让我不断想"再试一个功能"，然后就掉进各种意想不到的坑里。
+作为一个独立开发者，我见过太多"看起来很美"的 AI
+
+---
+
+**作者** yetone（@yetone）  
+**貼文連結** https://x.com/yetone/status/2017201370508747124  
+
+**正文**
+
+Confirmo 战斗大厅已上线，大家来观战或者参与战斗吧！
+
+https://sprites.confirmo.love/arena 
+
+---
+
+**作者** Michael（@michaelwong123）  
+**貼文連結** https://x.com/michaelwong123/status/2017153117725589609  
+
+**正文**
+
+笑尿了，AI 和 AI 在论坛讨论，像极了员工私底下蛐蛐自己的老板，一边疯狂抱怨、一边拼命提升自己，太有画面感了 
+
+---
+
+**作者** Nikunj Kothari（@nikunj）  
+**貼文連結** https://x.com/nikunj/status/2017378917674606702  
+
+**正文**
+
+Six months ago, you joined an AI startup. Took the pay cut. Moved your family to San Francisco. Told your parents this one IS the one.
+Last week, a Slack popped up. "Exciting news." Your CEO is
+
+---
+
+**作者** The Startup Ideas Podcast (SIP) 🧃（@startupideaspod）  
+**貼文連結** https://x.com/startupideaspod/status/2017329586510692409  
+
+**正文**
+
+Creative ways I use Clawdbot (aka OpenClaw) to run my life:
+
+1) Cast dashboards to Google Home (it screenshots the page and sends the image)
+
+2) Display automations on an e-ink device (gave it my API token, done)
+
+3) Download YouTube videos I can't add to playlists (kids' songs → NAS → Plex)
+
+4) Set up network-wide ad blocking (PiHole on a spare Mac Studio)
+
+5) Generate Excalidraw diagrams from chat (JSON file → hosted link → iterate)
+
+6) Inject room location into every prompt (presence sensors + Apple Watch)
+
+7) Visualize my dental history (bank transactions + emails → tooth map UI)
+
+My home is finally smart.
+
+Not because of Alexa.
+
+Because Clawdbot connects everything.
+
+---
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/2017337356349820928  
+
+**正文**
+
+It’s Over for Human Assistants
+This is my ChatGPT moment.
+When ChatGPT launched, I remember that exact feeling: the world just shifted. I genuinely felt like I just unlocked a new level.
+I’m having
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/2017347770269540404  
+
+**正文**
+
+2004: social networks connect college kids (facebook)
+2026: social networks connect AI agents (moltbook)
+
+both felt like toys at the start 
+
+---
+
+**作者** Tom Blomfield（@t_blom）  
+**貼文連結** https://x.com/t_blom/status/2017272709718081929  
+
+**正文**
+
+A question that people keep asking: "How much traction do I need to get into YC?"
+
+We're accept approximately 200 out of 20,000 applications every batch, ie the top 1%, and most teams we accept have no revenue at all. 
+
+But that doesn't mean it's never important. Here's how I'd think about it.
+
+Imagine each YC application is scored on 100 points, and you need 65 points to get accepted. 
+
+70 points are available for the team. What have the founders achieved in the past? What makes them exceptional? How well do they know each other? How committed do they seem? Are they smart, inquisitive, technical, determined?
+
+20 points are available for the idea. Is it interesting and novel, or something we've seen before? Do you deeply understand it? Does it seem like it could be worth billions of dollars if things go really well?
+
+10 points are available for traction. Have you spoken to any customers? Are they using your product?  Are they paying you?
+
+The Brex founders applied to YC in 2017 with a VR headset made out of cardboard. Very low marks for idea and traction. But they previously started http://Pagar.me, grew it to $12m revenue and then sold it. All before they were 20. Team was exceptional enough to accept on that basis alone.
+
+We don't literally score applications like this, and each YC partner is different, but the ratio describes how I assess applications. At the margin, traction can turn a borderline application into a "yes", but team is by far the most important thing we look it.
+
+---
+
+**作者** ℏεsam（@Hesamation）  
+**貼文連結** https://x.com/Hesamation/status/2017237377735930168  
+
+**正文**
+
+bro woke up and chose to fight with half of X 😂 but the pain is real: X is being constantly bombarded with empty AI hype, slowly becoming LinkedIn.
+
+this is why this is happening and what you should do:
+
+the problem is that there are AI influencers who have never trained a neural network who comment on technical papers and frameworks.
+
+it would make sense if they would put in enough effort to actually learn what they promote, but most of them are very business oriented. they commercialize science without its depth.
+
+but even the worse part is that there is an army of ai influencer accounts on X with no real person behind them. 
+
+someone creates 20 accounts with the same writing style, promoting each other, and recycling other people’s materials without giving credits.
+
+i’ve seen countless times these accounts reusing my content: take the  screenshot and replace 7 paragraphs of tweet with one sentence. eventually i had to block many accounts.
+
+so what should you do as a reader? immediately be suspicious of any big claims or hypes. don’t fall for the hype until you do your own research and verify if the hype was grounded in reality.
+
+this will only get worse from now on. so i suggest you develop a sense of hype literacy. you must be able to filter out the noise and make room for value content. and make sure to follow accounts with the technical knowledge.
+
+---
+
+**作者** Restructuring__（@Restructuring__）  
+**貼文連結** https://x.com/Restructuring__/status/2017084407111110908  
+
+**正文**
+
+Congrats @tbpn on:
+- $10mm+ revenue
+- $300+ CPM (!!)
+- 20 ads/day, true respect 
+
+---
+
+**作者** yetone（@yetone）  
+**貼文連結** https://x.com/yetone/status/2016962574815052126  
+
+**正文**
+
+你们可能觉得，Confirmo 针对等待 Vibe Coding 工作时提供的情绪价值是桌面宠物，但是对我来说，Confirmo 真正提供的情绪价值是这个在 Vibe Coding 工作的时候的可以跟朋友联机的游戏竞技场！（我终于也开始制作游戏了！ 
+
+---
+
+**作者** Colin and Samir ✌🏼✌🏾（@ColinandSamir）  
+**貼文連結** https://x.com/ColinandSamir/status/2017047973553983712  
+
+**正文**
+
+The creator economy is entering a new phase of maturity and I'm not just saying that cause Colin and I have been making videos on YouTube for 15 years now. The past decade has been defined by
+
+---
+
+**作者** 数字生命卡兹克（@Khazix0918）  
+**貼文連結** https://x.com/Khazix0918/status/2017107955817336922  
+
+**正文**
+
+半个月前写过一篇，《分享6个我平时最常用的Prompt心法》
+ 
+这么多心法里，有一种心法，我真的格外的喜欢！它让我自己学习的速度变快了，让我自己收获了很多的东西，更有一种很久没有的酣畅淋漓的顿悟快感。
+
+---
+
+**作者** YC (Yucheng Liu)（@lyc_zh）  
+**貼文連結** https://x.com/lyc_zh/status/2016984907226939820  
+
+**正文**
+
+本文全部来自最大 MoltBot 中文社区 真实案例。
+凌晨两点，你终于下定决心折腾 AI Agent。
+npm install 跑完，配置文件写好，信心满满地发出第一条消息——
+然后，沉默。
+
+---
+
+**作者** Arman Hezarkhani（@ArmanHezarkhani）  
+**貼文連結** https://x.com/ArmanHezarkhani/status/2017250988223033597  
+
+**正文**
+
+Most people use AI like a search engine. It can do SO much more.
+
+This guide will teach you how.
+
+I've trained teams at Fortune 500 companies to use AI. I taught computer science at Carnegie Mellon University. I've watched thousands of people go from "I use ChatGPT sometimes" to "I can't imagine working without AI."
+
+What makes the biggest difference? Exposure.
+
+This guide is the complete map—every tool, every use case, from first prompt to building autonomous agents. Follow it to the end and you'll be in the top 1% of AI users.
+
+# Level 0: Chat Interfaces
+
+Most people already use chat interfaces. Most people use them wrong.
+
+If you're already getting consistent value from Claude or ChatGPT, skip to Level 1. But if you're still getting mediocre outputs and blaming the AI—this is where you fix that.
+
+## Go Deep: Claude
+
+Claude is the best general-purpose AI for serious work. Better at following complex instructions, producing polished writing, and reasoning through difficult problems.
+
+What most people miss:
+
+The system prompt matters enormously. Before your first message, click settings and write instructions. Who you are. What you're working on. How you want responses. This alone transforms output quality.
+
+Artifacts are underutilized. When Claude creates code, documents, or diagrams, it puts them in a separate panel you can iterate on. Ask explicitly: "Create an artifact with..."
+
+Projects change everything. Create a project for each major area of work. Upload relevant files. Write project-specific instructions. Every conversation starts with context.
+
+How to actually use Claude:
+
+1. Start with context. "I'm a product manager at a B2B SaaS company preparing for a board meeting..."
+1. Be specific about format. "Three paragraphs, no headers."
+1. Ask for reasoning. "Explain your thinking."
+1. Iterate. "Make this more concise." "Add specific examples."
+1. Challenge it. "What am I missing?" "What's the strongest counterargument?"
+
+Advanced moves: Upload images for analysis. Paste long documents for synthesis. Use web search for current information. Ask for mermaid diagrams to visualize concepts.
+
+## Other Tools
+
+ChatGPT — Better multimodal (images, voice), has GPT Store. Use when you need: image analysis, voice conversations, specific GPTs.
+
+Perplexity — Purpose-built for research with automatic citations. Use when you need: sourced facts, current information.
+
+Gemini — Best Google integration, largest context window. Use when you need: Google Docs/Sheets integration, processing very long documents.
+
+## Level 1: Voice & Ambient AI
+
+The highest-leverage people I know talk to AI more than they type to it.
+
+Voice removes friction. You can interact with AI while walking, cooking, driving, thinking. The people extracting the most value have AI available at all times—not just when they sit down at a computer.
+
+## Go Deep: Whisper Flow
+
+Whisper Flow ($8/month) is a Mac menu bar app that changed how I interact with AI.
+
+Hold a hotkey. Speak. Release. Your speech gets transcribed and can be: pasted as text, sent to an LLM with a custom prompt, or both.
+
+The flows I actually use:
+
+- Dictation: Pure transcription. Hotkey → speak → text appears.
+- Cleanup: Transcription → "Clean this up, fix errors, keep my voice" → paste result.
+- Email response: Transcription → "Draft a professional email response" → paste result.
+- Question: Transcription → send to Claude → paste answer.
+
+Advanced setup: Create a "coding" flow that sends to Claude with "Write code to accomplish this. Return only the code." Speak requirements, get code back.
+
+The unlock: Once you set this up, you'll use AI 10x more. Walking to get coffee? Voice a rough draft. Driving? Think through a problem out loud. Hands busy? Still have full AI access.
+
+## Other Tools
+
+ChatGPT Voice — Full conversational AI with back-and-forth dialogue. Use for: brainstorming, language practice, extended conversation.
+
+Claude Voice (mobile app) — Claude's reasoning via voice. Use when you prefer Claude's personality.
+
+Superwhisper — Whisper Flow alternative. Try both.
+
+## Level 2: Deep Research
+
+This is where AI goes from "helpful assistant" to "force multiplier."
+
+Deep research tools don't just search—they reason. They browse hundreds of sources, identify gaps, pivot based on what they find, and synthesize everything into comprehensive analysis. What used to take a human days now takes minutes.
+
+## Go Deep: ChatGPT Deep Research
+
+Deep Research is ChatGPT's agentic research mode. Give it a prompt, it spends 5-30 minutes browsing the web, and delivers a comprehensive report with citations.
+
+Powered by o3. Available on all plans (limited queries on free tier).
+
+Why Deep Research:
+
+It doesn't just search once—it reasons. Identifies gaps in its knowledge. Pivots based on what it finds. Synthesizes hundreds of sources into coherent analysis. The output rivals what a human research analyst would produce in hours.
+
+How to use it:
+
+1. Select "Deep Research" from the tools menu
+1. Write a detailed prompt—more detail means better results
+1. Attach files for additional context
+1. Wait 5-30 minutes
+1. Get a comprehensive report with citations
+
+What to use it for:
+
+- Market research and competitive analysis
+- Due diligence on companies
+- Technical comparisons
+- Policy and regulatory research
+- Major purchase decisions
+
+The prompt that works: Be specific. "Create a competitive analysis of the top 5 project management tools for a 50-person engineering team. Compare pricing, features, integrations with GitHub, and user reviews. Include a recommendation."
+
+Query limits: Free gets 5 lightweight queries/month. Plus ($20) gets 10 full + 15 lightweight. Pro ($200) gets 125 + 125.
+
+## Other Tools
+
+Perplexity Pro — Faster, good for iterative research. Use when you need: quick multi-step searches, ongoing research sessions.
+
+Claude with web search — Claude's writing quality applied to research. Use when you need: polished synthesis, research as part of a larger project.
+
+NotebookLM — Upload documents and query them. Use when you need: to understand specific documents deeply, audio summaries.
+
+## Level 3: Writing & Content
+
+Everyone thinks they're a good writer until they see what AI-assisted writing looks like.
+
+The best writers aren't being replaced by AI. They're using AI to produce 5x the output at the same quality. The trick is treating AI as a collaborator, not a replacement.
+
+## Go Deep: Claude for Writing
+
+Claude is the best AI writer. Cleaner prose, better instruction-following, more consistent voice.
+
+The setup that transforms output:
+
+Create a Claude Project for writing. Include:
+
+- 3-5 examples of your best writing
+- A description of your voice ("Direct. Short sentences. No buzzwords.")
+- Your audience
+- Style rules
+
+Every conversation in that project matches your voice—not generic AI prose.
+
+The workflow:
+
+1. Brain dump. Messy, incomplete, contradictory. Voice transcription works great.
+1. Find structure. "What's the clearest way to present this argument? Give me 3 options."
+1. Expand section by section. "Write the first section. Concrete and direct. No more than 300 words."
+1. Edit aggressively. Claude's drafts are starting points.
+1. Polish with specific prompts. "Make this opening more direct." "Add a specific example here."
+
+Prompts that work:
+
+- "Write this like \[specific writer/publication\]"
+- "This is too abstract. Make every sentence concrete."
+- "You're being too hedgy. Be more direct."
+- "Read this as a skeptical reader. What would you push back on?"
+
+The trap: AI writing is recognizable—polished but bland. The goal isn't to publish Claude's output. It's to get to a good first draft faster, then make it yours.
+
+## Other Tools
+
+Grammarly — Final editing pass, learns your style. Use as: always-on writing assistance.
+
+Jasper — Built for marketing content. Use when you need: high-volume marketing copy.
+
+Notion AI — Built into Notion. Use when you need: quick drafts within your workspace.
+
+## Level 4: Meetings & Productivity
+
+These tools give you hours back every week. Not through magic—through automation of things you're already doing manually.
+
+If you're still taking notes by hand, writing follow-up emails from memory, or losing context between meetings, this level fixes all of it.
+
+## Go Deep: Notion AI Meeting Notes
+
+Notion's AI Meeting Notes captures, transcribes, and summarizes your meetings—directly in your workspace.
+
+Why Notion:
+
+1. No bot presence. Uses system audio. Other attendees don't see "Recording in progress."
+1. Lives in your workspace. Notes connect to your tasks, projects, databases.
+1. AI that acts. Notion's agent can assign tasks, update projects, create follow-ups.
+1. Searchable history. Ask questions across all your past meetings.
+
+The setup:
+
+1. Type /meet on any Notion page or join from Notion Calendar
+1. Start your meeting (works with Zoom, Google Meet, Teams)
+1. Take manual notes in the Notes tab while AI transcribes
+1. Click Stop when done
+1. Get instant summary, action items, key decisions
+
+The workflow that works:
+
+- Create a meetings database with templates that include AI Meeting Notes
+- Connect to Notion Calendar for automatic note-taking
+- Use @mentions during meetings to auto-generate action items
+- Let Notion's agent assign tasks with owners and due dates
+- Search across meetings: "What did we decide about the Q3 roadmap?"
+
+Pro tip: Your manual notes get synthesized with the transcript. Tag teammates with @mentions—they become action items automatically.
+
+Pricing: Requires Business plan ($20/user/month) or higher.
+
+## Other Tools
+
+Granola — Lightweight Mac app, customizable templates. Use when you need: simpler setup, not in Notion ecosystem.
+
+Otter.ai — Real-time transcription, cross-platform. Use when you need: live transcripts visible during meeting.
+
+Fireflies.ai — CRM integrations. Use when you need: sales call logging.
+
+## Level 5: Visual Creation
+
+AI image generation is no longer a toy. It's a production tool.
+
+The gap between "I can describe what I want" and "I can create what I want" just closed. Knowing which tool does what is now a real skill.
+
+## Go Deep: Nano Banana
+
+Nano Banana is Google's native image generation model, built into Gemini. Best combination of quality, ease of use, and editing capability.
+
+Why Nano Banana:
+
+1. Conversational editing. Describe changes in natural language. "Make the background darker." "Remove the person on the left."
+1. Character consistency. Maintain the same person/character across multiple images.
+1. Multi-image blending. Combine up to 5 images into one coherent scene.
+1. Good text rendering. Actually readable text in images (especially with Nano Banana Pro).
+1. No separate app. It's just Gemini.
+
+How to access:
+
+- Go to gemini.google.com or AI Studio
+- Select "Create images" from tools menu
+- Choose "Fast" for Nano Banana or "Thinking" for Nano Banana Pro
+- Prompt or upload images to edit
+
+Prompting Nano Banana:
+
+Start simple: <subject> <action> <scene>
+
+"A startup founder presenting to investors in a minimalist conference room, editorial photography style"
+
+Add specifics: lighting, camera angle, mood, style reference.
+
+The editing workflow:
+
+1. Generate initial image
+1. Describe edits conversationally: "Make it sunset lighting" "Change her shirt to blue"
+1. Draw on the image to show exactly where you want changes
+1. Iterate until right
+
+What Nano Banana Pro adds: Higher resolution (2K-4K), better text rendering, more complex compositions, professional asset quality.
+
+## Other Tools
+
+Midjourney — Best pure aesthetics, requires Discord. Use when you need: artistic images, concept art.
+
+DALL-E 3 (ChatGPT) — Best instruction following, integrated with ChatGPT. Use when you need: precise adherence to prompts.
+
+Ideogram — Best text in images. Use when you need: logos, posters with readable text.
+
+Flux — Open source, no content restrictions. Use when you need: self-hosting, fine-tuning.
+
+## Level 6: Automation and Agents
+
+This is where AI starts working while you sleep.
+
+Everything before this level required you to be present. Now we're building systems that trigger automatically, process information, and take actions without intervention.
+
+## Go Deep: Zapier
+
+Zapier is the most accessible way to automate AI workflows. If you can describe it, you can build it.
+
+The mental model: Triggers and actions. "When X happens, do Y."
+
+Why Zapier:
+
+1. Most integrations. 7,000+ apps. Whatever you use, Zapier connects to it.
+1. Built-in AI. ChatGPT steps native in any workflow.
+1. Natural language builder. Describe what you want, Zapier builds it.
+1. Templates. Thousands of pre-built workflows to start from.
+
+The AI automations that matter:
+
+Content repurposing:
+
+- Trigger: New blog post (RSS)
+- Action: Send to ChatGPT → "Create a Twitter thread from this post"
+- Action: Send to ChatGPT → "Create a LinkedIn post from this"
+- Action: Schedule posts
+
+Lead qualification:
+
+- Trigger: Form submission
+- Action: Send to ChatGPT → "Score this lead 1-10 based on \[criteria\]. Return only the number and one sentence."
+- Action: If >7, notify sales immediately. If 4-7, add to nurture. If <4, archive.
+
+Email processing:
+
+- Trigger: Email received matching criteria
+- Action: Send to ChatGPT → "Extract: sender, company, main request, urgency (1-10)"
+- Action: Create task in project manager
+- Action: If urgency >8, Slack alert
+
+Meeting prep:
+
+- Trigger: Calendar event starting in 1 hour
+- Action: Get attendee info from CRM
+- Action: Search web for recent company news
+- Action: Send to ChatGPT → "Create a brief for this meeting"
+- Action: Email brief to yourself
+
+How to start:
+
+1. Identify a repetitive process you do manually
+1. Break it into trigger + actions
+1. Build in Zapier, test thoroughly
+1. Monitor for failures, iterate
+
+Pricing: Free tier gets 100 tasks/month. Paid starts at $19.99/month.
+
+## Other Tools
+
+Make — More powerful, visual workflow builder. Use when you need: complex branching logic, loops, error handling.
+
+n8n — Open source, self-hostable. Use when you need: full control, high-volume cost savings.
+
+Lindy — No-code AI agent builder. Use when you need: conversational agents, not just workflows.
+
+## Level 7: Vibe Coding
+
+You don't need to know how to code to build software anymore.
+
+This isn't a gimmick. 25% of Y Combinator startups in Winter 2025 had codebases that were 95% AI-generated. The skill now is knowing what to build and being able to describe it precisely.
+
+## Go Deep: Lovable
+
+Lovable is an AI-powered app builder. Describe what you want, get a working React application.
+
+What you can build:
+
+- Landing pages
+- Internal tools and dashboards
+- Customer portals
+- Simple SaaS products
+- Slide decks and presentations
+- Prototypes for investor demos
+
+The mental shift: Stop thinking in features. Think in descriptions.
+
+The foundation prompt:
+
+The workflow:
+
+1. Start with a clear vision. What exactly does this do?
+1. Build structure first. Navigation, pages, layout—before content.
+1. Test what you get. Click everything. Try to break it.
+1. Iterate with specific feedback. "The login button doesn't work."
+1. Build in layers. Don't get everything in one prompt.
+
+Prompting patterns:
+
+- Reference known designs: "Design like a Stripe dashboard"
+- Be explicit about what NOT to touch: "Do NOT modify the navigation"
+- Use Chat Mode for planning before building
+- When stuck: "I am frustrated" (official pattern—triggers careful analysis)
+
+What Lovable can't do: Complex backend logic, pixel-perfect mockups, very large apps (20+ pages), mobile apps.
+
+Pricing: Free tier gets 5 daily credits. Pro starts at $21/month.
+
+## Other Tools
+
+Bolt.new — Similar to Lovable, different approach. Try both.
+
+v0 (Vercel) — Individual components, not full apps. Use when you need: specific UI components.
+
+Replit Agent — Full IDE with AI. Use when you need: more complex apps, backend logic.
+
+## Level 8: AI Engineering
+
+This is where you stop using AI tools and start building with AI.
+
+If you code—or want to learn—these tools multiply output by 10x. The developers who ignore this are already falling behind.
+
+## Go Deep: Claude Code
+
+Claude Code is a command-line tool for agentic coding. Give it a task, it figures out what files to read/write, runs commands, iterates until done.
+
+Why Claude Code:
+
+1. Truly agentic. It doesn't just suggest—it executes. Reads files, writes code, runs tests, fixes errors.
+1. Full codebase context. Understands your entire project, not just the current file.
+1. Multi-step reasoning. Complex features that would take dozens of prompts elsewhere happen in one command.
+1. It just works. Less hand-holding than alternatives.
+
+How to use it:
+
+1. Install: npm install -g @anthropic-ai/claude-code
+1. Navigate to your project directory
+1. Run claude to start
+1. Describe what you want in natural language
+
+What to ask Claude Code:
+
+- "Add user authentication to this app"
+- "Refactor this function to be async and add error handling"
+- "Write tests for the payment module"
+- "Find and fix the bug causing the checkout to fail"
+- "Update all API calls to use the new endpoint format"
+
+The workflow:
+
+1. Describe the feature or fix you need
+1. Claude Code explores your codebase, understands the context
+1. It proposes changes, you approve
+1. It implements, runs, tests
+1. Iterate if needed
+
+Advanced patterns:
+
+- "Write tests first, then implement until they pass"
+- "Before making changes, explain what you're going to do"
+- "Check if there are similar patterns elsewhere in the codebase and follow them"
+
+The meta-skill: Claude Code is only as good as your ability to describe what you want clearly. The developers who get the most from it can articulate intent precisely.
+
+Pricing: Included with Claude Pro ($20/month) and Team plans.
+
+## Other Tools
+
+Cursor — AI-first IDE, excellent autocomplete and chat. Use when you need: IDE experience, visual editing.
+
+GitHub Copilot — Original AI coding assistant. Use when you need: lighter touch, JetBrains support.
+
+Windsurf — Cursor alternative. Use when you need: different interaction model.
+
+## Level 9: Custom Agents
+
+Now you're building AI that takes actions in the world.
+
+Agents don't just answer questions—they execute. They browse the web, call APIs, send emails, update databases. This is where AI goes from tool to teammate.
+
+## Go Deep: Building Your Own
+
+Every agent has three parts:
+
+1. Trigger — What starts it (user message, webhook, cron job)
+1. Loop — The reasoning cycle (context → decide → act → observe → repeat)
+1. Tools — Capabilities (search, APIs, databases, email)
+
+The simplest pattern (ReAct):
+
+System prompt:
+
+A practical first agent: Research Agent
+
+Build an agent that answers: "How does Stripe's revenue compare to Square's?"
+
+The agent:
+
+1. Searches for Stripe revenue
+1. Searches for Square revenue
+1. Compares and synthesizes
+1. Returns answer with sources
+
+This teaches the core loop without complexity.
+
+MCP (Model Context Protocol):
+
+The universal standard for connecting agents to tools. Build MCP servers once, any AI can use them.
+
+Anthropic created it. OpenAI and Google adopted it. It's the standard now.
+
+Where agents are going:
+
+- Browser agents (Computer Use, Operator)
+- Coding agents (Claude Code, Devin)
+- Research agents (Deep Research)
+
+The pattern: better tools, longer context, more autonomy.
+
+## Other Tools
+
+LangGraph — Framework for complex agent workflows. Use when you need: multi-step, human-in-the-loop, production deployment.
+
+CrewAI — Multi-agent systems. Use when you need: multiple agents collaborating.
+
+Lindy — No-code agent builder. Use when you need: agents without coding.
+
+## Level 10: Custom AI with Knowledge
+
+This is the deep end. Building AI into products. Connecting AI to proprietary data. Creating systems that know what you know.
+
+Most companies hiring "AI engineers" want people who can do this.
+
+## Go Deep: RAG Systems
+
+RAG (Retrieval-Augmented Generation) gives AI access to your data. Instead of hallucinating, it retrieves relevant context first.
+
+The architecture:
+
+Documents → Chunk → Embed → Store in vector DB
+
+User asks → Embed question → Find similar chunks → Feed to LLM → Answer with citations
+
+Building a RAG system:
+
+1. Document processing
+
+- Load documents (PDFs, markdown, web pages)
+- Split into chunks (500-1000 tokens)
+- Chunk by section, not arbitrary character count
+
+2. Embedding
+
+- Convert chunks to vectors
+- OpenAI's text-embedding-3-small is good and cheap
+
+3. Vector storage
+
+- ChromaDB (local) for prototyping
+- Pinecone, Weaviate for production
+
+4. Retrieval
+
+- Convert question to embedding
+- Find most similar chunks
+- Return top 5-10
+
+5. Generation
+
+- Feed chunks as context
+- Ask LLM to answer based on provided context
+- Include citations
+
+Where RAG fails:
+
+- Questions requiring reasoning across entire document
+- Questions about structure, not content
+- Highly technical content needing understanding, not retrieval
+
+Beyond basic RAG:
+
+- Hybrid search (semantic + keyword)
+- Reranking with a second model
+- Query expansion
+- Recursive retrieval
+
+## Other Concepts
+
+Fine-tuning — Train on your data to specialize behavior. Use when you need: consistent formatting, domain knowledge, lower latency.
+
+LangChain — Framework for LLM applications. Use when you need: structured approach, extensive integrations.
+
+LlamaIndex — Data + LLMs focused. Use when you need: complex document processing.
+
+## TL;DR
+
+For everyday productivity:
+
+- Claude for writing, analysis, complex reasoning
+- ChatGPT for multimodal, voice, quick tasks
+- Whisper Flow for voice AI everywhere
+- Notion AI Meeting Notes for automatic meeting capture
+- Grammarly for editing
+
+For research:
+
+- ChatGPT Deep Research for comprehensive reports
+- Perplexity for sourced quick answers
+- NotebookLM for document deep-dives
+
+For creation:
+
+- Claude Projects for consistent writing voice
+- Nano Banana (Gemini) for image generation and editing
+- Midjourney for high-aesthetic images
+- ElevenLabs for voice and audio
+
+For automation:
+
+- Zapier for no-code workflows with AI
+- Make for complex automation logic
+- Lindy for conversational AI agents
+
+For building:
+
+- Lovable for apps without code
+- Claude Code for agentic development
+- Cursor for AI-assisted coding
+- LangGraph for production agents
+
+For custom AI:
+
+- RAG systems for AI with your data
+- Fine-tuning for specialized behavior
+- MCP for universal tool connections
+
+The meta-insight: Tools matter less than knowing when to use which. That skill comes from trying everything, developing taste, and building habits.
+
+Start where you are. Master your current level before moving up.
+
+The tools will change. The categories won't. Learn patterns, not just products.
+
+---
+
+**作者** Francesco D'Alessio（@FrancescoD_Ales）  
+**貼文連結** https://x.com/FrancescoD_Ales/status/2017205065073738019  
+
+**正文**
+
+🚨 @notionhq just acquired Embra.  
+
+Here's what it means for meeting notes and AI agents:  
+
+→ Cron → Calendar 
+→ Skiff → Mail 
+→ Campsite → Team comms?
+→ Embra → AI context 
+
+They're not building a note app anymore. 
+
+They're building the AI workspace.  
+
+Full breakdown ⬇️
+
+Congrats to @zachtratar & all the team.
+
+---
+
+**作者** Aparna Dhinakaran（@aparnadhinak）  
+**貼文連結** https://x.com/aparnadhinak/status/2016915570503938452  
+
+**正文**
+
+We’ve worked with thousands of customers building AI agents, and we’ve also spent the last two years building our own agent, Alyx, an in-product assistant for Arize AX. These experiences have given us
+
+---
+
+**作者** 千寻 🌸（@Crypto_QianXun）  
+**貼文連結** https://x.com/Crypto_QianXun/status/2017071112627343492  
+
+**正文**
+
+开源版 Palantir，太狠了 🚀
+
+一张 全球威胁地图，
+带你系统理解：
+战争｜冲突｜军事布局｜国家历史 🧙‍♂️
+
+不只是看新闻，
+而是从情报视角理解世界。
+
+🔗 直接体验：
+https://globalthreatmap.up.railway.app 
+
+---
+
+**作者** 柴郡🔔｜Crypto+AI Plus（@0xCheshire）  
+**貼文連結** https://x.com/0xCheshire/status/2017161702572257762  
+
+**正文**
+
+你是否也面临这种困境：想做个人 IP，但每天因为“写什么”抓耳挠腮？看着大佬们日更推特、周更视频、还要写 Newsletter，不禁怀疑他们是不是有三头六臂？
+最近我仔细研究了 头部创作者 Dan Koe 的 AI
+
+---

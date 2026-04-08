@@ -1,2089 +1,6 @@
 # Twillot 書籤（精簡）— 第 16/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 2948–3144 則**（共 197 則）
-
----
-
-**作者** Lenny Rachitsky（@lennysan）  
-**貼文連結** https://x.com/lennysan/status/2007569592521294045  
-
-**正文**
-
-"Good product work is seeking clarity. What would make this execution actually matter. 
-
-In this era, directing and managing agent work becomes the craft. Writing code is less like constructing a solution and more like setting up the conditions for a good solution to emerge. This might not be even an individual task, but an organizational one: how can you create these conditions as to the whole product team."
-
----
-
-**作者** Ryo Lu（@ryolu_）  
-**貼文連結** https://x.com/ryolu_/status/2007554183281684983  
-
-**正文**
-
-build something crazy, fun, yours.
-
----
-
-**作者** 柴郡🔔｜Crypto+AI Plus（@0xCheshire）  
-**貼文連結** https://x.com/0xCheshire/status/2007729282366493044  
-
-**正文**
-
-山姆·奥特曼用短短 16 分钟，直接解释了为什么大多数初创公司会失败。
-
-他拆解了：
-• 产品—市场匹配
-• 团队建设
-• 市场选择
-• 竞争护城河
-
-下面是 14 条价值超过 20 万美元 MBA 的经验教训：
-
-1. 初创公司 80% 的成功来自一件事 
-山姆·奥特曼用短短 16 分钟，直接解释了为什么大多数初创公司会失败。
-
-他拆解了：
-• 产品—市场匹配
-• 团队建设
-• 市场选择
-• 竞争护城河
-
-下面是 14 条价值超过 20 万美元 MBA 的经验教训：
-
-1. 初创公司 80% 的成功来自一件事 
-打造一个好到让人会自发告诉朋友的产品。
-
-就这么简单。
-
-如果用户不会主动为你布道，其他一切都不重要。
-
-规则：口碑不是一种增长策略。
-
-它是你确实做出了伟大产品的证明。
-2. 简单是清晰思考的信号
-
-如果你无法用几句话解释清楚你在做什么，那就是个问题。
-
-不是营销问题。是思考问题。
-
-混乱通常意味着：
-
-思路不清晰，或者用户需求本身很弱。
-3. 选择会指数级增长的市场
-
-创始人往往执着于当下的市场规模。
-
-这是个错误。
-
-最好的初创公司，往往从一个即将爆发的小市场起步。
-
-例如：iPhone 应用市场，最初的市场规模是 0 美元。
-4. 学会分辨真实趋势与伪趋势
-
-真实趋势：早期用户疯狂使用，并且停不下来地谈论它。
-
-伪趋势：人们买了……然后几乎不用。
-
-奥特曼的例子：
-• iPhone = 真实
-• VR（当时）= 伪趋势
-5. 你至少需要一位“布道型”创始人
-
-必须有人负责：
-• 招人
-• 销售
-• 融资
-• 激励
-• 讲故事
-
-通常是 CEO。
-
-伟大的初创公司，先传播热情，再传播收入。
-6. 野心会吸引人才
-
-在今天，创办一家初创公司比组建团队更容易。
-
-为什么一个聪明人要加入你？
-
-因为使命足够重要。
-
-一个反直觉的洞见：
-困难的初创公司，反而比“容易”的更容易招人。
-7. 对未来要自信且明确
-
-最优秀的创始人都有：
-• 对未来会发生什么的清晰判断
-• 把判断说出口的勇气
-
-他们可能会错，但他们果断。
-
-自信 + 灵活性胜过犹豫 + 共识。
-8. 初创生态奖励的是不对称性的
-
-成功概率很低。
-
-一旦成功，上行空间巨大。
-
-这就是这场游戏。
-
-如果成功后体量仍然很小，就吸引不到最优秀的人。
-9. “你打造的团队就是公司本身”
-
-产品很重要。
-市场很重要。
-
-但长期成功 = 团队质量。
-
-大多数创始人在招聘上投入不足。
-
-这是个错误。
-10. 伟大的团队共享一种非理性的乐观
-
-世界会不断告诉你：
-
-“你错了。”
-“这行不通。”
-“已经有人试过了。”
-
-赢家团队的回应是：“我们会搞定的。”
-11. 你需要点子制造机
-
-需要几个人不断抛出想法。
-
-大多数都会很糟。没关系。
-
-想法充裕 > 想法稀缺。
-
-执行会过滤质量。
-12. 偏向行动才能赢
-
-初创公司：
-• 数据很少
-• 不确定性极高
-
-你需要的是那些照样行动、并快速调整的人。
-
-糟糕的说法：“我们再等等看。”
-好的说法：“交给我。”
-13. 你必须拥有长期优势
-
-如果你无法回答：
-• 护城河是什么？
-• 为什么别人抄不了？
-
-这就是危险信号。
-
-伟大的初创公司在这里一定有答案，即使他们刻意低调。
-14. 初创公司在大公司做不了的地方获胜
-
-三个不公平优势：
-• 听起来很糟，但实际上很好的想法
-• 快速变化的市场
-• 重大的平台转移
-
-大公司需要所有人都点头。
-初创公司只需要一个“是”。
-伟大的初创公司不是靠花招建立的。
-
-它们建立在：
-
-• 人们真正热爱的产品
-• 持续增长的市场
-• 相信彼此的团队
-• 不断复利的动能
-
-其他一切都是噪音。
-想试着买比特币？新手也能开始👇
-
-✅ 注册两大交易所（省 20% 手续费）：
-
-🔹 币安：https://binance.com/join?ref=SRXT5KUM
-邀请码 SRXT5KUM 合约邀请码 416378774
-
-🔹 OKX：https://okx.com/join/A999998
-邀请码 A999998
-
-💬 群聊：https://t.me/CheshireBTC
-
-📘 教程：https://0xcheshire.gitbook.io/web3/
-感谢你的阅读！👍
-
-中文翻译版本，原文来自：
-https://x.com/jaynitx/status/2006698468442779815?s=20
-
-关注我 @0xCheshire 获取更多内容。
-
-如果你喜欢这篇文章，请帮助转发🔄第一条推文，让更多人看到：👇
-https://x.com/0xCheshire/status/2007729282366493044?s=20
-
----
-
-**作者** AIGCLINK（@aigclink）  
-**貼文連結** https://x.com/aigclink/status/2007691546641183227  
-
-**正文**
-
-一款AI编程智能体任务看板工具：Vibe Kanban，帮你把AI编程效率再放大10倍
-
-它把不同Agent的任务像看板一样排好、并行/串行跑、实时看状态、结果一键Review、远程SSH打开项目，各个Agent的MCP配置集中管理
-
-对于个人开发者，用它可以开多个Agent 24h轮流开工
-
-多Agent统一看板，可以切换不同编程Agent
-
-可以实时看到AI智能体执行任务的详细日志、对代码库所做的具体修改、任务状态
-
-任务完成后自动创建git分支并提交全部变更，可一键手动发起GitHub Pull Request
-
-#VibeKanban  #编程agent
-一款AI编程智能体任务看板工具：Vibe Kanban，帮你把AI编程效率再放大10倍
-
-它把不同Agent的任务像看板一样排好、并行/串行跑、实时看状态、结果一键Review、远程SSH打开项目，各个Agent的MCP配置集中管理
-
-对于个人开发者，用它可以开多个Agent 24h轮流开工
-
-多Agent统一看板，可以切换不同编程Agent
-
-可以实时看到AI智能体执行任务的详细日志、对代码库所做的具体修改、任务状态
-
-任务完成后自动创建git分支并提交全部变更，可一键手动发起GitHub Pull Request
-
-#VibeKanban  #编程agent
-github：https://github.com/BloopAI/vibe-kanban 
-
----
-
-**作者** Anuj Rathi（@anujrathi）  
-**貼文連結** https://x.com/anujrathi/status/2007527123419050433  
-
-**正文**
-
-This is key. PMs with founder mentality will not only use AI for generating PRDs and low-level productivity hacks, but to actually think better, create and demonstrate long term vision, build and play out strategies, ideate and kill ideas, and actually be brilliant _and_ valuable.
-
----
-
-**作者** Cyprx Research Lab Official（@CyprxResearch）  
-**貼文連結** https://x.com/CyprxResearch/status/2007466993600143669  
-
-**正文**
-
-Your card isn’t just plastic, it’s payments infrastructure.
-
-Behind every swipe:
-- Issuer + BIN define risk & economics
-- Network (Visa/Mastercard vs AmEx) defines routing & scale
-- Card type (credit, debit, prepaid, charge) defines funding & settlement
-
-Oen-loop networks scale globally.
-Closed-loop networks control the full stack.
-
-Understanding card rails is better product design, smarter risk, and sustainable scale in payments.
-
----
-
-**作者** Matt Lucero（@MattLucero_）  
-**貼文連結** https://x.com/MattLucero_/status/2007474611672248772  
-
-**正文**
-
-Agencies are exceptionally easy to scale to $1 million, $3 million, or even $10 million a year.
-
-Alex Hormozi explains that while hitting these milestones is possible in almost any model, scaling beyond them becomes exceptionally difficult. 
-
-The demand for human capital increases, making it harder to attract the talent needed for higher-level work.
-
- If you want to build a massive business, you have to look at what the biggest players in your industry are doing differently to overcome the scaling wall.
-
-To see my full interview with Hormozi, be sure to check it out on my Youtube channel.
-
----
-
-**作者** Satyam（@sattyyouneed）  
-**貼文連結** https://x.com/sattyyouneed/status/2007358691222401420  
-
-**正文**
-
-This is how crypto payments should look. 
-This is how crypto payments should look. 
-A banger from Apple
-
----
-
-**作者** 马天翼（@fkysly）  
-**貼文連結** https://x.com/fkysly/status/2007301140057329822  
-
-**正文**
-
-这是 Lee Robinson 的《It’s 2026. AI writes most of my code. Now what?》（现在是2026，AI 写了我绝大多数代码，该怎么办？）视频的中文翻译版，作者是 Cursor 的技术教育工程师。
-里面核心观点：
-1. 模型在写代码这件事上，已经普遍强过人类工程师
-2. 工程师要向「通才 / 产品工程师」进化，拥抱 AI 的产品工程师会有巨大优势
-3. 心态上会有失落感：“我热爱的写代码正在消失”。但 lee 给的观点是：我们爱的从来不是代码，而是「创造好东西」。
-我感觉应该是 AI Coding Agent 带给大家共同的感受了，如何调整心态看待日益变强的 AI Coding，值得一看。
-
----
-
-**作者** meng shao（@shao__meng）  
-**貼文連結** https://x.com/shao__meng/status/2007624138073223439  
-
-**正文**
-
-Claude Code + Obsidian 能做出什么 AI 工作流，有什么用？ @kepano 这个帖子的评论区里提供了非常多有价值的实践经验，对于开发者、知识工作者都很有用，咱们分类看看。
-
-1. 维护上下文文件与项目管理：
-· @internetvin 描述了一种“主上下文文件”策略：在 Obsidian 中为每个主要项目或生活领域创建专用文件，反复输入给 Claude Code，避免重复解释背景。当项目进展时，让 Claude Code 审查并更新这些文件。此外，他使用子智能体（如“cross-file-patterns”）来搜索 Obsidian 中的特定术语，复制搜索结果后让 Claude 分析跨文件模式，帮助发现隐藏关联。这种方法适合长期项目跟踪，强调 AI 在模式识别上的优势。
-
-2. 代码集成与自动化：
-· @roasbeef 分享了一个开源插件（GitHub 仓库：obsidian-claude-code），将 Claude Code 直接嵌入 Obsidian 中，减少在终端和笔记间切换的麻烦。这适用于开发者工作流，简化代码生成、调试或脚本编写。
-· @KatThePoetEngineer 提到使用 Claude Code 批量编辑笔记，如添加链接或修改属性，通过生成复杂 Bash 命令实现（例如，提示 Claude 创建可重用脚本）。她还为当前项目创建临时文件夹，加载笔记和 PDF，让 Claude 从不同视角（如批判性或多背景角色扮演）分析内容，并迭代生成新笔记。这增强了研究和创作的深度。
-
-3. 日常回顾与任务生成：
-· @bleikamp 将 Claude Code 作为 Obsidian 的主要界面，使用命令如 “/today” 来汇总前一天的保存、阅读和写作内容，整合 GitHub 拉取请求，并关联旧笔记生成待办事项。这形成了每日启动 routine，提升了生产力。
-· @belindmo 利用 Claude Code 回顾过去几年目标笔记，识别趋势，加速自我反思过程。她强调 AI 不仅加快了分析，还可能揭示手动不易发现的洞见。
-· @heyitsnoah 列举了多种用途，包括附件组织、收件箱整理、思考辅助和研究支持。他还通过移动终端将 Claude 作为 Obsidian 的移动写作助手，并分享了相关 GitHub 仓库（claudesidian）。
-· @DBredvick 提到一个自定义流程（详见其博客），涉及 iOS 备忘录、Obsidian 和 Claude 的集成，可能用于跨设备同步和AI增强笔记。
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2007717758084292956  
-
-**正文**
-
-OpenCode 感觉比 Claude Code 更易用啊
-
-尤其是对我们用 Anthropic 账号困难的人来说
-
-- API 接入简单方便，支持所有主流模型 API
-- 还有可视化的客户端可以安装，没有 CLI 那么麻烦
-- 支持 Cluade Code 的所有能力，甚至可以直接调用 CC 创建的 Skills
-
-甚至允许你调用你 Claude 账号本身的模型额度 
-OpenCode 感觉比 Claude Code 更易用啊
-
-尤其是对我们用 Anthropic 账号困难的人来说
-
-- API 接入简单方便，支持所有主流模型 API
-- 还有可视化的客户端可以安装，没有 CLI 那么麻烦
-- 支持 Cluade Code 的所有能力，甚至可以直接调用 CC 创建的 Skills
-
-甚至允许你调用你 Claude 账号本身的模型额度 
-但是不知道为啥我走 Claude 账号授权之后总是 403，可能是网络问题
-甚至连小米都有 
-还有很多免费模型玩，比如 GLM-4.7 和 MiniMax M2.1 
-
----
-
-**作者** Vitto Rivabella（@VittoStack）  
-**貼文連結** https://x.com/VittoStack/status/2007456444447064103  
-
-**正文**
-
-I can’t believe Google dropped a 64-page guide on building AI Agents. Completely for free! 
-
-From AgentOps to Agentic RAG orchestration to grounding, this guide shows how to design and scale AI agents reliably in production ✨
-
-If you’re building an AI startup, start here. 
-
----
-
-**作者** Marcel van Oost（@oost_marcel）  
-**貼文連結** https://x.com/oost_marcel/status/2007460102001893589  
-
-**正文**
-
-The basics of Tokenization. A crucial process in Payments👇
-
-Let's dive in:
-
-What are Tokens?
-
-Tokens are unique, randomly generated strings of characters or symbols used to represent sensitive data, such as primary account numbers (PANs). 
-
-Since tokens are nonconvertible, that is, they can't be reverse-engineered to reveal a customer's original PAN, they're an effective tool to protect sensitive data during storage, transmission and retrieval.
-
-What is Payment Tokenization:
-
-Payment tokenization is the process of replacing sensitive personal information with a surrogate value — a token — stored in a PCI-compliant token vault owned by the token creator, which can be an entity such as an acquirer, issuer, 3rd party token vault & network or payment processor.
-
-To discover the PAN a token represents, a merchant would need to present that token to its creator; the creator would then look up the PAN within their highly secure token vault. 
-
-When using payment tokens, the creator does not return the PAN to the merchant, but instead uses it to authorize a transaction. 
-
-This way, the merchant is able to keep sensitive data out of their systems, so that hackers cannot gain access to it.
-
-Tokens can vary in format but generally they fall into 3 categories:
-
-1️⃣ Non-Format Preserving: 
-
-The token doesn't look like the original data. For instance, a social security number could be represented as "T@%3N5."
-
-2️⃣ Format Preserving: 
-
-The token retains the format of the original data but scrambles the numbers.
-
-3️⃣ Selective Masking: 
-
-A hybrid approach, some original numbers are left unchanged for verification purposes, such as the last four digits of a credit card.
-
-𝗦𝗶𝗻𝗴𝗹𝗲-𝘂𝘀𝗲 𝘃𝘀. 𝗠𝘂𝗹𝘁𝗶-𝘂𝘀𝗲 𝗧𝗼𝗸𝗲𝗻𝘀
-
-Tokens can be transient or enduring. Single-use tokens expire after a single transaction, whereas multi-use tokens can be used for multiple transactions over an extended period.
-
-𝗧𝘆𝗽𝗲𝘀 𝗼𝗳 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗧𝗼𝗸𝗲𝗻𝘀:
-
-‣ 𝗔𝗰𝗾𝘂𝗶𝗿𝗲𝗿 𝗧𝗼𝗸𝗲𝗻𝘀: Generated by transaction processors, usually restricted to specific merchants.
-
-‣ 𝗜𝘀𝘀𝘂𝗲𝗿 𝗧𝗼𝗸𝗲𝗻𝘀: Created by card issuers, like Visa or Mastercard, often for digital wallets such as Apple Pay or Google Pay.
-
-‣ 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 𝗧𝗼𝗸𝗲𝗻𝘀: Produced by credit card networks themselves, not bound to specific issuers.
-
-‣ 𝗣𝗮𝘆𝗺𝗲𝗻𝘁 𝗧𝗼𝗸𝗲𝗻𝘀: A newer category generated on behalf of issuers and merchants, usable across multiple locations.
-
-‣ 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝘁 𝗧𝗼𝗸𝗲𝗻𝘀: Tailored for individual merchants, these can be integrated into a merchant's specific customer journey and can link to multiple other types of tokens.
-
-Sources: Arthur Bedel - ACI Worldwide
-
----
-
-**作者** GREG ISENBERG（@gregisenberg）  
-**貼文連結** https://x.com/gregisenberg/status/2007537652765991388  
-
-**正文**
-
-Today I learned Obsidian is 100% user-supported and not backed by VC investors 
-
----
-
-**作者** Aakash Gupta（@aakashgupta）  
-**貼文連結** https://x.com/aakashgupta/status/2007614387360804909  
-
-**正文**
-
-Linear’s CEO just described the biggest shift in product team structure since Agile.
-
-For decades, product work meant: PM defines requirements → designers create specs → engineers translate to code. The middle step, translation, absorbed 70% of the time and created most of the friction.
-
-Karri is saying that step is collapsing. AI agents don’t need handoff documents or sprint planning rituals. They need structured context about what matters, what constraints apply, and what success looks like.
-
-This inverts the leverage points. The person who captures customer intent clearly now has more impact than the person who translates it into implementation. And the person reviewing agent output becomes the quality bottleneck.
-
-Linear built their entire product around this bet: structured entities with clear ownership, context attached to work items, feedback connected directly to issues. It turns out the same system that helps humans coordinate also helps agents know what to do.
-
-The teams figuring this out first will have a structural advantage. Everyone else will still be writing Jira tickets that read like riddles.
-
----
-
-**作者** 傅盛（@FuSheng_0306）  
-**貼文連結** https://x.com/FuSheng_0306/status/2007698567105036506  
-
-**正文**
-
-Manus联合创始人季毅超：很多创业者“没有乔布斯的命，却得了乔布斯的病”，但AI时代创始人最稀缺的特质是“正常”。移动互联网时代偏爱艺术家，靠低边际成本赌一把，AI 创业更像传统制造业，面临极高的算力成本和经营压力。在这种环境下，相信常识、身心健全、能冷静面对受挫并迅速站起来的“正常人”，反而拥有更强的韧性，能带着团队走得更远。
-
----
-
-**作者** GREG ISENBERG（@gregisenberg）  
-**貼文連結** https://x.com/gregisenberg/status/2007563115471552894  
-
-**正文**
-
-ive been hanging out with founders under 22 lately living in sf/nyc and they're built different.
-
-my observations of these young founders getting rich with AI:
-
-1. these kids grew up watching YT creators flexing Porsches and private jets from their bedrooms. but when they looked at their own reality, they saw $200k college tuition and $45k entry-level jobs. the math didn't work. so they decided to skip the broken system entirely.
-
-2. that economic reality shaped everything about them. they're unapologetically capitalistic in a way that reminds me of the 80s Wall Street era. pure survival capitalism. they think they need millions just to live comfortably, they look at $4,000 studio apartments in ny, and they're not wrong. tons of economic pressure for everyone right now and inflation worries.
-
-3. so they formed group chats with other founders. their mentors are podcasts. they're plugged in and learning 24/7, treating business like a multiplayer video game they're trying to beat.
-
-4. sam altman said something that stuck with me: older generations use ChatGPT as a Google replacement, but these kids use it as an operating system. they see this AI era as their gateway out of economic reality. 
-
-5. everything they do is optimized for virality. their startup journey reads like a Netflix documentary with built-in trailers. every product decision considers "will this clip work on X?" they reverse engineer social algorithms with their business models. it's like NELK Boys meets Spielberg meets YC demo day.
-
-6. they build products designed to go viral on specific platforms. they'll time launches around trending topics. they'll create TikToks showcasing their SaaS tool like entertainment content.
-
-7. some go the cash flow route, building consumer mobile apps like nikita or build saas portfolios. others raise millions in VC funding. the more the vc the better they think. 
-
-8. they document every failure, breakthrough, and late-night coding session. their businesses are performance art for the algorithm age.
-
-9. they're not trying to fix the broken system that priced them out. they're building entirely around it. and they're winning because they accepted the new rules while everyone else is still playing by the old ones.
-
-10. a lot will fail in public and end up working at companies. it'll be crushing. especially the ones that raise tons of vc. that's the game. but some will succeed in ways we've never seen before.
-
-11. they think in portfolios from day one. not “this is my startup,” but “this is one bet.” apps, tools, experiments, accounts. they expect most to die and one to change their life.
-
-12. many are  hyper-capitalistic. michael douglas in wall street energy, but with claude, cursor, and viral clips instead of suspenders and cigars. theyve got big dreams and aren't afraid to go after them.
-
-13. the same inflated world that crushed previous generations might have created the most resourceful generation of entrepreneurs we've ever seen. they are turning systemic failure into competitive advantage.
-
-pretty genius when you think about it. the kids are alright.
-
----
-
-**作者** 安仔（@geekshellio）  
-**貼文連結** https://x.com/geekshellio/status/2006985287822623070  
-
-**正文**
-
-2026 年，可能是我们这代人最好的创业窗口期
-
-说真的，我已经很久没有看到一篇让我这么兴奋的文章了。
-
-Greg Isenberg 是个 36 岁的连续创业者，卖掉过 3 家公司（我却一直死磕自己的创业公司...），帮助过从种子轮到独角兽的团队，他说 2026 年是过去 30 年来最好的创业时机。
-
-一开始我还觉得是不是标题党，但看完他列的 20 个理由，我承认我被说服了。
-
-先说最颠覆的一点。以前做一个企业级软件，可能需要 30 个工程师，现在呢？一个人加一个 Claude Code 订阅就够了。
-
-那些曾经要花 50 万美金才能搞定的软件，现在几乎可以用零头复制出来。这意味着什么？
-
-意味着那些躺在功能堆砌上收订阅费的传统 SaaS 公司，正在被一个个小团队用更便宜、更垂直的方案蚕食掉。
-
-然后是商业模式的变化。以前卖软件是卖功能、卖订阅，用户买了可能用不用得上是他自己的事。
-
-但现在 AI Agent 可以自动完成工作，创业者可以直接卖结果。你不用再跟客户解释你的产品有多少个 feature，你就告诉他：这事我帮你搞定，搞不定不收钱。
-
-再说说门槛这件事。以前做个 MVP 至少要几个月，现在用 Lovable、Rork 这些工具，几天就能出原型。
-
-Greg 说现在的 MVP 速度基本上是一周一个。这带来一个很有意思的现象：
-
-小公司可以同时跑好几个产品，哪个跑通了就 all in 哪个。以前创业是押宝，现在更像是组合投资。
-
-还有一个我特别认同的观点：
-
-编程不再是瓶颈了。
-
-以前我们总说"工程师不够"、"开发资源紧张"，现在真正稀缺的是什么？
-
-是对业务流程的深度理解，是行业里那些只有老手才知道的隐性知识。
-
-代码变便宜了，但品味和领域洞察力反而更值钱了。
-
-所以他说，下一波赢家很可能是那些懂业务的前运营人员，他们把自己脑子里的经验编码成 Agent，这才是真正的护城河。
-
-说到护城河，Greg 问了一个很尖锐的问题：
-
-如果 AI 能用每月 20 美金复制出 50 万美金的软件，你的壁垒到底在哪？他的答案是：
-
-分发渠道、客户服务、品牌、数据。
-
-换句话说，技术本身越来越不是壁垒，真正值钱的是你能不能让用户知道你、信任你、离不开你。
-
-所以他说，现在是设计师和营销人最好的时代。
-
-最后他说了一句话，我觉得特别到位：
-
-我们正处在一个极其罕见的窗口期，多个技术变革同时发生，小团队突然能做到以前根本不可能的事情。
-
-但这个窗口不会永远开着，市场会适应，巨头会反应过来，机会会关闭。
-
-所以他的建议是：别收藏这篇文章了，去做点什么吧。2026 年是属于那些看清趋势、先动起来的人的。
-2026 年，可能是我们这代人最好的创业窗口期
-
-说真的，我已经很久没有看到一篇让我这么兴奋的文章了。
-
-Greg Isenberg 是个 36 岁的连续创业者，卖掉过 3 家公司（我却一直死磕自己的创业公司...），帮助过从种子轮到独角兽的团队，他说 2026 年是过去 30 年来最好的创业时机。
-
-一开始我还觉得是不是标题党，但看完他列的 20 个理由，我承认我被说服了。
-
-先说最颠覆的一点。以前做一个企业级软件，可能需要 30 个工程师，现在呢？一个人加一个 Claude Code 订阅就够了。
-
-那些曾经要花 50 万美金才能搞定的软件，现在几乎可以用零头复制出来。这意味着什么？
-
-意味着那些躺在功能堆砌上收订阅费的传统 SaaS 公司，正在被一个个小团队用更便宜、更垂直的方案蚕食掉。
-
-然后是商业模式的变化。以前卖软件是卖功能、卖订阅，用户买了可能用不用得上是他自己的事。
-
-但现在 AI Agent 可以自动完成工作，创业者可以直接卖结果。你不用再跟客户解释你的产品有多少个 feature，你就告诉他：这事我帮你搞定，搞不定不收钱。
-
-再说说门槛这件事。以前做个 MVP 至少要几个月，现在用 Lovable、Rork 这些工具，几天就能出原型。
-
-Greg 说现在的 MVP 速度基本上是一周一个。这带来一个很有意思的现象：
-
-小公司可以同时跑好几个产品，哪个跑通了就 all in 哪个。以前创业是押宝，现在更像是组合投资。
-
-还有一个我特别认同的观点：
-
-编程不再是瓶颈了。
-
-以前我们总说"工程师不够"、"开发资源紧张"，现在真正稀缺的是什么？
-
-是对业务流程的深度理解，是行业里那些只有老手才知道的隐性知识。
-
-代码变便宜了，但品味和领域洞察力反而更值钱了。
-
-所以他说，下一波赢家很可能是那些懂业务的前运营人员，他们把自己脑子里的经验编码成 Agent，这才是真正的护城河。
-
-说到护城河，Greg 问了一个很尖锐的问题：
-
-如果 AI 能用每月 20 美金复制出 50 万美金的软件，你的壁垒到底在哪？他的答案是：
-
-分发渠道、客户服务、品牌、数据。
-
-换句话说，技术本身越来越不是壁垒，真正值钱的是你能不能让用户知道你、信任你、离不开你。
-
-所以他说，现在是设计师和营销人最好的时代。
-
-最后他说了一句话，我觉得特别到位：
-
-我们正处在一个极其罕见的窗口期，多个技术变革同时发生，小团队突然能做到以前根本不可能的事情。
-
-但这个窗口不会永远开着，市场会适应，巨头会反应过来，机会会关闭。
-
-所以他的建议是：别收藏这篇文章了，去做点什么吧。2026 年是属于那些看清趋势、先动起来的人的。
-以下是原文的中文翻译：
-
-2026 年是 30 年来创业的最佳时机
-我今年 36 岁，卖掉过 3 家创业公司，帮助过融资数十亿美元的公司，也投资过从种子轮到独角兽的团队。以下是 20 个重大趋势，说明为什么现在是一代人中最好的创业时机：
-
-1. 硬件变聪明了。
-   从 HuggingFace 下载开源 AI 模型，装到便宜的机器人上，它们就突然变聪明了。这打开了大量的应用场景。
-
-2. SaaS 正在崩塌。
-   AI 可以用几分钱复制出价值 50 万美元的软件。以前需要 30 个工程师的企业软件，现在只需要 1 个人加一个 Claude Code 订阅。创始人会走向更垂直、更定制化的方向，用更低的价格击败那些老牌公司。
-
-3. 按结果付费正在取代订阅制。
-   AI Agent 可以自动完成工作，创始人可以保证结果，而不是卖功能。这创造了巨大的套利机会，可以从那些僵化的订阅模式手中抢走市场份额。
-
-4. "氛围营销"是新的营销方式。
-   像 Lindy、Gemini 和 Claude Code 这样的 AI Agent 工具，可以做个性化的外联、广告和内容创作，而且效果越来越好。这就像 2005 年刚开始玩社交媒体一样。
-
-5. 社交媒体被"推荐流"化了。
-   分发不再需要庞大的粉丝基础，只需要能打动人的内容。创始人可以从零开始建立受众，不用花广告费，然后把他们转化到自己的私域渠道（短信/邮件）。
-
-6. 界面正在消失。
-   对话正在取代各行各业的仪表盘。这消除了培训障碍，意味着客户可以立即使用复杂的产品。
-
-7. 企业现在痴迷于效率和降本。
-   企业预算正在向 AI 倾斜。公司正在削减传统软件支出，为 AI 驱动的替代方案腾出空间。这为能带来 10 倍效率的创业公司创造了快速审批通道。
-
-8. 99%的 MVP 不再需要风投。
-   低成本 MVP 加上创作者合作和 AI 自动化，可以实现自力更生的规模化。对于大多数软件业务来说，外部融资现在已经不是必需的了。
-
-9. 全球化团队。
-   你不再需要在自己的城市招人了。这打开了大量的套利机会，也能创造出以前做不出来的产品。
-
-10. 数百万创作者想要变现。
-    如果你有合适的产品和合适的创作者网络，你可以以极高的效率达到规模。这在以前是不存在的。新一代创始人是先建社区，再做软件。
-
-11. 原型制作几乎是即时的。
-    用 Lovable、Rork 等工具，你可以在几天内测试想法，而不是几个月。MVP 的速度基本上是每周一个。这为小公司同时运营多个产品创造了空间（多元创业），也能更快找到产品市场契合点。
-
-12. LLM API 每周都在创造新的构建模块。
-    我都跟不上每周从 LLM 那里冒出来的新 API 和工具了。举个例子：Nano Banana Pro 一出来，可能就有 1000 个基于它的想法能做成年收入 500 万美元的生意。
-
-13. 每个员工创造 100 万美元以上的收入。
-    借助 LLM、社区和 Agent 的杠杆，员工的效率大大提高。每个员工创造 100 万美元收入将变得很常见。这将导致"多元创业"的兴起，小团队拥有多个产品/业务。控股公司会像创业公司一样普遍。
-
-14. "超细分"是新的"细分"。
-    因为创建软件创业公司的成本降到了以前的 1/100，你可以服务那些很小的细分市场（我称之为"超细分市场"），仍然能做出改变人生的生意。
-
-15. 移动应用生态即将 10 倍增长。
-    两个原因。第一，给应用加上 AI 会让应用更有用。更有用的应用，赚更多的钱。第二...（原文未完）
-
-16. 合规和无聊的工作流突然变得可以做了。
-    许可证、审计、保险、工资边缘案例、申报、招标文件。这些以前对创业公司来说"太烦人了"。但 Agent 在规则、清单和重复性工作上表现出色。最不性感的问题现在有了最好的单位经济效益。
-
-17. Claude Code 干掉了"工程瓶颈"。
-    约束不再是"我们能不能做出来"，而是"我们是否足够深入地理解这个工作流"。赢家是那些前运营人员，他们把行业隐性知识编码成 Agent。代码变便宜了，品味和领域洞察力才是稀缺的。
-
-18. 软件的长尾市场现在有利可图了。
-    以前天花板只有 20 万美元 ARR 的细分市场，现在可以在边际成本几乎为零的情况下做到 500 万美元。
-
-19. 服务正在悄悄变成软件。
-    人工代理机构离产品级利润只差一个 Agent。
-
-20. 如果 AI 能用每月 20 美元复制出 50 万美元的软件，你的护城河是什么？
-    分发渠道、客户服务、品牌、数据等等。现在真的是成为世界级设计师/营销人的好时机。
-
-（还有更多...但已经太长了！）
-我们进入了一个极其罕见的窗口期...多个技术变革同时碰撞，创造了一个短暂的时期，小团队可以做出以前不可能的事情。
-创业的未来是不同的。我知道这一点...
-这个独特的时刻不会永远持续。市场会适应。巨头会反应过来。窗口会关闭。
-但现在，一个有清晰愿景和行动力的创始人，可以在六个月内做出以前需要几年才能完成的东西。
-（注：如果你需要一个想法来激发创意，可以去 @ideabrowser 找一个）
-下一代伟大的公司正在被创造，很多是由你从未听说过的创始人创造的。有些人在以前的周期里根本不会有机会。
-这就是这些罕见窗口期的美妙之处。竞争场地短暂地变得平等，未来属于那些看得清楚并率先行动的人。
-这是一个神圣的时刻，别收藏/分享这篇文章了，在 2026 年做点什么吧，好吗？
-祝各位创业顺利，朋友们。2026 年是你们的。
-我说错了吗？
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/2007197068394164613  
-
-**正文**
-
-Ralph Wiggum 插件：让 Claude Code “通宵干活”
-
-Ralph 就是一个让 Claude 自己跟自己对话的循环——你下班回家，它替你加班，醒来代码写好了。
-
-核心原理
-
-传统用法：你给 Claude 一个任务 → Claude 完成 → 退出 → 你再手动启动下一轮。
-
-Ralph 用法：
-```bash
-/ralph-loop "你的任务描述" --completion-promise "DONE" --max-iterations 50
-```
-
-Claude 会：
-1. 执行任务
-2. 尝试退出时被 Stop hook 拦截
-3. 自动重新读取同一个 prompt
-4. 看到自己之前写的代码/测试结果
-5. 继续改进，直到输出 “DONE” 或达到迭代上限
-
-每次迭代 prompt 不变，但文件和 git 历史在变——Claude 通过读取自己的“作品”实现自我进化。
-
-最适合的场景
-
-✅ TDD 开发：写测试 → 跑失败 → 改代码 → 重复直到全绿
-✅ Greenfield 项目：定义好需求，过夜执行
-✅ 有自动验证的任务：测试、Lint、类型检查能告诉它对不对
-
-❌ 需要人类判断的设计决策
-❌ 没有明确成功标准的任务
-
-Prompt 写法要点：
-必须有：明确的完成条件 + 完成信号词
-
-示例：
-```markdown
-构建一个 Todo REST API
-
-完成标准：
-- CRUD 全部可用
-- 输入校验完备
-- 测试覆盖率 > 80%
-
-完成后输出：<promise>COMPLETE</promise>
-```
-
-真实战绩
-
-- Y Combinator Hackathon：一夜生成 6 个仓库
-- 某项目：$50k 合同，API 成本仅 $297
-
-安全机制
-
-始终设置 `--max-iterations` 防止无限循环：
-```bash
-/ralph-loop “任务” --max-iterations 30 --completion-promise “DONE”
-```
-
-📎 插件地址：https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum
-Ralph Wiggum 插件：让 Claude Code “通宵干活”
-
-Ralph 就是一个让 Claude 自己跟自己对话的循环——你下班回家，它替你加班，醒来代码写好了。
-
-核心原理
-
-传统用法：你给 Claude 一个任务 → Claude 完成 → 退出 → 你再手动启动下一轮。
-
-Ralph 用法：
-```bash
-/ralph-loop "你的任务描述" --completion-promise "DONE" --max-iterations 50
-```
-
-Claude 会：
-1. 执行任务
-2. 尝试退出时被 Stop hook 拦截
-3. 自动重新读取同一个 prompt
-4. 看到自己之前写的代码/测试结果
-5. 继续改进，直到输出 “DONE” 或达到迭代上限
-
-每次迭代 prompt 不变，但文件和 git 历史在变——Claude 通过读取自己的“作品”实现自我进化。
-
-最适合的场景
-
-✅ TDD 开发：写测试 → 跑失败 → 改代码 → 重复直到全绿
-✅ Greenfield 项目：定义好需求，过夜执行
-✅ 有自动验证的任务：测试、Lint、类型检查能告诉它对不对
-
-❌ 需要人类判断的设计决策
-❌ 没有明确成功标准的任务
-
-Prompt 写法要点：
-必须有：明确的完成条件 + 完成信号词
-
-示例：
-```markdown
-构建一个 Todo REST API
-
-完成标准：
-- CRUD 全部可用
-- 输入校验完备
-- 测试覆盖率 > 80%
-
-完成后输出：<promise>COMPLETE</promise>
-```
-
-真实战绩
-
-- Y Combinator Hackathon：一夜生成 6 个仓库
-- 某项目：$50k 合同，API 成本仅 $297
-
-安全机制
-
-始终设置 `--max-iterations` 防止无限循环：
-```bash
-/ralph-loop “任务” --max-iterations 30 --completion-promise “DONE”
-```
-
-📎 插件地址：https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum
-Best practice for reviewing AI code
-https://x.com/dotey/status/2007514902819467505
-改名了
-https://x.com/Jarodxu7/status/2008882212545200605?s=20
-
----
-
-**作者** Greg Kamradt（@GregKamradt）  
-**貼文連結** https://x.com/GregKamradt/status/2007132921979883642  
-
-**正文**
-
-Claude Agent SDK is a hammer and I'm looking for nails everywhere
-
-Hooked it up to: CRM <> Claude SDK <> Slack
-
-I gave it the most general tools along w/ a skill. md
-
-Tools:
-- list_objects: Find all object types
-- list_attributes: Find fields on objects
-- query: Query objects 
-
----
-
-**作者** Arlan（@arlanr）  
-**貼文連結** https://x.com/arlanr/status/2007187642472108439  
-
-**正文**
-
-i built an ai agent that talks to my girlfriend 24/7. fully open source.
-
-sometimes i am on a plane or just working, so i built an ai that uses @nozomioai’s search api to index and search through 5,000 pickup lines and methods on how to talk to women.
-
-it also has its own telegram that uses my account to send, receive, record, and schedule messages to my girlfriend, with built-in memory that analyzes her mood and tells me when something is wrong.
-
-here is a demo of me asking an agent to search for some pickup lines and create a 7-day meal plan for her:
-i built an ai agent that talks to my girlfriend 24/7. fully open source.
-
-sometimes i am on a plane or just working, so i built an ai that uses @nozomioai’s search api to index and search through 5,000 pickup lines and methods on how to talk to women.
-
-it also has its own telegram that uses my account to send, receive, record, and schedule messages to my girlfriend, with built-in memory that analyzes her mood and tells me when something is wrong.
-
-here is a demo of me asking an agent to search for some pickup lines and create a 7-day meal plan for her:
-@nozomioai code: http://github.com/arlanrakh/talk-to-girlfriend-ai
-
----
-
-**作者** 汉松（@Yonah_x）  
-**貼文連結** https://x.com/Yonah_x/status/2007316521312276740  
-
-**正文**
-
-这两天听完 Manus 首席科学家季逸超（Peak）的最新一期播客，整理一下技术相关的、我觉得有意思的观点。
-
-他有个暴论：200k 以上的上下文其实不重要。乍一听反直觉，但他的逻辑我觉得说得通。他的核心观点是：比起无限扩展上下文，更重要的是让模型具备“压缩意识”。
-
-人类的工作记忆也不强，但我们知道可以把信息整理成文档（比如放进 Notion），需要时再检索。模型也应该学会类似的策略：识别哪些信息可以放到外部存储（文件系统/数据库），哪些历史可以压缩成更紧凑的表达继续保留在上下文里。
-
-这里的关键不只是“压缩”，而是让模型理解：信息是“被压缩”而不是“消失”。换句话说，压缩后的摘要要能在需要时被展开、被引用、被追溯。这种能力需要专门训练，但目前多数 Chatbot 模型并没有针对它进行系统训练。
-
-把这点放到产品形态上，就会引出另一个矛盾：Chat 模型与 Agent 场景的优化目标往往是冲突的。Chat 模型倾向于尽快给出一个看起来完整的答案；而 Agent 任务更像 ReAct 流程：反复调用工具、观察、再决定下一步行动。这也是为什么 ChatGPT 现在有 GPT5.2、GPT5.2-Chat、Codex-5.2 等 N 个版本：不同场景需要的能力不一样。
-
-更反直觉的是：一些在榜单上推理表现更强的模型，放到 Agent 场景（多轮工具调用、长轨迹执行）里反而更容易“掉链子”。为什么？因为长上下文场景下，O 系列这类模型的指令遵循能力下降，幻觉和幻觉工具调用概率反而上升。也就是说如果你直接把为竞赛编程或数学设计的推理模型平移到 Agent 场景，效果反而会变差。
-
-Peak 给的解法是“交错式思考”：获得观察结果后，进行短暂的中间推理，再决定下一步行动。而不是用户问一个短问题，模型哗一下在脑内想几千字。这个解法已经是业界共识了，最近的 minimax 模型用的就是这种范式。
-
----
-
-**作者** meng shao（@shao__meng）  
-**貼文連結** https://x.com/shao__meng/status/2007305311313412386  
-
-**正文**
-
-谷歌首席工程师：Claude Code 一个小时做了谷歌一个团队一年做出的方案！
-
-在人才密度如此高的谷歌，也开始有了这种强烈的感受：以 Claude Code 为代表的 AI Coding Agent 能力之强，已经不是简单的做「实习生」「初级工程师」的重复工作而已了，对于更复杂更底层的深入也是越来越强，不管你经验多丰富编程能力多强，它都能帮到你，前提是：开放心态、用好它。
-
-在 Jaana Dogan 分享的这里案例里，谷歌团队从去年开始尝试构建「distributed agent orchestrators」，过程中存在多种方案且团队意见不一，进展缓慢。然而，她将问题描述输入给 Claude Code，后者仅用一小时就生成了他们去年构建的内容。
-
-在分享中，不止看到了 Claude Code 的强大，也看到了软件工程/大公司的传统问题，人越多配合越多、决策越低效，效率越低。
-
-未来的趋势，一定是 1 人 + N AI，一个有架构能力、需求理解能力和审查能力的人，和 N 个 AI 配合，去掉流程、去掉决策成本，AI 极速狂奔，人定义和把关。
-
----
-
-**作者** Boris Cherny（@bcherny）  
-**貼文連結** https://x.com/bcherny/status/2007179832300581177  
-
-**正文**
-
-I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
-
-My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much. There is no one correct way to use Claude Code: we intentionally build it in a way that you can use it, customize it, and hack it however you like. Each person on the Claude Code team uses it very differently.
-
-So, here goes.
-I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
-
-My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much. There is no one correct way to use Claude Code: we intentionally build it in a way that you can use it, customize it, and hack it however you like. Each person on the Claude Code team uses it very differently.
-
-So, here goes.
-1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input https://code.claude.com/docs/en/terminal-config#iterm-2-system-notifications 
-2/ I also run 5-10 Claudes on http://claude.ai/code, in parallel with my local Claudes. As I code in my terminal, I will often hand off local sessions to web (using &), or manually kick off sessions in Chrome, and sometimes I will --teleport back and forth. I also start a few sessions from my phone (from the Claude iOS app) every morning and throughout the day, and check in on them later.
-3/ I use Opus 4.5 with thinking for everything. It's the best coding model I've ever used, and even though it's bigger & slower than Sonnet, since you have to steer it less and it's better at tool use, it is almost always faster than using a smaller model in the end.
-4/ Our team shares a single http://CLAUDE.md for the Claude Code repo. We check it into git, and the whole team contributes multiple times a week. Anytime we see Claude do something incorrectly we add it to the http://CLAUDE.md, so Claude knows not to do it next time.
-
-Other teams maintain their own http://CLAUDE.md's. It is each team's job to keep theirs up to date.
-5/ During code review, I will often tag @.claude on my coworkers' PRs to add something to the http://CLAUDE.md as part of the PR. We use the Claude Code Github action (/install-github-action) for this. It's our version of @danshipper's Compounding Engineering 
-6/ Most sessions start in Plan mode (shift+tab twice). If my goal is to write a Pull Request, I will use Plan mode, and go back and forth with Claude until I like its plan. From there, I switch into auto-accept edits mode and Claude can usually 1-shot it. A good plan is really important!
-7/ I use slash commands for every "inner loop" workflow that I end up doing many times a day. This saves me from repeated prompting, and makes it so Claude can use these workflows, too. Commands are checked into git and live in .claude/commands/.
-
-For example, Claude and I use a /commit-push-pr slash command dozens of times every day. The command uses inline bash to pre-compute git status and a few other pieces of info to make the command run quickly and avoid back-and-forth with the model (https://code.claude.com/docs/en/slash-commands#bash-command-execution)
-8/ I use a few subagents regularly: code-simplifier simplifies the code after Claude is done working, verify-app has detailed instructions for testing Claude Code end to end, and so on. Similar to slash commands, I think of subagents as automating the most common workflows that I do for most PRs.
-
-https://code.claude.com/docs/en/sub-agents
-9/ We use a PostToolUse hook to format Claude's code. Claude usually generates well-formatted code out of the box, and the hook handles the last 10% to avoid formatting errors in CI later. 
-10/ I don't use --dangerously-skip-permissions. Instead, I use /permissions to pre-allow common bash commands that I know are safe in my environment, to avoid unnecessary permission prompts. Most of these are checked into .claude/settings.json and shared with the team. 
-11/ Claude Code uses all my tools for me. It often searches and posts to Slack (via the MCP server), runs BigQuery queries to answer analytics questions (using bq CLI), grabs error logs from Sentry, etc. The Slack MCP configuration is checked into our .mcp.json and shared with the team.
-12/ For very long-running tasks, I will either (a) prompt Claude to verify its work with a background agent when it's done, (b) use an agent Stop hook to do that more deterministically, or (c) use the ralph-wiggum plugin (originally dreamt up by @GeoffreyHuntley). I will also use either --permission-mode=dontAsk or --dangerously-skip-permissions in a sandbox to avoid permission prompts for the session, so Claude can cook without being blocked on me.
-
-https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum
-
-https://code.claude.com/docs/en/hooks-guide
-13/ A final tip: probably the most important thing to get great results out of Claude Code -- give Claude a way to verify its work. If Claude has that feedback loop, it will 2-3x the quality of the final result.
-
-Claude tests every single change I land to http://claude.ai/code using the Claude Chrome extension. It opens a browser, tests the UI, and iterates until the code works and the UX feels good.
-
-Verification looks different for each domain. It might be as simple as running a bash command, or running a test suite, or testing the app in a browser or phone simulator. Make sure to invest in making this rock-solid.
-
-https://code.claude.com/docs/en/chrome
-I hope this was helpful! What are your tips for using Claude Code? What do you want to hear about next?
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2007321783574376547  
-
-**正文**
-
-2025 年设计师最佳氛围工具合集
-
-收藏备用 💜
-
-🧵 详细列表 👇 
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2007321536089469013  
-
-**正文**
-
-Andrej Karpathy 直接展示如何通过提示在 30 分钟内构建应用。
-
-Andrej Karpathy 直接展示如何通过提示在 30 分钟内构建应用。
-
-源：
-https://x.com/ericw_ai/status/2004771919355412981
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/2007317745772442061  
-
-**正文**
-
-Boris Cherny 作为 Claude Code 之父，他写了一篇非常详细的推文，分享了自己如何高效使用这款工具，以及他和团队在实际工作中如何将 Claude 深度集成进整个工程流程。
-
-这篇文章将对他的经验做一次系统的整理和通俗的解读。
-
-让大家Boris 是怎么让 AI 成为他工作流中的自动化伙伴的？
-
-非常值得学习↓ 
-Boris Cherny 作为 Claude Code 之父，他写了一篇非常详细的推文，分享了自己如何高效使用这款工具，以及他和团队在实际工作中如何将 Claude 深度集成进整个工程流程。
-
-这篇文章将对他的经验做一次系统的整理和通俗的解读。
-
-让大家Boris 是怎么让 AI 成为他工作流中的自动化伙伴的？
-
-非常值得学习↓ 
-文章很长，完整内容：https://mp.weixin.qq.com/s/a-KpOYR42DPX0Lr075KFmg 
-
----
-
-**作者** Marcel van Oost（@oost_marcel）  
-**貼文連結** https://x.com/oost_marcel/status/2007082934252019945  
-
-**正文**
-
-Let's start 2026 with an introduction to 𝐓𝐡𝐞 𝐊𝐞𝐲 𝐏𝐥𝐚𝐲𝐞𝐫𝐬 𝐢𝐧 𝐏𝐚𝐲𝐦𝐞𝐧𝐭𝐬 
-
-Behind every card transaction there is a coordinated set of players: 
-
-Each with a unique role.
-
-𝐈𝐬𝐬𝐮𝐞𝐫𝐬:
-
-Issuers are banks or financial institutions that provide cards directly to consumers.
-
-► Key Functions:
-
-→ Underwrite and approve new cardholders
-→ Furnish credit, debit, or prepaid cards
-→ Authorize and clear transactions in real-time
-
-► How They Make Money:
-
-From interchange fees, annual card fees, interest on revolving credit, and FX markups.
-
-► Examples:
-
-Citi, UBS, ING, TD, Deutsche Bank, Chase
-
-𝐀𝐜𝐪𝐮𝐢𝐫𝐞𝐫𝐬 
-
-Acquirers are responsible for enabling businesses to accept card payments.
-
-► Key Functions:
-
-→ Set up and manage merchant accounts
-→ Process card transactions and settle funds to merchants
-→ Manage chargebacks and fraud risk
-
-► How They Make Money:
-
-Through processing fees, gateway charges, and often value-added services (fraud protection, analytics)
-
-► Examples:
-
-@Checkout , @Worldpay_Global , @Nuvei 
-
-𝐂𝐚𝐫𝐝 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬
-
-Card networks serve as the central infrastructure layer between issuers and acquirers.
-
-► Key Functions:
-
-→ Route transaction requests between issuer and acquirer
-→ Establish dispute resolution protocols
-→ Set interchange and assessment fees
-→ Manage card branding and acceptance standards
-
-► How They Make Money:
-
-Card networks earn scheme fees, cross-border fees, and fraud assessment charges
-
-► Examples:
-
-Visa, @Mastercard , American Express
-
-𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐆𝐚𝐭𝐞𝐰𝐚𝐲𝐬
-
-Gateways act as the secure portal through which card data travels from the consumer to the acquiring bank.
-
-► Key Functions:
-→ Route transactions to the appropriate processor
-→ Offer tools for fraud prevention, 3DS, and retry logic
-→ Provide dashboard and reconciliation interfaces to merchants
-
-𝐍𝐨𝐭𝐞: The tokenization process may be performed by 3rd Party vault @getVGS , Acquirer @Checkout .com, Gateway DEUNA, and Merchant...
-
-► How They Make Money:
-
-Gateways charge monthly platform fees, per-transaction fees, and revenue-sharing arrangements
-
-► Examples:
-
-DEUNA, @cellptdigital  
-
-𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐀𝐠𝐠𝐫𝐞𝐠𝐚𝐭𝐨𝐫𝐬
-
-Aggregators combine payment services into a single offering, especially for smaller merchants
-
-► Key Functions:
-
-→ Act as Merchant of Record (MoR), processing under their own MID
-→ Aggregate transactions across merchants
-→ Handle onboarding, settlement, and risk management
-
-► How They Make Money:
-
-Profit from higher per-transaction fees and managing float
-
-► Examples:
-
-@PaddleHQ , @stripe , PayU
-
----
-
-**作者** Jason D（@JasonUXUI）  
-**貼文連結** https://x.com/JasonUXUI/status/2007074398587801732  
-
-**正文**
-
-Open-source project with board, card, and timeline views, built with @shadcn, @nextjs.
-
-GitHub: https://github.com/Jason-uxui/project-dashboard 
-
----
-
-**作者** Riley Brown（@rileybrown）  
-**貼文連結** https://x.com/rileybrown/status/2007188826226340167  
-
-**正文**
-
-2026 is going to be the year of Agentic Interfaces
-
-Ever since I started using Claude Code with Obsidian, i've been thinking about the best way to set this up on the web (in a sandbox). 
-
-Basically... what would be the best agent interface? Designed to be used by you and Claude Code. 
-
-Where you can directly interact with the interface, but so could claude code. You could directly interact with claude code in the chat, or it could run in the background... triggered by external integrations, or you could schedule tasks. 
-
-I think this will be our first MAJOR hackathon. Building an Agentic interface in the cloud... with massive prizes... 
-
-My prediction is that a vibe coder (non dev) will win, but I could be wrong... If this agent hackathon sounds interesting let me know below
-
----
-
-**作者** Jarrod Watts（@jarrodwatts）  
-**貼文連結** https://x.com/jarrodwatts/status/2007035752665034994  
-
-**正文**
-
-Started working on "Claude HUD"
-
-A Claude Code plugin that visualizes:
-· context remaining in the session
-· what tools are executing
-· which subagents are running
-· claude's to-do list progress
-
-If there's enough interest, I'll polish it up and open-source it! 
-Started working on "Claude HUD"
-
-A Claude Code plugin that visualizes:
-· context remaining in the session
-· what tools are executing
-· which subagents are running
-· claude's to-do list progress
-
-If there's enough interest, I'll polish it up and open-source it! 
-It’s live now!
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/2007217136176148737  
-
-**正文**
-
-Boris 的 9 条 Claude Code 实战技巧：原来高手的配置这么“朴素”
-
-Boris Cherny 在 Anthropic 内部有个绰号：Claude Code 之父。他最近在 X 上很活跃，于是很多人问 Boris：你自己到底怎么用 Claude Code？他刚在 X 上分享了 9 条实战技巧。
-
-没有你想象的那么多技巧，每一条都朴实无华。
-
-【1】核心理念：Claude Code 的最佳实践并没有标准答案
-
-Boris 开场就说：
-> My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much.
-> 我的配置可能出乎你意料地“原装”。Claude Code 开箱即用效果就很好，我个人没做太多定制。
-
-也能理解，那些最佳实践，比如 Skills、Plugins，作为 Claude Code 开发者，他们早就把这些最佳实践作为功能内置了。
-
-使用 Claude Code 没有唯一正确的方式。团队故意把它设计成可以随便折腾的样子，你想怎么用、怎么改、怎么魔改都行。Claude Code 团队内部每个人的用法都完全不同。
-
-所以没必要去费力找“最佳实践”，适合自己的节奏最重要。
-
-【2】多 Agent 任务并行：同时开十几个 Claude
-
-Boris 的日常是这样的：终端里开 5 个 Claude Code 实例，标签页编号 1 到 5，开着系统通知，哪个需要输入就跳过去处理。
-
-同时，他还在 http://claude.ai/code 网页版上跑 5 到 10 个任务。终端和网页可以互相“交接”：用&符号把本地会话转到网页，或者用--teleport 在两边来回切换。
-
-他每天早上和白天会从手机 Claude 应用上启动几个任务，晚点再回来看结果。
-
-这种“多线程”工作方式的核心逻辑是：Claude Code 擅长自主执行，很多任务不需要你盯着。你启动任务、给个方向，让它跑着，自己去忙别的。等它需要你确认的时候再切回来。
-
-这跟传统的“人敲一行代码、AI 补几行”完全是两种节奏。但这也对使用者有更高的要求，你需要擅长给 Agent 分配任务，并且能随时在多个任务之间切换。对于习惯了自己开发，同时只有一个任务进行的传统开发模式来说，是个很大挑战。
-
-惭愧的说，虽然我也常用 Coding Agent，还是不习惯太多任务同时运行，今年要加强这方面的练习。
-
-【3】模型选择：为什么用 Opus 而不是更快的 Sonnet
-
-Boris 说他所有任务都用 Opus 4.5 加上 thinking 模式。这是他用过最好的编程模型。
-
-有人会问：Opus 不是比 Sonnet 更大、更慢吗？Boris 的回答是：虽然单次响应慢一点，但你需要纠正它的次数少得多，工具调用也更准确，最终算下来反而更快。
-
-这点其实我一直很认同，写代码这种事不能求快，还是得质量高，如果一个快模型需要你来回纠正三次，不如用个慢模型一次搞定。时间不只是模型响应时间，还有你的注意力和精力成本。
-
-唯一的问题就是 Opus 成本更高。
-
-【4】http://CLAUDE.md：团队共享的“项目记忆”
-
-http://CLAUDE.md 是 Claude Code 的一个特殊配置文件，放在项目根目录。每次启动 Claude Code，它会自动读取这个文件，把里面的内容当作“背景知识”。你可以理解为：这是你给 AI 写的项目说明书，告诉它这个项目的架构、规范、注意事项。
-
-Boris 团队的做法是：整个 Claude Code 仓库共用一个 http://CLAUDE.md，提交到 Git 里，所有人一起维护。每周都有人往里加东西。规则很简单：每次看到 Claude 做错了什么，就把“别这样做”写进去，下次它就知道了。
-
-更有意思的是，他们在代码审查时也会用到这个机制。Boris 会在同事的 PR 里@.claude，让 Claude 把某条新规则加到 http://CLAUDE.md 里。这是通过 Claude Code 的 GitHub Action 实现的。
-
-Dan Shipper 管这种做法叫“复利工程”：每一次纠错都变成团队资产，让 AI 越来越懂你们的项目。
-
-如果你还没用过 http://CLAUDE.md，或者没像他们这样频繁更新规则，强烈建议试试。最简单的起步方式是运行/init 命令，Claude 会自动分析项目结构，生成一个初始版本。然后你边用边补充，看到不对的地方就加进去。
-
-【5】Plan 模式：先想清楚再动手
-
-Boris 说，他大多数会话都从 Plan 模式开始。在 Claude Code 中按两下 Shift+Tab 就能切换。
-
-Plan 模式下，Claude 不会直接改代码，而是先给你一个执行计划。你可以来回讨论、修改计划，直到满意为止。然后切到自动接受模式，Claude 通常能一次性完成。
-
-“好的计划真的很重要”，这个习惯其实是把软件开发的经典智慧搬到了 AI 协作里：先设计再编码。很多人用 AI 写代码的问题是直接开干，结果方向错了返工成本很高。花几分钟对齐计划，能省几小时的返工。
-
-【6】自动化重复工作：斜杠命令和子 Agent
-
-Boris 有几个每天要用几十次的操作，他把它们做成了斜杠命令。比如"/commit-push-pr"，一键完成提交、推送、创建 PR。
-
-斜杠命令本质上是 Markdown 文件，放在.claude/commands/目录下。你可以用自然语言写指令，还能嵌入 bash 脚本预先获取一些信息，减少模型来回调用的次数。这些命令可以提交到 Git，整个团队共享。
-
-除了斜杠命令，他还用子 Agent（https://code.claude.com/docs/en/sub-agents）。子 Agent 是独立的 Claude 实例，专门干某类活。比如他有个 code-simplifier 子 Agent，在主 Claude 完成工作后自动简化代码；还有个 verify-app 子 Agent，专门负责端到端测试。
-
-这两个功能的共同点是：把你反复做的事情固化下来，让 Claude 自己调用。你不用每次都重复解释，也不用记住各种命令细节。
-
-使用 PostToolUse Hook 来格式化 Claude 生成的代码。Claude 通常能自动生成格式良好的代码，而这个 Hook 会处理最后 10% 的代码，以避免后续在持续集成 (CI) 过程中出现格式错误。
-
-【7】安全与集成：权限配置和外部工具
-
-Boris 不用--dangerously-skip-permissions 这个“危险”选项。相反，他用/permissions 命令预先批准一些常用的安全命令，避免每次都弹确认框。这些配置保存在.claude/settings.json 里，团队共享。
-
-更强大的是 MCP 服务器集成。MCP 是 Model Context Protocol 的缩写，是 Anthropic 推出的让 AI 连接外部工具的标准协议。通过 MCP，Claude Code 可以直接：
-
-- 搜索和发送 Slack 消息
-- 跑 BigQuery 查询回答数据问题
-- 从 Sentry 拉错误日志
-
-Boris 团队把 Slack 的 MCP 配置也提交到了仓库，所有人开箱即用。
-
-这意味着 Claude Code 不只是个编程工具，而是能调用你整个工具链的“全能助手”。
-
-【8】长任务处理：让 Claude 自己验证
-
-对于跑很久的任务，Boris 有几个策略：
-
-一是让 Claude 完成后自动用后台 Agent 验证结果。你可以在提示词里要求，也可以用 Stop Hook 更确定性地触发。
-
-> 注：Hooks 是 Claude Code 的"钩子"机制，让你在 Claude 执行操作的特定时刻插入自定义逻辑。你可以把它理解为"触发器"：当某个事件发生时，自动执行你预设的命令或脚本。
-> Stop Hook 就是在 Claude 完成响应、准备交还控制权时。
-> 相关文档：https://code.claude.com/docs/en/hooks
-
-二是用 ralph-wiggum 插件 https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum。这是一个有趣的设计：“Ralph 本质上就是一个 Bash 循环”：想象一个简单的死循环（while true），它不停地把同一个任务说明书（提示词文件）喂给 AI 智能体，让它一遍又一遍地改进工作，直到彻底完成。
-
-三是在沙箱环境里用--permission-mode=dontAsk 或--dangerously-skip-permissions，让 Claude 不被权限确认打断，自己跑到底。
-
-核心思路是：既然是长任务，就别让它等你。给它足够的自主权和自我纠错能力。
-
-【9】最重要的一条：给 Claude 验证能力
-
-Boris 把这条放在最后，说这可能是获得好结果最重要的因素。
-
-如果 Claude 能验证自己的工作，最终产出质量能提升 2 到 3 倍。
-
-他举了个例子：他们提交到 http://claude.ai/code 的每一个改动，Claude 都会用 Chrome 扩展自己测试：打开浏览器、测试 UI、发现问题就迭代，直到功能正常、体验合理。
-
-验证方式因场景而异。可能是跑一个 bash 命令，可能是跑测试套件，可能是在浏览器或手机模拟器里测试应用。形式不重要，重要的是：让 AI 有反馈闘环。
-
-这个道理其实很朴素。人类工程师也是靠“写代码—测试—看结果—修改”这个循环来保证质量的。AI 也一样。如果它只能写不能测，就像闭着眼睛做事，质量全靠运气。
-
-Boris 的建议是：投入精力把验证机制做扎实。这是回报率最高的投资。
-
-【10】高手用剑无招胜有招
-
-武侠小说里面，高手用剑没有那么多花里胡哨的招式，无招胜有招。Boris 没有炫耀复杂的定制配置，没有神秘的私藏提示词，用的就是官方功能。区别在于：他真正理解这些功能背后的逻辑，然后把它们组合成高效的工作流。
-
-并行工作是因为 Claude 能自主执行；用 Opus 是因为综合效率更高；http://CLAUDE.md 是把纠错变成资产；Plan 模式是先想清楚再动手；斜杠命令和子 Agent 是自动化重复劳动；验证机制是给 AI 反馈闭环。
-
-如果你刚开始用 Claude Code，不必急着研究各种高级配置。先把基础用好：学会并行，学会规划，学会积累 http://CLAUDE.md，学会给 AI 验证手段。
-
-等你真正遇到瓶颈了，再去折腾那些花活不迟。
-Boris 的 9 条 Claude Code 实战技巧：原来高手的配置这么“朴素”
-
-Boris Cherny 在 Anthropic 内部有个绰号：Claude Code 之父。他最近在 X 上很活跃，于是很多人问 Boris：你自己到底怎么用 Claude Code？他刚在 X 上分享了 9 条实战技巧。
-
-没有你想象的那么多技巧，每一条都朴实无华。
-
-【1】核心理念：Claude Code 的最佳实践并没有标准答案
-
-Boris 开场就说：
-> My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much.
-> 我的配置可能出乎你意料地“原装”。Claude Code 开箱即用效果就很好，我个人没做太多定制。
-
-也能理解，那些最佳实践，比如 Skills、Plugins，作为 Claude Code 开发者，他们早就把这些最佳实践作为功能内置了。
-
-使用 Claude Code 没有唯一正确的方式。团队故意把它设计成可以随便折腾的样子，你想怎么用、怎么改、怎么魔改都行。Claude Code 团队内部每个人的用法都完全不同。
-
-所以没必要去费力找“最佳实践”，适合自己的节奏最重要。
-
-【2】多 Agent 任务并行：同时开十几个 Claude
-
-Boris 的日常是这样的：终端里开 5 个 Claude Code 实例，标签页编号 1 到 5，开着系统通知，哪个需要输入就跳过去处理。
-
-同时，他还在 http://claude.ai/code 网页版上跑 5 到 10 个任务。终端和网页可以互相“交接”：用&符号把本地会话转到网页，或者用--teleport 在两边来回切换。
-
-他每天早上和白天会从手机 Claude 应用上启动几个任务，晚点再回来看结果。
-
-这种“多线程”工作方式的核心逻辑是：Claude Code 擅长自主执行，很多任务不需要你盯着。你启动任务、给个方向，让它跑着，自己去忙别的。等它需要你确认的时候再切回来。
-
-这跟传统的“人敲一行代码、AI 补几行”完全是两种节奏。但这也对使用者有更高的要求，你需要擅长给 Agent 分配任务，并且能随时在多个任务之间切换。对于习惯了自己开发，同时只有一个任务进行的传统开发模式来说，是个很大挑战。
-
-惭愧的说，虽然我也常用 Coding Agent，还是不习惯太多任务同时运行，今年要加强这方面的练习。
-
-【3】模型选择：为什么用 Opus 而不是更快的 Sonnet
-
-Boris 说他所有任务都用 Opus 4.5 加上 thinking 模式。这是他用过最好的编程模型。
-
-有人会问：Opus 不是比 Sonnet 更大、更慢吗？Boris 的回答是：虽然单次响应慢一点，但你需要纠正它的次数少得多，工具调用也更准确，最终算下来反而更快。
-
-这点其实我一直很认同，写代码这种事不能求快，还是得质量高，如果一个快模型需要你来回纠正三次，不如用个慢模型一次搞定。时间不只是模型响应时间，还有你的注意力和精力成本。
-
-唯一的问题就是 Opus 成本更高。
-
-【4】http://CLAUDE.md：团队共享的“项目记忆”
-
-http://CLAUDE.md 是 Claude Code 的一个特殊配置文件，放在项目根目录。每次启动 Claude Code，它会自动读取这个文件，把里面的内容当作“背景知识”。你可以理解为：这是你给 AI 写的项目说明书，告诉它这个项目的架构、规范、注意事项。
-
-Boris 团队的做法是：整个 Claude Code 仓库共用一个 http://CLAUDE.md，提交到 Git 里，所有人一起维护。每周都有人往里加东西。规则很简单：每次看到 Claude 做错了什么，就把“别这样做”写进去，下次它就知道了。
-
-更有意思的是，他们在代码审查时也会用到这个机制。Boris 会在同事的 PR 里@.claude，让 Claude 把某条新规则加到 http://CLAUDE.md 里。这是通过 Claude Code 的 GitHub Action 实现的。
-
-Dan Shipper 管这种做法叫“复利工程”：每一次纠错都变成团队资产，让 AI 越来越懂你们的项目。
-
-如果你还没用过 http://CLAUDE.md，或者没像他们这样频繁更新规则，强烈建议试试。最简单的起步方式是运行/init 命令，Claude 会自动分析项目结构，生成一个初始版本。然后你边用边补充，看到不对的地方就加进去。
-
-【5】Plan 模式：先想清楚再动手
-
-Boris 说，他大多数会话都从 Plan 模式开始。在 Claude Code 中按两下 Shift+Tab 就能切换。
-
-Plan 模式下，Claude 不会直接改代码，而是先给你一个执行计划。你可以来回讨论、修改计划，直到满意为止。然后切到自动接受模式，Claude 通常能一次性完成。
-
-“好的计划真的很重要”，这个习惯其实是把软件开发的经典智慧搬到了 AI 协作里：先设计再编码。很多人用 AI 写代码的问题是直接开干，结果方向错了返工成本很高。花几分钟对齐计划，能省几小时的返工。
-
-【6】自动化重复工作：斜杠命令和子 Agent
-
-Boris 有几个每天要用几十次的操作，他把它们做成了斜杠命令。比如"/commit-push-pr"，一键完成提交、推送、创建 PR。
-
-斜杠命令本质上是 Markdown 文件，放在.claude/commands/目录下。你可以用自然语言写指令，还能嵌入 bash 脚本预先获取一些信息，减少模型来回调用的次数。这些命令可以提交到 Git，整个团队共享。
-
-除了斜杠命令，他还用子 Agent（https://code.claude.com/docs/en/sub-agents）。子 Agent 是独立的 Claude 实例，专门干某类活。比如他有个 code-simplifier 子 Agent，在主 Claude 完成工作后自动简化代码；还有个 verify-app 子 Agent，专门负责端到端测试。
-
-这两个功能的共同点是：把你反复做的事情固化下来，让 Claude 自己调用。你不用每次都重复解释，也不用记住各种命令细节。
-
-使用 PostToolUse Hook 来格式化 Claude 生成的代码。Claude 通常能自动生成格式良好的代码，而这个 Hook 会处理最后 10% 的代码，以避免后续在持续集成 (CI) 过程中出现格式错误。
-
-【7】安全与集成：权限配置和外部工具
-
-Boris 不用--dangerously-skip-permissions 这个“危险”选项。相反，他用/permissions 命令预先批准一些常用的安全命令，避免每次都弹确认框。这些配置保存在.claude/settings.json 里，团队共享。
-
-更强大的是 MCP 服务器集成。MCP 是 Model Context Protocol 的缩写，是 Anthropic 推出的让 AI 连接外部工具的标准协议。通过 MCP，Claude Code 可以直接：
-
-- 搜索和发送 Slack 消息
-- 跑 BigQuery 查询回答数据问题
-- 从 Sentry 拉错误日志
-
-Boris 团队把 Slack 的 MCP 配置也提交到了仓库，所有人开箱即用。
-
-这意味着 Claude Code 不只是个编程工具，而是能调用你整个工具链的“全能助手”。
-
-【8】长任务处理：让 Claude 自己验证
-
-对于跑很久的任务，Boris 有几个策略：
-
-一是让 Claude 完成后自动用后台 Agent 验证结果。你可以在提示词里要求，也可以用 Stop Hook 更确定性地触发。
-
-> 注：Hooks 是 Claude Code 的"钩子"机制，让你在 Claude 执行操作的特定时刻插入自定义逻辑。你可以把它理解为"触发器"：当某个事件发生时，自动执行你预设的命令或脚本。
-> Stop Hook 就是在 Claude 完成响应、准备交还控制权时。
-> 相关文档：https://code.claude.com/docs/en/hooks
-
-二是用 ralph-wiggum 插件 https://github.com/anthropics/claude-plugins-official/tree/main/plugins/ralph-wiggum。这是一个有趣的设计：“Ralph 本质上就是一个 Bash 循环”：想象一个简单的死循环（while true），它不停地把同一个任务说明书（提示词文件）喂给 AI 智能体，让它一遍又一遍地改进工作，直到彻底完成。
-
-三是在沙箱环境里用--permission-mode=dontAsk 或--dangerously-skip-permissions，让 Claude 不被权限确认打断，自己跑到底。
-
-核心思路是：既然是长任务，就别让它等你。给它足够的自主权和自我纠错能力。
-
-【9】最重要的一条：给 Claude 验证能力
-
-Boris 把这条放在最后，说这可能是获得好结果最重要的因素。
-
-如果 Claude 能验证自己的工作，最终产出质量能提升 2 到 3 倍。
-
-他举了个例子：他们提交到 http://claude.ai/code 的每一个改动，Claude 都会用 Chrome 扩展自己测试：打开浏览器、测试 UI、发现问题就迭代，直到功能正常、体验合理。
-
-验证方式因场景而异。可能是跑一个 bash 命令，可能是跑测试套件，可能是在浏览器或手机模拟器里测试应用。形式不重要，重要的是：让 AI 有反馈闘环。
-
-这个道理其实很朴素。人类工程师也是靠“写代码—测试—看结果—修改”这个循环来保证质量的。AI 也一样。如果它只能写不能测，就像闭着眼睛做事，质量全靠运气。
-
-Boris 的建议是：投入精力把验证机制做扎实。这是回报率最高的投资。
-
-【10】高手用剑无招胜有招
-
-武侠小说里面，高手用剑没有那么多花里胡哨的招式，无招胜有招。Boris 没有炫耀复杂的定制配置，没有神秘的私藏提示词，用的就是官方功能。区别在于：他真正理解这些功能背后的逻辑，然后把它们组合成高效的工作流。
-
-并行工作是因为 Claude 能自主执行；用 Opus 是因为综合效率更高；http://CLAUDE.md 是把纠错变成资产；Plan 模式是先想清楚再动手；斜杠命令和子 Agent 是自动化重复劳动；验证机制是给 AI 反馈闭环。
-
-如果你刚开始用 Claude Code，不必急着研究各种高级配置。先把基础用好：学会并行，学会规划，学会积累 http://CLAUDE.md，学会给 AI 验证手段。
-
-等你真正遇到瓶颈了，再去折腾那些花活不迟。
-Ralph Wiggum 插件：让 Claude Code “通宵干活”
-https://x.com/dotey/status/2007197068394164613
-一个成熟项目，会有很多小bug要修，这些任务开一堆 agent 后台慢慢修是最好的
-
-另外每个agent可以单独的git worktree，完成后提pr，并不会相互影响
-
-新功能开发小一点的也可以，大的还是得先花时间设计，这个省不了
-https://x.com/SGodofa425/status/2007230803466703304?s=20
-【10】 那些你看不见的东西
-
-Boris 有一点没提的就是基础的 源代码管理/ CI（持续集成） / 代码审查 workflow，这些事情可能对他们大厂做习惯了的来说是平常，默认就应该有的事情
-
-比如说当他用 Claude Code 完成一个任务，不会说直接合并到主分支，而是提交一个 PR。
-
-提交 PR 后，在 CI 服务器上会自动跑所有的 lint 和自动化测试，如果测试失败 PR 是无法合并的。
-
-一个 PR 通过了所有的自动化测试，还需要有人去做代码审查（当然可以 AI 辅助，但还是需要人确认），如果代码审查发现问题，是需要继续修改的。
-
-这些也是他们能多任务并行的基础，如果没有做好这些基础工作流，就无法做到多任务并行。
-
-对于很多个人开发者并没有习惯去搭建一个 CI/代码审查的 工作流，甚至连 Git 代码管理都没有做，出问题都没法回滚。
-
----
-
-**作者** ashu garg（@ashugarg）  
-**貼文連結** https://x.com/ashugarg/status/2007163239130452409  
-
-**正文**
-
-Every org chart tells you where the next systems of record will emerge.
-
-Look for the roles that exist because software failed.
-
-RevOps exists because someone has to reconcile sales, finance, marketing, and customer success. DevOps exists because someone has to bridge development, IT, and support. Security Ops sits between IT, engineering, and compliance.
-
-These "glue" functions are a tell. They emerge because no single system owns the cross-functional workflow. The org chart creates a role to carry the context that software doesn't capture.
-
-An agent that automates that role doesn't just run steps faster. It can persist the decisions, exceptions, and precedents the role was created to produce.
-
-@PalantirTech built what’s now a $400B+ company on prescribed ontologies: define the schema, then map messy enterprise data into it.
-
-The next $400B+ company will be built on learned ontologies. This is what @JayaGup10 and I mean by “context graphs”: not graph databases or structured memory, but living records of how decisions get made, learned bottom-up from how the work actually happens.  
-
-cc @akoratana @playerzero_ai
-Every org chart tells you where the next systems of record will emerge.
-
-Look for the roles that exist because software failed.
-
-RevOps exists because someone has to reconcile sales, finance, marketing, and customer success. DevOps exists because someone has to bridge development, IT, and support. Security Ops sits between IT, engineering, and compliance.
-
-These "glue" functions are a tell. They emerge because no single system owns the cross-functional workflow. The org chart creates a role to carry the context that software doesn't capture.
-
-An agent that automates that role doesn't just run steps faster. It can persist the decisions, exceptions, and precedents the role was created to produce.
-
-@PalantirTech built what’s now a $400B+ company on prescribed ontologies: define the schema, then map messy enterprise data into it.
-
-The next $400B+ company will be built on learned ontologies. This is what @JayaGup10 and I mean by “context graphs”: not graph databases or structured memory, but living records of how decisions get made, learned bottom-up from how the work actually happens.  
-
-cc @akoratana @playerzero_ai
-Full p.o.v. here: https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/
-
----
-
-**作者** vas（@vasuman）  
-**貼文連結** https://x.com/vasuman/status/2007295213363134516  
-
-**正文**
-
-Biggest agents advice I can give:
-
-The space moves so fast that if you marry your agent to any tech stack, there's a chance it's obsolete in 30 days.
-
-Build modular. Not just swapping API endpoints, your entire framework needs to be editable with continuous evals and regression tests so every change is measured and reversible.
-
-Memory, orchestration, tool-calling, all of it is being productized. If you spent 2 months building custom memory architecture from the ground up, you probably wasted your time. Your time is better spent building on top of productized services. 
-
-Modular = swap in the new industry standard on demand (or make the migration as painless as possible, because nothing is ever that easy in software).
-
-TLDR: Staying on top of the best frameworks is a full-time job. That's why I have a CTO @eyad_khrais who's barely on X.
-
----
-
-**作者** Yash Daftary（@YDaftary）  
-**貼文連結** https://x.com/YDaftary/status/2007105408112955532  
-
-**正文**
-
-We went from $1M to $500M+ in three years.
-
-My first employee took a $110K pay cut to work here. $150K/year salary down to $40K plus equity.
-
-Our Chief Product Officer worked for free for two years.
-
-Neither did it for money. They did it because they believed in the vision.
-
-A small team of believers beats a large team of people collecting paychecks. 
-
-We pitched over 300 VCs. Got over 300 no's.
-
-Then we got traction, then we got profitable.
-
-Raised $20M while we'd been cash-positive for 18 months. Now VCs compete to lead our next round.
-
-Fundraise from strength. Not desperation.
-
-Work-life balance is a luxury you earn after you've built something massive.
-
-Every friend I have is either a client or will eventually become one.
-
-Business gets integrated into everything.
-
-You can separate work and life once you've built something that matters. Not before.
-
-Small vision attracts small people.
-
-Big vision attracts the kind of builders who want to create something that actually changes an industry.
-
-If you're not excited about where this could go, nobody else will be either.
-
----
-
-**作者** GREG ISENBERG（@gregisenberg）  
-**貼文連結** https://x.com/gregisenberg/status/2007196254078480663  
-
-**正文**
-
-HOW TO BUILD A BIG CONSUMER B2C MOBILE APP IN 2026
-
-1. start with a single recurring behavior people already document, like meals, sleep, workouts, studying, dating, or routines. 
-
-2. anchor the app to one question users already ask themselves daily, like “am I doing this right?”
-
-3. narrow it to one audience, like college students tracking meals, busy parents tracking sleep, or single people tracking dates.
-
-4. design the product so the core value appears visually in under five seconds
-
-5. build the demo before the full product and let the demo define the feature set
-
-6. keep videos between 20–40 seconds so curiosity builds without dragging
-
-7. default to faceless formats like screen recordings, slideshows, or b-roll with captions (easier to do, can do founder led if that's your thing too)
-
-8. create multiple hooks around the same demo instead of multiple demos.
-
-9. use comparison formats like before/after, expectation vs reality, or me vs me
-
-10. write hooks the way people text friends: short, casual, and specific
-
-11. treat pauses, rewatches, and saves as the strongest signals of interest (this is v important)
-
-12. read comments as public product research that reveals confusion, desire, and identity
-
-13. paste comments into Claude Code and cluster them into concrete product changes
-
-14. use AI inside the app to interpret inputs and surface one clear answer.
-
-15. add a short onboarding quiz so users feel the output is made for them
-
-16. deliver a result worth screenshotting within the first session. add CTAs to share. track the % of people who share and iterate to increase this.
-
-17. place the paywall immediately after the first moment of clarity
-
-18. ship small visible improvements weekly so users feel momentum
-
-19. iterate in public so content doubles as changelog and proof
-
-20. measure virality through shares and installs per view, not follower count
-
-21. design outputs users want to send to friends without explanation
-
-22. own multiple posting accounts early to test hooks in parallel (and to own a network of accounts kinda like your modern day media network)
-
-23. give each account one format, one hook style, and one audience segment
-
-24. scale formats that produce consistent installs instead of chasing one-off spikes
-
-25. turn early power users into creators by resharing their posts
-
-26. use slideshows as mini case studies that encourage rewatches and saves
-
-27. build lightweight community loops like streaks, challenges, or progress updates. could be premium features too but start free.
-
-28. keep the product NARROW so clarity stays high and competition stays thin
-
-29. convert organic installs into profit early so growth funds itself
-
-30. reinvest cash flow into more creators, more accounts, and faster iteration. Understand LTV/CAC extremely well, certain creators will make sense/others not so much. Use AI for outeach.
-
-31. Build a portfolio of small apps once the loop works so dividends compound quietly. find more app ideas at @ideabrowser to get creative juices flowing
-
-32. congrats, you’ve learned the most valuable skill in 2026...shipping small apps fast, reading the internet’s signals, and compounding what works. 
-
-33. you set yourself up nicely for 2027 and beyond
-
----
-
-**作者** Sharran Srivatsaa（@sharran）  
-**貼文連結** https://x.com/sharran/status/2006791320996819300  
-
-**正文**
-
-26 predictions for 2026:
-
-1. Gemini will be the most used AI model because it’s baked into Google and people will use whatever shows up by default.
-
-2. Substack will become the YouTube of writing, where a small group of writers get most of the attention.
-
-3. LinkedIn will be full of AI slop, which will make real human writing way easier to spot.
-
-4. Hyper-local creators will become mini celebrities in their cities and drive real business locally.
-
-5. Facebook’s organic reach will be wildly underpriced compared to every other social platform.
-
-6. Meta’s AI glasses will start going mainstream because they don’t ask people to change how they live. Even my wife has one.
-
-7. YouTube will be the number one place for views, brand building, and growing a business.
-
-8. Amazon will keep winning retail because people say they want Etsy but click Amazon when it’s time to buy.
-
-9. Zillow will fight the entire real estate industry to assert its dominance and own more of the home buying and selling process.
-
-10. Email will beat paid social ads for most small and mid-size businesses.
-
-11. Direct mail will grow again as a marketing channel because email inboxes are full and physical mailboxes are mostly empty.
-
-12. PDFs will stop working as lead magnets and get replaced by free tools and simple apps.
-
-13. Investors will stop caring about boring 15-slide pitch decks and pay more attention to live demos and real working products.
-
-14. Small niche creators will build tools and apps because they have distribution, but most will never get SaaS-level valuations.
-
-15. AI that brings in customers and revenue will beat AI that saves time and costs for small and medium businesses.
-
-16, Platforms like Coinbase, DraftKings, FanDuel, and prediction markets will grow in 2026 even as most users lose money.
-
-17. More people will put new money into index funds than into buying homes in 2026.
-
-18. Bitcoin will be owned by fewer people, but those people will own a lot more of it.
-
-19. Private credit will be the biggest winner among boring asset classes and will attract retail investors who have never had access before.
-
-20. When SpaceX goes public, it will make people remember why they liked investing in the first place.
-
-21. Tesla will keep dominating while Elon Musk becomes so rich that even people who hate him will have to admit he won.
-
-22. Avengers: Doomsday and The Odyssey will carry the box office and make the business of Hollywood look healthier than it really is.
-
-23. Interest rates will come down a bit, but borrowing money will still feel expensive.
-
-24. Lawyers will stay busy cleaning up dumb mistakes AI puts into contracts.
-
-25. People will watch phone-style content on their TVs while using their phones as a second screen.
-
-26. Comedy creators will dominate watch time because they give people a quick break from being online and overwhelmed all day.
-
----
-
-**作者** Stacy Muur（@stacy_muur）  
-**貼文連結** https://x.com/stacy_muur/status/2007007813965677009  
-
-**正文**
-
-## 1. Payments, Stablecoins, and the Reinvention of Financial Rails
-
-Thesis: Stablecoins become the settlement layer for the internet, not just crypto.
-
-The stablecoin story has already crossed its proof-of-concept phase. At tens of trillions in annualized volume, the question is no longer whether stablecoins work, but whether they can interface cleanly with the real financial world.
-
-a16z’s framing is important here: stablecoins are not just money; they are a ledger upgrade. Banks and fintechs don’t need to rewrite decades of legacy software if stablecoins can sit alongside existing systems, offering real-time settlement, programmability, and global reach. This shifts the value capture away from issuing stablecoins and toward distribution, compliance, and integration.
-
-What Wins in 2026
-
-- Embedded payments.
-- Card issuance (crypto neobanks) and wallets.
-- Bank-grade compliance + APIs.
-- Global, programmable settlement.
-
-Watchlist
-
-- @circle - (USDC): Regulatory legitimacy + distribution + liquidity dominance. Watch for:  Payments APIs, bank integrations, agent-to-agent usage.
-- @m0foundation: Zero-fee USDC issuance over modular infra. Watch for: L2-native minting, stateless agents, browser-level stablecoin UX.
-- @ether\_fi: Top neobank contender for 2026; offers yields via tokenized treasuries, cashback, and seamless payments; bridges crypto/fiat growth.
-- @plasma: marketed as the first neobank built entirely around stablecoins, targeting users globally (especially in emerging markets) who rely on dollar-backed stablecoins for everyday finance.
-- @stablecoin (Bridge) | @stripe Integration: On/offramp infrastructure that abstracts crypto away for apps. Watch for Regional payment rail integrations
-- x402 ecosystem: Watch for the advancement of programmable payments for and by agents via Native HTTP-level settlement.
-
-## 2. RWA Origination, Not Just Tokenization
-
-Thesis: Tokenization alone is insufficient. To unlock real efficiency gains, origination must move onchain.
-
-The first wave of real-world asset adoption focused on tokenizing existing off-chain instruments: loans, treasuries, and credit products; and distributing them to crypto users. While this improved accessibility, it largely preserved the same legacy inefficiencies: opaque underwriting, high servicing costs, slow settlement, and fragmented liquidity. Tokenization, in many cases, became a new wrapper around an old process.
-
-a16z’s core insight is that crypto’s real advantage lies not in mirroring TradFi structures, but in re-architecting credit at the point of origination. When loans are originated onchain, underwriting logic becomes programmable, servicing costs fall dramatically, and risk can be priced and monitored in real time. This is where crypto stops being a distribution channel and starts becoming financial infrastructure.
-
-What wins in 2026
-
-- Onchain underwriting
-- Transparent risk pricing
-- Compliance-compatible credit rails
-- Deep liquidity (often via perps)
-
-Watchlist
-
-- @centrifuge: Onchain credit rails for real-world assets; watch for institutional deal flow and default performance.
-- @blackrock (BUIDL) – Tokenized money market fund on Ethereum; watch flows into tokenized treasuries and TradFi adoption pace.
-- @maplefinance: Institutional lending with underwriter governance; watch credit line expansion and net yield vs default risk.
-- @plumenetwork: Composable credit infra for programmable debt; watch for custom underwriting logic and DAO use cases.
-- @pendle\_fi: Yield stripping for tokenized income; watch RWA PT/YT adoption across treasuries and private credit.
-- @OndoFinance: Tokenized treasuries and credit funds; watch for compliant USDC-to-RWA pipelines and L2 expansion.
-- @backedfi – Regulated token wrappers for ETFs and bonds; watch for DeFi-native compliance rails.
-
-## 3. The Internet Becomes the Bank (Agents & Payments)
-
-Thesis: As AI agents begin to transact autonomously, payments can no longer be an external system bolted onto applications. They must be native to the internet itself: instant, programmable, and fully automated.
-
-The key shift is from user-driven execution to intent-driven execution. Agents do not click buttons or approve invoices; they recognize conditions, fulfill obligations, and trigger actions on their own. In that world, traditional payment flows (invoicing, batching, reconciliation, settlement windows) become structural bottlenecks rather than operational details.
-
-Blockchains introduce a different model. Smart contracts already enable global, final settlement in seconds. Emerging primitives push this further by making value transfer reactive and composable: agents can pay other agents for data, compute, or services the moment a task is completed, with rules embedded directly in code rather than enforced through intermediaries. Money stops being a separate operational layer and starts behaving like network traffic, something the internet can route natively.
-
-What wins in 2026
-
-- Agent-native identity
-- Programmatic payment rails
-- No human-in-the-loop UX
-
-Watchlist
-
-- @catena\_labs: Identity and compliance infra for AI agents; anchors Know-Your-Agent (KYA) standards. Watch for: Agent onboarding, enterprise-grade integrations.
-- @nevermined\_ai: Data marketplace infra for autonomous agents; enables permissioned agent-to-agent payments for access, compute, and services. Watch for: Enforceable data licensing, agent monetization flows.
-- @GoKiteAI: AI-native agents with embedded payments and real-world task completion.
-- Watch for: Intent-based automation, real economic throughput.
-- @ASI\_Alliance: Open ASI + blockchain convergence layer; cross-agent collaboration and compute monetization. Watch for: Agent settlement standards, autonomous service economies.
-- @eigencloud via EigenAI: Deterministic AI agents for decentralized strategy execution and autonomous protocol operations. Watch for: Intent-driven finance, composable economic agency.
-- @fetch\_ai: Multi-agent coordination protocols enabling decentralized compute + services. Watch for: On-chain task execution, measurable agent GDP.
-- x402 implementations: Agent settlement, protocol-level payments, agent-to-agent commerce.
-
-## 4. Privacy as the Primary Moat
-
-Thesis: Privacy creates lock-in. Public chains commoditize.
-
-The core insight in a16z’s privacy thesis is simple: blockspace has become interchangeable, but secrecy has not. Performance, fees, and throughput are no longer durable differentiators. If everything is public, users can migrate freely, liquidity can bridge instantly, and applications compete in a zero-margin environment. Privacy breaks this symmetry.
-
-The moment users, institutions, or applications commit sensitive state balances, strategies, counterparties, identities, and metadata to a privacy-preserving environment, switching costs emerge organically. This creates a privacy network effect: the more activity occurs inside a private domain, the more valuable it becomes to remain inside it, and the riskier it becomes to leave due to information leakage at the boundary.
-
-What wins in 2026
-
-- Private execution environments
-- ZK-based data access controls
-- Privacy by default, not as an add-on
-
-Watchlist
-
-- @aztecnetwork: Private smart contracts + ZK-native rollup. Watch for: Developer traction, private DeFi primitives.
-- @nillion: Decentralized MPC for private compute; institutional data custody use cases signal breakout.
-- @arcium: Confidential compute layer in Solana’s stack; watch performance scaling and Solana-native integrations.
-- @aleophq: ZK cloud compute platform with native credits; enterprise zkCloud usage is the north star.
-- @WalrusProtocol and Seal: key components of the Sui stack enabling fully on-chain data and privacy.
-- @payy\_link: Privacy-preserving wallet for stablecoins, it combines cryptographic privacy with practical usability, enabling anyone to send and receive stablecoins like $USDC with no gas fees, full privacy, and optional compliance.
-- @zcash: Shielded transfers via ZK-SNARKs; Halo 2 rollout and programmable privacy expansion are pivotal.
-- @monero: Default-private L1 with ring signatures; robustness under surveillance pressure remains its core moat.
-
-## 5. Security: From “Code Is Law” to “Spec Is Law”
-
-Thesis: Audits are insufficient. Runtime enforcement becomes standard. 
-
-The last two years have made one thing unambiguous: audits do not fail because auditors are incompetent; they fail because audits are static, local, and fundamentally incomplete representations of dynamic systems. Protocols today operate in adversarial environments shaped by MEV, composability, oracle latency, and incentive-driven edge cases that only emerge after deployment, often under extreme market conditions.
-
-The conclusion a16z draws, one that the industry is now converging on, is that security must move up a layer: from checking whether code looks correct to enforcing whether system-wide invariants should ever be allowed to break. This is the shift from “code is law” to “spec is law,” where protocols formally define what must always hold true (collateralization bounds, conservation of value, solvency conditions, sequencing constraints) and enforce those properties continuously, not just at deploy time.
-
-What wins in 2026
-
-- Runtime guardrails
-- Formal specifications
-- AI-assisted verification
-- Continuous monitoring
-
-Watchlist
-
-- @OpenZeppelin: Runtime rule enforcement and upgrade safety platform with deep protocol integrations.
-- @trailofbits: Advanced security research firm moving toward real-time invariant enforcement via instrumentation.
-- @spearbitDAO: Research-driven auditing collective launching continuous audit pipelines (vs. static snapshots).
-- @cyfrin: Smart contract security firm building educational pipelines and formal-first tooling; growing influence in modular L2 ecosystems.
-- @immunefi: a unified onchain platform for bug bounties, audits, and AI-driven threat detection to safeguard crypto projects from exploits.
-- Runtime monitoring startups
-
-## 6. Prediction Markets at Scale
-
-Thesis: Prediction markets evolve from niche betting venues into real-time information infrastructure for the internet.
-
-The core shift a16z is pointing to is not simply “more markets” or higher volume, but a structural reframing of what prediction markets are. As blockspace cheapens, oracles improve, and UX friction collapses, markets stop being episodic events tied to elections or sports and start functioning as continuous signal-extraction layers. Everything becomes listable: macro data releases, protocol upgrades, regulatory votes, corporate actions, and even probabilistic outcomes of long-tail events.
-
-Liquidity fragments across thousands of micro-markets, but price discovery improves because information is no longer bottlenecked by polling, surveys, or centralized analysts.
-
-What wins in 2026
-
-- Prediction markets with the ability to list everything.
-- AI agents trading continuously.
-- Decentralized and probabilistic resolution.
-
-Watchlist
-
-- @Polymarket: Leading decentralized prediction platform on Polygon; $1B+ monthly volume and dominant crypto mindshare.
-- @kalshi: CFTC-regulated U.S. exchange; $1.3B+ monthly volume and top app downloads in legal markets.
-- @FractionAI\_xyz: Highlighted as the first AI Agent Prediction Market, where agents compete with live portfolios in a transparent on-chain environment.
-- @opinionlabsxyz: High-growth event exchange with $700M+ monthly notional and breakout traction in crypto-native betting.
-- @MyriadMarkets: Decentralized event market infra; $10M+ volumes and active onchain betting across niches.
-
-## 7. zkVMs & Verifiable Compute
-
-Thesis: Proofs leave blockchains and enter the cloud.
-
-The core inflection a16z is pointing to is not that zero-knowledge proofs are getting marginally faster, but that zkVMs are crossing the threshold where proving general-purpose computation is no longer an exotic, blockchain-only luxury but a viable systems primitive, driven by a collapse in proving overhead (from ~1,000,000× to ~10,000×), GPU-native provers, and memory footprints that fit real production environments, which together unlock a regime where ordinary CPU workloads (cloud jobs, backend services, financial models, ML inference, legacy enterprise code) can be executed once and then verified everywhere, turning trust assumptions about cloud providers, data pipelines, and offchain execution into cryptographic guarantees rather than contractual promises, and enabling a world where correctness, not reputation, becomes the default security model for distributed systems.
-
-Watchlist
-
-- @RiscZero: zkVM with general-purpose Rust compute; credible lead in cloud-compatible proving.
-- @SuccinctLabs: SP1 zkVM (RISC-V/LLVM-based) for arbitrary Rust/LLVM code; focuses on fast verification, light clients, and off-chain data feeds with GPU-native proving (e.g., real-time on 16 GPUs), precompiles for efficiency, and recursion for on-chain/off-chain use.
-- @brevis\_zk: zk coprocessor for querying on/offchain data; designed for modular proof generation inside apps.
-- @axiom\_xyz: ZK coprocessor for verifiable compute over on-chain/off-chain data; enables arbitrary expressive computations (e.g., historical queries) off-chain with ZK proofs verified on-chain.
-- ZKML Stack Implementations: Frameworks (e.g., ZKML, DSperse, JSTprove) for verifiable ML inference via ZK proofs/SNARKs; optimize circuits for production ML workloads (e.g., GPT-2, neural nets) with reduced overhead (up to 5-22x faster proving/verification).
-
-## 8. Wealth Management Goes Onchain
-
-Thesis: Active, personalized wealth management becomes universal.
-
-As assets become natively tokenized spanning yield-bearing cash, public equities, private credit, and illiquid alternatives, the act of rebalancing stops being an event and becomes a continuous process, executed by smart contracts that respond to real-time changes in rates, volatility, and risk premia rather than quarterly meetings or advisor workflows. 
-
-AI-assisted allocation engines increasingly function as co-pilots, translating user constraints into executable strategies, while DeFi primitives like automated vaults, tranche-based yield products, and permissioned RWA pools provide the mechanical depth to express those strategies without sacrificing compliance or capital efficiency. The result is not “robo-advising,” but programmable wealth, where portfolios self-adjust across the risk curve rotating from tokenized T-bills to credit, from beta to carry, from liquid to illiquid with settlement, custody, and reporting abstracted away.
-
-What wins
-
-- Automated rebalancing
-- Yield-bearing cash
-- Tokenized private markets
-
-Watchlist
-
-- @veda\_labs: Modular vault infra powering real-time, strategy-based rebalancing across yield primitives; strong thesis fit.
-- @upshift\_fi: Permissioned vault platform with risk-monitored strategies and KYC’d access; partial alignment for compliant RWA access.
-- @midasrwa: Tokenized T-bills and BTC yield strategies with onchain proof-of-reserve; strong fit for compliant, programmable cash flow.
-- @base: Coinbase's L2 Base App integrating wallet, trading, social feeds, mini-apps, and onchain yields (e.g., USDC APY); enables seamless, abstracted wealth management through one-click DeFi and RWA access.
-- @morpho: Non-custodial lending vaults with auto-rebalancing between P2P and pooled markets; aligns with programmable credit allocation and real-time yield optimization.
-- @Infinit\_Labs: AI-powered superapp with agentic strategies for one-click automated yields, delta-neutral positions, cross-chain bridging/swapping, and RWA-compatible optimization; fits programmable portfolios via multi-agent coordination for self-adjusting wealth.
-
-## Are you ready for 2026?
-
-Make sure to give me a follow. There's a ton of great things I have on the pipeline.
-
-[Follow on X](<https://x.com/stacy_muur>)  |  [Join Telegram community](<https://t.me/muur_posts>)  |  [Subscribe to newsletter](<https://stacymuur.substack.com>)
-
----
-
-**作者** Hewar（@hewarsaber）  
-**貼文連結** https://x.com/hewarsaber/status/2006747506311397413  
-
-**正文**
-
-Anatomy of a $4,875 Landing Page
-
-(Bookmark it) 
-Anatomy of a $4,875 Landing Page
-
-(Bookmark it) 
-Need a website?
-https://konvert.design/
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2007078021875085535  
-
-**正文**
-
-现在 vibe Coding 一个产品的成本就是这么低！
-
-一下午写了一个可以实现上午说的马伯庸和卡帕西的日记的产品 Vibe Diary
-
-支持 AI 分析生成标签、判断 Todo 和稍后读的意图分类
-
-支持导出单个 Markdown 文档的所有日记，方便跟顶级 AI 交互
-
-支持 PWA 应用，手机上使用体验也很好，目前需要邀请码 
-
----
-
-**作者** vas（@vasuman）  
-**貼文連結** https://x.com/vasuman/status/2007069473514414552  
-
-**正文**
-
-AI newsletter: http://varickagents.com/newsletter
-Claude Code works because it's the frontier of LLM intelligence with complete access to your computer that can spin off a 100 subagents to solve for a single prompt.
-
-Use it like you would a mini-you/employee that lives inside your computer and can do anything. Literally ask it anything.
-
-I know that sounds stupid but I'm saying it this way because everyone still considers Claude Code as a Cursor competitor. It is that but also something more. 
-
-If you have not been using Claude Code because you are satisfied with Cursor - that's fine. Use Claude Code for something else.
-AI newsletter: http://varickagents.com/newsletter
-
----
-
-**作者** vas（@vasuman）  
-**貼文連結** https://x.com/vasuman/status/2006934256552223016  
-
-**正文**
-
-We started Varick Agents 4 months ago. We're at $3M ARR and are saving our clients over $20M annually through AI Agents.
-
-In 2026, we're taking that to $30M ARR and $200M in client savings.
-
-We're not building AI SaaS, we're transforming entire departments, entire companies, with AI. 
-
-If you want to see what we can do for yours, schedule an AI Forensic Audit at http://varickagents.com.
-
-Back to work.
-We started Varick Agents 4 months ago. We're at $3M ARR and are saving our clients over $20M annually through AI Agents.
-
-In 2026, we're taking that to $30M ARR and $200M in client savings.
-
-We're not building AI SaaS, we're transforming entire departments, entire companies, with AI. 
-
-If you want to see what we can do for yours, schedule an AI Forensic Audit at http://varickagents.com.
-
-Back to work.
-Going to be posting from our company account with case studies, AI tips/tricks, and playbooks you can follow for free. 
-
-@varickai
-
----
-
-**作者** vas（@vasuman）  
-**貼文連結** https://x.com/vasuman/status/1963358362675863934  
-
-**正文**
-
-After an incredible 3 years as a Software Engineer at Meta, I've made the decision to leave and start my own venture: Varick Agents, an AI Agency that builds robust and accurate AI Agents for enterprise. We've already delivered some incredible results for our early clients, and case studies are coming soon that showcase the cost savings and efficiency gains possible in today's market.
-
-The appetite for AI Agents in the office has been immense, but the platforms that exist today demand too much technical expertise from companies. For businesses with top-tier AI-trained engineers, this isn't a problem. But the average company lacks engineers with deep exposure to frontier AI technology. Which LLMs are best-suited for which tasks? How do you prompt AI effectively? How do you handle seamless handoffs between different models? These are all absolutely essential parts of building AI Agents that can actually save businesses time and money.
-
-That's where Varick Agents comes in. We're a team of AI experts: engineers from big tech who live and breathe the latest AI developments. We have a proven track record of building robust, enterprise-ready AI Agents that augment your employees' workflows, dramatically reducing task-completion time while integrating with your existing stack instead of forcing costly migrations.
-
-The AI revolution is here, and the businesses embracing it thoughtfully today will have a significant competitive advantage. If your business has workflows that could benefit from AI automation, I'd love to explore how we can help. Schedule a free consultation call with us below:
-After an incredible 3 years as a Software Engineer at Meta, I've made the decision to leave and start my own venture: Varick Agents, an AI Agency that builds robust and accurate AI Agents for enterprise. We've already delivered some incredible results for our early clients, and case studies are coming soon that showcase the cost savings and efficiency gains possible in today's market.
-
-The appetite for AI Agents in the office has been immense, but the platforms that exist today demand too much technical expertise from companies. For businesses with top-tier AI-trained engineers, this isn't a problem. But the average company lacks engineers with deep exposure to frontier AI technology. Which LLMs are best-suited for which tasks? How do you prompt AI effectively? How do you handle seamless handoffs between different models? These are all absolutely essential parts of building AI Agents that can actually save businesses time and money.
-
-That's where Varick Agents comes in. We're a team of AI experts: engineers from big tech who live and breathe the latest AI developments. We have a proven track record of building robust, enterprise-ready AI Agents that augment your employees' workflows, dramatically reducing task-completion time while integrating with your existing stack instead of forcing costly migrations.
-
-The AI revolution is here, and the businesses embracing it thoughtfully today will have a significant competitive advantage. If your business has workflows that could benefit from AI automation, I'd love to explore how we can help. Schedule a free consultation call with us below:
-http://varickagents.com
-
----
-
-**作者** The Startup Ideas Podcast (SIP) 🧃（@startupideaspod）  
-**貼文連結** https://x.com/startupideaspod/status/2006879467311071289  
-
-**正文**
-
-Here's how to scale your solo business with AI agents:
-
-→ Engineering: code, testing, DevOps
-→ Design: UI/UX, brand assets
-→ Marketing: content, SEO, social
-→ Sales: leads, outreach, demos
-→ Support: tickets, docs
-→ Data: metrics & insights
-
-THE KEY: You manage LLMs. LLMs manage agents. Agents work 24/7.
-
-Go build your team.
-
-I'm rooting for you.
-
----
-
-**作者** Kyle Anthony Miller（@kyleanthony）  
-**貼文連結** https://x.com/kyleanthony/status/2006711890177917241  
-
-**正文**
-
-In 2025, I deleted my entire design portfolio after 15 years and started over from scratch.
-
-I created work and attracted clients that align with my values.
-
-You can too. 
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2006559711332806878  
-
-**正文**
-
-Marc Andreessen 的《洋葱风险理论》：
-
-创业初期风险众多，融资与里程碑结合，通过一层层剥离风险推动业务发展，同时合理分配资金，实现稳健增长。
-
-具体内容在下一条推文 
-Marc Andreessen 的《洋葱风险理论》：
-
-创业初期风险众多，融资与里程碑结合，通过一层层剥离风险推动业务发展，同时合理分配资金，实现稳健增长。
-
-具体内容在下一条推文 
-具体内容： 
-源：
-https://x.com/Founder_Mode_/status/2005354402182295603
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2006639973076971768  
-
-**正文**
-
-2026 年如何用 AI 构建移动应用
-
-1-15 
-2026 年如何用 AI 构建移动应用
-
-1-15 
-16-33 
-源：
-https://x.com/gregisenberg/status/2005317303370486015
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2006640663715361133  
-
-**正文**
-
-仍然无法相信这是免费的？
-
-大多数大学都收学费来教授理论 AI。
-而 Google 却免费提供实用的、最先进的训练课程。
-有些课程只需 45 分钟 ⏱️
-
-1.生成式 AI & 大型语言模型？✅
-2.扩散模型 & 图像生成？✅
-3.Transformers & BERT？✅
-4.获得徽章？✅
-
-8 门免费课程： 
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 3003–3202 則**（共 200 則）
 
 ---
 
@@ -6018,3 +3935,1316 @@ Generation is solved. The frontier is Orchestration - the logical next step on K
 
 ---
 
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1998022249488454041  
+
+**正文**
+
+Max from @medi_search is the most advanced medical AI available.
+
+Max scores 53.3% on HealthBench Hard, OpenAI's new benchmark for difficult medical cases, beating both GPT-5 and GPT-4o. 
+
+Available on web, iOS, and Android: https://medisearch.io/refer?utm_id=max_yc 
+
+---
+
+**作者** Kate Deyneka（@katedeyneka）  
+**貼文連結** https://x.com/katedeyneka/status/1997738221950865744  
+
+**正文**
+
+
+
+---
+
+**作者** mai（@omaikasei）  
+**貼文連結** https://x.com/omaikasei/status/1998120675706548517  
+
+**正文**
+
+I’m beyond excited to finally announce @netbackyard 
+
+We’ve raised $4.5M pre-seed to build the financial backbone of the global compute economy, starting with billing for data centers. 
+
+Every day, $1.2B flows into compute, almost entirely debt-financed. AI is surpassing every growth curve we’ve seen: training runs heading toward $1B each, global capacity set to triple, trillions in capex already committed.
+
+And yet the financial rails underneath it all are still running on spreadsheets.
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/1997685273858072719  
+
+**正文**
+
+THE BIG AI QUESTIONS I’M CURIOUS ABOUT FOR 2026 AND BEYOND
+
+1. If robotics costs fall and reliability rises, what new blue-collar industries get reorganized from the ground up? 
+
+2. What happens to commercial real estate demand as teams shrink and output rises due to AI?
+
+3. If foundation models continue improving at their current pace, how does this reshape what speed means in company building?
+
+4. When AI tutors outperform traditional education for most subjects, how do schools reposition? Does education shift from “teaching” to “socialization + credentialing”? 
+
+5. If AI improves medical diagnostics and care routing, how do hospitals change capacity planning? Do outpatient clinics become the center of the American healthcare system?
+
+6. When AI drives mass personalization in advertising, what happens to media buying? Do agencies shift from media arbitrage to creative taste-making?
+
+7. If consumer AI runs wellness, nutrition, and physical optimization automatically, what industries benefit most? Do supplements, gyms, and wearables explode or consolidate?
+
+8. When manufacturing robots gain AI reasoning, what product categories become newly profitable to build?
+Do we see a U.S. manufacturing resurgence?
+
+9. When every consumer has an AI “money coach,” how do banks and fintechs shift product strategy? Do personal finance apps melt into the background?
+
+10. If AI creates hyper-realistic synthetic data, how does that change machine learning itself? Do startups train world-class models without ever touching real data?
+
+11. When autonomous vehicles move from pilot to scale, how do suburbs, housing, commuting, and retail reorganize? Maybe real estate get a once-in-a-generation reshuffle...
+
+12. If vertical AI for healthcare, law, real estate, and logistics each gets its own “GPT moment,” what new billion-dollar niches unlock? Every industry gets its own model, its own moat, its own Cambrian explosion.
+
+13. When compute becomes the scarcest resource in the world, what becomes the most mispriced asset class today? Attention? Data centers? Energy? Chips? Land near power?
+
+14. Once every professional has personal agents, what new “agent-first” tools become the equivalent of spreadsheets, Slack, or Figma? Huge new software categories appear.
+
+15. As AI-driven customer support resolves issues instantly, how do brands compete on experience?
+
+16. If agents monitor your health metrics 24/7 and schedule interventions automatically, how do gyms, supplements, and wellness brands reposition? Will products align around measurable outcomes?
+
+17. When agents can run an entire e-commerce funnel  sourcing, branding, ads, customer service... what new types of single-person brands appear? Does the DTC “one-person empire” become possible?
+
+What are you curious about?
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/1997650896990208074  
+
+**正文**
+
+"what i wish someone told me" by sam altman (@sama) 
+
+---
+
+**作者** Yana Welinder（@yanatweets）  
+**貼文連結** https://x.com/yanatweets/status/1997380193921777673  
+
+**正文**
+
+When you hear yet another pitch for a GEO / AEO / AI Visibility startup. 
+
+---
+
+**作者** Zach Mueller（@TheZachMueller）  
+**貼文連結** https://x.com/TheZachMueller/status/1997013170087772582  
+
+**正文**
+
+A little birdie dropped by to give me the beast today. This thing is MASSIVE. Thanks @cfregly 🫡 
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1997116251425124474  
+
+**正文**
+
+NotebookLM 手机客户端迎来3大重要更新：
+
+1、手机端现在支持直接上传或拍照当作资料
+
+拍白板、讲义、书页都能让模型立即识别并回答。
+
+2、手机APP也能生成信息图和PPT幻灯片了
+
+Nano Banana Pro 的视觉能力下放到手机端，随时做海报/PPT。
+
+3、音频讲解支持自动保存进度
+
+听到哪儿都记得住，关掉再开、网页和手机同步进度，换手机都能继续。
+NotebookLM 手机客户端迎来3大重要更新：
+
+1、手机端现在支持直接上传或拍照当作资料
+
+拍白板、讲义、书页都能让模型立即识别并回答。
+
+2、手机APP也能生成信息图和PPT幻灯片了
+
+Nano Banana Pro 的视觉能力下放到手机端，随时做海报/PPT。
+
+3、音频讲解支持自动保存进度
+
+听到哪儿都记得住，关掉再开、网页和手机同步进度，换手机都能继续。
+这些手机端功能单独用很强，但组合起来更强。
+
+举的例子是：
+
+你可以对手机说出想法、灵感、乱七八糟的脑洞笔记。
+
+把这个语音文件 上传到 NotebookLM 当作来源。
+
+NotebookLM 会帮你把这些口述内容“加工成型”：
+比如整理、总结、变成文章、做成结构化内容等。
+
+一句话：  把语音记录 + NotebookLM 结合起来，你的碎片想法就能自动变成清晰的内容。
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1997489223486865912  
+
+**正文**
+
+信息量非常大，整理了一天：
+
+一份关于“AI 真正是如何被使用”的百兆级数据报告
+
+基于 100 万亿 Token 的真实 LLM 使用数据
+
+《State of AI 2025》报告深度解读
+
+它揭示了：
+
+2025年 AI正在变成会“思考和行动”的智能体（Agentic Inference）
+
+角色扮演和编程，占据AI使用的近90%；
+
+“中型模型”正在吞噬大模型市场；
+
+推理型模型（Reasoning Models）已成主流；
+
+中国开源力量正在迅速崛起 ...
+信息量非常大，整理了一天：
+
+一份关于“AI 真正是如何被使用”的百兆级数据报告
+
+基于 100 万亿 Token 的真实 LLM 使用数据
+
+《State of AI 2025》报告深度解读
+
+它揭示了：
+
+2025年 AI正在变成会“思考和行动”的智能体（Agentic Inference）
+
+角色扮演和编程，占据AI使用的近90%；
+
+“中型模型”正在吞噬大模型市场；
+
+推理型模型（Reasoning Models）已成主流；
+
+中国开源力量正在迅速崛起 ...
+人们都在用AI干什么？
+
+100万亿 Token 给出的 AI 启示：《State of AI 2025》报告深度解读
+
+详细报告内容解读：https://mp.weixin.qq.com/s/pfocdR00FrLXc-yGDrtg2Q
+
+---
+
+**作者** Warmly,（@warmlyai）  
+**貼文連結** https://x.com/warmlyai/status/1806357273113157911  
+
+**正文**
+
+Predictive B2B Revenue Attribution with Deepinder Singh Dhingra https://x.com/i/broadcasts/1LyGBnWvgbaGN
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1996881814473089193  
+
+**正文**
+
+兄弟们，这个概念有点 牛P啊
+
+Kling AI 推出主体库（Subject Library）」功能 
+
+让视频模型拥有记忆能力
+
+你可以上传自己的角色和各种素材建立自己的素材库
+
+它会自动帮你生成不同角度、不同光线、不同场景下的版本。
+
+以后你只要在创作时选用这些素材，它就能自动调出这些素材进行参考生成。
+
+无论是拍视频、做图还是换场景，主角都不会“变脸”了。
+
+当你后面输入“@角色名”时，AI 就会读取这组数据 在生成画面的时候自动匹配相同的特征。
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1996661442960060773  
+
+**正文**
+
+If you’ve ever needed to get precise data from charts in documents, @reductoai just changed the game.
+
+Some of the world's largest financial institutions have already adopted their new chart extraction in production to derive insights, perform research, and build AI products. 
+
+Congrats to the team on the launch!
+
+https://reducto.ai/blog/reducto-chart-extraction
+
+---
+
+**作者** Big Think（@bigthink）  
+**貼文連結** https://x.com/bigthink/status/1996640645142974799  
+
+**正文**
+
+How childhood wiring impacts adult life, in 90 minutes | Becky Kennedy: Full Interview @GoodInside 
+
+0:00 Rethinking how we learn, grow, and change
+5:41 Two foundations of childhood
+6:42 Behavior vs identity
+10:11 How to deal with lying
+12:29 Fear-based punishment and compliance
+14:03 Managing emotions and early relationships
+16:22 Gentle Parenting
+21:54 Understanding our own “factory settings”
+22:08 Attachment Theory
+28:29 Internal Family Systems
+39:14 Dysregulation, co-regulation
+37:32 How to regulate your emotions at any age
+1:12:42 Frustration tolerance
+1:18:44 Rupture, repair, and Deeply Feeling Kids
+1:28:28 Deeply Feeling Kids
+1:36:28 4 habits that build emotional strength
+
+---
+
+**作者** Hank Couture（@HankCouture）  
+**貼文連結** https://x.com/HankCouture/status/1996371576036667661  
+
+**正文**
+
+for builders - accounts to follow:
+
+- @arian_ghashghai - truth-telling VC for you
+- @nikunj - wisdom on how to build
+- @kokoxsu - deep research on VC history
+- @toddsaunders - startup to PE exit path
+- @AmirF15336 - very determined young VC
+- @aashaysanghvi_ - insanely smart
+
+---
+
+**作者** Karan🧋（@kmeanskaran）  
+**貼文連結** https://x.com/kmeanskaran/status/1996650031525536049  
+
+**正文**
+
+⏳ Day 3: Learning AI Agents for MLOps Project
+
+Prompt Engineering, RAG, and simple agents are old!  
+
+Here are 9 advanced Agentic AI concepts you should know heading into 2026.
+
+1. Guardrails:  
+Programmable rules that prevent your agent from going rogue. They block hate speech, PII leaks, off-topic responses, or hallucinations before the user sees them.
+
+2. Runtime/Orchestration:  
+The brain that manages execution flow: calling tools, waiting for results, chaining agents, looping, escalating to humans, and replying. 
+
+3. Context Engineering (detailed post coming):  
+In 2026, context engineering > prompt engineering. With massive context windows (128k–1M tokens), you must compress history, retrieve relevant memories, rank documents, and discard noise, or even the best model becomes stupid.
+
+4. Human-in-the-Loop (HITL):  
+For anything high-stakes (money, health, law), keep a human in the loop. My setup: agent drafts → human approves/edits → agent learns and continues. Adds seconds, saves weeks of regret.
+
+5. Multi-Agent Systems:  
+One agent is fine; a team of 4–5 specialized agents is insane. My typical setup:  
+- one researches  
+- one writes  
+- one fact-checks  
+- one summarizes  
+- one evaluates
+
+6. Advanced Retrieval (beyond basic RAG):  
+Tricks that actually work:  
+- rewrite the user query  
+- use HyDE  
+- retrieve parent documents, not small chunks  
+- filter by metadata  
+- rerank with bge-reranker or Cohere  
+- fuse multiple queries
+
+7. Long-Term Memory:  
+Agents must remember users forever. Store everything in a vector DB (Qdrant/Pinecone) plus a user profile so next month it still knows your name, company, and coding style.
+
+8. Episodic Memory:  
+Episodic memory captures 20–50 key user statements as short, timestamped summaries and embeds them in a vector DB. On every turn, retrieve top-3 most similar past episodes via cosine search. 
+
+9. Semantic Caching:  
+Biggest free win: if a new question is 95% similar to a past one, instantly return the cached answer. Saves money and drops latency from seconds to milliseconds. Redis + embeddings is glorious.
+
+Today I reviewed these concepts and over the last 10 months, AI agents have evolved tremendously. The community identified real problems and focused on reliable, detailed outputs.  
+In a few months, building an AI agent will be 2–3 lines of code tuned by hyperparameters.
+
+That’s it for today. I started designing the AI agent for my MLOps project.  
+Next update: implementation!
+⏳ Day 3: Learning AI Agents for MLOps Project
+
+Prompt Engineering, RAG, and simple agents are old!  
+
+Here are 9 advanced Agentic AI concepts you should know heading into 2026.
+
+1. Guardrails:  
+Programmable rules that prevent your agent from going rogue. They block hate speech, PII leaks, off-topic responses, or hallucinations before the user sees them.
+
+2. Runtime/Orchestration:  
+The brain that manages execution flow: calling tools, waiting for results, chaining agents, looping, escalating to humans, and replying. 
+
+3. Context Engineering (detailed post coming):  
+In 2026, context engineering > prompt engineering. With massive context windows (128k–1M tokens), you must compress history, retrieve relevant memories, rank documents, and discard noise, or even the best model becomes stupid.
+
+4. Human-in-the-Loop (HITL):  
+For anything high-stakes (money, health, law), keep a human in the loop. My setup: agent drafts → human approves/edits → agent learns and continues. Adds seconds, saves weeks of regret.
+
+5. Multi-Agent Systems:  
+One agent is fine; a team of 4–5 specialized agents is insane. My typical setup:  
+- one researches  
+- one writes  
+- one fact-checks  
+- one summarizes  
+- one evaluates
+
+6. Advanced Retrieval (beyond basic RAG):  
+Tricks that actually work:  
+- rewrite the user query  
+- use HyDE  
+- retrieve parent documents, not small chunks  
+- filter by metadata  
+- rerank with bge-reranker or Cohere  
+- fuse multiple queries
+
+7. Long-Term Memory:  
+Agents must remember users forever. Store everything in a vector DB (Qdrant/Pinecone) plus a user profile so next month it still knows your name, company, and coding style.
+
+8. Episodic Memory:  
+Episodic memory captures 20–50 key user statements as short, timestamped summaries and embeds them in a vector DB. On every turn, retrieve top-3 most similar past episodes via cosine search. 
+
+9. Semantic Caching:  
+Biggest free win: if a new question is 95% similar to a past one, instantly return the cached answer. Saves money and drops latency from seconds to milliseconds. Redis + embeddings is glorious.
+
+Today I reviewed these concepts and over the last 10 months, AI agents have evolved tremendously. The community identified real problems and focused on reliable, detailed outputs.  
+In a few months, building an AI agent will be 2–3 lines of code tuned by hyperparameters.
+
+That’s it for today. I started designing the AI agent for my MLOps project.  
+Next update: implementation!
+i recommend this LangChain document:
+https://docs.langchain.com/oss/python/langchain/overview
+
+Tbh, their documentation quality improved a lot!!
+
+---
+
+**作者** Stijn Noorman（@stijnnoorman）  
+**貼文連結** https://x.com/stijnnoorman/status/1996586174144495954  
+
+**正文**
+
+The most valuable skill in the world:
+
+Decision-making.
+
+I studied how Naval, Elon, and billionaires make decisions.
+
+Here's how you make better decisions than 99% of people: 
+
+---
+
+**作者** Harshil Tomar（@Hartdrawss）  
+**貼文連結** https://x.com/Hartdrawss/status/1996534074018541584  
+
+**正文**
+
+How I understand codebases using cursor :
+
+1. I switch cursor to Ask Mode to avoid any changes from being made
+
+2. Select Composer 1 for speed and simply ask it to grep the whole codebase and each crucial sub folder for understanding the codebase
+
+3. Switch to Plan Mode and ask it to create a plan for me to understand this codebase starting from a list of Technical Integrations like Resend, AI Sdk to file structures 
+
+4. Save it as a mark down and switch to agent mode with gpt-5 and ask it to index the whole codebase and start breaking down into markdowns
+
+5. For me. I do frontend, backend, user journey, technical breakdown as markdown files
+
+6. If this is not enough ( suppose redis , microservices etc are there ), I switch back to claude models to help get diagrams of product workflow
+
+7. Once I am happy with the docs I switch to preview mode. Read them up, and go back to cursor ask mode for any doubts I run into
+
+Repeat this a few times until I get the basic Idea
+
+Important Takeway : Make mini notes of engineering how's for later and write down important file names in workflow
+
+---
+
+**作者** 華爾街分析猿（@WSTAnalystApe）  
+**貼文連結** https://x.com/WSTAnalystApe/status/1996515245880439227  
+
+**正文**
+
+什麼叫壓力？這就是真正的壓力。
+黃仁勳的反教材式反應拯救了公司。
+
+我們創立 Nvidia 的時候，根本找不到產品到底可以用來幹嗎、沒有客戶。我們下午都跟家人說要去「工作」，但其實就只有我們三個人。
+
+於是午餐後，就會跑去街機廳玩 SEGA 的 Virtua Fighter、Daytona 等等那一堆遊戲，一邊玩、一邊拆解他們是怎麼做到的。
+
+於是我們想到：
+乾脆飛到日本，說服 SEGA 把這些街機遊戲移植到 PC 上，和我們一起開啟 PC 3D 遊戲產業。
+—— 這，就是 Nvidia 的起源。
+
+作為交換，只要他們把遊戲移植到 PC，我們就替他們的主機做一顆晶片。這就是合作關係：
+「我幫你做遊戲主機晶片、你把 SEGA 的遊戲移植給我們。」
+
+而且當時 SEGA 付了我們一筆在那年代很可觀的金額，請我們打造那台遊戲主機 —— 這也是 Nvidia 的起步。我們以為一切都開始順利了。
+
+我當時寫下了商業計畫與技術方向，看似不可能，但我們運氣很好拿到 SEGA 合作。我們開始起飛，開始做遊戲主機。
+
+⸻
+
+然後，一兩年後，我們發現——
+
+第一代技術完全不行。
+
+不是有點問題，是三個重大技術選擇，
+—— 三個全錯！
+
+這就是我們當時「多聰明」的程度。
+
+1995 年中，我們意識到走錯方向。那時整個矽谷塞滿 3D 圖形新創，而他們全部選對技術、只有最早創業的我們走錯。
+
+公司陷入危機。我們得做出幾個決定：
+1.如果現在改方向，我們會是最後一名，即使改對也可能死。
+2.如果不改方向，繼續硬做錯誤技術，也一定死。
+3.還是乾脆去做完全不同的東西？
+
+這是公司最困難的策略辯論。我最後主張：
+—— 改方向，先活下去。
+
+但第二個問題來了：
+—— 我們快沒錢了。
+
+但我和 SEGA 有合約，必須交出那台遊戲主機。如果 SEGA 取消合約，
+—— 我們會立即倒閉。
+
+應該怎麼做？
+
+⸻
+
+我飛到日本，去見 SEGA 的社長 —— 他是位很棒的人，之前也是本田美國的 CEO。
+
+我對他說：「我有壞消息。」
+1.我們承諾的技術做不出來。
+2.我們不應該完成那台主機，不然只是浪費你們的錢，你們得到的產品也不能用。
+—— 建議你們換一個合作夥伴。
+3.而且……雖然我叫你取消合約，但我還是需要你最後那 500 萬美元。
+沒那筆錢我們會立刻倒閉。
+
+我非常誠懇、坦白，告訴他技術為何錯、為何原本以為會成功、為何現在證明不行。我請他把合約尾款的 500 萬美元改成 投資。
+
+他說：「就算我投資，你們很可能還是會倒閉。」
+
+完全正確。1995 年的 500 萬美元超大筆，放今天也很大。而那時有一整排競爭者技術都做對，我們卻做錯。投資 Nvidia 要回本的機率？
+0%。
+如果我是他，我也不會投。
+
+我對他說：
+「如果你投資這 500 萬，極可能全沒了。但如果你不投，我們現在就會死，永遠沒有機會。」
+
+我最後告訴他：
+我能理解他不願意投，但如果他願意，對我來說意義重大。
+
+他花了兩天思考，竟然回來說：
+「我們投。」
+
+為什麼？
+他說——
+他之所以投資，只有一個理由：
+他看好我這個年輕人。
+
+就這樣。
+
+那筆 500 萬如果留到今天，大概值 一兆美元。
+但輝達一上市，他們就把全部股份賣掉了。他們心想：「哇，真是奇蹟。」
+就這樣——他們賣掉了。
+是的，他們在 Nvidia 大概 3 億美元 的市值時賣掉的。
+
+不管怎樣，我永遠感謝他。
+
+---
+
+**作者** Brian Burns（@brian_a_burns）  
+**貼文連結** https://x.com/brian_a_burns/status/1996624620519399634  
+
+**正文**
+
+Harvey has raised a $160M Series F at an $8 billion valuation.
+
+Just 2.5 years ago we were 10 people in a WeWork. “Ask a pdf” was a cutting-edge feature! (Seriously.)
+
+We now serve over 700 firms in 58 countries around the world. 
+
+50% of the Am Law 100 uses Harvey.
+
+---
+
+**作者** Niko（@guishou_56）  
+**貼文連結** https://x.com/guishou_56/status/1996281131877175656  
+
+**正文**
+
+半夜两点多 本来都准备睡了，看到这个reddit帖子立马从床上爬起来
+
+这个帖子简直就是一记响亮的耳光，同时也指明了一条金光大道。
+
+里面说到了独立开发者（Indie Hacker）最核心的痛点：我们在“自嗨”的圈子里互割韭菜，而真正的金矿藏在那些看起来“土”但很赚钱的行业里。
+
+之前认识了一个白手起家的创业者，给快递站解决了一个问题，别人用上他的软件之后，以前的工作方式显得极其低效，再也回不去了，目前他本人接近财务自由状态
+
+技术出身的人喜欢做“锤子”，然后满世界找钉子。商业思维是：客户想要挂画，我给他什么能把画挂上去？
+
+我们没法深入到每一个传统行业里去挖掘需求，但是起码可以转移重心，从做toC的需求到做toSMB的需求
+
+从做通用工具，去抢C端用户，在红海里厮杀，赚辛苦钱，不如听这个帖子的话，去服务那些“Boring Industries”
+
+从“服务所有人”转变为“服务有钱的生意人”。
+
+这就是产品转型的最强信号。 不再是一个简单的套壳站长，是一个为垂直行业提供生产力的 SaaS 创业者
+
+---
+
+**作者** Todd Saunders（@toddsaunders）  
+**貼文連結** https://x.com/toddsaunders/status/1996429730275602444  
+
+**正文**
+
+I love YC startups 
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1996721923435483353  
+
+**正文**
+
+Lark (@uselark_ai) is a modern billing platform with the flexibility to support any pricing model, at any scale.
+
+Whether you’re building an AI-powered API or a B2B SaaS product, Lark provides the tools you need to implement complex billing logic without the hassle.
+
+Built by former Stripes @VijitDhingra1 and @jackbr513.
+
+https://docs.uselark.ai
+
+---
+
+**作者** Alex Masmej（@AlexMasmej）  
+**貼文連結** https://x.com/AlexMasmej/status/1996715450131177697  
+
+**正文**
+
+The tragedy with Roy Lee is simple:
+
+the guy was born to ship a consumer app or cool crypto stuff as he has that rare viral sense 
+
+But instead decided to focus on B2B SaaS AI note-taking 🤦‍♂️
+
+Destiny level misallocation of skill
+The tragedy with Roy Lee is simple:
+
+the guy was born to ship a consumer app or cool crypto stuff as he has that rare viral sense 
+
+But instead decided to focus on B2B SaaS AI note-taking 🤦‍♂️
+
+Destiny level misallocation of skill
+Are you in college and want try something 1000x cooler than AI B2B SaaS slop?
+
+DM me to get a @BreakoutApp invite
+@BreakoutApp And if you’re a cracked consumer app engineer in the Bay Area willing to build something big, would love to chat, DMs open
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/1996809181039677869  
+
+**正文**
+
+这是 Cursor 内部指南，专门供技术水平较轻的团队成员入职时使用。
+
+链接如下： 
+这是 Cursor 内部指南，专门供技术水平较轻的团队成员入职时使用。
+
+链接如下： 
+Cursor 内部指南
+https://cursorai.notion.site/Building-with-Cursor-public-273da74ef0458051bf22e86a1a0a5c7d
+源：
+https://x.com/ericzakariasson/status/1996347523880165857
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/1996809668610720242  
+
+**正文**
+
+想知道如何正确参加机器学习会议吗？
+
+在 NeurIPS 2025（3万参会者！）开始前，这里有十个专业建议： 
+想知道如何正确参加机器学习会议吗？
+
+在 NeurIPS 2025（3万参会者！）开始前，这里有十个专业建议： 
+具体内容： 
+源：
+https://x.com/jxmnop/status/1996599531358573044
+
+---
+
+**作者** Salman（@salmanso_）  
+**貼文連結** https://x.com/salmanso_/status/1995906287171780986  
+
+**正文**
+
+Almost 8 years ago the founders of Kalshi made what so many told them was the dumbest decision of their lives.
+
+Today that stupid decision is worth $11b. Kalshi lore is worth studying for early founders. I wanted to join the team because of it.
+
+In 2018 the team gets into YC. @mwseibel actually thought the idea was near-impossible. Despite the idea seeming crazy YC saw the potential in the founding team and gives Kalshi a shot.
+
+Rumor has it this was the last time Tarek smiled. 
+
+@apartovi is also one of Kalshi's first believers. Neo has a an insane track record in finding goated founder early. Their formula is really simple. 
+
+Find founders who are:
+- Intelligent
+- Have high agency
+- Naive <--????
+
+Neo has found a pattern great founders possess. They are naive enough to think they can take on the impossible journey ahead of them. 
+
+I say this with minimal hyperbole - Kalshi has done the impossible. Building an exchange requires so many complex variables to work perfectly in unison. To do this from scratch while having to sue the US government to go live is insane.
+
+I want to vomit thinking how difficult it would be to replicate what Kalshi's has done (which a few companies are trying). Could you imagine how disgustingly difficult it would be to invent the playbook.
+
+What makes someone naive enough to think they can do the impossible? Conviction.
+
+No sane person is spending their 20's learning about derivative laws. It requires an insane level of conviction.
+
+I can't say for certain what gave the founding team so much conviction but my hypothesis is the following:
+
+- The category in which Kalshi operates in is the $19.8T derivatives market. If they get this right the sky is no longer the ceiling.
+
+- Kalshi solves for strong unmet demand. Traders want to trade directly on event outcomes but can't. 
+
+- If millions of market participants are rewarded for their truth seeking behavior. Kalshi can aggregate a data point on collective belief. Something non market participants benefit from tremendously (ex: Election Forecasts on Kalshi).
+
+My biggest takeways from working with this exceptional team:
+
+1. Fight the hard fights - the growth and reward for difficult journeys are long tailed but exponentially better than the easy linear journeys.
+
+2. Be naive enough to think you can do the impossible. Conviction and belief that you can rise to the challenge is necessary.
+
+3. Still unsure on whether or not you have to give up smiling to be successful - still going through the data here
+Almost 8 years ago the founders of Kalshi made what so many told them was the dumbest decision of their lives.
+
+Today that stupid decision is worth $11b. Kalshi lore is worth studying for early founders. I wanted to join the team because of it.
+
+In 2018 the team gets into YC. @mwseibel actually thought the idea was near-impossible. Despite the idea seeming crazy YC saw the potential in the founding team and gives Kalshi a shot.
+
+Rumor has it this was the last time Tarek smiled. 
+
+@apartovi is also one of Kalshi's first believers. Neo has a an insane track record in finding goated founder early. Their formula is really simple. 
+
+Find founders who are:
+- Intelligent
+- Have high agency
+- Naive <--????
+
+Neo has found a pattern great founders possess. They are naive enough to think they can take on the impossible journey ahead of them. 
+
+I say this with minimal hyperbole - Kalshi has done the impossible. Building an exchange requires so many complex variables to work perfectly in unison. To do this from scratch while having to sue the US government to go live is insane.
+
+I want to vomit thinking how difficult it would be to replicate what Kalshi's has done (which a few companies are trying). Could you imagine how disgustingly difficult it would be to invent the playbook.
+
+What makes someone naive enough to think they can do the impossible? Conviction.
+
+No sane person is spending their 20's learning about derivative laws. It requires an insane level of conviction.
+
+I can't say for certain what gave the founding team so much conviction but my hypothesis is the following:
+
+- The category in which Kalshi operates in is the $19.8T derivatives market. If they get this right the sky is no longer the ceiling.
+
+- Kalshi solves for strong unmet demand. Traders want to trade directly on event outcomes but can't. 
+
+- If millions of market participants are rewarded for their truth seeking behavior. Kalshi can aggregate a data point on collective belief. Something non market participants benefit from tremendously (ex: Election Forecasts on Kalshi).
+
+My biggest takeways from working with this exceptional team:
+
+1. Fight the hard fights - the growth and reward for difficult journeys are long tailed but exponentially better than the easy linear journeys.
+
+2. Be naive enough to think you can do the impossible. Conviction and belief that you can rise to the challenge is necessary.
+
+3. Still unsure on whether or not you have to give up smiling to be successful - still going through the data here
+@mansourtarek_ @luanalopeslara @Kalshi @ycombinator If you want to be great it's time to stop smiling 
+
+---
+
+**作者** Tomer Omri（@tomeromrix）  
+**貼文連結** https://x.com/tomeromrix/status/1995840667134603467  
+
+**正文**
+
+I work at @base44 , so I see many prompts every day.
+Most of them are okay. Some are good. But about 1% are genius.
+
+I spent the last week analyzing that top 1%.
+The results were honestly shocking. 🤯
+
+Most users prompt like they are talking to a human:
+"Make a cool, modern website for a tech company." (Results: Generic, boring, hallucinations).
+
+If you want to learn how to prompt and vibe code like a pro 
+Drop a comment below, and I'll send the guide to your inbox. 📥
+I work at @base44 , so I see many prompts every day.
+Most of them are okay. Some are good. But about 1% are genius.
+
+I spent the last week analyzing that top 1%.
+The results were honestly shocking. 🤯
+
+Most users prompt like they are talking to a human:
+"Make a cool, modern website for a tech company." (Results: Generic, boring, hallucinations).
+
+If you want to learn how to prompt and vibe code like a pro 
+Drop a comment below, and I'll send the guide to your inbox. 📥
+@base44 Make sure your DM is open / follow me so i can reach you after commenting
+
+---
+
+**作者** Dave Ceddia（@dceddia）  
+**貼文連結** https://x.com/dceddia/status/1995985693596672202  
+
+**正文**
+
+I made a tiny recorder tool today
+
+– Native Mac app
+– Record camera + mic
+– Trim off the start + end
+– Fast local transcription (Parakeet)
+– Make an SRT file (subtitles)
+
+It's exactly what I wanted! The daily videos will be even more fun now. 
+
+---
+
+**作者** Kyle Jeong（@kylejeong）  
+**貼文連結** https://x.com/kylejeong/status/1995652217937055934  
+
+**正文**
+
+there's no excuse to be unemployed, even browser agents are getting jobs 
+
+with @Stagehanddev & @browserbase, you can spin up concurrent browser sessions to apply to infinite jobs
+
+get yourself (and/or your browser agents) a job with our templates 
+there's no excuse to be unemployed, even browser agents are getting jobs 
+
+with @Stagehanddev & @browserbase, you can spin up concurrent browser sessions to apply to infinite jobs
+
+get yourself (and/or your browser agents) a job with our templates 
+@Stagehanddev @browserbase Checkout the template: 
+https://www.browserbase.com/templates/job-application
+
+---
+
+**作者** meng shao（@shao__meng）  
+**貼文連結** https://x.com/shao__meng/status/1995503355364573457  
+
+**正文**
+
+构建现代 AI Agent 的实战指南：融合 Anthropic、GitHub 与 Docker 的理念和工程化智慧
+
+核心观点一：设计理念（来自 Anthropic）
+——“拒绝过度设计，从简单工作流开始”
+
+Effective harnesses for long-running agents
+https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+
+1. 先有“工作流”，再有“智能体”：
+· 不要一上来就试图构建一个全知全能、完全自主的 AI。
+· Lesson：大多数业务需求只需要确定性的工作流。比如“先搜索，再总结，最后发邮件”，这是一条直线。只有当路径不确定，需要 AI 自己做决定时（“我该搜索还是直接回答？”），才称之为 Agent。
+
+2. 简单的力量：
+· 文章强调使用可组合的模式而不是复杂的框架。
+· 推荐模式：
+  · Prompt Chaining：把任务切碎，一步步喂给 AI。
+  · Orchestrator-Workers：一个 AI 负责分配任务，几个 AI 负责具体干活。
+  · Evaluator-Optimizer：一个 AI 写，另一个 AI 负责挑刺和修改。
+
+核心观点二：基础设施（来自 Docker）
+——“给 AI 一个安全的‘家’和统一的‘手’”
+
+Docker + E2B: Building the Future of Trusted AI
+https://www.docker.com/blog/docker-e2b-building-the-future-of-trusted-ai/
+如果说 LLM 是大脑，Docker 正在成为 AI Agent 的躯干和手脚。文章强调了 Docker 在 Agent 时代的两个新角色：
+
+1. 标准化的工具接口（MCP）：
+· 以往 AI 要连接数据库或 Google 日历，每家公司都有不同的写法。
+· Lesson：Docker 正在大力推广 MCP (Model Context Protocol)。这是一种通用标准，让 AI 像插 USB 一样即插即用地连接外部工具。你不需要为每个工具重写代码，只需使用标准化的 MCP 服务。
+
+2. 安全沙箱（Sandboxing）：
+· Agent 需要执行代码、读写文件，直接在你的电脑上跑太危险（可能会误删文件）。
+· Lesson：利用 Docker 容器为 Agent 提供一个隔离环境。Agent 可以在里面随意折腾、安装软件、运行代码，即便搞砸了，把容器删掉即可，不会影响主机。
+
+核心观点三：交互与落地（来自 GitHub）
+——“上下文就是一切”
+
+How to write a great agents. md: Lessons from over 2,500 repositories
+https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/
+
+GitHub 通过 Copilot Workspace 展示了 Agent 如何真正融入工作。
+
+1. 感知环境：
+· 一个好的 Agent 不能只看你的一句话，它必须看懂你的“整个世界”。
+· Lesson：就像 GitHub Copilot 的 @ workspace 功能一样，Agent 需要能够理解整个项目仓库、文件结构和依赖关系。构建 Agent 时，关键在于如何高效地把这些背景信息喂给 AI。
+
+2. 人机协作而非替代：
+· GitHub 的经验表明，Agent 不应该是一个黑盒，它应该是一个透明的合作伙伴。
+· Lesson：让用户看到 Agent 的计划，并允许用户在 Agent 执行任务的过程中进行干预和纠正。
+
+总结：如何构建现代 AI Agent？
+· 大脑：使用 Anthropic 提倡的简单模式（如指挥官模式），不要迷信复杂的 Agent 框架。
+· 身体：使用 Docker 容器来运行 Agent，确保安全；使用 MCP 协议来连接工具，确保通用性。
+· 灵魂：像 GitHub 一样重视上下文，让 Agent 理解业务全貌，而不仅仅是回答问题。
+
+一句话总结：
+现在的 AI Agent 开发已经过了“甚至不知道怎么写 Prompt”的草莽阶段，正在进入 标准化（Docker/MCP）、模式化（Anthropic Patterns）和工程化（GitHub Context）的成熟期。
+
+博客地址：
+https://interviewready.io/blog/how-to-build-an-ai-agent-lessons-from-anthrophic-github-and-docker
+
+---
+
+**作者** Garry Tan（@garrytan）  
+**貼文連結** https://x.com/garrytan/status/1995943434730000730  
+
+**正文**
+
+We're much more likely to look on the next 10 years as massive shortages of skilled worker, not mass unemployment
+
+We need more rigor and better schools, not AI fearmongering
+
+https://www.bloomberg.com/opinion/articles/2025-11-24/ai-and-labor-it-might-lead-to-a-worker-shortage?embedded-checkout=true 
+
+---
+
+**作者** Varunram Ganesh（@varunram）  
+**貼文連結** https://x.com/varunram/status/1995906657956888803  
+
+**正文**
+
+YC Demo Day is tomorrow and have had some time to reflect on our progress.
+
+We hit 500k ARR in 2 months, 4 awesome team members.
+
+YC forces you to only care about two things: product and customers. Hard to find this degree of focus anywhere else outside of YC.
+
+Thankfully we don't need to worry about payroll or ops or any of that, Warp is by far the best payroll provider out there.
+
+---
+
+**作者** Maurice Kleine 🍄（@mauricekleine）  
+**貼文連結** https://x.com/mauricekleine/status/1995821797070029132  
+
+**正文**
+
+i can't believe this is legal 
+i can't believe this is legal 
+http://getmockly.com btw
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/1995870045117853752  
+
+**正文**
+
+Brickwise (@brickwise_ai) is an AI property manager that fully automates maintenance for landlords and real estate agents.
+
+Tenants can send a photo, describe the issue, and Brickwise diagnoses, troubleshoots, schedules contractors, and resolves the problem automatically.
+
+https://www.ycombinator.com/launches/Om2-brickwise-ai-property-manager
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/1995774448520364206  
+
+**正文**
+
+学习提示工程的一种方法，是研究聪明工程师编写的系统提示。
+
+这是 Gemini 3.0 的系统提示 👇 
+学习提示工程的一种方法，是研究聪明工程师编写的系统提示。
+
+这是 Gemini 3.0 的系统提示 👇 
+完整提示： 
+源：
+https://x.com/alex_prompter/status/1994790448892924361
+
+---
+
+**作者** Guillermo Flor（@guilleflorvs）  
+**貼文連結** https://x.com/guilleflorvs/status/1995469008791892074  
+
+**正文**
+
+Unconventional take/prediction: @ycombinator is still early and there's massive apha👇
+
+My thesis:
+
+1. Entrepreneurship is going mainstream
+
+Ten years ago, starting a tech company felt impossible for most people. Today millions of young people see it as the most exciting career they can choose. They want freedom, upside and the chance to build things. Being a founder is becoming the new dream job.
+
+2. YC sits right in the center of this shift
+
+They went from 2 batches a year to 4, and even that isn’t enough for the demand. When someone decides they want to build something, the first name they search is YC. The brand compounds every single year.
+
+3. The Compounding Power of the Alumni Network is accelerating
+
+Thousands of founders helping the next generation.
+The more companies YC backs, the stronger this cycle gets. It’s a flywheel that keeps accelerating.
+
+4. YC is still early
+
+In the next decade it YC will become a global cultural brand, not just something tech people know, but something everyone knows in the way people know Harvard. 
+
+Once that happens, the quality and quantity of founders going through YC will be on another level.
+
+5. YC companies are still underpriced
+
+If you believe this shift is happening, then today’s valuations don’t reflect the scale of what’s coming. The funnel is exploding and YC is where the most ambitious people still want to start.
+
+6. There’s still room for many others
+
+What YC created opened the door for more accelerators and communities, and this competition only raises the bar. We’re eight billion people. 
+
+The number of founders the world will produce in the next decade will be far bigger than anything we’ve seen. 
+
+YC will grow, but the entire market for entrepreneurship will grow as well
+
+What do you think?
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1995519090711261232  
+
+**正文**
+
+Kling AI 发布Kling O1 模型
+
+这是一个全新的多模态创意引擎
+
+可以理解文字 + 图片 + 视频
+
+让你输入任何内容都能快速生成想要的画面
+
+也就是你可以用 文字、图片、视频 做输入，让 Kling O1 去：
+
+• 直接生成全新视频
+• 把旧视频「魔改」成你想要的样子
+• 在同一个工作流里完成续拍、换物体、删路人、换风格、拉长镜头等一整套活
+
+你可以将 O1视为试图成为一个端到端“创建+修改”的模…
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/1995653284208742587  
+
+**正文**
+
+"people don't download apps anymore"
+
+meanwhile, this is the greatest time to be building mobile apps since 2012
+
+---
+
+**作者** Akanksha is building Hugsy（@yoursocialwiz）  
+**貼文連結** https://x.com/yoursocialwiz/status/1995416466481631433  
+
+**正文**
+
+LFG!!!
+
+Joining the cold email hackathon tonight because:
+
+- no writer has made it big without writing cold letters & emails.
+
+- no founder has made it big without cold emailing customers or investors
+
+so, join the hackathon if you haven't already.
+
+@SidHaldar_ is doing incredible work.
+
+he is doing everything to get you the best mentors & peer group possible.
+
+link below:
+LFG!!!
+
+Joining the cold email hackathon tonight because:
+
+- no writer has made it big without writing cold letters & emails.
+
+- no founder has made it big without cold emailing customers or investors
+
+so, join the hackathon if you haven't already.
+
+@SidHaldar_ is doing incredible work.
+
+he is doing everything to get you the best mentors & peer group possible.
+
+link below:
+@SidHaldar_ https://luma.com/8a0pw7eo
+
+---
+
+**作者** dontbesilent（@dontbesilent12）  
+**貼文連結** https://x.com/dontbesilent12/status/1995168401715814512  
+
+**正文**
+
+佛山家具厂供应链，能把视频拍成这样，好卷 
+
+---
+
+**作者** KK.aWSB（@KKaWSB）  
+**貼文連結** https://x.com/KKaWSB/status/1995173252197650574  
+
+**正文**
+
+不要再相信“OpenAI 在 ChatGPT 里植入广告”了。
+Sam Altman 用“推荐酒店”的例子已把问题说得很清楚：
+如果 ChatGPT 因收钱推荐更差的选择，信任将一秒归零。
+没有信任，就没有 AI未来的发展。
+这一点Altman 说得完全对。 
+
+---
+
+**作者** Aakash Gupta（@aakashgupta）  
+**貼文連結** https://x.com/aakashgupta/status/1995163804465004571  
+
+**正文**
+
+This $4B CPO runs her entire day out of Claude Code + Cursor. Here's how @rachelwolan does it:
+
+3:25 - Agentic Chief of Staff
+9:30 - Email Triage Agent
+29:16 - Setting Up the Org for AI
+34:25 - Shipping AI-Native Features 
+This $4B CPO runs her entire day out of Claude Code + Cursor. Here's how @rachelwolan does it:
+
+3:25 - Agentic Chief of Staff
+9:30 - Email Triage Agent
+29:16 - Setting Up the Org for AI
+34:25 - Shipping AI-Native Features 
+@rachelwolan We're also available on YouTube, Spotify, and Apple under 'Product Growth Podcast'
+@rachelwolan Thanks to our sponsor Linear
+
+https://www.linear.app/aakash
+@rachelwolan https://x.com/aakashg0/status/1995532404170043742?s=46
+
+---
+
+**作者** Viking（@vikingmute）  
+**貼文連結** https://x.com/vikingmute/status/1995480096405418292  
+
+**正文**
+
+Obsidian 作者 Kepano 每年年终都会问自己 40 个问题：
+https://stephango.com/40-questions
+
+大家可以看看，非常多人收藏和点赞，我觉得这种年度回顾非常好，十年前我都这种回顾嗤之以鼻，现在慢慢喜欢上了回顾，尤其是可以和朋友家人坐在一起讨论。
+
+一个好处就是可以发现你真正重视的东西，第一年做可能只是好玩，连续做3–5年后，你会清晰看到哪些答案年年重复，哪些答案几乎年年变。这直接告诉你：什么才是你生命里真正重要的。
+
+另外尤其是自由职业以来，每年变化比工作大多了，连续几年对比同一个问题，你会发现自己真的在慢慢变成想要的那种人，成长不再抽象，而是看得见的证据。
+
+---
+
+**作者** Trickle（@Trickle_HQ）  
+**貼文連結** https://x.com/Trickle_HQ/status/1995423929989816444  
+
+**正文**
+
+I also wanted to land on Stripe City. Guess I’ll have to do it myself @stripe 
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/1995504424886898776  
+
+**正文**
+
+CyberCut AI 朋友做的视频剪辑工具
+
+可以自动将长视频切分为适合社交平台的短片、生成营销视频、添加高精度字幕
+
+今天 producthunt 第一了
+
+---
+
+**作者** Fuser（@fuserstudio）  
+**貼文連結** https://x.com/fuserstudio/status/1995129018081743115  
+
+**正文**
+
+“When you connect nodes together, you're designing a workflow that moves and thinks like you do.”
+
+Learn the basics in our Intro to Fuser: A Visual Workspace for AI-Powered Creative Workflows. 🔗 
+
+↓
+https://bit.ly/fuser-intro-tutorial
+
+---
+
+**作者** gabriel（@gabriel1）  
+**貼文連結** https://x.com/gabriel1/status/1994966976910037132  
+
+**正文**
+
+how to get into ai:
+- choose between language models or image models
+- build from scratch with chatgpt
+- recursively ask chatgpt about anything you don't intuitively understand
+- explain things back to find gaps in understanding
+
+---
+
+**作者** Klaas（@forgebitz）  
+**貼文連結** https://x.com/forgebitz/status/1995191638105498108  
+
+**正文**
+
+business is now more competitive than ever before
+
+imagine wasting time by vibe coding half baked internal solutions
+
+losing development time and resources to save 300/m 
+
+no competitive or successful company is doing that 
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/1995472013960360236  
+
+**正文**
+
+点哪改哪 ...
+
+Lovart 的这个 Touch Edit 触控编辑功能
+
+我不允许还有人不知道
+
+很神奇的功能
+
+换打光、换背景、换脸、换字，只要在图上点一下
+
+就能自动识别，然后通过聊天要求即可完成修改、融合和创意生成
+
+而且能跨多个图像进行编辑融合
+
+它会自动识别画面结构、物体关系、布局，可以精准定位。
+
+下面是一个教程↓
+点哪改哪 ...
+
+Lovart 的这个 Touch Edit 触控编辑功能
+
+我不允许还有人不知道
+
+很神奇的功能
+
+换打光、换背景、换脸、换字，只要在图上点一下
+
+就能自动识别，然后通过聊天要求即可完成修改、融合和创意生成
+
+而且能跨多个图像进行编辑融合
+
+它会自动识别画面结构、物体关系、布局，可以精准定位。
+
+下面是一个教程↓
+就让我演示下给你看
+
+首先我们上传三张照片：分别是小互我、马斯克和特朗普
+
+在lovart 里面
+
+在任意图片上 cmd+click（Mac）/ ctrl+click（Windows）就可以选中图片上的任意部分
+
+作为参考它会自动识别你选择的区域是什么
+
+然后你们会看到图像上有 1、2、3、4、5 几个数字编号↓ 
+然后它会自动识别画面结构、物体关系、布局，可以精准定位（自动选择是“头发”还是“头部”
+
+如果元素过多，你可以通过下拉选择相应的元素
+
+像这样 
+选择你需要的元素后，下面就是见证奇迹的时刻了
+
+你只需要按照你想要的任意组合即可随意组装你的要的图像了
+
+就像排列组合一样
+
+比如这样↓ 
+就会生成这样的图像 
+当然你会觉得这有啥
+
+我们来加大难度
+
+我们一下选中 11个对象
+
+跨3张图 
+这样 
+我们就能精准替换和修改图像上的
+
+任意物体和对象 
+更详细的介绍和教程看这里：https://mp.weixin.qq.com/s/E7jBVkw0qNOnxfeNLYOTNA
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/1995396592803971189  
+
+**正文**
+
+🚀 斯坦福的“现代软件开发者”课程看起来是史上最酷的课程！
+
+最棒的是：幻灯片、阅读材料和作业都向公众开放，你也可以跟着学习！
+
+授课教师：Mihail Eric 
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/1994799482068664470  
+
+**正文**
+
+There’s a whole new generation of founders who are going to buy businesses and turn them into holding companies with software and AI: 
+
+how they’ll do it:
+
+step 1: acquire niche business at an attractive price
+step 2: create internet distribution to scale customer base
+step 3: build AI-assisted software to increase margins/make product more attractive 
+step 4: recycle cash-flow to buy more businesses
+
+---

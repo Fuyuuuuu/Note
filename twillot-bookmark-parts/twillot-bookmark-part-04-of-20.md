@@ -1,458 +1,6 @@
 # Twillot 書籤（精簡）— 第 4/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 590–786 則**（共 197 則）
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2034082485798314489  
-
-**正文**
-
-Claude Code 创建者写的如何使用和创建 Skills 
-
-如果你还不了解的话，强烈推荐看看！
-
-Anthropic 内部现在有数百个 Skills 在用，从 API 文档到部署流程全覆盖。他们把这些经验总结出来了。
-
-做个笔记📒：
-
-======
-
-Skills 不只是 Markdown 文件
-
-很多人以为 Skills 就是写个 Markdown 文档，其实不是。Skills 是一个文件夹，里面可以放脚本、资源文件、数据，甚至注册钩子函数。
-
-代理可以发现这些内容，读取它们，执行脚本，在特定时机触发钩子。这才是 Skills 最有意思的地方。
-
-最好的 Skills 都在创造性地使用这些配置选项和文件夹结构。
-
-======
-
-九种 Skills 类型
-
-Anthropic 把内部的 Skills 整理了一遍，发现它们基本归为九类。好的 Skills 能明确归入一类，混乱的 Skills 往往跨了好几类。
-
-------
-
-1. 库与 API 参考
-
-解释怎么用某个库、CLI 或 SDK。可以是内部库，也可以是 Claude 经常搞错的常用库。
-
-通常包含一个代码片段文件夹，加上一份"别踩这些坑"的清单。
-
-比如：
-▸ billing-lib — 你们内部计费库的边界情况和常见坑
-▸ internal-platform-cli — 内部 CLI 的每个子命令和使用场景
-▸ frontend-design — 让 Claude 更懂你们的设计系统
-
-------
-
-2. 产品验证
-
-描述怎么测试或验证代码是否正常工作。通常配合 Playwright、tmux 这些工具。
-
-验证 Skills 极其重要，值得让工程师花一周时间专门打磨。
-
-可以让 Claude 录制测试视频，或者在每一步强制执行程序化断言。这些通常通过在 Skill 里放各种脚本实现。
-
-比如：
-▸ signup-flow-driver — 在无头浏览器里跑注册流程，每步都有状态断言钩子
-▸ checkout-verifier — 用 Stripe 测试卡驱动结账界面，验证发票状态
-▸ tmux-cli-driver — 测试需要 TTY 的交互式命令行工具
-
-------
-
-3. 数据获取与分析
-
-连接你的数据和监控栈。可能包含带凭据的数据获取库、仪表盘 ID、常见工作流说明。
-
-比如：
-▸ datadog-metrics — 预设的仪表盘链接和常用查询
-▸ postgres-query-helper — 连接生产数据库的只读凭据和常用查询模板
-▸ user-analytics — 获取用户行为数据的脚本和分析模板
-
-------
-
-4. 业务自动化
-
-自动化重复的业务流程。比如创建 Jira ticket、发 Slack 通知、更新文档。
-
-这类 Skills 通常包含调用内部 API 的脚本，加上业务流程的说明。
-
-比如：
-▸ incident-reporter — 创建事故报告并通知相关人员
-▸ release-notes-generator — 从 Git 提交生成发布说明
-▸ onboarding-automation — 新员工入职的自动化流程
-
-------
-
-5. 代码脚手架
-
-生成项目或组件的初始代码结构。包含模板文件和生成脚本。
-
-比如：
-▸ react-component-scaffold — 生成符合团队规范的 React 组件
-▸ api-endpoint-generator — 生成 API 端点的样板代码和测试
-▸ microservice-template — 创建新微服务的完整结构
-
-------
-
-6. 代码质量与审查
-
-帮助审查代码质量、安全性、性能。可能包含 linter 配置、审查清单、自动化检查脚本。
-
-比如：
-▸ security-review — 安全审查清单和常见漏洞检查
-▸ performance-profiler — 性能分析工具和优化建议
-▸ code-review-checklist — 代码审查的标准流程
-
-------
-
-7. CI/CD 与部署
-
-管理持续集成和部署流程。包含部署脚本、环境配置、回滚流程。
-
-比如：
-▸ deploy-to-staging — 部署到测试环境的完整流程
-▸ rollback-helper — 快速回滚的脚本和检查清单
-▸ ci-debugger — 调试 CI 失败的常用方法
-
-------
-
-8. 运行手册
-
-处理生产环境问题的操作指南。通常是"如果 X 发生了，做 Y"的格式。
-
-这类 Skills 在紧急情况下特别有用，因为它们把经验固化成了可执行的步骤。
-
-比如：
-▸ database-recovery — 数据库故障恢复流程
-▸ traffic-spike-handler — 流量激增时的应对措施
-▸ memory-leak-debugger — 内存泄漏排查步骤
-
-------
-
-9. 基础设施运维
-
-管理云资源、容器、网络配置。包含 Terraform 脚本、Kubernetes 配置、监控设置。
-
-比如：
-▸ aws-resource-manager — 管理 AWS 资源的脚本和最佳实践
-▸ k8s-troubleshooter — Kubernetes 常见问题排查
-▸ terraform-helper — Terraform 模块和使用指南
-
-======
-
-写好 Skills 的最佳实践
-
-Anthropic 总结了一些实用的技巧，都是从实际使用中提炼出来的。
-
-------
-
-写明 Gotchas
-
-把常见错误和陷阱明确列出来。Claude 会认真读这些内容，避免重复犯错。
-
-比如在 API 文档里写："注意：这个端点有速率限制，每秒最多 10 次请求。超过会返回 429 错误。"
-
-------
-
-利用文件系统做渐进式披露
-
-不要把所有信息都塞在一个 Markdown 文件里。用文件夹结构组织内容，让 Claude 按需探索。
-
-比如：
-```
-my-skill/
-  README.md          # 概览和快速开始
-  examples/          # 代码示例
-  scripts/           # 辅助脚本
-  reference/         # 详细文档
-  gotchas.md         # 常见陷阱
-```
-
-Claude 会先读 README，需要时再深入其他文件。
-
-------
-
-存脚本和辅助库
-
-把可复用的脚本放在 Skill 里，而不是让 Claude 每次都重写。
-
-这些脚本可以是 Python、Bash、Node.js，任何能执行的东西。Claude 可以直接调用它们，或者读取代码学习怎么用。
-
-------
-
-使用稳定存储做记忆
-
-Skills 可以访问 `${CLAUDE_PLUGIN_DATA}` 目录，这是一个持久化存储位置。
-
-可以用来保存：
-▸ 上次运行的状态
-▸ 用户偏好设置
-▸ 缓存的数据
-▸ 历史记录
-
-这样 Skill 就有了"记忆"，可以在多次会话间保持状态。
-
-------
-
-按需钩子保护危险操作
-
-对于可能造成破坏的操作（删除数据、部署到生产环境），使用按需钩子（on-demand hooks）。
-
-这会在执行前弹出确认提示，让用户明确批准。
-
-比如在 Skill 的 frontmatter 里配置：
-```yaml
-hooks:
-  on_demand:
-    - name: deploy-to-prod
-      command: ./scripts/deploy.sh production
-      confirm: "确定要部署到生产环境吗？"
-```
-
-------
-
-用 PreToolUse 做度量
-
-可以注册 PreToolUse 钩子来记录 Skill 的使用情况。
-
-这样能知道哪些 Skills 最常用，哪些需要改进，哪些可以下线。
-
-======
-
-分发 Skills
-
-Skills 的一大优势是可以跟团队共享。有两种方式：
-
-------
-
-签入代码仓库
-
-把 Skills 放在 `./.claude/skills` 目录下，跟代码一起提交。
-
-适合小团队，在少数几个仓库间协作。但每个签入的 Skill 都会占用模型的上下文，所以不能无限增加。
-
-------
-
-插件市场
-
-创建一个内部插件市场，让用户上传和安装插件。
-
-适合大团队。用户可以选择安装哪些 Skills，不会污染所有人的上下文。
-
-Anthropic 没有集中式团队管理市场，而是有机地发现有用的 Skills。如果你有个好 Skill，上传到 GitHub 的沙箱文件夹，在 Slack 里分享链接。
-
-如果很多人觉得有用，就会被推广到正式市场。
-
-======
-
-管理市场的实用建议
-
-------
-
-设置沙箱区域
-
-在市场里创建一个"实验性"或"社区贡献"区域，让人们可以自由上传。
-
-好的 Skills 会自然浮现，然后可以移到"官方推荐"区域。
-
-------
-
-鼓励文档和示例
-
-要求每个 Skill 都有清晰的 README 和使用示例。
-
-没有文档的 Skills 很难被采用，即使功能很好。
-
-------
-
-定期清理
-
-定期检查哪些 Skills 没人用，考虑下线或合并。
-
-市场里 Skills 太多会让人不知道选哪个，保持精简很重要。
-
-------
-
-收集反馈
-
-提供简单的方式让用户反馈 Skills 的问题和改进建议。
-
-可以是 GitHub Issues，也可以是 Slack 频道。
-
-======
-
-实际案例
-
-Anthropic 分享了几个他们内部最受欢迎的 Skills：
-
-------
-
-commit-helper
-
-帮助写符合团队规范的 Git 提交信息。
-
-包含提交信息模板、常见类型（feat/fix/docs）的说明、以及检查提交信息格式的脚本。
-
-使用频率极高，因为每个人每天都要提交代码。
-
-------
-
-pr-reviewer
-
-自动化代码审查流程。
-
-会检查代码风格、测试覆盖率、安全问题，生成审查评论。
-
-节省了大量人工审查时间，让审查者可以专注于逻辑和架构问题。
-
-------
-
-incident-response
-
-生产环境事故响应流程。
-
-包含排查清单、常用命令、通知模板、事后总结模板。
-
-在紧急情况下特别有用，因为它把经验固化成了清晰的步骤。
-
-------
-
-api-docs
-
-内部 API 的完整文档和使用示例。
-
-Claude 经常需要调用内部 API，有了这个 Skill 就不用每次都查文档或问人。
-
-------
-
-test-runner
-
-运行测试的标准流程。
-
-包含不同类型测试（单元测试、集成测试、端到端测试）的运行方法，以及如何解读测试结果。
-
-======
-
-Skills 的未来
-
-Anthropic 认为 Skills 会朝几个方向发展：
-
-------
-
-更智能的发现机制
-
-现在 Claude 需要用户明确调用 Skill，未来可能会自动识别场景并推荐相关 Skills。
-
-比如你在写 API 调用代码，Claude 自动建议使用 api-docs Skill。
-
-------
-
-Skills 之间的组合
-
-现在 Skills 基本是独立的，未来可能会支持 Skills 之间的依赖和组合。
-
-比如 deploy-to-prod Skill 可以自动调用 test-runner 和 security-review Skills。
-
-------
-
-动态生成 Skills
-
-根据代码仓库的实际情况，自动生成或更新 Skills。
-
-比如扫描代码库，自动生成 API 文档 Skill。
-
-------
-
-跨团队共享
-
-建立公开的 Skills 市场，让不同公司的团队可以共享通用的 Skills。
-
-比如常用框架（React、Django）的最佳实践 Skills。
-
-======
-
-核心理念
-
-Skills 的本质是把团队的工程实践和领域知识固化成可复用的扩展。
-
-好的 Skills 应该：
-▸ 解决真实的重复性问题
-▸ 包含清晰的文档和示例
-▸ 利用文件夹结构和脚本增强能力
-▸ 在需要时提供保护机制
-▸ 容易分发和维护
-
-不要为了做 Skill 而做 Skill。从团队的实际痛点出发，把那些每次都要重复的事情固化下来。
-
-一个好的 Skill 能让整个团队的 AI 编程体验提升一个档次。
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/2034096899347910800  
-
-**正文**
-
-出门在外也能让 Claude 在电脑上干活
-
-Claude 彻底小龙虾化
-
-Claude Cowork 推出一的一个新功能：Dispatch，用手机远程指挥电脑上的 Claude 干活。
-
-打开 Cowork，找到 Dispatch 选项
-扫个二维码，手机就配对上了
-
-然后你电脑只要开着，你就能通过手机操控Cowork，让它去你的电脑里做任何事情...
-
-Dispatch 走的是 Cowork 的底层能力，你电脑上 Claude 能用的一切（本地文件、连接器、插件、浏览器），从手机端都能调用。
-
-能访问你连接的邮箱、网盘、Slack等，还能访问你电脑里的指定的或者所有文件，理论上是可以让它调用各个文件帮你干活。
-
-典型场景包括：
-
-数据处理： 你在外面，想让 Claude 从本地的 Excel 表格里提取数据，整理成摘要报告。发条消息就行，Claude 会访问你电脑上的文件，跑完把结果放好。
-
-信息汇总： 让 Claude 搜你的 Slack 消息和邮件，起草一份简报文档。省得你回到电脑前还得翻半天聊天记录。
-
-文件整理： 指定一个文件夹，让 Claude 按你的规则整理或处理里面的文件。
-
-演示制作： 让 Claude 从 Google Drive 里找素材，拼一份格式化的演示文稿。
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2034111663931330646  
-
-**正文**
-
-我刚看到一个很疯狂的实验。
-
-有人让 Claude 搭建了一个 “上帝视角” 终端：
-里面有 56 个实时运行的 AI agents，用来模拟真实世界的市场参与者。
-
-每个 agent 都有记忆、人格和行为模式，
-会形成群体、产生意见领袖，并且实时改变观点。 
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/2034142845645558151  
-
-**正文**
-
-硅谷最有影响力的产品经理类内容创作者之一，前 Airbnb 增长产品经理
-
-Lenny Rachitsky 将自己的350 篇顶级产品文章 + 300 集播客全部开源
-
-所有人都可以免费下载
-
-这 349 篇文章覆盖了产品管理、增长策略、用户研究、创业方法论等核心话题， 播客嘉宾包括 Spotify、Figma、Notion、Stripe 等公司的产品负责人。
-
-6 年积累下来，已经是产品管理领域最系统的知识库之一，你也可以用它的内容分析他的写作模式、思考模式和产品设计思路等....
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 601–800 則**（共 200 則）
 
 ---
 
@@ -4455,3 +4003,177 @@ but it's going to define how the next generation of founders sell.
 
 ---
 
+**作者** Lou（@loujaybee）  
+**貼文連結** https://x.com/loujaybee/status/2032052790747418863  
+
+**正文**
+
+Every software engineer is now a platform engineer.
+
+And every company now needs 'big tech' infra. 
+
+To get productivity from many agents in parallel and in the background, you have to do a bunch of repository setup and configuration. Companies like @stripe, @tryramp, @SpotifyEng and others have a huge leg up due to their platform and internal capabilities functions.
+
+There are a bunch of terms for this today: 'harness engineering, context engineering, (dark) software factories, AI-SDLC, ADLC, call it whatever. 
+
+@OpenAI harness engineering blog puts it well: 
+
+"This is the kind of architecture you usually postpone until you have hundreds of engineers. With coding agents, it’s an early prerequisite: the constraints are what allows speed without decay or architectural drift."
+
+https://openai.com/index/harness-engineering/
+
+---
+
+**作者** 墓碑科技（@mubeitech）  
+**貼文連結** https://x.com/mubeitech/status/2032037544989229146  
+
+**正文**
+
+英伟达 CEO 黄仁勋，把教育系统不愿承认的秘密，捅破了。
+
+他说，过去一百年，教育就是把人训练成计算机。
+现在，AI 一夜之间让这项技能变得一文不值。
+
+过去我们怎么定义聪明？
+智商高，会解题，懂技术。
+黄仁勋说，这些很快就会变成廉价商品。
+人工智能最先能处理的，就是这些事。
+
+最好的例子是什么？
+软件编程。
+曾经被认为是聪明人才能干的活。
+结果呢？
+成了 AI 第一个要解决的行业。
+
+那未来，到底什么是聪明？
+黄仁勋给了一个新定义：
+洞察力、同理心、感知弦外之音的能力。
+
+他管这个叫“Vibe”。
+一种直觉。
+它来自数据分析、第一性原理、人生阅历和对他人的感知。
+是预见还未发生问题的能力。
+
+最讽刺的一点是，
+拥有这种“Vibe”的人，SAT 考试分数可能一塌糊涂。
+
+这就引出一个问题了。
+我们的教育系统，究竟是在筛选真正的人才，还是在量产精致的螺丝钉？
+几十年来，大学和考试系统奖励的是什么？
+是遵守规则和记忆力。
+而不是独立思考和创造力。
+
+黄仁勋无意中点破了：
+一个旨在培养顺从雇员的系统，在新时代已经彻底破产。
+你的孩子，还在为了标准答案熬夜吗？
+
+---
+
+**作者** Arvind Jain（@jainarvind）  
+**貼文連結** https://x.com/jainarvind/status/2032103856549556697  
+
+**正文**
+
+Today we're releasing the AWARE framework—a guide for governing AI agents in the enterprise, developed by our Work AI Institute with security leaders at @Glean, @PaloAltoNtwks, and @databricks.
+
+Why now? We noticed something in hundreds of conversations with CIOs and CISOs: everyone is trying to secure AI agents using tools and frameworks that were never designed for autonomous systems.
+
+Enterprise security was built for human users, structured systems, and predictable data flows. Agents break all three assumptions. They retrieve, decide, and act across tools—often without a human in the loop. And the current playbook doesn't account for that. Most companies are governing agents the same way they govern SaaS apps, and it's not working.
+
+The numbers bear this out. Only 17% of organizations have automated controls for AI data flows. AI-specific breaches take 290 days to contain—40% longer than traditional breaches. The fundamental question has changed. It's no longer "does this person have permission?" It's "is this behavior appropriate, right now, in this context?"
+
+We developed the AWARE framework to start codifying how enterprises should think about this:
+𝗔ctor Intent: Who or what is acting, and why?
+𝗪ork Context: Is this data sensitive right now, in this context? 
+𝗔utonomous Guardrails: Is the agent staying within its declared scope? 
+𝗥eal-Time Risk Scoring: How risky is this behavior at this moment?
+𝗘cosystem Observability: Can we trace what it did across every system it touched?
+
+Nobody has this entirely figured out, but we need a framework for moving forward. The organizations that treat agent governance as a design principle (not a bolt-on) will be the ones that scale AI with confidence.
+
+See everything we announced at Glean's Security Showcase today at 10am PT: https://glean-it.com/4s4Xidf
+Read the full framework here: https://glean-it.com/3Nawklv
+
+---
+
+**作者** Khe Hy（@khemaridh）  
+**貼文連結** https://x.com/khemaridh/status/2031746834872541608  
+
+**正文**
+
+Chat is dead! Chat is dead!
+For the better part of 2025, I predicted that chat wouldn't be how we ultimately use AI.
+Claude Code, Cowork and now Microsoft Cowork proved that I was right.
+But one
+
+---
+
+**作者** Pear VC（@pearvc）  
+**貼文連結** https://x.com/pearvc/status/2032140598787129848  
+
+**正文**
+
+The most successful companies don't start with a product. They start with a problem worth solving.
+
+Today we're sharing Pear's Request for Startups: 11 areas we’re most excited to see founders tackle next. 
+
+You can read the full post here:https://pear.vc/request-for-startups/
+ 
+👇 Here are the highlights:
+
+@ShravanGReddy 
+🗺️ Plan-mode for every knowledge worker: Vertical AI that plans before it executes
+🔍 Personalized people search for the agent era: Context-rich data for agentic workflows
+
+@ryanbsells 
+🏦 Financial-grade agent infrastructure: Trust, policy & audit layers for agents in finance
+🛒 Intent-native commerce infrastructure: Rebuilding commerce for agents, not browsers
+
+@MarHershenson 
+🎙️ Ambient AI for vertical workflows: The Jump AI / Abridge playbook, applied everywhere
+💸  Agents to manage SMB expenses: Continuous cost optimization, running in the background
+
+@wwshaef 
+✅ Verified consumer health marketplaces: Accountability-first health commerce
+🤝 IRL trust networks: Real-world reputation, made portable in an AI-saturated world
+
+@eddie_eltoukhy 
+🧬 Foundational datasets for biological intelligence: Closing the data bottleneck in AI-driven biology
+
+@ParambathAndrew 
+🏥 Systems of record → Systems of coordinated action in healthcare: Beyond EHRs, actual execution across stakeholders
+📊 Outcome-based models in healthcare: Paying for results, not activity
+
+---
+
+**作者** Alex Vacca（@itsalexvacca）  
+**貼文連結** https://x.com/itsalexvacca/status/2032124171560583250  
+
+**正文**
+
+We built ColdIQ to $7M+ ARR on outbound. 400+ clients. Remote team across 10 countries. All in under two and a half years. I left an $80K role at Sam Altman's company because I believed cold outreach
+
+---
+
+**作者** a16z（@a16z）  
+**貼文連結** https://x.com/a16z/status/2031783478023635213  
+
+**正文**
+
+New media runs on speed.
+
+@pmarca on the OODA loop:
+
+"Speed wins."
+
+"If you can have a sustainably faster OODA loop processing cycle than the next guy... then if you think about what happens — let's say it takes an hour to figure something out."
+
+"It takes the other guy two hours to figure something out. Think about what happens is: you start out on even playing field. You both start your decision making cycles."
+
+"You make your decision within an hour. The other guy is still say, is inside his own OODA loop when you make your decision, right?"
+
+"He's only halfway through his process, he now has to start his process over, right — because you've changed the landscape. You've changed the parameters of what's going on. So he now has to go back and re-serve and reorient and start over."
+
+Observe, orient, decide, action.
+
+---

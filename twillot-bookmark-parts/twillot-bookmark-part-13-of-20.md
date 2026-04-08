@@ -1,1258 +1,6 @@
 # Twillot 書籤（精簡）— 第 13/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 2359–2554 則**（共 196 則）
-
----
-
-**作者** Garry Tan（@garrytan）  
-**貼文連結** https://x.com/garrytan/status/2015699790060048762  
-
-**正文**
-
-The future is already here, just not evenly distributed
-
----
-
-**作者** Corey Chiu（@realcoreychiu）  
-**貼文連結** https://x.com/realcoreychiu/status/2015592352883331298  
-
-**正文**
-
-发现lenny's newsletter还送一年的manus会员，太爽了 
-
----
-
-**作者** Orange AI（@oran_ge）  
-**貼文連結** https://x.com/oran_ge/status/2015731367070622149  
-
-**正文**
-
-今天给团队提前发放了 2025 全年年终奖，很开心。
-有始有终，做完这件事，去年的事情才算是彻底结束。
-
-为什么要提前发放？
-我们就 20 来个人，每个人在去年的贡献都非常清晰，不需要搞 360 环评那一套浪费时间。
-我们也不需要像大厂那样，为了防止员工跳槽，把年终奖拖到 3 月 4 月才发。
-公司现金流也很健康，不差这一个月提前的。
-
-另外还有一个原因，我的联创 Kris 有个“发薪日理论”：
-“每月 10 日发薪的公司，和每月 20 日发薪的公司，是两种公司。”
-我想，每年 1 月发年终奖的公司，和 3 月发年终奖的公司，也是两种公司。
-
-我们努力做第一种公司。
-
-自然地，我们也不必等金三银四，提前开启 2026 年的招聘，欢迎投递：
-1. Infra Leader / Infra 工程师：资深后端，负责降本增效、运维、技术基建
-2. Agent 工程师:  有产品 sense 、有多模态理解、能工程化落地，负责技术驱动 AI 产品创新
-3. FullStack 工程师：解决问题能力强，超级个体，负责核心业务流的端到端交付
-4. 全栈偏前端 / 前端工程师：有 AI 认知有产品 Sense 有艺术美感，负责定义下一个世代的 AI 多模态产品
-5. QA 工程师: 责任心强、有 AI 认知、逻辑敏感，负责产品质量把控
-6. Agent 产品经理：负责推动面向未来的创作助理 Agent
-7. 产品设计师：负责设计国际化的 UI 和 AI 时代 UX
-
-联系方式：
-技术岗位：k@marswave.ai
-产品岗位：o@marswave.ai
-
----
-
-**作者** wwwgoubuli（@wwwgoubuli）  
-**貼文連結** https://x.com/wwwgoubuli/status/2015694595850637342  
-
-**正文**
-
-Trae 真的是在不声不响地把能力追上来了。
-
-没有说他就是顶级coding agent，没收钱。
-
-字节系做产品真可怕。
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2015705273739162083  
-
-**正文**
-
-你现在就开始为企业安装、配置和优化 Clawdbot，到 2026 年很可能能做到 1000 万美元以上收入 
-你现在就开始为企业安装、配置和优化 Clawdbot，到 2026 年很可能能做到 1000 万美元以上收入 
-源：https://x.com/gregisenberg/status/2015462950367101430
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2015702639825346595  
-
-**正文**
-
-上周，Peter Steinberger 🦞 现身 Unicorn Mafia 之夜，向大家展示了 Clawd。
-
-它是一个“云端龙虾”，也是一个开源 AI agent，可以跑在很普通的硬件上，并直接接入你的聊天工具。
-
-上周，Peter Steinberger 🦞 现身 Unicorn Mafia 之夜，向大家展示了 Clawd。
-
-它是一个“云端龙虾”，也是一个开源 AI agent，可以跑在很普通的硬件上，并直接接入你的聊天工具。
-
-源：
-https://x.com/davidgelberg/status/2015154809263853680
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2015702099435434261  
-
-**正文**
-
-Claude 在 Excel 里正在打破“封闭式分析”的门槛。
-
-只用几个提示词加上 Factset 数据，就做出了Google搜索收入与 AI 基础设施成本的基准 / 乐观 / 悲观三种情景分析。
-
-这种级别的分析，过去通常得等华尔街研报才能看到。
-
-财报季要炸了 🔥 
-Claude 在 Excel 里正在打破“封闭式分析”的门槛。
-
-只用几个提示词加上 Factset 数据，就做出了Google搜索收入与 AI 基础设施成本的基准 / 乐观 / 悲观三种情景分析。
-
-这种级别的分析，过去通常得等华尔街研报才能看到。
-
-财报季要炸了 🔥 
-“新建一个名为 ‘summary’ 的工作表，只展示高层级结论。把关键数字做得更大、更直观，方便不常用 Excel 的人也能一眼看懂。” 
-源：
-https://x.com/dee_bosa/status/2015204706813911207
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2015703828755317233  
-
-**正文**
-
-如果你是 VC，却还没搭建 Claude Code、Clawdbot 等工具……
-
-首先，你到底在干嘛？？？（你的工作本来就是最适合被这些工具极度流程化优化的）
-
-其次，一边投资 AI，一边却不亲手搭建最基础的 agent 工具体系，你自己不觉得割裂吗？
-
-最好的开始时间就是现在 
-如果你是 VC，却还没搭建 Claude Code、Clawdbot 等工具……
-
-首先，你到底在干嘛？？？（你的工作本来就是最适合被这些工具极度流程化优化的）
-
-其次，一边投资 AI，一边却不亲手搭建最基础的 agent 工具体系，你自己不觉得割裂吗？
-
-最好的开始时间就是现在 
-源：https://x.com/jayyeh/status/2015529776187060481
-
----
-
-**作者** Stuart Blitz（@StuartBlitz）  
-**貼文連結** https://x.com/StuartBlitz/status/2015252565999407199  
-
-**正文**
-
-VC vs. founder 
-
----
-
-**作者** Viking（@vikingmute）  
-**貼文連結** https://x.com/vikingmute/status/2015421028705640953  
-
-**正文**
-
-这位老哥发现 Claude Code 中的一个隐藏模式，Swarms模式，变成了和一个  team lead 对话，
-
-teamlead 负责制定计划委派任务，
-当你批准它的计划后，它就会进入一个全新的“delegation mode”，然后生成一系列的工程师，这些工程师会：
-
-* 共享任务
-* 并行工作
-* 互相发消息协调工作
-
-可以看看他录的 demo，让我想起了 OpenCode 中的 oh-my-opencode 插件，当然我估计这肯定是烧 token 的神器。
-
-用法在这个 repo 中：https://github.com/mikekelly/claude-sneakpeek
-
----
-
-**作者** MindfulReturn 身心修复局（@MindfulReturn）  
-**貼文連結** https://x.com/MindfulReturn/status/2015210399482933708  
-
-**正文**
-
-# 你真的了解压力吗
-
-公司财务前几天心肌梗塞入院。平时看着挺好，但他做的工作其实很耗心力。
-
-长期压力，加上程序员常见的熬夜、久坐、洗冷水澡，这些看似不相干的事，背后都被一个激素驱动。
-
-皮质醇。
-
-你可能听说过肾上腺素，但不了解皮质醇。肾上腺素是战斗或逃跑的爆发力，皮质醇是压力的慢性累积。短期升高是生存本能，长期升高就是健康杀手。
-
-这篇文章简单说清楚皮质醇怎么影响健康，以及如何管理它。
-
-## 压力的指挥中心
-
-皮质醇由肾上腺分泌，真正的老板是大脑中的HPA轴。
-
-HPA轴就是压力指挥系统，从大脑到肾上腺传递信号。
-
-祖先遇到猛兽时，HPA轴快速启动，血糖血压升高，为战斗或逃跑提供能量。这套系统进化上很有意义。
-
-但现代人压力不再是猛兽，而是项目Deadline、代码Bug、客户需求。这些慢性压力让HPA轴持续激活，皮质醇长期高位。
-
-正常情况下，皮质醇有严格昼夜节律。早晨醒来达到峰值，白天缓慢下降，午夜最低。长期高压后，曲线变平了。
-
-身体失去了自我调节能力。
-
-![Article Image](<https://pbs.twimg.com/media/G_TwIprbAAISJfx.jpg>)
-
-## 从压力到疾病
-
-持续高压导致皮质醇升高，触发一系列生理改变。
-
-短期：血糖升高、血压升高、免疫系统抑制。这些是为了应对紧急情况。
-
-长期问题严重：胰岛素抵抗、血管内皮损伤、胃黏膜屏障破坏、免疫功能低下、肌肉分解。
-
-最终导向心肌梗塞、胃溃疡、突发死亡、代谢综合征。
-
-皮质醇通过三条路径损伤心血管：
-
-血压升高促进血管收缩，脂质代谢紊乱导致内脏脂肪堆积，炎症反应促进动脉粥样硬化。
-
-## 三者叠加，大幅提升心肌梗塞风险。
-
-皮质醇对胃肠道的伤害也很直接。抑制胃黏液分泌让胃黏膜失去保护，抑制胃黏膜修复让伤口愈合能力下降，增强胃酸分泌刺激胃壁细胞。
-
-这就是压力大会导致胃痛、胃溃疡甚至胃出血的原因。
-
-猝死往往是最后一根稻草，但稻草下的土壤是长期铺垫的。心肌细胞持续应激，血管内已有动脉粥样硬化斑块，突发压力诱发斑块破裂，血栓形成导致心脏骤停。
-
-皮质醇在这个过程中，既是土壤的养分，也是稻草的加重者。
-
-## 程序员为什么高危
-
-程序员的职业特点使其成为皮质醇过量的高危群体。
-
-时间压力来自Deadline和上线赶工，技术压力来自新技术学习和复杂Bug，责任压力来自核心系统稳定性，不确定性来自需求变更和系统故障。
-
-这些压力的持续性特征很可怕：高频、长期、持续、随机。
-
-再看程序员生活方式：熬夜导致昼夜节律紊乱，久坐导致血液循环不畅，外食外卖导致营养失衡，缺乏运动导致皮质醇代谢慢。
-
-中国IT行业2023年调查数据触目惊心：平均每周工作55-65小时，熬夜率78%，长期高压比例64%，近一年体检异常率82%。
-
-这些数据叠加，解释了为什么程序员猝死新闻频现。这是风险累积的必然。
-
-![Article Image](<https://pbs.twimg.com/media/G_TwdD-bYAAwgem.jpg>)
-
-## 关于冷水澡的真相
-
-现在很多程序员都说靠冷水澡来刺激疲惫的精神。
-
-过去几年，冷水澡被包装成健康神器，说能激活肾上腺、提升代谢、抗衰老。
-
-这些说法看似有道理，短期冷水刺激确实会激活身体。
-
-但对于已经长期高压的个体，这种激活不是雪中送炭，是雪上加霜。
-
-研究数据显示，冷水刺激立即触发皮质醇升高50%-200%，肾上腺素飙升300%-500%，交感神经全面激活。
-
-这其实是身体遭遇紧急威胁时的求生反应。
-
-有些研究声称长期冷水澡降低静息皮质醇，但结论存在严重问题。测量时间点选择偏差，测量的是冷水澡后恢复期。所谓提高压力阈值，只是暂时麻痹反应，长期可能降低恢复能力。
-
-激活棕色脂肪产热需要持续暴露，而暴露过程本身就是应激。
-
-## 关键真相：如果你已经长期高压，肾上腺已经在超负荷工作。再增加冷水这种额外应激，就像让跑了10公里的马拉松选手，再去冲刺1000米。
-
-![Article Image](<https://pbs.twimg.com/media/G_TwkdtbAAIY_NC.jpg>)
-
-他可能还能跑，但这是透支，不是训练。
-
-什么人不应该洗冷水澡？
-
-已存在心血管疾病、有胃溃疡或严重胃病、焦虑症或抑郁症患者、失眠严重者、长期高压工作者、皮质醇水平已异常偏高者、身体虚弱或容易疲劳者。
-
-程序员群体尤其危险。长期脑力疲劳导致HPA轴持续激活，熬夜导致昼夜节律紊乱，肾上腺节律失衡，久坐导致循环代谢减慢，心理压力导致交感神经持续紧张。
-
-这种状态下，冷水澡是压垮骆驼的最后一根稻草。
-
-长期应激加上冷水刺激，会导致肾上腺透支。长期高压后皮质醇处于高位，冷水刺激让它短暂飙升，身体应对时调动更多肾上腺储备，肾上腺受损后调节能力下降，日常压力更难应对，皮质醇又持续高位。
-
-心血管风险叠加更危险。冷水刺激让血管急剧收缩、血压瞬间升高，长期高压下血管已受损、已有硬化斑块，叠加效应导致斑块脱落风险大幅增加。
-
-我们要调整立场，不再推荐冷水澡作为皮质醇管理手段。
-
-短期效应明确是应激，皮质醇和肾上腺素飙升，这不是修复，是透支。长期收益不明确，所谓适应性可能是肾上腺储备耗竭前兆。风险远大于收益，尤其对已经高压的群体。存在更安全的替代方案，温水、冥想、运动等都能达到类似效果，且无透支风险。
-
-如果已在洗冷水澡，感觉良好可缓慢减少频率，不突然停止。如果感觉疲惫、焦虑或失眠加重，立即停止，温水替代。
-
-持续监测身体信号：晨起精力、压力承受度、心率变化。
-
-## 真正有效的方案
-
-既然冷水澡不推荐，什么才是真正有效的皮质醇管理手段？
-
-## 温水加上镇静呼吸。
-
-温水36-40摄氏度激活副交感神经，直接降低皮质醇。温度刺激促进血管扩张、降低血压，温水触觉激活迷走神经、促进放松，配合深呼吸效果倍增。
-
-研究显示，40摄氏度温水浴15分钟可降低皮质醇20%-30%，效果可持续2-4小时，对高压人群效果更显著。
-
-实践上，每晚用36-38摄氏度温水淋浴或泡澡，时长15-20分钟，配合各种呼吸法：比如我推荐的内观呼吸法等等，可以自行练习。
-
-![Article Image](<https://pbs.twimg.com/media/G_TwvWEaoAEvyV0.jpg>)
-
-## 高强度间歇训练也非常有效。但切记不可过量，否则皮质醇一样升。
-
-运动是唯一被证明可以主动降低皮质醇的手段。快速运动时皮质醇暂时升高，但运动后身体会主动补偿性降低皮质醇，长期规律运动基础皮质醇水平下降。
-
-HIIT训练可使基础皮质醇降低15%-25%，每周3次每次20-30分钟即可见效，4周后效果显著。
-
-经典HIIT方案：8个循环，每个循环全力运动20秒、休息10秒，总时长4分钟。进阶方案：先热身5分钟，再做HIIT15分钟，最后冷身5分钟，总计25分钟。
-
-频率每周2-3次。如已存在心血管疾病，先咨询医生。逐渐增加强度，不突然开始高强度。运动后充分休息和补充营养。
-
-## 正念冥想也能直接降低皮质醇。
-
-冥想通过改变大脑结构，降低HPA轴活跃度。减少杏仁核恐惧中心活动，增强前额叶理性中心控制，长期冥想者静息皮质醇水平更低。
-
-每日10分钟冥想，8周后皮质醇降低20%。MRI研究显示，冥想8周后杏仁核体积缩小。效果与抗焦虑药物相当，且无副作用。
-
-入门方案第1-2周：每日10分钟，做呼吸觉察冥想，关注呼吸不评判念头，可使用Calm或Headspace等App引导。
-
-进阶方案第3周后：增加到15-20分钟，加入身体扫描冥想，尝试正念行走，户外散步时觉察当下。
-
-时间安排：最优早起10分钟加睡前10分钟，次优固定时间段如午间休息。
-
-## 睡眠优化同样重要。
-
-睡眠是皮质醇代谢的黄金窗口。深度睡眠时皮质醇降到全天最低，睡眠不足皮质醇无法充分下降。熬夜1晚，次日皮质醇升高30%-50%。
-
-睡眠少于6小时者基础皮质醇升高40%，睡眠质量改善皮质醇下降15%-20%，4周规律作息皮质醇曲线恢复正常节律。
-
-作息调整：固定就寝时间23点前，固定起床时间7-8点，周末不晚于1小时。
-
-睡眠环境：温度18-22摄氏度，避光完全黑暗或使用眼罩，安静噪音小于30分贝或使用白噪音机，睡前1小时禁止使用电子设备。
-
-睡眠前仪式：温水淋浴或泡脚15分钟，阅读纸质书，10分钟冥想或呼吸练习，不喝咖啡因饮料。
-
-如失眠，不强迫睡眠，起床做轻松活动，避免看时间，考虑褪黑素短期使用，持续失眠超过2周就医评估。
-
-## 营养支持也能降低皮质醇。
-
-特定营养素可降低皮质醇合成，保护肾上腺功能，促进皮质醇代谢，减轻炎症反应。
-
-维生素C是肾上腺合成皮质醇的必需营养素，补充后肾上腺负担减轻，早餐后或运动后补充500-1000毫克每日。
-
-镁促进神经肌肉放松，降低应激反应，使用甘氨酸镁或苹果酸镁，睡前补充300-400毫克每日。
-
-健身运动员经常吃的zmA也非常有效。
-
-B族维生素支持肾上腺功能，是能量代谢必需，早餐后补充B复合。
-
-Omega-3脂肪酸抗炎，减轻慢性炎症，改善应激反应，随餐补充1-2克EPA加DHA每日。
-
-饮食调整：减少精制糖避免血糖波动导致皮质醇波动，增加蛋白质稳定血糖降低皮质醇，适量健康脂肪作为激素合成原料，避免咖啡因过量少于2杯咖啡每日且下午2点后不喝。
-
-![Article Image](<https://pbs.twimg.com/media/G_TxE-AbAAAfLg6.jpg>)
-
-## 温和才是力量
-
-皮质醇不是敌人，是进化的馈赠。它让我们在关键时刻调动资源、应对危机。问题在于，现代生活的慢性压力让它失去了节制，从临时动员者变成了慢性杀手。
-
-更危险的是，我们有时会为了对抗压力，引入更多应激手段。比如冷水澡、极限挑战、持续加班。这些看似硬核的方法，本质上是对身体的进一步透支。
-
-真正的健康不是与身体对抗，是与身体合作。
-
-温水、呼吸练习，冥想、充足睡眠、温和运动。这些看似软弱的方法，恰恰是最有效的皮质醇管理策略。
-
-作为程序员，大脑是核心竞争力，但身体是承载这一切的载体。学会用温和方式管理皮质醇，不是放弃职业追求，而是让职业生涯更可持续。
-
-这些温和的改变，会在未来的某一天，成为拯救你生命的那个决定性瞬间。
-
-有时候，慢下来，才是最快的路。
-
----
-
-**作者** Paul Mit（@pmitu）  
-**貼文連結** https://x.com/pmitu/status/2015432709124784459  
-
-**正文**
-
-Hey 👋
-
-This is [Paul](<https://twitter.com/pmitu>), founder of [FlowMapp](<https://www.flowmapp.com/>).
-
-I know many of you are thinking about own product or have already started building it.
-
-Just like we did a few years ago: from 0 → to 400k users and $600k+ MRR.
-
-I decided to share 12 growth channels that worked for us and will be useful for your journey.
-
-![Article Image](<https://pbs.twimg.com/media/G_g4vitWkAAKHj5.jpg>)
-
-## Stage 1: Design studio → Product
-
-We were a small design studio: UX/UI, branding, websites.
-
-We got the idea: why don’t we make an internal tool for all studio projects?
-
-We started spending 5% of our resources on it. Then 10%. Then 25%. And when we realized we were passionate about it more than 50% of the time, we decided to ❌ close the studio and became [Flowmapp](<https://www.flowmapp.com/>) product team.
-
-## Stage 2: Product growth
-
-We launched freemium SaaS and grew to 400k users (total signups).
-
-Bootstrapped, no VC.
-
-According to Google Analytics we acquired more than 2,000,000+ website visitors with ‘$0 marketing’ strategy.
-
-We work on Product-led Growth strategy using only organic channels. Here are 12 of them that worked for us.
-
-![Article Image](<https://pbs.twimg.com/media/G_g5qZ2XMAAebMa.jpg>)
-
-## Organic Growth Channels
-
-## 01. SEO
-
-We started working on it BEFORE the product launch. We designed the first version of landing page. Did SEO-research and optimisation (very well-known measures, nothing ultra-professional).
-
-Google search traffic was on of the first source and the first influx of new audience.
-
-SEO is a long marathon. The earlier you start, the better.
-
-## 02. Blog
-
-I think that content marketing is a king. Especially in 2026.
-
-So back in 2017 we run Wordpress blog and wrote by ourselves first articles: story behind startup, initial idea, value of the product, how it works and how it supposed to be used, about target audience and how we solve their pains.
-
-[Our blog](<https:// https://www.flowmapp.com/blog>) is currently running on WebFlow:
-
-![Article Image](<https://pbs.twimg.com/media/G_g935VWYAArM9P.jpg>)
-
-## 03. Medium
-
-Now we reached almost [25k followers on Medium](<https://medium.com/@Flowmapp>), but we started from 0.
-
-In addition to a WP blog on our website (for SEO purposes), we decided to create our own brand voice.
-
-This is a great mistake: to choose between self-hosted blog and Medium blog. No need to choose, better to run both.
-
-Medium is blog-content social network with own organic audience + great Google visibility.
-
-I suggest to to use advantages of both channels.
-
-## 04. Landing Page
-
-We just released the 5th version of our website and all the previous ones have won awards (Site of the Day, etc.).
-
-UX/UI/Design approach works great for a lot of aspects: user conversion, user acquisition, Google optimisation, referral, social mentions.
-
-![Article Image](<https://pbs.twimg.com/media/G_g7G7sX0AAobba.jpg>)
-
-Landing page is the most important marketing touchpoint for every Saas!
-
-## 05. Socials
-
-There are few suggestions:
-
-1. Start your social journey asap, your audience is already there.
-1. Start your socials before launch on idea stage.
-1. Start building your personal brand as founder. And ask co-founders too.
-1. Grow your social capital.
-1. Networking is the key to many opportunities (that you can’t plan ahead).
-
-## 06. Reviews
-
-Collect testimonials at external platforms such as [G2](<https://www.g2.com/products/flowmapp/reviews>), [Capterra](<https://www.capterra.com/p/11487/FlowMapp/>), etc.
-
-Use your first users for it. Ask them to share feedback: don’t afraid to do it, reward for it.
-
-Social proof is very very very important for people to make a decision of paying for your service. Collect it on platforms, share in your socials, put on the website, include to newsletter.
-
-## 07. Product Hunt
-
-I’m not gonna hide it, we’re in love with the PH ([we've launched almost 10 times](<https://www.producthunt.com/products/flowmapp>) since then). That was our first growth step: first users, traffic, clients, mentions.
-
-![Article Image](<https://pbs.twimg.com/media/G_g7v33WYAExmLz.jpg>)
-
-Today there are plenty of platforms like PH: [Betalist](<https://betalist.com/>), [Microlaunch](<https://microlaunch.net/>), etc. (google ‘PH alternatives’).
-
-## 08. Micro-Media
-
-Well, before TechCrunch writes about you, pay attention to local media resources and professional media-blogs in your sphere.
-
-As for me, it’s better to have 10 mentions (and external links) in small media websites, rather than 1 in big.
-
-## 09. Influencers
-
-Make friends with opinion leaders.
-
-(again about social activity)
-
-Make connections and build relationships. Ask for help, ask for support, ask for reposts, and give smth back:
-
-![Article Image](<https://pbs.twimg.com/media/G_g8nj-XUAA9h2u.jpg>)
-
-## 10. Communities
-
-Be visible in communities where your audience is active: Reddit, Indie Hackers, LinkedIn, Telegram groups, Slack communities, etc.
-
-If you can get not only the founder involved, but the rest of the team as well.
-
-## 11. Partnerships
-
-Look for similar startups for win-win interaction.
-
-We had co-promo in socials, featuring in newsletters, interviews in blogs, etc.
-
-![Article Image](<https://pbs.twimg.com/media/G_g9IxuXEAIuYWO.jpg>)
-
-Opportunities appear wherever you are proactive. Get to know each other, make suggestions. It’s not as hard as it seems!
-
-Everyone do marketing, so look for teams who are on the same level as you for audience sharing and mutual growth.
-
-## 12. WoM
-
-Do whatever it takes to get recommended.
-
-One of the best approach is talking directly to your users (email, dm, zoom, etc.). Personal approach + engagement boosts WoM:
-
-![Article Image](<https://pbs.twimg.com/media/G_g_nd6WoAA9eQC.jpg>)
-
-Now we are a team of 10 people trying to scale product to $1M+ ARR.
-
-Hope these helps and good luck with your future products!
-
-Feel free to message me ([tw](<https://twitter.com/pmitu>), [li](<https://www.linkedin.com/in/pavelmityukhin/>)) if you have any questions.
-
-🙌
-
----
-
-**作者** WquGuru🦀（@wquguru）  
-**貼文連結** https://x.com/wquguru/status/2015458197365268882  
-
-**正文**
-
-1. 极简主义 (Minimalism)
-
-复杂的系统 ≠ 强大的系统
-简单的系统 + 强大的模型 = 更强大的系统
-
-- 单一 Master Loop，无分类器/路由器/DAG
-- 8 个核心工具，而不是数十个专用工具
-- Bash 作为通用适配器，而不是为每个场景定制工具
-
-2. 信任模型 (Trust the Model)
-
-当模型能力足够强时,让模型做决策
-而不是用代码限制它
-
-- 工具选择由模型决定，不是手写规则
-- 任务分解由模型决定，不是预定义的 DAG
-- 错误恢复由模型决定，不是硬编码的重试逻辑
-
-3. 隔离与组合 (Isolation & Composition)
-
-复杂任务 = 简单任务的组合
-隔离 = 可预测性
-
-- Sub-Agent 隔离探索性任务，保持主上下文清洁
-- 深度限制为 1，避免不可预测的递归
-- 每个 Sub-Agent 只返回摘要，不污染主上下文
-
-4. 渐进式优化 (Progressive Enhancement)
-
-先让它工作,再让它快,最后让它优雅
-
-- 2024 年 6 月： 基础工具调用
-- 2024 年 9 月： Claude Code 原型
-- 2025 年 10 月： Agent SDK
-- 2025 年 12 月： Programmatic Tool Calling + Tool Search
-
-每一步都是在前一步的基础上优化，而不是推倒重来。
-
-5. 安全第一 (Safety First)
-
-强大的能力 = 强大的责任
-
-- 四层权限防护 （提示/规则/Hooks/沙箱）
-- Constitutional AI 训练，模型自主拒绝有害行为
-- 危险模式检测，自动标记高风险操作
-
----
-
-**作者** 墓碑科技（@mubeitech）  
-**貼文連結** https://x.com/mubeitech/status/2015434080821686748  
-
-**正文**
-
-管理公司的旧方法已经死了。
-
-Coinbase的CEO Brian Armstrong揭示了他是如何用AI代理来运营公司的。
-这给未来的领导力指明了方向。
-
-第一，实时监控。
-告别“季度审查”这种老古董吧。
-Armstrong用AI代理实时整合Slack和电子邮件。
-他能感受到整个公司的“脉搏”，在瓶颈变成危机之前就发现它们。
-
-第二，RAPID-D决策框架。
-在Coinbase，AI在决策桌上有一席之地。
-他们的系统用AI代理来辩论战略，挑战假设，并探查每个重要提案的弱点。
-AI不仅是工具，更是一个参与者。
-
-第三，CEO的私人教练。
-Armstrong用AI来审查自己的日程安排。
-AI将他的日常行为与公司的首要目标进行比较，并准确地告诉他时间浪费在哪里。
-CEO反过来问AI，我该思考什么。
-AI告诉他，某个团队在战略上存在分歧，而他之前毫不知情。
-
-第四，要么适应，要么走人。
-命令很简单。
-“7天内学会AI编程，否则走人。”
-Armstrong解雇了那些拒绝学习的工程师。
-结果呢？
-Coinbase三分之一的代码现在由AI生成，目标是50%。
-
-这套玩法正在从“使用AI的公司”转变为“代理式组织”。
-信息延迟被清零。
-但这种效率的代价是什么？
-当一个CEO依赖AI洞察组织脉搏，他失去的是与人真实互动的直觉和温度。
-AI可以分析所有数据，但它能理解人心和文化吗？
-当AI成为决策桌上的“参与者”，它有没有自己的偏见？
-它的算法由谁编写，又服务于谁的终极利益？
-把公司的命运和员工的未来交给一个黑箱算法，这真的可靠吗？
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/2015616465051742453  
-
-**正文**
-
-程序员看到 Agent Skills，很多人第一反应是：“这不就是脚本换个壳吗？我用 Python 半小时就能写出来，还更稳定。”
-比如安替老师：
-我怎么觉得现在 skills 炫耀的功能，基本上我很快就可以用 Claude Code 手搓一个
-
----
-
-**作者** Richmond Alake（@richmondalake）  
-**貼文連結** https://x.com/richmondalake/status/2015583135866474916  
-
-**正文**
-
-I watched this twice.
-
-Great interview from @hwchase17 that touches on  context engineering, memory, agent harness and the overall fast moving state of agent engineering.
-
-Side note ↴
-One thing that's interesting about @LangChain is that they’ve expanded "very quickly" from a framework into a full agent stack:
-👉🏾 LangChain — core framework for LLM apps
-👉🏾 LangGraph — agent orchestration and stateful workflows
-👉🏾 LangMem — memory management for agents
-👉🏾 LangSmith — observability, evaluation, and debugging
-👉🏾 Deep Agent — agent harness with opinionated engineering 
-👉🏾 Agent Builder — tooling to build and ship agents faster
-
-https://www.youtube.com/watch?v=vtugjs2chdA
-
----
-
-**作者** Derek Nee（@DerekNee）  
-**貼文連結** https://x.com/DerekNee/status/2015547377806086441  
-
-**正文**
-
-each mac is fully controlled by a single AGENT. it can operate browsers with insane efficiency and interact directly with native mac apps.
-
-under each agent there are multiple SOTA SUBAGENTS including claude code. we can literally tell dozens of agents to post content on their own accounts simultaneously. not building a social media bot farm obviously, just a random example.
-
-the whole system is extremely human friendly. zero setup needed. no config. just works out of the box.
-
-this is designed for daily use on your personal machine. the mac mini cluster is just for testing, training, and exploring fun use cases.
-
-no download link yet. the current flowithOS beta online is a completely different thing. this new version is way more powerful with a much better experience. might open internal testing further next week.
-
----
-
-**作者** shawn（@shawn_pana）  
-**貼文連結** https://x.com/shawn_pana/status/2015536516316164167  
-
-**正文**
-
-Clawdbot is AGI 
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/2015559794338431031  
-
-**正文**
-
-OpenAI 今天可能将推出自己的 
-
-自动化办公软件
-
-应该是类似于 Cowork 
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2015416332771287122  
-
-**正文**
-
-我这个 Skills 也可以自动完成英文视频的字幕翻译和双语字幕和视频的合成烧录！
-
-在你有原始视频和英文字幕的时候，只需要启动 Skills 然后跟他说：
-
-“帮我调用youtube剪辑Skills为这个视频添加中英文双语字幕，我已经准备好了视频和原始英文字幕，你只需要执行烧录和翻译步骤就行” 
-我这个 Skills 也可以自动完成英文视频的字幕翻译和双语字幕和视频的合成烧录！
-
-在你有原始视频和英文字幕的时候，只需要启动 Skills 然后跟他说：
-
-“帮我调用youtube剪辑Skills为这个视频添加中英文双语字幕，我已经准备好了视频和原始英文字幕，你只需要执行烧录和翻译步骤就行” 
-效果：https://x.com/op7418/status/2015416693208842662
-
----
-
-**作者** Jiayuan (JY) Zhang（@jiayuan_jy）  
-**貼文連結** https://x.com/jiayuan_jy/status/2015403313664307496  
-
-**正文**
-
-Multica 最近已经逐渐代替了 ChatGPT 客户端，作为主要的 research 工具来用了。 
-Multica 最近已经逐渐代替了 ChatGPT 客户端，作为主要的 research 工具来用了。 
-连续工作了 30 分钟的结果。 
-
----
-
-**作者** Latent.Space（@latentspacepod）  
-**貼文連結** https://x.com/latentspacepod/status/2014427853467877643  
-
-**正文**
-
-"For the agents on Brex release, we've actually started using Mastra for that as the primary framework for accelerating this.
-
-We actually have built everything in Typescript which is another technology choice that answers the question of 'What would we do if we started Brex today?' ... and then we have a mix of pgvector and Pinecone."
-
-James breaks down the tech and frameworks Brex uses in addition to the approach they take to decide what to use.
-
-@jamesreggio @mastra @pgvector @pinecone
-
----
-
-**作者** Airtable（@airtable）  
-**貼文連結** https://x.com/airtable/status/1937581869144637833  
-
-**正文**
-
-AI-Native Airtable has arrived. No add-ons, no siloed chat bots – powerful AI to build custom apps that mean business.
-
-Meet Omni and Field Agents - your expert team that combines vibe coding with enterprise-grade agentic workflows. With AI-powered app building, data analysis, and web research from Omni, and thousands of automated actions from your army of agents, we’re taking you from manual, to magical.
-
-Learn more → https://www.airtable.com/newsroom/introducing-the-ai-native-airtable
-
-#AirtableAI #NoCodeAI
-
----
-
-**作者** PromNest（@promnest_com）  
-**貼文連結** https://x.com/promnest_com/status/2002367538664255795  
-
-**正文**
-
-Most people save prompts in random notes. Power users build systems. Organize by categories & custom groups. Tag everything, find anything...and more! Stop losing your best prompts. Start building your prompt library!
-
----
-
-**作者** Arlan（@arlanr）  
-**貼文連結** https://x.com/arlanr/status/2011967890787098979  
-
-**正文**
-
-Context is the next frontier for AI.
-
-The bottleneck is no longer reasoning, it is access to reliable, current information. So I am building the infrastructure to make that information continuously available to agents.
-
-Nia by @nozomioai is an API layer that gives agents up-to-date, continuously monitored context from libraries, research papers, and technical documentation, saving hours of manual ingestion. It can also be used with coding agents like Cursor or Claude as an MCP server, giving them reliable external context so they do not hallucinate.
-
-So far, we have achieved several state-of-the-art results on benchmarks that test agent competency across frameworks like Next.js and Better Auth. Our API requests have increased by 380% over the past couple of months, and I have a sea of experiments to run before landing on what truly sticks with customers.
-
-I started this company when I was 17, from my high school in Kazakhstan. I later dropped out and moved to Silicon Valley to continue building this vision after finishing @ycombinator, with support from people like @gokulr, Paul Graham, and others.
-
-I believe in a few core ideas.
-
-Models will never capture the full extent of real-world context. They are great with stale data, but the most critical information is almost always up-to-date and continuously changing. That is why I chose to start with technical context for coding agents, where outdated information directly breaks things.
-
-Distribution matters, but it is not enough. To win in this space, you have to operate on the research frontier. If you do not, you will get crushed by players who do. That is why I am planning something for 2026 that has never been done before.
-
-I decided to write this because a post by @levie deeply resonated with my vision. I am obsessed with this problem, and it is the one I want to spend the next years of my life solving. I am incredibly excited about the future of bringing AGI and context together.
-
----
-
-**作者** 冰河（@binghe）  
-**貼文連結** https://x.com/binghe/status/2015294351157686411  
-
-**正文**
-
-有 Mac mini 的赶快装上Clawdbot吧！
-
-你会回来感谢我的。
-
-还好我有，哈哈哈，还有一台19 年的 Macbook Pro 吃灰很久了，起来干活吧。
-
-这个时代真好啊！让我们这些退役老登都能焕发新春！
-
----
-
-**作者** 超级个体｜柿子（@yaohui12138）  
-**貼文連結** https://x.com/yaohui12138/status/2015104067606110217  
-
-**正文**
-
-硅谷顶级产品经理的播客真的吊打那些AI营销号
-
-昨晚熬夜听完 Lenny's Podcast 和 Airbnb 设计VP Brian Chesky 的对谈，全程炸裂
-
-像老友一样聊产品决策内幕、聊增长黑客、聊AI如何改变设计流程
-
-播客里，没有PPT，没有废话，全是真金白银的数据复盘！
-
-15秒AI速成课和垃圾营销号刷屏的时代
-
-这种极度放松却又极度硬核的氛围
-
-长达2小时、不剪辑、不灌鸡汤的深度对话，属于稀缺品
-
-真正让你变强的是这种能让你停下来思考3天的对话
-
-如果你也想戒掉AI资讯焦虑，真心推荐去听听这些一线实战者的声音
-
----
-
-**作者** Peter Yang（@petergyang）  
-**貼文連結** https://x.com/petergyang/status/2015233248553746901  
-
-**正文**
-
-What are the most useful connectors I should set up with Clawd?
-
-So far have GitHub, Google, and X 
-
----
-
-**作者** Natia Kurdadze（@natiakourdadze）  
-**貼文連結** https://x.com/natiakourdadze/status/2015090606301745480  
-
-**正文**
-
-Getting your first users for a tech startup can feel like chasing a needle in a haystack. Forget the same old advice about ads, posting content into the void and networking events.
-
-There are smarter, free and underrated ways to get people talking about your product. In this article, we’re diving into unconventional, game-changing actionable tactics to attract those first users fast.
-
-Whether you’re bootstrapping or scaling, these strategies will give your startup the spark it needs to accelerate revenue and growth. Let’s get started!
-
-1. Share your product in the following subreddits where submissions are allowed:
-
-- r/RoastMyStartup
-- r/AlphaandBetausers
-- r/GrowthHacking
-- r/Digitalnomad
-- r/Promotereddit
-- r/Entrepreneur
-- r/EntrepreneurRideAlong
-- r/IMadeThis
-- r/IndieBiz
-- r/SideProject
-- r/SmallBusiness
-- r/Startups
-- r/Growmybusiness
-- r/Linkbuilding
-- r/SEO
-- r/Freepromote
-- r/SocialMediaMarketing
-- r/Analytics
-- r/Content\_marketing
-- r/Advertising
-- r/PPC
-- r/AskMarketing
-
-Reddit communities were product submissions are allowed
-
-![Article Image](<https://pbs.twimg.com/media/G_cIWGtXQAAEJ8P.jpg>)
-
-2. Recruit beta testers using Linkedin Jobs
-
-Here’s how to get 500 users for your product/SaaS for free:
-
-1. Make a free job posting on Linkedin
-1. Make it explicit: ‘volunteer role, no pay'
-1. Recruit beta-test volunteers for your startup
-1. Redirect them to Google form and collect emails
-1. Set up a Zapier automation to send emails to applicants for them to test the web app
-
-P.s. Repeat step 1 every 6 hours. Linkedin free job posting caps out at 150 views (the algorithm de-ranks after that)
-
-![Article Image](<https://pbs.twimg.com/media/G_cIcDEWIAATCHh.jpg>)
-
-3. Send cold emails using Apollo
-
-1. Access: Apollo. io
-1. Click on Search and select “C-level” under job titles
-1. Choose "verified" for the Email status
-1. Insert your business niche in the “Currently hiring for” section (to detect a clear buying intent for your solution)
-1. Filter companies with an ARR ranging from 0.1 - 5 Million USD
-1. Save search results and add scraped emails to the new sequence
-1. Use the following subject line: \[Their company\] <> \[Your Company\]
-1. Don't sell in the first email, instead, outline your value proposition in under 50 words.
-1. Avoid spam words: free trial, investment opportunity, etc.
-
-P.s. If you want to stand out and get 20% more replies, consider increasing the font size of the body text from normal to Header 1.
-
-![Article Image](<https://pbs.twimg.com/media/G_cIjW3WcAAYVlN.jpg>)
-
-4. Launch your startup on Viralmarketinglab.com
-
-1. Sign up for free on viralmarketinglab.com
-1. Fill out the form and submit your startup
-1. Get instant exposure for life
-1. And get a do-follow DR 33 backlink
-
-![Article Image](<https://pbs.twimg.com/media/G_cJa3oXUAEQlaC.png>)
-
-5. Use Parasite Marketing and join Facebook groups
-
-1. Identify the businesses which are already selling to your ICP
-1. Find their official Facebook or Linkedin groups
-1. Share educational content that solves their micro problems
-1. Optimize your bio or open your DMs so people can reach out to you
-
-![Article Image](<https://pbs.twimg.com/media/G_cJLFtWQAAANHX.jpg>)
-
-6. Join Pinterest Group Boards
-
-1. Go to Pinterest .com
-1. Add the main keyword in the search bar
-1. Locate the filters section
-1. Select boards that have “Request to join” button
-1. Distribute and promote the product for free to 1000s of target followers
-
-![Article Image](<https://pbs.twimg.com/media/G_cJQg9X0AAAzUb.jpg>)
-
-7. Find warm leads using Phantom Buster
-
-How to find warm leads i.e. get customers easily:
-
-1. Go to Phantom Buster
-1. Select Twitter Liker Collector workflow
-1. Find 5 tweets that are very popular among your ideal customers
-1. Export the liker profiles using step 2
-1. Insert your offer in the Twitter Message Sender
-1. Click launch and automate workflows
-1. Reply to follow-up messages
-
-![Article Image](<https://pbs.twimg.com/media/G_cJpLdXoAAK4tc.jpg>)
-
-8. Find B2B/enterprise customers using Getkoala's Free database
-
-If you have $0 for marketing, here’s what you should do:
-
-1. Go to “Getkoala com database”
-1. Filter companies based on industry and revenue
-1. Download up to 10,000 company profiles for free
-1. Reach out to C-level executives from those companies and softly pitch your products or services
-
-![Article Image](<https://pbs.twimg.com/media/G_cJvr0WAAAn68q.jpg>)
-
-## If you want to grow your brand predictably, work with me.
-Send me a DM or email me at natia@natiakurdadze.com
-
----
-
-**作者** Marcel（@marcelkargul）  
-**貼文連結** https://x.com/marcelkargul/status/2014808820090847296  
-
-**正文**
-
-they look even better animated btw 
-
----
-
-**作者** Wang Shuyi（@wshuyi）  
-**貼文連結** https://x.com/wshuyi/status/2014956482056618175  
-
-**正文**
-
-我把 Attention is All You Need 论文 PDF 拖入 Claude Code ，让它生成面向大一新生的视频。直出的结果，虽有瑕疵，但看得我心花怒放。最后一句「如果觉得本视频有用，欢迎点赞收藏」一出，我一口水差点儿喷到电脑屏幕上😂 
-我把 Attention is All You Need 论文 PDF 拖入 Claude Code ，让它生成面向大一新生的视频。直出的结果，虽有瑕疵，但看得我心花怒放。最后一句「如果觉得本视频有用，欢迎点赞收藏」一出，我一口水差点儿喷到电脑屏幕上😂 
-教程：https://x.com/wshuyi/status/2015329934357701072?s=20
-
----
-
-**作者** Akshay 🚀（@akshay_pachaar）  
-**貼文連結** https://x.com/akshay_pachaar/status/2015044780330492116  
-
-**正文**
-
-I switched to AI Engineering 2 years ago!
-
-It was the best career move I ever made.
-
-If you want to start today, here's a roadmap:
-
-.
-
-## 1. Master Python
-
-While many are skipping fundamentals for vibe coding, those with strong coding foundations will always stand out.
-
-Python is the language the AI community speaks, and Harvard's CS50p is the best place to learn it.
-
-🔗[ Harvard's CS50p ](<https://pll.harvard.edu/course/cs50s-introduction-programming-python>)→
-
-![Article Image](<https://pbs.twimg.com/media/G_bWsKma8AEBY4q.png>)
-
-## 2. Learn Vibe coding
-
-Here's the truth: You're not competing against AI, you're competing against developers who use AI.
-
-Even if you're an excellent coder, there are equally skilled developers shipping 3x faster because they've mastered AI-assisted workflows.
-
-Vibe coding isn't about replacing your skills; it's about amplifying them. Think of it as a new layer of leverage on top of your fundamentals.
-
-Andrew Ng recently dropped a 30-minute course on vibe coding for everyone. It's a great place to get started.
-
-�[� Build with Andrew ](<https://www.deeplearning.ai/courses/build-with-andrew/>)→
-
-Personally, I use Claude Code a lot, and it's indeed one of the most powerful tools for AI-assisted coding. 
-
-These two official guides are more than enough to get you up and running
-
-🔗[ Getting started with Claude Code →](<https://code.claude.com/docs/en/quickstart>)
-
-�[� Claude Code: Best practices for agentic coding](<https://www.anthropic.com/engineering/claude-code-best-practices>) →
-
-## 3. Understanding LLMs
-
-These three videos by @3Blue1Brown are arguably the best visual explainers of LLMs and their internal workings.
-
-1. How LLMs work
-1. Transformers Deep-dive
-1. Attention in transformers
-1. How LLMs store facts
-
-🔗 youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi
-
-![Article Image](<https://pbs.twimg.com/media/G_bS_RYawAAVB5f.png>)
-
-## 4. LLM research
-
-Now that you understand what LLMs are, it's time to learn how to build them yourself.
-
-This is the greatest series by the greatest teacher in the world.
-
-Neural nets zero-to-hero by Andrej Karpathy
-
-🔗 youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
-
-![Article Image](<https://pbs.twimg.com/media/G_bS8PBawAEMTLH.png>)
-
-## 5. AI Agents
-
-Before jumping into the AI agent hype, everyone should read Anthropic AI's guide on building effective agents.
-
-"To build an agent, you don't need complex frameworks or libraries, but rather composable patterns"
-
-🔗[ Building effective agents →](<https://www.anthropic.com/engineering/building-effective-agents>) 
-
-![Article Image](<https://pbs.twimg.com/media/G_bBkNpa4AAvk0A.png>)
-
-## 6. Applied AI
-
-I don't recommend chasing frameworks, but I took this course on CrewAI when I started.
-
-It's clear, practical and teaches you to think of agents like humans working together
-
-🔗 coursera.org/projects/multi-ai-agent-systems-with-crewai
-
-Lately, I've been using Claude Agent SDK for most of the workflow I'm building. 
-
-It's really powerful, and you can build almost any workflow using it. 
-
-You get access to the entire Claude harness including:
-
-- the agentic loops
-- the tool use
-- the coding workflows
-
-�[� Get started here → ](<https://platform.claude.com/docs/en/agent-sdk/overview>)
- 
-I am also working on creating a hands-on video tutorial on this,  which will be published here and on my YouTube channel.
-
-Meanwhile also I recommend checking out this video I created on Claude Skill, another powerful feature of the Calude ecosystem. 
-
-## 7. Project-based learning
-
-This GitHub repo contains 90+ projects on AI Engineering.
-
-Everything is 100% open-source, covering
-
-- LLMs and RAGs
-- Real-world AI agent applications
--  Examples to implement, adapt, and scale in your projects
-
-🔗 github.com/patchy631/ai-engineering-hub
-
-## 8. Books
-
-Every AI engineer building real-world applications should read this book.
-
-@chipro is a remarkable teacher and her book is one of the best on AI Engineering.
-
-🔗 github.com/chiphuyen/aie-book
-
-We write educational content for a community of 1M+ learners, and we've compiled some of our best work into three visual guidebooks:
-
-- 🔗[ AI Engineering Book ](<https://dailydoseofds.github.io/ai-engg-book/>)→
-- 🔗[ AI Agents Book ](<https://agents.dailydoseofds.com>)→
-- 🔗[ MCP Book ](<https://www.dailydoseofds.com/mcp-architecture-overview/>)→
-
-All three explain complex fundamentals in an accessible way using visual illustrations. 
-
-They've been downloaded over 100,000 times, and the best part? They're completely free.
-
-![Article Image](<https://pbs.twimg.com/media/G_bVsB3WwAAoccD.jpg>)
-
-To summarize, here's what we covered:
-
-- Programming (Python)
-- Vibe coding
--  LLM fundamentals
-- Building LLMs/ LLM research
-- AI agents and applied AI
-- AI engineering projects
-- Books
-
-Never chase frameworks, they come and go. Master the fundamentals.
-
-If you found it insightful, reshare with your network.
-
-Find me → @akshay\_pachaar ✔️
-For more insights and tutorials on LLMs, AI agents, and Machine Learning.
-
----
-
-**作者** Mens@codesome.cn（@oops073111）  
-**貼文連結** https://x.com/oops073111/status/2014624719006531735  
-
-**正文**
-
-其实我挺佩服没有编程基础的小伙伴，可以 vibe coding 的，那理解力和表达力、心力得多强。
-
-我好歹也算会写 c++ 和 shell lua 这些😂，也搞过内核这种复杂的工程。
-
-我现在 vibe 起来，感觉还是挺费劲的，挺需要逻辑和架构设计，才能让一个项目跑的比较顺畅，里面要考虑很多紧耦合、松耦合的设计
-
-尽量让项目模块化，是我的一个 vibe 心得
-
----
-
-**作者** The Startup Ideas Podcast (SIP) 🧃（@startupideaspod）  
-**貼文連結** https://x.com/startupideaspod/status/2015214082505548119  
-
-**正文**
-
-I got 2M views on 1 post 
-
-with zero followers and zero ad spend.
-
-Here's my viral playbook:
-
-Step 1: Start fresh
-
-- New account = algorithm tests new audiences 
-- Old account = pushes to existing followers first 
-- Zero followers is an advantage.
-
-Step 2: Scroll with intent
-- Only engage with your niche 
-- Save every viral format you see 
-- You're building a swipe file.
-
-Step 3: Steal formats across niches
-
-- Found a 2x2 image format in hobbies 
-- Brought it to food 
-- That's the post that hit 2M.
-
-Step 4: Iterate relentlessly
-
-- One new format daily 
-- 30-40 tries minimum 
-- Most people quit at 5.
-
-The secret isn't creativity.
-
-It's finding what already works and making it yours.
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2015307482584006810  
-
-**正文**
-
-终于装上了 Clawdbot，这玩意门槛和风险都高的吓人
-
-这咋火起来的，尤其是让他链接你的各种应用爬取和整理信息
-
-我甚至在文档找了半天都没找到他的 TUI 启动命令
-
-我根本不敢让他链接和控制我的推特之类的主要应用
-
-嘎巴封号了真没地方说理去
-
-谨慎尝试，别在主力电脑安装 
-终于装上了 Clawdbot，这玩意门槛和风险都高的吓人
-
-这咋火起来的，尤其是让他链接你的各种应用爬取和整理信息
-
-我甚至在文档找了半天都没找到他的 TUI 启动命令
-
-我根本不敢让他链接和控制我的推特之类的主要应用
-
-嘎巴封号了真没地方说理去
-
-谨慎尝试，别在主力电脑安装 
-远程监控电脑，查看电脑状态 
-任何一个现在的主流大软件都不可能让这种东西流行起来，去控制它的应用、读取它的应用数据的。
-控制浏览器，关闭指定标签页 
-如果你对自己的网络和计算机安全知识没有自信的话，我不推荐任何人找这个东西。
-我让他读取网页信息，我以为他会直接读网页
-
-没想到他从网页找到了 RSS 订阅，然后从 RSS 拉取的信息。 
-关于 Clawdbot 的安全问题，可以看这里：https://x.com/rahulsood/status/2015397582105969106
-
----
-
-**作者** Claude（@claudeai）  
-**貼文連結** https://x.com/claudeai/status/2014834616889475508  
-
-**正文**
-
-Claude in Excel is now available on Pro plans.
-
-Claude now accepts multiple files via drag and drop, avoids overwriting your existing cells, and handles longer sessions with auto compaction.
-
-Get started: http://claude.com/claude-in-excel 
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 2402–2601 則**（共 200 則）
 
 ---
 
@@ -6764,3 +5512,629 @@ if you want to go deeper i wrote an article about how i let claude code orchestr
 
 ---
 
+**作者** Natalie（@gr00vyfairy）  
+**貼文連結** https://x.com/gr00vyfairy/status/2013261645506814224  
+
+**正文**
+
+Recorded my first walkthrough video for App Publishing via @ManusAI 👉👈✨
+
+You can now package and share your app for testing on @GooglePlay Store and the @Apple App store without setting up Xcode, Android Studio, or wrestling with build configurations.
+
+Supported platforms:
+• Android → Google Play (Internal Testing)
+• iOS → App Store (TestFlight)
+
+Ready to try it? Here's how 👇
+
+➡️Google Play:
+Prerequisites: Google Play Developer account ($25 one-time fee)
+
+Steps:
+
+1. In Manus, click Publish → select the Android tab
+2. Click Build APK — Manus packages your app in AAB format
+3. Go to your Google Play Console and navigate to Internal testing
+4. Click Create new release and upload the AAB file
+5. Under Testers, add your email address (or create an email list for your team)
+6. Copy the opt-in link
+7. Open the link on your Android device, accept the invite, and install
+
+➡️App Store:
+Prerequisites:
+• Apple Developer account ($99/year)
+• iPhone with TestFlight installed
+
+Steps:
+
+1. In Manus, click Publish → select the iOS tab
+2. Click Create app and follow the prompts to connect your Apple Developer account
+3. Manus will package and upload your app to App Store Connect automatically
+4. Wait for Apple to process your build
+5. You'll receive an email from TestFlight when it's ready
+6. Open the email on your iPhone, tap the link, and install via TestFlight
+
+🔗 Full guide: https://help.manus.im/en/articles/13397606-how-do-i-share-a-manus-developed-app-or-publish-it-to-the-google-play-app-store
+
+Let me know what else you'd like to see next!
+
+---
+
+**作者** AshutoshShrivastava（@ai_for_success）  
+**貼文連結** https://x.com/ai_for_success/status/2013302317471408182  
+
+**正文**
+
+Found this leading open-source version of Claude Cowork. It brings enterprise-level AI agent capabilities to your desktop with genuine tool integration.
+
+- 400+ stars in 4 days
+- The only repo that's already connected with 500+ SaaS apps, letting you actually automate knowledge work
+- Switch between Claude, GPT-5, Grok seamlessly
+- Native apps for macOS, Windows, Linux with persistent chat sessions
+
+---
+
+**作者** Sherwood（@shcallaway）  
+**貼文連結** https://x.com/shcallaway/status/2013293930792501497  
+
+**正文**
+
+I always appreciate the @LangChain team pulling back the curtain on their work! This one was interesting
+
+---
+
+**作者** Owein（@Do_owne）  
+**貼文連結** https://x.com/Do_owne/status/2013295032053166590  
+
+**正文**
+
+Introducing MecAgent : the first useful CAD copilot. 
+
+---
+
+**作者** Kyle Tibbitts（@KyleTibbitts）  
+**貼文連結** https://x.com/KyleTibbitts/status/2012993916237222252  
+
+**正文**
+
+This article won’t win the $1M. But the lessons in it have helped create hundreds of millions of dollars in enterprise value across startups I joined early or helped build from day one.
+
+I originally
+
+---
+
+**作者** João Moura（@joaomdmoura）  
+**貼文連結** https://x.com/joaomdmoura/status/2013296719933383084  
+
+**正文**
+
+The Production Reality Gap
+The agentic AI industry has an architecture problem, but most people are solving the wrong thing.
+Everyone can build agents nowadays, so many prompting techniques, better
+
+---
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/2013364593381310846  
+
+**正文**
+
+AI context bros finally met. @hyperspell is now a customer.
+
+collison installation ft. @conor_ai (YC F25) 
+
+---
+
+**作者** Max Junestrand（@MaxJunestrand）  
+**貼文連結** https://x.com/MaxJunestrand/status/2013366938898981291  
+
+**正文**
+
+Excited to share a major step for legal innovation in India: @WeAreLegora is partnering with @manupatrainfo in an exclusive agreement to bring Manupatra’s premier legal research content directly into the Legora platform.
+
+http://legora.com/newsroom/legora-and-manupatra-announce-exclusive-partnership 
+
+---
+
+**作者** Balint Orosz（@balintorosz）  
+**貼文連結** https://x.com/balintorosz/status/2013302678105796764  
+
+**正文**
+
+TL;DR - We've released Craft Agents as an open source product - it  showcases our take on how to effectively work with agents (Especially Claude Code). It works great for both engineers and knowledge workers. Most importantly, you can fork it, customize it, so it fits your needs perfectly. It's both a powerful tool - but also an experiment for the future of personal software. Take the base, and make it yours. You can download it at https://agents.craft.do and view the source at https://github.com/lukilabs/craft-agents-oss/
+
+It has the full power of Claude Code, but packaged in a UX, and workflows which we found to be effective. It' also quickly becoming a daily driver for most of the things we do at Craft.
+
+We have engineers using it internally as their main interface - but we're thrilled to see that our non-technical - Finance, Marketing, Customer Support and People teams are really starting to grasp the power of AI as they can a use a UI that is not CLI.
+
+It's a product of two separate tracks merging into one.
+
+In December, we wanted to understand the possibilities of an ultra powerful agent in Craft, and we built a CLI/TUI tool for this. As it got connected to Craft, we naturally wanted to use it for more and more - and we also deeply understood the possibilities of the Claude Agent SDK. At the same time I also became power users of Claude Code - and while I loved it, I've been struggling a lot with certain areas - reviewing plans, understanding deeper what changes (and why!) are being made, and multitasking. Also, I am quite picky of software I use when it comes to UI and UX - and the terminal isn't my happy place. I like UI, typography, the touchpad - and generally nicely designed software.
+
+I've tried a few things first - like Cursor and their agentic interface. It's strong reliance on the VS Code editor meant I'm losing focus and having a hard time understanding what connects with what. I was jumping between code, the conversation and never really got grounded, focused.
+
+After this I tried Conductor - which clicked lots of my boxes - it's a beautifully designed piece of software, but work-trees are really not my thing, and apparently those are at the heart of Conductor. Also, I still felt like I'm seeing a wall of text and actions between turns - so while felt better, still didn't quite catch my flow.
+
+As Conductor isn't open source, I couldn't just fork it and tweak it in a way that fits my needs - so I decided I'll do something simple for myself and see how that goes. As an added bonus, I'll try to do some development with web technologies - I never really did that before (apart from some basic marketing site stuff or css tweaking\_.
+
+This was just at the start of holidays, and it's been insane to see the progress I've been making in a tech stack I don't deeply understand. I've been doing most of the coding in-between family dinners, stolen hours here and there - while previously I needed dedicated focus time to get things done - here, I could get into the flow within minutes, not hours.
+
+This experience started to lay a strong belief that we reached a tipping point in how code is going to be generated. I still wanted to understand where are the limits. We've already been at a quite complex state, and wanted to understand where the "vibe coding crunch" of bugs after bugs and regressions comes. So we kept pushing very hard - but never - not up until today did we reach this point.
+
+For me the breakthrough in working with coding agents has been not having the ability to understand the code itself - something which I've also been experiencing for the good part of my career when working with web and backend teams. As for my background, I'm a strong iOS/UIKit design focused engineer with 20+ years of experience  - but haven't built prod systems on other platforms. I am for the last 6 years "acting" CTO at Craft - and we have deep, technically complex product. And I could use my architectural, problem solving and pattern matching skills very effectively. A simple change touches 20 files? Let's understand root cause, refactor if needed. A feature keeps breaking again and again? Let's identify and fix the fragile parts before moving forward...
+
+100% of the code has been written by Claude, but we have made a huge amount of architectural and technological decisions. Most of them came from our direct experience of building software for the last 20 years. Gyula, who is an experienced PM/Engineer has also been working with me during the last few weeks on this - so I wasn't fully solo.
+
+Building was fast, but not easy. We relied extensive on our deep experience of building modern productivity software - both when it comes to UX, UI, Business logic, data flows etc. So I do feel a lot of ME in it. I'm not detached. Refining the pixels, animations - pulling it all together was where I really felt I am absolutely the one making very detailed decisions.
+
+---
+
+The Open Source Opportunity - Remixing Software
+
+Craft Agents is an opinionated piece of software - it works amazingly for me, and a big chunk of our team - but different people have different workflows and often, very specific needs. Building productivity software teaches you this - there's no on-size-fits-all.
+
+We will never be able to build a great piece of product that works perfectly for everyone - but AI, and Coding Agents opens up unique opportunities for people to remix and modify their tool - from tiny details to the complex features. Personal software will neither be customized nor built from scratch - but forked, and re-mixed.
+
+So we're releasing Craft Agents as an open source product, with an APACHE 2.0 License. You can download and use it directly from the website, fork it, improve it, build your taste into it - make it truly yours.
+
+Craft Docs is our core business and will continue to be so. As the cost of agentic intelligence (and inference speed!) gets more reasonable we will be thrilled to bring this same power to Craft (already working on it!), to power consumer use cases.
+
+Until then, this is our research preview. If you have any feedback/anything you like or miss, please let us know. We can't guarantee customer support, bug fixing etc for your use cases - but nothing stops you from doing this yourself!
+
+Enjoy & Have Fun,
+
+Balint & @GyulaHalmos at Craft
+
+---
+
+**作者** Sean Cai（@SeanZCai）  
+**貼文連結** https://x.com/SeanZCai/status/2013314582916538876  
+
+**正文**
+
+Select excerpts on lab data buying practices, where many data companies will fail, and why data liquidity is inevitable.
+The TLDR on this article explores:
+Why Vendor Diversification for human data is
+
+---
+
+**作者** aditya（@adxtyahq）  
+**貼文連結** https://x.com/adxtyahq/status/2013095572534653352  
+
+**正文**
+
+Someone curated 925 failed VC-backed startups, broke down why they failed, and how to make it work with today’s tech - 
+
+https://loot-drop.vercel.app/
+
+Cool fr🙌 
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/2013311678599893212  
+
+**正文**
+
+1. SaaS and agents merge completely in 2026. Every SaaS product becomes an agent platform, and every agent platform builds SaaS features. The ones that don't adapt die or get bought for pennies.   
+2.
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/2013186569188880511  
+
+**正文**
+
+Coze 2.0 这个更新太顶了！
+
+直接打通了 Skills 创建-分发-变现的整个流程
+
+而且可以在 Coze 编程里面用自然语言创建。
+
+如果你最近苦于不会用 Claude Code 和 Anthropic 的模型太贵，而没机会尝试 Skills 的话，强烈建议参考我这个教程试试
+
+说不定上架之后就爆了呢
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/2013194838553039334  
+
+**正文**
+
+OpenAI、Google 和 Anthropic 发布了一系列指南，涵盖：
+
+• Prompt engineering
+• 构建 agents
+• AI 在商业中的应用
+• 601 个 AI 应用场景
+
+9 份不容错过的精选指南： 
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/2013197891121406315  
+
+**正文**
+
+我研究出一种新型的信息图展示方式
+
+我愿称之为：虚拟现实 信息图
+
+就是平面信息图里面，会展示出实物信息
+
+你们看看咋样↓ 
+
+---
+
+**作者** Tom Blomfield（@t_blom）  
+**貼文連結** https://x.com/t_blom/status/2013014899463696437  
+
+**正文**
+
+I really want a text editor that is voice-native and makes inline changes like a code editor.
+
+So I built one 
+
+---
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/2013148926426132938  
+
+**正文**
+
+为什么 Claude Skills 的爆发点在 2026 年 1 月？
+
+问：Claude Skills 是去年 10 月中就推出的，为什么现在才突然火起来？
+
+这是个很好的问题。Claude Skills 确实在 2025 年 10 月中旬就发布了，但直到 2026 年 1 月才真正爆火。这背后有表面原因，也有更深层的逻辑。核心原因就是这东西如果只能在技术圈自嗨，它是火不起来的。去年 10 月份 Skills 编程领域其实很快就开始用起来了，而现在火，只是因为它出圈了，在技术之外的领域火起来了，非技术人员也用起来了。
+
+Skills 真正的价值其实是在非编程领域。去年 Coding Agent（比如 Claude Code、OpenCode）开始在非编程领域开花，而 Skills 的设计特点让它能很快找到 Agent 在非编程领域上的场景落地。
+
+1. 有 bash 和脚本能力，可以自动化本机操作
+
+Skills 让 Claude 能借助代码脚本操作你的本机系统，把很多琐碎的电脑操作变成自动化操作。
+
+Claude Code 的创建者 Boris Cherny 在 X 上分享过一个有趣的观察：自从 Claude Code 发布以来，他发现用户们在用它做各种非编码的工作——做度假研究、做 PPT、清理邮件、取消订阅、从硬盘恢复婚礼照片、监控植物生长，甚至控制烤箱。
+
+> Since we launched Claude Code, we saw people using it for all sorts of non-coding work: doing vacation research, building slide decks, cleaning up your email, cancelling subscriptions, recovering wedding photos from a hard drive, monitoring plant growth, controlling your oven.
+>
+> https://x.com/bcherny/status/2010809450844831752
+
+这些场景和写代码完全不沾边，但 Skills + bash 能力的组合让这一切成为可能。比如我自己就做了一些工作流，帮我采集信息、写作、写 PPT、画漫画、发布，极大提升效率。像发文章到公众号、X Article 这些，以前需要手动重复的操作，现在一个 Skill 就搞定了。
+
+2. Skills 可以相互调用，用自然语言编排工作流
+
+如果是单一的 skill，作用其实有限。但当你有多个 skills，并且 skills 还可以相互调用，那意味着你可以编排工作流。
+
+Skills 让 AI 可以像《黑客帝国》主角 Neo 那样瞬间学会新技能：“I know kung fu”。Claude 会根据任务自动加载需要的 Skill，完成后再卸载，整个过程无需用户干预。
+
+而最神奇的地方在于，你只需要用自然语言去编排工作流。这中间会有 Agent/大模型去解读你的自然语言，按照工作流执行，有问题还会帮你修复。这极大地解决了非专业用户需要程序员协助编排工作流的问题。
+
+3. Skills 本身易于分发，几乎成了每个 agent 的标配
+
+一个 skill 只要有一个 http://SKILL.md markdown 文件和辅助的脚本或者文档，打个 zip 包就能发布。这种轻量级的设计让分发变得极其简单。
+
+有个时间点很重要，2025 年 12 月 18 日，Anthropic 宣布将 Agent Skills 规范开放为跨平台标准。很快，微软在 VS Code 和 GitHub Copilot 中集成了对 Agent Skills 的支持，OpenAI 也在 ChatGPT 的代码解释器和 Codex CLI 中采用了几乎相同的技能目录结构。
+
+Skills 在 10 月发布时，主要还是被定位为开发者工具。但随着生态成熟、开放标准确立、以及 Cowork 这样面向普通用户的产品推出，Skills 在非编程领域的价值才真正被释放出来。
+
+回顾这个过程：
+10 月：Skills 发布，开发者圈小范围关注
+11-12 月：技能规范开放、生态扩展、用户积累经验
+1 月：产品更新 + 非编程场景落地 + 病毒式传播 = 爆发
+
+Skills 的爆发是现在它找到了真正的价值定位，让非程序员也能通过自然语言编排复杂的自动化工作流。这才是 Skills 真正火起来的原因，随着更多场景被发掘出来，还会持续的火上一段时间。
+
+---
+
+**作者** Zhixiong Pan（@nake13）  
+**貼文連結** https://x.com/nake13/status/2012826359765336264  
+
+**正文**
+
+强烈推荐最近的宝藏博主👇
+
+内容数量和质量都很可怕，快去关注学习各种话题！
+
+---
+
+**作者** yetone（@yetone）  
+**貼文連結** https://x.com/yetone/status/2012827209644548521  
+
+**正文**
+
+别信他的，现在最火的是 Neovim（
+
+---
+
+**作者** near（@nearcyan）  
+**貼文連結** https://x.com/nearcyan/status/2012948508764946484  
+
+**正文**
+
+Vibecraft is now open-source at ~ 30,000 loc
+
+Includes all scripts, hooks, visualizations, and sound
+
+Demo: https://vibecraft.sh/
+
+GitHub: https://github.com/Nearcyan/vibecraft 
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/2013134068985344144  
+
+**正文**
+
+你们天天吵吵的【技能商店】被人做出来了😂
+
+扣子今天发布了其2.0最新版
+
+进行了全面的升级
+
+只需要通过简单聊天，就看可以将你的经验转换成AI技能，并且可以上架到他们的【技能商店】进行赚钱。
+
+不得不说搞应用这方面还得看国人啊
+
+我测试了下，确实很方便，非常的适合小白，这意味着，每个人的知识、经验都能成为生产力资产。
+
+你的经验可以变现，别人的技能可以被你使用。
+
+现在你是不是有学习的动力了🤪
+
+---
+
+**作者** VerySmallWoods（@verysmallwoods）  
+**貼文連結** https://x.com/verysmallwoods/status/2012921431659528441  
+
+**正文**
+
+Agent 开发中必不可缺的组件，沙箱！
+
+最近在看opencode源代码，才逐渐意识到这家伙的重要性。嗯，是的，这是基础设施。
+
+2026年开源闭源圈会出现多少新的沙箱服务？😏
+
+---
+
+**作者** Jason Zhu（@GoSailGlobal）  
+**貼文連結** https://x.com/GoSailGlobal/status/2012428611417203113  
+
+**正文**
+
+你是否厌倦了在dify里拖拽几十个节点,只为实现一个简单的AI工作流?是否在n8n里调试到半夜,却还是找不到哪个节点出了问题?是否在coze里维护了5个流程,每次需求变更都想删库跑路?
+我懂。因为我也经历过这一切。
+
+---
+
+**作者** Natia Kurdadze（@natiakourdadze）  
+**貼文連結** https://x.com/natiakourdadze/status/2012923988331077770  
+
+**正文**
+
+How to create a high-converting landing page
+→ Hero Section
+Keep the most important things at the top.
+Add an interactive demo.
+Use punchy copywriting.
+ 
+→ Problem agitation + transformation
+Use
+
+---
+
+**作者** 马天翼（@fkysly）  
+**貼文連結** https://x.com/fkysly/status/2012896233359069500  
+
+**正文**
+
+今天爆火的一个视频，Reverse Claude Code。
+
+Midjourney 的一个老哥做了个 Demo，倒反天罡：让 Claude Code 反向当老板，指挥自己给干活。
+
+他表示后续计划直接把这玩意做个 Desktop App 出来。 
+
+---
+
+**作者** Zach Dive（@zachdive）  
+**貼文連結** https://x.com/zachdive/status/2012971555878220222  
+
+**正文**
+
+cursor landing page circa 2002 
+
+---
+
+**作者** Garrett Scott 🕳（@thegarrettscott）  
+**貼文連結** https://x.com/thegarrettscott/status/2012991978066079938  
+
+**正文**
+
+In a couple months, @doanythingapp will be almost completely run by Do Anything agents.
+
+This week, I decided to let it start running it's own support.
+
+In 5 minutes, I set up a regular Do Anything account that has been managing all Do Anything support. Here's how I did it: 
+
+---
+
+**作者** rahul（@rahulgs）  
+**貼文連結** https://x.com/rahulgs/status/2012966160636252265  
+
+**正文**
+
+rag isn't dead it's just harder than agentic search
+
+there is a case for agentic being better than semantic search but claude code's arch doesn't really let it do semantic search anyway
+
+1. claude code basically consumes the standard anthropic /v1/messages api
+2. anthropic doesn't offer any embedding models
+3. building an vectordb/index in the cloud would be tricky with data retention/code uploads, especially with enterprise. also more complexity
+
+the current client-only claude code arch doesn't really leave anthropic a choice, even if agentic search works better. agentic search is just so much simpler to implement, all you need is grep
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/2012907250323501221  
+
+**正文**
+
+if you’re wondering how @thedankoe consistently goes mega-viral, including a 131M+ impression X article, using a simple AI workflow?
+
+i’ve got you. 
+if you’re wondering how @thedankoe consistently goes mega-viral, including a 131M+ impression X article, using a simple AI workflow?
+
+i’ve got you. 
+you can want the entire 50 min breakdown for free on @startupideaspod below
+
+https://www.youtube.com/watch?v=HhspudqFSvU
+@startupideaspod full AI workflow is viewable on X too 
+
+---
+
+**作者** Carlos E. Perez（@IntuitMachine）  
+**貼文連結** https://x.com/IntuitMachine/status/2012539130614349827  
+
+**正文**
+
+Why you are using AI wrong (and how to actually 10x your output) 
+
+---
+
+**作者** Avi Chawla（@_avichawla）  
+**貼文連結** https://x.com/_avichawla/status/2012416025464332573  
+
+**正文**
+
+When an MCP client (like Claude Desktop or Cursor) connects to an MCP server, it dumps all tool definitions (docstrings, parameters, etc.) into the context.
+For a server with 60+ production-grade
+
+---
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/2012787811594674543  
+
+**正文**
+
+回答几个读者问题。
+1、AI Agent 是否有一个权威的概念？中美两国对这个概念是否有统一的解释？
+AI Agent 的定义和国家无关，更多是行业共识的演进。
+目前业界比较认可的定义来自 Anthropic。他们在《Building
+
+---
+
+**作者** Denislav Jeliazkov（@DenisJeliazkov）  
+**貼文連結** https://x.com/DenisJeliazkov/status/2012557334346977434  
+
+**正文**
+
+I've designed 150+ products.
+
+Here are my UI/UX predictions for 2026 (product founders & designers, listen up):
+
+1. Agentic UX 
+
+---
+
+**作者** 向阳乔木（@vista8）  
+**貼文連結** https://x.com/vista8/status/2012605575641944279  
+
+**正文**
+
+写了一个 Skill 调MCP 把DAN KOE这篇神文转成6分钟解读视频。
+
+仔细读有些启发，融合了很多人和经典书中的想法，但原创性跟纳瓦尔比差些。
+
+虽然纳瓦尔也集合了前人的智慧，但第一次读“杠杆”、“幸福”等概念的解读，耳目一新，不知道大家的感受如何。 
+
+---
+
+**作者** Tom Dörr（@tom_doerr）  
+**貼文連結** https://x.com/tom_doerr/status/2012463743494480190  
+
+**正文**
+
+Memory system for AI assistants
+
+https://github.com/verygoodplugins/automem 
+
+---
+
+**作者** Peter Yang（@petergyang）  
+**貼文連結** https://x.com/petergyang/status/2012575199556948083  
+
+**正文**
+
+I’ve been a product leader for over a decade. Here are 25 things I believe in to build great products.
+Watch me cover all 25 things in 12 minutes or keep reading.
+ 
+Speed is the only moat
+Build rapid
+
+---
+
+**作者** Varick Agents（@varickai）  
+**貼文連結** https://x.com/varickai/status/2006971323625648323  
+
+**正文**
+
+Varick Agents was founded on a core belief: AI SaaS does not solve enterprise problems.
+
+Large businesses need AI that is custom tailored to their exact processes, workflows, and departmental needs. AI SaaS built to serve everyone effectively serves no one completely. You might get 70% of the way there, but enterprise doesn't care about 70%. They care about 100%.
+
+The only path to 100% is custom, forward deployed engineering, working directly with teams to transform the entire company from the inside out.
+
+This is why Varick has been successful. We go into companies and transform them entirely. We don't add tech debt. We don't stack another SaaS subscription. And we never force migration away from the systems you're already deeply invested in.
+
+If that sounds like what your company needs, let's talk: http://varickagents.com
+
+---
+
+**作者** vas（@vasuman）  
+**貼文連結** https://x.com/vasuman/status/2012643923198406987  
+
+**正文**
+
+The biggest value add of AI at the enterprise level is connecting to and effectively running your 15 different existing softwares.
+
+Salesforce, Quickbooks, NetSuite, Ramp, SAP, Concur, Workday, etc: you're not going to ditch all of that to become "AI-native." That means retraining your employees, rewriting your SOPs, and effectively starting from scratch operationally. No one is taking that gamble.
+
+The better path is AI custom-built for you and trained on your operating procedures that handles the repetitive work your team does manually, so that they can focus on what actually moves the needle.
+
+That's what we're building at Varick. AI agents trained on your SOPs, plugged into your stack, with no migration or retraining required. 
+
+Book a consultation : http://varickagents.com
+
+---
+
+**作者** Chi Wang（@Chi_Wang_）  
+**貼文連結** https://x.com/Chi_Wang_/status/2012603555912601619  
+
+**正文**
+
+Claude Cowork proves the interest in AI coworkers. Orion (http://meetorion.app) takes the autonomous working experience to another level:
+
+• Works with and enhances your experience with your favorite apps (messages, docs, emails, sheets, files, calendars…) and AI tools (ChatGPT, Claude Code, Gemini, Grok…)
+• Supervises workflows when you are away, from vibe coding to media creation
+• Coordinates AI agents across all your devices (macOS, windows, VM), each operating one device independently
+
+Your personal AI superpower. New surprising ways of vibe working every day - I just tried using Orion to add subtitles to the video and it worked!
+
+Watch it handle multiple tasks autonomously from a single cmd+k.
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/2012316514922201347  
+
+**正文**
+
+For all those in their 20s, and those who want to REMINISCE about their 20s, have a read below (#45 is my fav):
+1. Move to a big city. Don’t have to live there forever, but being in NYC or SF even for
+
+---

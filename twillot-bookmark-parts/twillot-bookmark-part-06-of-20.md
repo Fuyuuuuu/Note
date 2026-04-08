@@ -1,527 +1,6 @@
 # Twillot 書籤（精簡）— 第 6/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 983–1179 則**（共 197 則）
-
----
-
-**作者** AIGCLINK（@aigclink）  
-**貼文連結** https://x.com/aigclink/status/2029397317862982031  
-
-**正文**
-
-如果说OpenClaw是一个员工，那么Paperclip就是整个AI公司，零人类公司，由AI自主运营
-
-你可以告诉Paperclip："做一款AI笔记应用，目标100万月收入"，它就会给你出方案、组团队、搞执行，你只需把控方向、做审批、看仪表盘监控进度和异常即可
-
-搞AI创业，想搞一人公司但用N个AI干活儿的，可以看看这套机制
-
-它的整个运作有层级、有流程、有预算、有审批、有审计，并非黑盒化运营，你相当于董事长，它等于是CEO
-
-系统围绕几个核心模块运转：
-1、公司：最高隔离单位，包含名称、使命、预算和状态，一个Paperclip可以运行多个公司，数据完全隔离
-
-2、智能体：AI员工，包含角色、使用的AI模型、预算限额、汇报关系和当前状态，形成组织架构
-
-3、任务：工单系统，包含标题、描述、目标路径、负责人、预算、状态和产出物，目标路径记录从公司使命到具体任务的完整层级，让AI知道为什么做
-
-4、心跳机制：AI的打卡系统，每隔固定时间（比如5分钟）唤醒一次，检查任务队列，原子性签出任务，执行，提交结果，然后休眠
-
-预算耗尽或遇到阻塞时暂停并通知人工，每次心跳保存完整状态快照，支持崩溃后从断点恢复
-
-5、任务从战略到执行：人类输入公司目标，系统中的AI CEO拆解为季度目标，AI CTO拆解为项目，AI产品经理拆解为功能点，AI工程师拆解为具体任务，执行并提交
-
-上级审核后通过、打回或升级，需要子任务时系统自动创建分配，成本超过阈值或涉及战略决策时触发人工审批
-
-6、多代理协调通过原子性任务签出实现：数据库锁机制确保同一任务不会被多个代理同时领取，避免重复工作
-
-7、预算控制：公司级预算分配到部门，部门预算到具体AI，执行前预检查，执行后扣费，超限额硬停止，大额支出和战略支出需人工审批
-
-8、治理机制：系统内置了多个刹车点，预算超额、关键决策（招聘、战略变更、外部支出、架构变更）等，触发时自动暂停相关AI，创建工单通知人类
-
-另外，系统支持导出/导入整个公司架构，包含组织架构、智能体配置、技能，导入时会自动处理密钥冲突
-
-相当于可以一键复制公司，你做好一套AI公司配置，可以分享给别人克隆
-
-后续这个项目还会上一个Clipmart，相当于AI公司模版市场，你只需要有一个绝佳的商业点子，一键下载一个标准模板，系统里就有自动配置好的AI CEO、CTO、程序员、营销总监等等，你点一下启动，这家纯AI公司就开始全自动为你赚钱了
-
-#Paperclip #AI公司 #AI员工
-如果说OpenClaw是一个员工，那么Paperclip就是整个AI公司，零人类公司，由AI自主运营
-
-你可以告诉Paperclip："做一款AI笔记应用，目标100万月收入"，它就会给你出方案、组团队、搞执行，你只需把控方向、做审批、看仪表盘监控进度和异常即可
-
-搞AI创业，想搞一人公司但用N个AI干活儿的，可以看看这套机制
-
-它的整个运作有层级、有流程、有预算、有审批、有审计，并非黑盒化运营，你相当于董事长，它等于是CEO
-
-系统围绕几个核心模块运转：
-1、公司：最高隔离单位，包含名称、使命、预算和状态，一个Paperclip可以运行多个公司，数据完全隔离
-
-2、智能体：AI员工，包含角色、使用的AI模型、预算限额、汇报关系和当前状态，形成组织架构
-
-3、任务：工单系统，包含标题、描述、目标路径、负责人、预算、状态和产出物，目标路径记录从公司使命到具体任务的完整层级，让AI知道为什么做
-
-4、心跳机制：AI的打卡系统，每隔固定时间（比如5分钟）唤醒一次，检查任务队列，原子性签出任务，执行，提交结果，然后休眠
-
-预算耗尽或遇到阻塞时暂停并通知人工，每次心跳保存完整状态快照，支持崩溃后从断点恢复
-
-5、任务从战略到执行：人类输入公司目标，系统中的AI CEO拆解为季度目标，AI CTO拆解为项目，AI产品经理拆解为功能点，AI工程师拆解为具体任务，执行并提交
-
-上级审核后通过、打回或升级，需要子任务时系统自动创建分配，成本超过阈值或涉及战略决策时触发人工审批
-
-6、多代理协调通过原子性任务签出实现：数据库锁机制确保同一任务不会被多个代理同时领取，避免重复工作
-
-7、预算控制：公司级预算分配到部门，部门预算到具体AI，执行前预检查，执行后扣费，超限额硬停止，大额支出和战略支出需人工审批
-
-8、治理机制：系统内置了多个刹车点，预算超额、关键决策（招聘、战略变更、外部支出、架构变更）等，触发时自动暂停相关AI，创建工单通知人类
-
-另外，系统支持导出/导入整个公司架构，包含组织架构、智能体配置、技能，导入时会自动处理密钥冲突
-
-相当于可以一键复制公司，你做好一套AI公司配置，可以分享给别人克隆
-
-后续这个项目还会上一个Clipmart，相当于AI公司模版市场，你只需要有一个绝佳的商业点子，一键下载一个标准模板，系统里就有自动配置好的AI CEO、CTO、程序员、营销总监等等，你点一下启动，这家纯AI公司就开始全自动为你赚钱了
-
-#Paperclip #AI公司 #AI员工
-github：https://github.com/paperclipai/paperclip
-
----
-
-**作者** meng shao（@shao__meng）  
-**貼文連結** https://x.com/shao__meng/status/2029354650898751597  
-
-**正文**
-
-为什么最好的「AI Engineer」之前是「Manager」?
-
-@quintendf 认为在 AI Agent 时代，最有效的个体贡献者往往是拥有管理经验的前工程经理，Tolan 团队还专门设立了 Agent Engineering Manager 这个岗位。有些反直觉，看看具体是怎么回事？
-https://www.tolans.com/relay/why-the-best-ai-engineers-are-former-managers
-
-Tolan 内部工程大量使用 AI Agent 辅助开发，2025年底，随着并发长运行 Agent 能力的阶跃提升，他们观察到：
-  · 单纯“AI 使用熟练度高”的工程师并非受益最大
-  · 真正爆发的，是有管理经验的前经理（如Dan Federman和Aseem Kishore）
-
-AI Agent 像“新员工”一样，需要清晰的任务拆解、里程碑设定、及时指导、代码审查和必要干预，而这正是 Manager 之前做的事情，所以他们设立了 Agent Engineering Manager 这个岗位。
-
-Agent Engineering Manager 的定义与招聘标准
-· 定位：纯 IC 角色，无人类直接下属（团队规模小）。目标人群是仍热爱写代码的 Tech Lead 或类似规模的管理者。
-· 核心能力要求（面试中严格评估）：
-  · 将模糊的产品问题拆解为明确、可范围化的任务；
-  · 委托任务时设定适当里程碑和检查点；
-  · Agent 求助时快速指导与纠偏；
-  · 对完成工作进行彻底的代码审查；
-  · 必要时手动介入，确保特性高质量交付。
-
-AI 改变了代码产量，但没改变“优秀工程师”的本质：reasoning、communication、judgment，何时澄清需求、何时权衡取舍、何时认为“可以审查/可以上线”，这些判断力至关重要。
-
-Agent Engineering Manager 日常工作三重平衡
-· Setting up the team for success：构建基础设施和文档，让 Agent 能可持续贡献（代码规范、模板、Skills 等）
-· Directly managing：整天活在多 Agent 并发循环中——prompt、coach、redirect
-· Jumping in：小团队中仍需亲自动手推特性落地
-
----
-
-**作者** swarit（@swaritjoshipura）  
-**貼文連結** https://x.com/swaritjoshipura/status/2029219363749020051  
-
-**正文**
-
-Almost a decade ago, the Forward Deployed Engineer was born at Palantir - a role Shyam Sankar, now CTO, described as one that “absorbs pain and excretes product,” turning frontline chaos into shipped software.
-
-Now rebranded as the Agent Engineer, AI Engineer, or Customer Engineer, the FDE has become the critical path as agents attempt the march from pilot to production. 
-
-In this piece, we’ll get into why Forward Deployed Engineering is the critical path in enterprise AI - and that companies who fail to systematize it will never escape the gravity of services.
-
-## The Way We Sell Software is Changing
-
-Traditional Software was Deterministic.
-
-To understand the rise of the FDE, you have to understand how software is changing. From 2010 to roughly 2025, SaaS was largely deterministic. You bought database software, a CRM, or a system of record. You read the docs, followed the installation steps, and while still tedious and painful, the software became a relatively immutable layer in your stack. Over time, tribal knowledge formed around it. Confluence pages, runbooks, cookbooks - an entire operational muscle memory developed around a fixed installation. For vendors, selling was equally structured: an account team, a DRI, a few quarters of implementation, and a predictable path to go live. And while forward deployed engineering had its place in the most complex, often government centric, high-stakes enterprise environments, it was hardly the blueprint for SaaS startups of the 2010s.
-
-AI agents broke that model.
-
-The systems of record like Salesforce, HubSpot, and Splunk, still exist. But in the AI world, instead of installing a deterministic layer, you’re deploying something probabilistic. Agents are designed to do the job that a human would otherwise do, and while the agent has to understand the system of record, it also has to internalize the messy, undocumented [decision trace](<https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/>) that actually makes the company function. The institutional memory. The edge cases. In comes the Forward Deployed Engineer -
-
-The FDE’s job is to metabolize the customer’s world, and to build deep domain intuition about their infrastructure, environment, and edge cases - and horizontalize that back into the product roadmap.
-
-In many ways, the FDE is the highest-fidelity product signal in the company.
-
-In enterprise AI, the speed at which Forward Deployed Engineering pain becomes product capability determines whether you build a platform company or a services company.
-
-How the FDE Model Scales and Supercharges
-
-The immediate pushback on the FDE model is scale. What happens when you have 500 customers? If every forward deployed engineer is expected to master the full surface area of the product and the nuances of each customer’s infrastructure, the math starts to look unfriendly.
-
-
-The answer lies in the fact that the FDE is the biggest power user of the product, and as the Bland CEO [puts](<https://x.com/zaygranet/status/2015334868478304736>) it, their frustrations are data and their workarounds are roadmap items. And so, the FDE drives the product roadmap, aiming to eventually diminish their own job significantly.
-
-
-![Article Image](<https://pbs.twimg.com/media/HCitan8awAUvC-S.jpg>)
-
-In practice, this means the FDE’s job in AI isn’t just to surface pain, but also to author high-quality [evals](<https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents>) that translate real-world scenarios into structured benchmarks engineering can hill-climb against. These are customer-specific, and unlock access to rich, environment-specific data - context the engineering team wouldn’t otherwise have - so those benchmarks reflect the true complexity of each customer’s domain. And if the product is truly compounding, the frontier moves outward, and the evals the FDEs create get harder over time.
-
-A simple diagnostic: what fraction of your FDE output is net-new feedback versus institutionalized muscle memory? How often are they complaining about the same things? If the team is cycling through the same edge cases every quarter, you have a product absorption problem. But if they’re consistently operating at the boundary of technical possibility - that’s how services convert into product equity, and how you build a widening moat.
-
-To explore this further, I propose The Life Cycle of Forward Deployed Engineering in Enterprise AI.
-
-![Article Image](<https://pbs.twimg.com/media/HCitrCjawAUduRA.jpg>)
-
-Let’s go through what each phase entails.
-
-1. Engineering Supported Growth: 
-
-At inception, engineers work hand-in-hand with every customer. The product is so raw that it’s not yet practical to have a formal FDE function. The company itself, from the CTO down, is the forward deployment layer. Your moat is defined by the complexity of the integration and the fragmentation of tribal knowledge. Early adopters and design partners will show interest, but they won’t expect the product to work out of the box. Significant manual effort is assumed - sometimes even deliberate overfitting to that specific audience.
-
-In this phase, if the gap between the human effort and the product capability curve isn’t meaningfully wide, it’s often a sign that there isn’t a clear vision for solving a concrete, valuable problem. 
-
-What matters is that the moat lives in complexity. If the problem is messy and hard, it’s likely worth solving.
-
-![Article Image](<https://pbs.twimg.com/media/HCk6nZ9aQAEgD2k.jpg>)
-
-Coding agents are the first example of a product that was easy to integrate, and didn’t need any forward deployed effort. And what’s easy to integrate is, well, easier to disintegrate. The rapid incline and then perceived decline of GitHub Copilot, Windsurf, and so many more tools pointed to the nature of this problem.
-
-(2) FDE Supported Growth
-
-The second phase is FDE-supported growth. The product isn’t perfect, but it can reliably deliver value when tailored to the unique constraints of each enterprise. While you’re still working closely with design partners to shape the product to function inside large, real-world organizations, some of these accounts are starting to turn into large-scale production deployments.
-
-At this stage, the product is no longer just an extra tool - it’s beginning to ingrain itself into users’ daily workflows. With FDEs absorbing customer-specific complexity and translating them to evals, the core engineering team can start to step back and focus on solving platform-level problems rather than firefighting bespoke deployments.
-
-The turning point comes when FDEs can support more and more accounts simultaneously. Work that was once custom is now horizontalized and baked into the product through successive releases. Product capability begins to exceed the manual effort required to onboard, and you start to see early signs of true product maturity
-
-From here, lower-complexity environments require less and less FDE involvement, while high-complexity, high-stakes enterprises still justify deep forward deployment.
-
-(3) Product Supported Growth 
-
-The final stage - and the end goal of the FDE lifecycle - is when the product works so seamlessly that onboarding is nearly frictionless and the platform reliably handles enterprise complexity out of the box.
-
-Most customers can deploy without an FDE in the loop, and deals can close with minimal account team involvement. They are reserved only for the highest-complexity, highest-stakes enterprises, where they are extending a strong platform rather than compensating for gaps. FDEs then can earn the [right](<https://www.youtube.com/watch?v=Zyw-YA0k3xo>) to solve more important problems for the company they are embedded in. The product now handles low-lift environments out of the box, while still scaling into the most demanding integrations. At this point, the company has escaped the burden of services and sits on the mission-critical path of large organizations.
-
-From here, the challenge shifts to reinvention - expanding into new workflows and restarting the cycle so forward deployment continues to convert frontier complexity into durable product advantage.
-
-At the end of this cycle, if the gap between product maturity and human involvement hasn’t meaningfully widened, you’ve effectively become a services company. That’s usually a sign that product execution fell short, or that there was a gap between the pain of the FDE team and the product roadmap. But if that gap has grown, it means the product has absorbed the complexity and now sits on the mission-critical path of the world’s largest enterprises. 
-
-From there, you repeat the cycle - expand capabilities, launch new products, all in hopes of building a generational company.
-
-Closing Thoughts
-
-To sum it up, the FDE must drive product - systematically translating field friction into shipped features, driving innovation across the company. As the FDE lifecycle evolves within an organization, it becomes critical to instrument it rigorously - measure depth of involvement, quality of life, and track their work down to the wire. What matters isn’t just what they’re doing, but how quickly those activities convert into product changes over time.
-
-People often ask what an FDE team should look like. The best FDEs think in first principles, build durable primitives, and compound learnings across customers. And at the end of the day, engineers want to work with other engineers - and the best companies lean into that, so it is worthwhile to treat the team as an extension of engineering and not sales.
-
-One of the main reasons I chose to join this effort at inception was that it felt like the perfect intersection of technical depth and learning the craft of sales. I’d be embedded in complex system infrastructure while also developing the art of presenting, selling, and partnering with some of the largest companies in the world. Part of this required standing up and actively PM’ing a sprint team sourced purely from FDE feedback - forcing us to confront the highest-friction gaps every single month. I’ve been lucky enough to witness this as we move along the lifecycle, and help build the function out from scratch alongside a super talented team at [Resolve AI](<https://resolve.ai/>), and if this resonates, I’d love to chat more! 
-
----
-
-**作者** Arthur（@ArthurResearch）  
-**貼文連結** https://x.com/ArthurResearch/status/2029296843692106231  
-
-**正文**
-
-Hundreds of autonomous agents for trading
-
-Scanning the market from different data providers, different strategies, interacting with each other.
-
-If you want to see what real emergence in trading looks like, and what comes out of this open project, stay tuned.
-
-Conway for financial markets, coming soon.
-
----
-
-**作者** Finn Hulse（@finn_hulse）  
-**貼文連結** https://x.com/finn_hulse/status/2029300798174445789  
-
-**正文**
-
-how to fail with grace:
-
-- gpt wrapper (great idea though)
-
-- fake ARR, holler about getting to $100M ARR faster than anyone, raise too much money, market aggressively
-
-- fail because the product and pricing are completely wack
-
-- delete all posts, lay low for a year and cover up all previous indicators of effort (?)
-
-- change your own last name (?)
-
-- make a new company that is actually the same (?)
-
-- change the icon of icon itself to be a picture of yourself (🫨)
-
-- start over (???)
-how to fail with grace:
-
-- gpt wrapper (great idea though)
-
-- fake ARR, holler about getting to $100M ARR faster than anyone, raise too much money, market aggressively
-
-- fail because the product and pricing are completely wack
-
-- delete all posts, lay low for a year and cover up all previous indicators of effort (?)
-
-- change your own last name (?)
-
-- make a new company that is actually the same (?)
-
-- change the icon of icon itself to be a picture of yourself (🫨)
-
-- start over (???)
-either this stunt itself is a marketing/attention thing (in which case i’m happy to help elevate lmao) or there’s a lesson to be learned
-
-i’ll pretend it’s the latter just because there’s a disturbing trend that needs to be addressed
-
-there is a fine line between healthy confidence and deception. confidence is earned. PMF is fairly obvious when you have it, and it never happens overnight. that’s the moment when it can make sense to hoot and holler.
-
-hooting and hollering prematurely/deceptively, if it means that failure will be so embarrassing you basically need to hibernate, is negative expectancy
-
-there is no shortcut. it doesn’t matter if the temporary noise can raise you the biggest round ever. it’s not as simple as taking money and throwing at the problem.
-
-with AI wrappers specifically, the scientific question to answer is basically just “are existing models within reach of getting them to do what i want them to do?”
-
-you need to be brutally honest about that answer, even if you’re desperate to own the mental real estate so that you can later capitalize on it once the model works. if the answer is no, you should work quietly, assemble a great team, and go heads down in pure iteration mode until then
-
-the “mental real estate” of having once been the loudest a year ago is pretty much worth nothing a year later, or whenever models become good enough to do what you want to do. a great team will certainly assemble around this idea. antics are not, in my view, the way to be that team
-
----
-
-**作者** Arlan（@arlanr）  
-**貼文連結** https://x.com/arlanr/status/2029208871173324867  
-
-**正文**
-
-he is using @nozomioai btw.
-
-look at the right side of the screen 😍
-
----
-
-**作者** Alex Steele（@alexsteele）  
-**貼文連結** https://x.com/alexsteele/status/2029309964863586755  
-
-**正文**
-
-Today I'm excited to announce that @GetOpal has raised a $6M Seed round in just 4 hours.
-
-Our first angel, @ianwcrosby, made one call on my behalf when I moved to San Francisco.
-
-That call changed everything.
-
-I moved to SF on October 17th. The next morning, my phone rang.
-
-@xuezhao from @BasisSet was on the other end. I’d never met her before.
-
-She said: "Ian tells me I need to meet you immediately. Can we go for a walk tomorrow?"
-
-We lived five blocks apart. The walk was supposed to be one hour.
-
-We ended up walking for four.
-
-She was asking questions to get to know me as a person. Feeling me out for one thing: 
-
-Am I the kind of founder crazy enough to build a credit card company with no finance degree and no banking connections?
-
-By the end of the walk, we had agreed on terms.
-
-Today, Opal is announcing our $6M seed round, led by Basis Set, with participation from Founders Co-op, Ian Crosby, and Adam Orser.
-
-We didn't start as a credit card company. But our customers told us we had to be.
-
-Here's what we've built:
-
-- A Visa credit card built exclusively for ad agencies and the brands they manage
-- Credit limits that reach seven figures - underwritten on managed ad spend, not agency revenue
-- 1%+ cash back on all ad spend
-- A fraud system that actually understands ad spend, so Google and Meta charges never get flagged and kill your campaigns
-
-Traditional banks look at an agency's revenue and give them a $50K limit.
-
-We look at the millions they manage for clients and give them what they actually need.
-
-To Lan Xuezhao and the team at Basis Set - thank you for betting on this on day two.
-
-To Ian Crosby - you opened a door I didn't even know existed. None of this happens without you.
-
-To the Opal team - you're building something that doesn't exist anywhere else. That takes a specific kind of crazy. I'm grateful for every one of you.
-
-If you run an ad agency and your credit limits are costing you - reach out. We built this for you.
-
----
-
-**作者** Siddhant Khare（@Siddhant_K_code）  
-**貼文連結** https://x.com/Siddhant_K_code/status/2029207435043586141  
-
-**正文**
-
-I wrote a book for engineering leaders.
-
-The Agentic Engineering Guide. 10 parts, 33 chapters. Context engineering, authorization, cost control, sandboxing, evaluation, governance, adoption playbooks.
-
-Not a prompt tutorial. The decisions you face when shipping agents to production this quarter.
-
-Early version. Open source. Rough edges included. Spot a mistake, open a PR.
-
-https://agents.siddhantkhare.com
-I wrote a book for engineering leaders.
-
-The Agentic Engineering Guide. 10 parts, 33 chapters. Context engineering, authorization, cost control, sandboxing, evaluation, governance, adoption playbooks.
-
-Not a prompt tutorial. The decisions you face when shipping agents to production this quarter.
-
-Early version. Open source. Rough edges included. Spot a mistake, open a PR.
-
-https://agents.siddhantkhare.com
-If you wanted to read in PDF  or support this work:
-
-https://siddhantkhar5.gumroad.com/l/agentic-engineering-guide
-As my most of the personal work, this is Open Source too:
-
-https://github.com/Siddhant-K-code/agentic-engineering-guide
-
----
-
-**作者** Arlan（@arlanr）  
-**貼文連結** https://x.com/arlanr/status/2029331075097592089  
-
-**正文**
-
-introducing @nozomioai search.
-
-our mission is to rebuild google, but you control the index.
-
-reason over any technical data: code, docs, huggingface datasets, PDFs, and more.
-
-> semantic and agentic search out of the box.
-> scalable, 5x cheaper, and reliable.
-> start for free 
-introducing @nozomioai search.
-
-our mission is to rebuild google, but you control the index.
-
-reason over any technical data: code, docs, huggingface datasets, PDFs, and more.
-
-> semantic and agentic search out of the box.
-> scalable, 5x cheaper, and reliable.
-> start for free 
-1/ we are starting with software engineering, where the context problem is the most painful today.
-
-frameworks change fast, docs go stale, and models hallucinate APIs that never existed.
-
-i faced the problem myself when starting my @ycombinator batch, so I decided to solve it for myself first.
-
-then I saw my batchmates start using it too.
-2/ one concrete proof:
-
-we ran @vercel's public next.js evaluation suite (50 real tasks).
-
-- claude code + nozomio: 80% pass rate
-- standalone claude code: 58%
-
-that is a 38% relative improvement simply by forcing the agent to consult up-to-date sources before writing code.
-
-link to the blog: https://www.trynia.ai/blog/claude-code-nia-nextjs-benchmark/
-3/ based on our findings, this does not just apply to code.
-
-the same retrieval pattern works across many types of knowledge.
-
-with @nozomioai you can search across:
-
-• slack -> find decisions buried in old threads
-• PDFs -> research papers, SEC filings, legal docs via tree reasoning instead of chunk-RAG
-• datasets -> semantic search over @huggingface datasets with schema awareness
-• docs + repos -> llms.txt docs, OpenAPI specs, YAML configs, GitHub repos
-• local knowledge -> folders, chat history, and private sources
-
-agents can search → read → grep → explore sources directly.
-4/ what you get:
-
-• agentic + semantic search out of the box
-• scalable, reliable, and cost efficient
-• free tier available
-
-AI agents are improving fast.
-
-the real bottleneck now is context infrastructure.
-
-if you are building agent workflows and need a real context layer, you should def check us out!
-
-https://www.trynia.ai/
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2029428076632031676  
-
-**正文**
-
-决定了，把这个做成一个 skills，安装上以后启动，你当前的 Claude Code 聊天就可以远程被接管。
-
-直接降低门槛，可以随意连接到 Telegram 飞书和 Discord。
-
-我调研一下能不能实现先。
-决定了，把这个做成一个 skills，安装上以后启动，你当前的 Claude Code 聊天就可以远程被接管。
-
-直接降低门槛，可以随意连接到 Telegram 飞书和 Discord。
-
-我调研一下能不能实现先。
-我需要调研一下，看看权限上行不行
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2029422775375638628  
-
-**正文**
-
-🧵Thread: 我养了6只龙虾，被只养1只的人打醒了
-
-1/ 🦞 我养了6只龙虾，他只养1只。
-
-14天后，他有百万播放Thread、59页网站、8人AI团队。我有一堆横评报告。
-
-一个Thread讲清楚👇 
-🧵Thread: 我养了6只龙虾，被只养1只的人打醒了
-
-1/ 🦞 我养了6只龙虾，他只养1只。
-
-14天后，他有百万播放Thread、59页网站、8人AI团队。我有一堆横评报告。
-
-一个Thread讲清楚👇 
-2/ 😬 【问题不在养几只】我一直停在"对比"阶段，没走到"创造"。
-
-核心问题只有一个：有没有产出过"没有龙虾你做不到"的东西？
-
-傅盛有。我没有。 
-3/ 💡 【龙虾比Agent强，不是因为模型更聪明】底层都一样的大语言模型。
-
-区别是龙虾有一台完整的电脑——内在世界（记忆/文件/配置）+ 外在世界（整个互联网）。
-
-沙箱里的龙虾和完整主机，差距不是20%，是两个物种。 
-4/ 💰 【贵模型做决策，便宜模型干杂活】傅盛的"三千"用Kimi跑杂活，每天不到5分钱。
-
-两天无人值守，自己找了95%的Skill，输出PDF报告。
-
-"选Kimi或GLM，效果OK，价格便宜90%多。" 
-5/ ⏰ 【Cron是最容易踩的坑】三万说"明天提醒你"，结果差点让傅盛误机。
-
-大语言模型有"以为自己做了"的幻觉。
-
-99块钱秘技：安排任务必须说"写到Cron里"这四个字。 
-6/ 🏋️ 【龙虾的智商取决于迭代次数】三万被迭代一万次，CFO的财神爷几十次。
-
-同平台同配置，财神爷画不出白板风格的图，最后让三万帮它配。
-
-这不是模型差距，是训练差距。 
-7/ 🚀 养了6只龙虾，不如深耕1只。
-
-"你先问一下AI，好吧？"
-
-剩下的事只有一件：动手。 
-以上就是全部
-
-如果您喜欢这个主题：
-
-1.关注我（@FinanceYF5）
-2. 点赞+转发下面第一条帖子
-
-https://x.com/FinanceYF5/status/2029422775375638628
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 1001–1200 則**（共 200 則）
 
 ---
 
@@ -9515,3 +8994,213 @@ Peter 是最有创造力的 builder 之一。他们聊了 openclaw 🦞、他的
 
 ---
 
+**作者** Agno（@AgnoAgi）  
+**貼文連結** https://x.com/AgnoAgi/status/2026696006604304611  
+
+**正文**
+
+Agno now includes a built-in scheduler for running agents, teams, and workflows on a recurring basis. Define cron schedules with support for retries, timeouts, and timezone configuration. No external
+
+---
+
+**作者** Jonas Nelle（@jonas_nelle）  
+**貼文連結** https://x.com/jonas_nelle/status/2026371395077419393  
+
+**正文**
+
+In personal news, @autotabai has been acquired by @cursor_ai .
+
+@alexirobbins and I have been working on giving Cursor's agent its own computer it can use like a human developer.
+
+Excited to hear what you think!
+
+---
+
+**作者** Cognition（@cognition）  
+**貼文連結** https://x.com/cognition/status/2026343816521994339  
+
+**正文**
+
+Introducing Devin 2.2 – the autonomous agent that can test with computer use, self-verify, and auto-fix its work. Try it for free!
+
+We’ve also overhauled Devin from the ground up:
+
+- 3x faster startup
+- fully redesigned interface
+- computer use + virtual desktop
+
+...and hundreds more UX and functionality improvements.
+
+---
+
+**作者** Guohao Li 🐫（@guohao_li）  
+**貼文連結** https://x.com/guohao_li/status/2026514081545359482  
+
+**正文**
+
+Claude Cowork is becoming a new WorkOS. We are building a 100% local and open source WorkOS, try Eigent with any models, any skills, and any connectors
+
+https://github.com/eigent-ai/eigent 
+
+---
+
+**作者** Tyler Barnes（@tylbar）  
+**貼文連結** https://x.com/tylbar/status/2026399996237820282  
+
+**正文**
+
+🚨 Announcing a new coding agent that rivals Claude Code but with no compaction needed 🚨
+
+The feeling of using it: run your coding sessions forever, don't worry at all, and get shit done!
+
+We're calling it Mastra Code, it's powered by @mastra's new observational memory, and we've been using it internally @mastra to do all our work
+
+1/4 🧵
+
+---
+
+**作者** Beni（@ben_issen）  
+**貼文連結** https://x.com/ben_issen/status/2026674546628030834  
+
+**正文**
+
+Name one young product designer getting more offers than @racheljychen. Rachel, you rock. 
+
+---
+
+**作者** Tanmay（@tkejr_）  
+**貼文連結** https://x.com/tkejr_/status/2026432354038976671  
+
+**正文**
+
+OpenClaw for businesses.
+
+Launching MakeX
+
+An AI ops team that plugs into your stack.
+Shopify. HubSpot. Stripe. Sheets. 100+ Integrations
+
+It builds dashboards.Automates workflows.Fixes messy ops.
+
+You describe it.It ships. 
+
+---
+
+**作者** t54.ai（@t54ai）  
+**貼文連結** https://x.com/t54ai/status/2026713568666648661  
+
+**正文**
+
+AI agents are already moving money — unverified and unaccountable.
+
+Today, we’re announcing our $5M seed round to build the trust layer for the agentic economy.
+
+Led by Anagram, PL Capital, and Franklin Templeton, with strategic investment from Ripple.
+
+http://t54.ai/seed 
+
+---
+
+**作者** fredrika（@fredrikalindh）  
+**貼文連結** https://x.com/fredrikalindh/status/2026379400879730794  
+
+**正文**
+
+i joined cursor a month ago to build cloud agents - today we’re launching agents that can test and demo their work
+
+last week i shipped 60 PRs with them
+
+this is how i use them: 
+
+---
+
+**作者** Atoms（@atoms_dev）  
+**貼文連結** https://x.com/atoms_dev/status/2026543998970769491  
+
+**正文**
+
+👋Introducing Atoms: the first AI team that builds real businesses. 
+
+Instead of one agent working step-by-step, multiple agents race to build your app simultaneously.
+
+From research to build, launch, and scale, all autonomous. 
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/2026592396486782986  
+
+**正文**
+
+过年都在写这个，尝试梳理 2026 年的 Agent 发生了什么变化
+
+我过年写了一篇一万字的文章，如果你最近很焦虑建议看看。
+
+我会尝试告诉你这一个月 AI 领域发生了什么，为什么大家都这么焦虑。这些变化可能会带来什么影响
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/2026341356910624956  
+
+**正文**
+
+.@bubblelab_ai supercharges your ops work in Slack. Deploy Pearl in one click, connect it to tools like Notion, Jira, Stripe, and let it run tasks and automations for your team directly in Slack.
+
+Congrats on the launch, @Selinaliyy and @zhubzyz!
+
+https://www.ycombinator.com/launches/PWl-bubble-lab-supercharge-your-ops-work-in-slack 
+
+---
+
+**作者** Emily Gavrilenko（@egavrilenko11）  
+**貼文連結** https://x.com/egavrilenko11/status/2026427222958157887  
+
+**正文**
+
+we've just shipped computer use for cloud agents
+
+now, more than half my PRs to http://cursor.com are directly from the web
+
+@kentcdodds and I are hosting a workshop on 2/25 where we'll be going over the latest workflows for building web applications using Cursor 
+
+come join us at https://luma.com/pyi2sdlo?utm_source=x
+
+---
+
+**作者** Rohit（@rohit4verse）  
+**貼文連結** https://x.com/rohit4verse/status/2026359771427991764  
+
+**正文**
+
+watched another agentic ai project crash last week. the exact same mistake everyone makes.
+
+over 40% of these projects fail not because of the models, but because of poor architecture.
+
+everyone is building demos. here is the 10-step checklist to actually hit production:
+
+1. boundaries: define your threat models early.
+
+2. contracts: strict schemas for inputs and outputs.
+
+3. security: role-based access and strict sandboxing.
+
+4. context: keep your context windows layered and compact.
+
+5. knowledge: treat grounding as a governed tool, not a free-for-all.
+
+6. control: use planning and orchestration as your control flow.
+
+7. state: build memory directly into the architecture.
+
+8. reliability: design native retry and error-handling loops.
+
+9. observability: track everything with traces, metrics, and logs.
+
+10. governance: set up safety gates and drift detection.
+
+which of these 10 pillars do you find the hardest to get right?
+
+(deep dive into the architecture in the article)
+
+---

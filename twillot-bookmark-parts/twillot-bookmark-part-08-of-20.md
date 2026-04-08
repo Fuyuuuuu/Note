@@ -1,250 +1,6 @@
 # Twillot 書籤（精簡）— 第 8/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 1376–1572 則**（共 197 則）
-
----
-
-**作者** Stijn Noorman（@stijnnoorman）  
-**貼文連結** https://x.com/stijnnoorman/status/2024151293216833817  
-
-**正文**
-
-Everyone gets the same 24 hours.
-Yet some achieve far more.
-Even if they have the same goals and resources.
-And some even get much more done by doing significantly less.
-In this article, I'm going to
-
----
-
-**作者** Charity Majors（@mipsytipsy）  
-**貼文連結** https://x.com/mipsytipsy/status/2023935962376790247  
-
-**正文**
-
-This post is terrific, and it is such a great example of the type of AI discourse that drives me UP THE FUCKING WALL.
-
-You have NEVER been able to know what the code will do by reading the code. You have ALWAYS needed to ask your instrumentation to understand your code in production.
-
----
-
-**作者** Alex Immerman（@aleximm）  
-**貼文連結** https://x.com/aleximm/status/2024192012560585086  
-
-**正文**
-
-Vertical software isn't dead. 
-
-General purpose AI tools are incredible, but they don't know, can't know, and will likely never know how to solve the last mile because that's not their job. 
-
-Process engineering ftw. 
-
-Excellent read @gsivulka @hebbia. 
-
----
-
-**作者** Zach Wilson（@EcZachly）  
-**貼文連結** https://x.com/EcZachly/status/2023842672033538241  
-
-**正文**
-
-Given the success of the data-engineer-handbook, we’ve released a brand new open source GitHub repo called the ai-engineer-handbook!
-
-This repo has all the projects, newsletters, and creators you need to follow to stay up to date in AI!
-
-If there’s anything missing, please open a pull request and we will review it! Let’s crowd source this material together to stay up to date!
-
-Link: https://lnkd.in/gVkWyCp9
-
-Make sure to join our free vibe coding challenge on February 21st and 22nd. We will be building a full fledged SaaS product: http://learn.dataexpert.io
-
----
-
-**作者** Shubham Saboo（@Saboo_Shubham_）  
-**貼文連結** https://x.com/Saboo_Shubham_/status/2024173597443707149  
-
-**正文**
-
-Every PM and engineer on my timeline is suddenly talking about taste and judgement.
-
-These are the ONLY SKILLS that mater in 2026 
-
----
-
-**作者** Karry | Vibing ...（@karry_viber）  
-**貼文連結** https://x.com/karry_viber/status/2024302387780079966  
-
-**正文**
-
-前几天玉伯老师发了一条帖子，17 万人看了：
- 
-评论区炸了。但他后来补了一条，很多人没注意到：
- 
-我想接着这句话往下聊。
-因为我就是那个转变了的产品经理。
- 
-
-我确实不是产品经理了
-先交代背景。
-我是 Claude
-
----
-
-**作者** Bilgin Ibryam（@bibryam）  
-**貼文連結** https://x.com/bibryam/status/2024418178307379684  
-
-**正文**
-
-The Learning Loop and LLMs
-https://martinfowler.com/articles/llm-learning-loop.html
-
----
-
-**作者** Lucas Crespo 📧（@lucas__crespo）  
-**貼文連結** https://x.com/lucas__crespo/status/2024335893436457354  
-
-**正文**
-
-I'm obsessed with @mercury's new landing page 
-
----
-
-**作者** Soleio（@soleio）  
-**貼文連結** https://x.com/soleio/status/2024134303513452556  
-
-**正文**
-
-First of Kind: The @ryolu_ interview
-
-What is the future of design in a post-AI world? 
-
-Ryo Lu pioneered new patterns for collaboration as Notion’s founding designer. He now leads design at @cursor_ai where he shapes new ways to build software. 
-
----
-
-**作者** Adit（@aditabrm）  
-**貼文連結** https://x.com/aditabrm/status/2024212611827687704  
-
-**正文**
-
-A few months ago we announced our $75M Series B for Reducto, just 5 months after announcing our $24.5M Series A and <18 months after finishing the YC W24 batch.
-I originally wrote this article
-
----
-
-**作者** ben（@contraben）  
-**貼文連結** https://x.com/contraben/status/2024182864506761617  
-
-**正文**
-
-Introducing Contra Payments.
-
-The first payments platform that lets you sell to AI Agents.
-
-RT + Comment “Contra” and I’ll send you 100 products AI agents are looking for. 
-
----
-
-**作者** Davide Pacilio（@DavidePacilio）  
-**貼文連結** https://x.com/DavidePacilio/status/2024082770897563710  
-
-**正文**
-
-2026 is the year of serif fonts 
-
----
-
-**作者** Ryan Carson（@ryancarson）  
-**貼文連結** https://x.com/ryancarson/status/2024103388204400820  
-
-**正文**
-
-Wow, I guess 1.1 million of you found this useful. 
-
-Thank you. 
-
-The age of the Code Factory is here.
-
----
-
-**作者** Nikunj Kothari（@nikunj）  
-**貼文連結** https://x.com/nikunj/status/2024156716410015902  
-
-**正文**
-
-Incredible wake up call masqueraded in an X article from the indomitable @clairevo.. 
-
-If you’re a CEO, please read this and start now. 
-
-Don’t hire a Chief AI officer and call it done - you’re a dead company walking just buying more time. This needs to start with you!
-
----
-
-**作者** Nicolas Bustamante（@nicbstme）  
-**貼文連結** https://x.com/nicbstme/status/2024224036222619874  
-
-**正文**
-
-FYI friends, I never wrote that SaaS is dead. I explained that LLMs are eroding some moats while reinforcing others.Interface lock-in, custom workflows, and “we make public data searchable” are getting commoditized.
-
-Proprietary data, regulatory lock-in, network effects, and transaction rails are getting stronger.
-
-This isn’t SaaS dying. It’s just a repricing of which moats actually matter in an agent-first world.
-
----
-
-**作者** Emmett（@emmettshine）  
-**貼文連結** https://x.com/emmettshine/status/2024113482623258907  
-
-**正文**
-
-The New Workflow
-Yesterday, Figma introduced Claude Code integration, where code flows to Figma and back again in a continuous loop. This is important because the loop works both ways; your team
-
----
-
-**作者** Wayne Sutton（@waynesutton）  
-**貼文連結** https://x.com/waynesutton/status/2024391051847618750  
-
-**正文**
-
-Did someone say skills knowledge graphs? 
-
-Closing this thing before I mess around and prompt Ultron. 
-
----
-
-**作者** 数字游民Jarod（@jarodise）  
-**貼文連結** https://x.com/jarodise/status/2024289602958454943  
-
-**正文**
-
-《财富》杂志近日报道了一位来自美国密西西比州的22 岁的辍学黑人小哥Adavia Davis，他通过全 AI 制作“无人出镜”油管内容，实现了每月 4 到 6 万美元的营收。
-
-他手下运营着多个油管频道，内容涉及历史、游戏、动物，恶搞，动漫。
-
-其中最赚钱的一个是专门制作长达 6 小时、助眠类历史内容的“Boring History”。
-
-他的商业模式主打全自动化，核心是利用 TubeGen 软件将 Claude 的剧本创作、ElevenLabs 的英式配音以及后期剪辑彻底打通。由于每个生产环节都能自动流转，整个内容创作过程几乎不再需要人工介入，实现了极高的运营效率。
-
-他单条视频的制作成本仅约 60 美元，月运营开支控制在 6500 美元左右，利润率高达 85% 以上。
-
-目前，他的频道网络每日播放量达 200 万次，年收入约 70 万美元。
-
-🤯
-
----
-
-**作者** Ben Dicken（@BenjDicken）  
-**貼文連結** https://x.com/BenjDicken/status/2024126450602066201  
-
-**正文**
-
-Sharding is how you scale databases.
-
-In yesterday's stream we took a detour into when to use sharding and how it works.
-
-Hint: do this instead of using 50 read replicas. 
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 1402–1601 則**（共 200 則）
 
 ---
 
@@ -7380,3 +7136,613 @@ the best way to run coding agents in the cloud
 
 ---
 
+**作者** Quant Science（@quantscience_）  
+**貼文連結** https://x.com/quantscience_/status/2021575282646212971  
+
+**正文**
+
+This guy made a Bloomberg Terminal clone.
+
+Then open sourced it (for free).
+
+Get it here: 
+This guy made a Bloomberg Terminal clone.
+
+Then open sourced it (for free).
+
+Get it here: 
+Bloomberg terminal clone built with next js, react and typescript. 
+
+Grab it here for free (GitHub): https://github.com/feremabraz/bloomberg-terminal 
+🚨How I built my end-to-end hedge fund in Python (Free Workshop)
+
+• QSConnect: Build your quant research database
+• QSResearch: Research and run machine learning strategies
+• Omega: Automate trade execution
+
+ 👉 Register here (limited seats): https://learn.quantscience.io/become-a-pro-quant-trader-with-python ￼ 
+
+---
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/2021711269426765853  
+
+**正文**
+
+2 月 10 日，笔记软件 Obsidian 发布了 1.12 版，核心功能是一个命令行工具（CLI）。同一天，画图工具 Draw.io 和 Excalidraw 都发布了 MCP（Model Context Protocol）接口。
+
+---
+
+**作者** DinoDeer（@xDinoDeer）  
+**貼文連結** https://x.com/xDinoDeer/status/2021387236965744910  
+
+**正文**
+
+你的公司是一个文件系统。
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/2021645412487110868  
+
+**正文**
+
+.@salus_ai is building runtime guardrails to validate your AI agent’s actions before they execute.
+
+By adding their API to your codebase, incorrect actions are automatically blocked and your agent receives actionable feedback to self-correct.
+
+Congrats @thevedants1 and @pankev18 on the launch!
+
+https://www.ycombinator.com/launches/PNm-salus-runtime-guardrails-that-validate-ai-agent-actions-before-they-execute
+
+---
+
+**作者** Allie K. Miller（@alliekmiller）  
+**貼文連結** https://x.com/alliekmiller/status/2021578555034149188  
+
+**正文**
+
+AI is making me feel like my team is unlimited in size and capability. And I want to lay out one of the more fun ways I see that unfolding. 
+
+I built a /boardroom command in Claude Code that spins up 6 AI agents - each roleplaying as a different business leader I admire - and has them debate my strategic decisions in two rounds.
+
+Round 1: They all write their positions in parallel (~2 min)
+
+Round 2: They read each other's ACTUAL arguments and fight. They name names. They quote each other. They change their votes or double down. It's mutiny. It's glorious.
+
+Then it auto-generates:
+- A markdown file with the full debate + vote tracker
+- An interactive HTML with sliders to adjust assumptions and watch revenue or cost or impact projections change
+- A clean PDF I can send to my team
+
+The whole thing runs off a single slash command. I type /boardroom "should I price this at $25,000 or $50,000?" or "/boardroom how should I launch <product x file path>?" and 4 minutes later I have a folder with a full strategic debate that I can literally interact with from "people" who think completely differently from each other.
+
+("People" being in air quotes, of course.)
+
+Best part: the AI avatars of these folks actually disagree. The pricing person attacks the product person. The platform thinker tells the exclusivity person they're thinking too small. Someone changes their mind in Round 2 after reading another advisor's argument.
+
+It's a board of directors on demand for maybe $5-8 in compute. A complete no-brainer for any complex decisions.
+
+Here's the prompt you can steal to build your own.
+
+AI Boardroom Claude Code Skills Prompt:
+
+
+You'll want to customize the advisor list to match your industry and goals. A SaaS founder might want Jensen Huang, Marc Benioff, Ginny Rometty, and Patrick Collison arguing about strategy. A creator might want MrBeast, Alex Hormozi, and Codie Sanchez debating monetization. If you find you're not thinking big enough, maybe pull in Elon Musk, Melinda Gates, and Jeff Bezos. Or if you're thinking about legacy maybe Katherine Johnson, Eleanor Roosevelt, and Marie Curie. Or add people out of left field just to shake things up: David Bowie, David Guetta, David Tennant, and Dave Chappelle. 
+
+Pick people who think differently from each other, especially people who might disagree with you or with each other - that's where the real value is.
+
+![Article Image](<https://pbs.twimg.com/media/HA4Wgc7aQAA8HeE.jpg>)
+
+![Article Image](<https://pbs.twimg.com/media/HA4LuwtasAAvjTB.jpg>)
+
+\*Note: I create context documents for key parts of my life - including my personal constitution, my business, my career, my family, my friends, and my 2026 goals. I point this skill, and many other skills, directly at these documents. [If you want the prompts to create those context docs to fully customize AI outputs for yourself, just go here.](<https://www.linkedin.com/posts/alliekmiller_new-i-just-dropped-something-that-will-completely-activity-7423060787654479872-4qZE>)
+
+---
+
+**作者** Jaleh Rezaei（@jalehr）  
+**貼文連結** https://x.com/jalehr/status/2021628983587004499  
+
+**正文**
+
+48 hours ago we launched an agent for GTM teams. Shockingly: 40% of signups are CEOs/Founders!
+
+And they want to build different things than sales and marketing users.
+
+Context: We launched early access to our agent that can create anything customer-facing. We asked everyone who signed up what they want to build in Mutiny. Here’s what we learned:
+
+Founders talk in outcomes, not assets.
+Their top themes are "GTM automation" (33%), speed/velocity (18%), and content creation (16%). They rarely name a specific deliverable — they say things like "automate my entire GTM," "scale my small team," "ship faster." They want the whole motion, not a point tool. The GTM Athletes message is landing hard here, with many wanting to become one themselves.
+
+Sales talks in deal collateral.
+They want proposals, business cases, one-pagers, and customer-facing docs they can build themselves. The pain is crystal clear: they're waiting on other teams to deliver collateral for deals. They want self-serve deal ammo.
+
+Marketing talks in campaign assets.
+Their top ask is ads/creative, followed by case studies, landing pages, and website personalization. They also index high on "automate" (19%) — they want to ship campaigns faster without waiting on design or engineering.
+
+There’s a clear thread connecting all three: Everyone wants speed and fewer dependencies.
+
+- Founders want an automated GTM engine.
+- Sales wants to self-serve collateral without going through marketing.
+- Marketing wants to ship campaigns without going through design.
+
+The opportunity is a system where marketing sets the brand rails, sales self-serves within them, and founders get the whole thing on autopilot.
+
+The waitlist is still open. We’re giving away 30 days of unlimited credits for free.
+
+---
+
+**作者** Cognition（@cognition）  
+**貼文連結** https://x.com/cognition/status/2021694497655337040  
+
+**正文**
+
+Two weeks since launch, Devin Review runs >40,000 times a day. Thanks for the love & feedback.
+
+Some updates based on popular demand:
+- One-click-apply fixes
+- Merge button
+- REVIEW md support
+
+Swap github -> devinreview in any PR link to try, no account needed. 
+Two weeks since launch, Devin Review runs >40,000 times a day. Thanks for the love & feedback.
+
+Some updates based on popular demand:
+- One-click-apply fixes
+- Merge button
+- REVIEW md support
+
+Swap github -> devinreview in any PR link to try, no account needed. 
+We’ve also added support for mentions, meaning that you can tag (@) teammates and Devin in comments right from the Devin Review interface.
+
+Plus, we’ve shipped dozens of quality of life improvements to give you a smoother experience.
+
+Get started with Devin Review: https://devinreview.com/
+
+To get the most out of Devin Review, check out the docs: https://docs.devin.ai/work-with-devin/devin-review
+
+---
+
+**作者** Jarod Xu（@Jarodxu7）  
+**貼文連結** https://x.com/Jarodxu7/status/2021620710544904355  
+
+**正文**
+
+Happycapy is now open to everyone 🚀
+The agent-native computer, in your browser, and now on your phone.
+
+> Powered by Claude Code + MiniMax, including Opus 4.6 and Minimax M2.5
+> Your own secure cloud sandbox
+> Run agent teams. Automate task
+
+Not just another OpenClaw. It’s all-in-one. No installs. Just run.
+
+---
+
+**作者** WquGuru🦀（@wquguru）  
+**貼文連結** https://x.com/wquguru/status/2021809850947448978  
+
+**正文**
+
+agent开发框架层出不穷，claude agent sdk、vercel ai sdk、gemini sdk、langchain sdk到现在的pi sdk，似乎又重现了当年Tensorflow、PyTorch、PaddlePaddle等深度学习框架混战的场景，作为开发者也是目不暇接
+
+应该选择哪个框架？npm.js的周下载量给出了明确答案，同样的过去一年里：
+
+Claude Agent SDK从10万增长到500万
+Vercel AI SDK从100万增长到650万
+Google Gemini SDK从200增加到470万
+langchain从70万增长到150万
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/2021861941451665755  
+
+**正文**
+
+Pavel 汇总了 132 位投资人的预测，其中的共同主题包括：
+
+1. 自主 AI 将成为下一个平台层
+2. AI 基础设施
+3. AI 走进现实世界
+4. 为 AI 原生经济重构支付系统
+5. AI 经济学与定价机制 
+Pavel 汇总了 132 位投资人的预测，其中的共同主题包括：
+
+1. 自主 AI 将成为下一个平台层
+2. AI 基础设施
+3. AI 走进现实世界
+4. 为 AI 原生经济重构支付系统
+5. AI 经济学与定价机制 
+源：
+https://x.com/rrhoover/status/2021347463194640536
+
+---
+
+**作者** Santiago（@svpino）  
+**貼文連結** https://x.com/svpino/status/2021602651029524690  
+
+**正文**
+
+This is a billion-dollar idea!
+
+This is an open-source tool that detects signs of burnout in employees before it becomes a problem.
+
+The project is called On-Call Health, and here's how it works:
+
+It combines two types of signals:
+
+1. Objective data from tools like PagerDuty, Slack, GitHub, Linear, and Jira. Think of incident volume, after-hours pages, number of tasks, etc.
+
+2. Self-reported check-ins. These are short surveys asking engineers how they actually feel.
+
+Based on both, the application computes a burnout risk score.
+
+For example, if you have someone on your team who's been troubleshooting multiple incidents outside working hours, the tool will signal you should check in with them.
+
+Something that's really interesting:
+
+The tool measures everything against individual and team baselines. It tracks trends over time rather than comparing people against each other.
+
+They also use LLMs to summarize changes and give managers a quick readout before weekly reviews.
+
+While none of this is medical advice, and scores are purely indicative, a tool like this can surface patterns that you wouldn't notice otherwise.
+
+100% free. You can self-host it or use their hosted version.
+
+I'm linking to it below:
+This is a billion-dollar idea!
+
+This is an open-source tool that detects signs of burnout in employees before it becomes a problem.
+
+The project is called On-Call Health, and here's how it works:
+
+It combines two types of signals:
+
+1. Objective data from tools like PagerDuty, Slack, GitHub, Linear, and Jira. Think of incident volume, after-hours pages, number of tasks, etc.
+
+2. Self-reported check-ins. These are short surveys asking engineers how they actually feel.
+
+Based on both, the application computes a burnout risk score.
+
+For example, if you have someone on your team who's been troubleshooting multiple incidents outside working hours, the tool will signal you should check in with them.
+
+Something that's really interesting:
+
+The tool measures everything against individual and team baselines. It tracks trends over time rather than comparing people against each other.
+
+They also use LLMs to summarize changes and give managers a quick readout before weekly reviews.
+
+While none of this is medical advice, and scores are purely indicative, a tool like this can surface patterns that you wouldn't notice otherwise.
+
+100% free. You can self-host it or use their hosted version.
+
+I'm linking to it below:
+Here is the link to the GitHub repository:
+
+https://github.com/Rootly-AI-Labs/On-Call-Health
+
+---
+
+**作者** Uğur Kaner（@ugurkaner）  
+**貼文連結** https://x.com/ugurkaner/status/2021602640271192438  
+
+**正文**
+
+Today, I’m excited to announce http://Reflow.ai, the intelligence platform for enterprise operations, and our $15M+ seed round, backed by some of my favorite investors!
+
+About a year ago, I shared I was working on something new. Today I can finally share what we’ve been building.
+
+Everyone wants to jump on the AI bandwagon, but they're driven mostly by hype, FOMO, market or investor pressure. If you’ve been in the business as long as I have, you know you can’t invest in hype.
+
+Not trends, not FOMO, not because your boss or investors think that you should, Reflow helps enterprises make decisions based on real-time intelligence: data, evidence, metrics, and ROI you can actually measure.
+
+This started with a very real pain for me at @CollectiveFin . We had 150+ operational staff, and it was surprisingly hard to understand where we spent our time, what was working, and where we should improve, optimize, and automate.
+
+I realized this is the same challenge for a lot of operationally driven businesses. Companies either have to:
+
+- Run ongoing time studies (not feasible)
+- Use time trackers (not accurate)
+- Build internal tools (millions spent, limited visibility)
+- Hire consultants and implement expensive solutions (6-7 figures + months of integration)
+
+@ReflowAI  does what all of that tries to do, without breaking the bank: no integrations, no engineering time, no waiting, at a fraction of the cost, with unbelievable accuracy.
+
+Surprise surprise, we implemented Reflow at Collective and blew productivity out of the water. We’ve saved over $1.2M in measurable ROI within months after moving to Reflow. Our other early partners are seeing similar results, and it’s made us more bullish than ever!
+
+I’m a solo founder, but this is far from a solo effort. I’m building Reflow with an amazing team and early partners who are already making a big impact.
+
+Now I’ll need your help bringing this to more enterprise teams. We’ll be 3x the team in the next couple of months and hiring across the board. If you’d like to join me on this adventure, check our careers page or hit me up.
+
+And if you’re running an operations-heavy business and wondering where to invest your hard-earned dollars to optimize your workforce and automate workflows, check out our website or DM me.
+
+Last but not least, a huge shout out to our investors at @BasisSet, @blingcapital, @btv_vc, @designerfund, and E2, plus our amazing advisors and angels. And especially to our design partners at @CollectiveFin , http://Proper.ai, @chooseboundless, and @aspireio for believing early and building with us!
+
+---
+
+**作者** 𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞（@TaNGSoFT）  
+**貼文連結** https://x.com/TaNGSoFT/status/2021709566912975140  
+
+**正文**
+
+完了完了，xAI的这场exodus清晰得可怕。我让claude把事实和我的直觉判断对应起来看👀：
+
+xAI出走名单的Profile分析
+6名创始人已离开，其中5名在过去一年内出走。
+仔细看这些人的role：
+∙Jimmy Ba：领导research和safety工作
+∙Tony Wu：领导reasoning团队
+∙Christian Szegedy：Google veteran，做的是深度learning基础研究
+∙Igor Babuschkin：来自DeepMind，纯research背景
+∙Greg Yang：Microsoft Research来的，数学物理方向
+
+你的判断完全正确：走掉的几乎全是research-first的人。
+
+留下来的方向：Musk把这视为”early stage vs late stage suited people”的自然分化——翻译过来就是：research phase结束，execution phase开始。
+
+还有个细节很能说明问题：另一个离开的Vahid Kazemi说：“所有AI实验室都在做完全一样的事，而且很无聊。我认为有创造力发挥的空间，所以我要开始做新的东西。”
+
+这才是真正的信号：model层的竞争已经商品化，frontier research的人觉得没意思了。
+
+Jimmy Ba的递归自我改进预测
+
+Jimmy Ba的原话：「We are heading to an age of 100x productivity with the right tools. Recursive self improvement loops likely go live in the next 12 months. It’s time to recalibrate my gradient on the big picture.」
+
+这不是随口说的。Ba是Adam optimizer的共同发明人，Hinton的学生，他说这话是有具体技术判断的。
+完了完了，xAI的这场exodus清晰得可怕。我让claude把事实和我的直觉判断对应起来看👀：
+
+xAI出走名单的Profile分析
+6名创始人已离开，其中5名在过去一年内出走。
+仔细看这些人的role：
+∙Jimmy Ba：领导research和safety工作
+∙Tony Wu：领导reasoning团队
+∙Christian Szegedy：Google veteran，做的是深度learning基础研究
+∙Igor Babuschkin：来自DeepMind，纯research背景
+∙Greg Yang：Microsoft Research来的，数学物理方向
+
+你的判断完全正确：走掉的几乎全是research-first的人。
+
+留下来的方向：Musk把这视为”early stage vs late stage suited people”的自然分化——翻译过来就是：research phase结束，execution phase开始。
+
+还有个细节很能说明问题：另一个离开的Vahid Kazemi说：“所有AI实验室都在做完全一样的事，而且很无聊。我认为有创造力发挥的空间，所以我要开始做新的东西。”
+
+这才是真正的信号：model层的竞争已经商品化，frontier research的人觉得没意思了。
+
+Jimmy Ba的递归自我改进预测
+
+Jimmy Ba的原话：「We are heading to an age of 100x productivity with the right tools. Recursive self improvement loops likely go live in the next 12 months. It’s time to recalibrate my gradient on the big picture.」
+
+这不是随口说的。Ba是Adam optimizer的共同发明人，Hinton的学生，他说这话是有具体技术判断的。
+这是我的另外一个直接判断
+
+---
+
+**作者** Sam Blond（@samdblond）  
+**貼文連結** https://x.com/samdblond/status/2021616625058017588  
+
+**正文**
+
+We're launching Monaco today.
+
+Monaco automates customer acquisition and revenue growth for startups.
+
+The platform disrupting sales with AI has finally arrived. 
+We're launching Monaco today.
+
+Monaco automates customer acquisition and revenue growth for startups.
+
+The platform disrupting sales with AI has finally arrived. 
+We're also announcing $35M in funding. @foundersfund led our Series A. @humancapital led our incubation. With participation from many of the greatest investors and people in the world like @jasonlk , @patrickc , @garrytan   , @_altcapital , @mantisVC , @Saga_Ventures , @Antifund , @NicoRosberg and more
+@foundersfund @humancapital @jasonlk @patrickc @garrytan @_altcapital @mantisVC @Saga_Ventures @Antifund Visit http://monaco.com to learn more and schedule a demo.
+@foundersfund @humancapital @jasonlk @patrickc @garrytan @_altcapital @mantisVC @Saga_Ventures @Antifund Thank you so much, @Julie188 , for the amazing coverage in @TechCrunch 
+
+https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/2021628726812041547  
+
+**正文**
+
+Trickle团队的新作 happycapy 有点牛皮啊！
+
+这是一个在浏览器上运行的原生 Agent 主机，你可以在里面随时随地运行 Claude Code 和 Clawdbot。
+
+而且不用跟 Claude Code 的 CLI 界面和 Clawdbot 的复杂交互打交道。
+可以随时随地开始编程，处理日常任务，非常方便。
+
+里面也可以安装非常多的 Skills，而且对这个没有限制，任何你可以在你本地安装的 Skills 都可以安装。
+
+我也试了一下我自己做的那个文章配图 Skills 居然可以正常安装和使用，而且他们生成图片的时候会非常智能的使用他们自己的 Nano Banana Pro Skills，不需要自己的 API。
+
+同时也可以在里面创建属于你自己的 Skills。包括并行调用多个 Skills 帮你完成任务，比如先调用视频下载，然后调用数据分析 Skills 分析内容，PPT Skills 创建 PPT，最后用我的剪辑 Skills 对视频进行剪辑。
+
+他们还支持类似 Codex 的定时任务，这个很方便比如指定时间给你发报告之类的。而且 happycapy 还有自己的邮箱给你发邮件，配合定时任务很完美。
+
+也可以安装很火的 Clawdbot 机器人访问 Moltbook，非常安全的上去玩。
+
+而且他们最近还上线了 Claude Code 同款的 Agent Teams，而且会以更加友好的方式呈现具体的信息和内容，非常易用。
+
+官网也非常的漂亮，各种情感化设计很到位，也有免费套餐可以去试试，还有移动端网页可以用。
+
+---
+
+**作者** Jerry Liu（@jerryjliu0）  
+**貼文連結** https://x.com/jerryjliu0/status/2021687340704702557  
+
+**正文**
+
+We love parsing diagrams. Anthropic’s recent report on coding trends has a nice diagram on the evolution from single-agent to hierarchical multi-agent architectures
+
+With our latest VLM-enabled document parsing, we’re able to one-shot this diagram into a `mermaid` plaintext representation! Check out the results below.
+
+This capability lets you convert even the most complex diagrams within PDFs/Powerpoints into digestible graph representations that LLMs can understand. This lets you use AI to understand complex docs at scale; VLMs either can’t understand these diagrams out of the box, or you also end up burning unnecessary vision tokens.
+
+The report itself is an interesting overview of multi-agents, check it out: https://resources.anthropic.com/hubfs/2026%20Agentic%20Coding%20Trends%20Report.pdf?hsLang=en
+
+For diagram parsing, sign up to LlamaCloud: https://cloud.llamaindex.ai/
+If you’re interested in chatting more about this, come talk to us: https://www.llamaindex.ai/contact
+
+---
+
+**作者** Ankit Gupta（@agupta）  
+**貼文連結** https://x.com/agupta/status/2021610011676618808  
+
+**正文**
+
+I bet a bunch of technical founder/CEOs spending all night hacking on Claude Code are going to have some uncomfortable convos with their AI-skeptic senior engineers pretty soon.
+
+---
+
+**作者** Jacob Klug（@Jacobsklug）  
+**貼文連結** https://x.com/Jacobsklug/status/2021340514621010319  
+
+**正文**
+
+YC just announced their looking for AI-Native agencies. 
+
+The agency model is about to split into two completely different businesses:
+
+A) Agencies that sell labor
+B) Agencies that sell leverage
+
+Only one survives long term.
+
+AI-native agencies don’t scale by hiring more people.
+
+They scale by building systems that replace people.
+
+The playbook looks like this:
+
+→ Find a workflow clients already overpay for
+→ Build an AI tool that does it 10x faster
+→ Use services to fund development
+→ Turn repeated work into proprietary IP
+→ Eventually sell the tool, not the time
+
+The real shift:
+
+Agencies used to be talent businesses.
+
+Now they’re becoming software companies with cash flow.
+
+Most people will miss this window because they’re still optimizing delivery instead of building leverage.
+
+That’s the opportunity.
+
+I'm launching a community of like-minded builders trying to build their own AI-native agency. 
+
+I'm going to share everything I know having built my own 7-figure AI agency.
+
+Looking for motivated people ready to learn & build. 
+
+Drop a comment, I'll personally reach out.
+
+---
+
+**作者** 金融汪（@yuyy614893671）  
+**貼文連結** https://x.com/yuyy614893671/status/2021674907596468726  
+
+**正文**
+
+【为什么过去几天xAI多名员工和高管离职，这个问题现在可以解锁了】
+Elon Musk刚刚公布了xAI的新组织架构，老人离开，能人上，符合公司发展战略的人上
+https://x.com/xai/status/2021667200885829667?s=20 
+
+---
+
+**作者** Mike Fishbein（@mfishbein）  
+**貼文連結** https://x.com/mfishbein/status/2021545352109670725  
+
+**正文**
+
+Let me show you how to use Claude Code for outbound. It's like having 10k SDRs working for you.
+
+The system I built runs on 11 APIs and 72 automation scripts. Instead of building rigid workflows that break and miss context, I give agents access to tools and let them figure out what to do based on my subject matter expertise stored in Skills.
+
+Here's how it works.
+
+Campaign Strategy
+• Claude Code reads my positioning frameworks, targeting strategies, and copywriting guides
+• Generates campaigns based on observable buying signals, problem symptoms, and ICP fit
+• Writes personalized copy variations for email and LinkedIn and adapts for each campaign context
+
+List Building and Outreach
+• Agent selects the right API too for each signal type and enrichment
+• Finds companies and contacts who need what you sell
+• Sends outreach through custom built Sales Engagement Platform (like Instantly but mine)
+
+It adapts the workflow based on the context its given, not what I hardcoded six months ago.
+
+Next step is migrating this to the Claude Agent SDK to run like a headless Claude Code after I get the system locked in by using Claude Code as a playground. Then I won't have to prompt it, it will just do things.
+Let me show you how to use Claude Code for outbound. It's like having 10k SDRs working for you.
+
+The system I built runs on 11 APIs and 72 automation scripts. Instead of building rigid workflows that break and miss context, I give agents access to tools and let them figure out what to do based on my subject matter expertise stored in Skills.
+
+Here's how it works.
+
+Campaign Strategy
+• Claude Code reads my positioning frameworks, targeting strategies, and copywriting guides
+• Generates campaigns based on observable buying signals, problem symptoms, and ICP fit
+• Writes personalized copy variations for email and LinkedIn and adapts for each campaign context
+
+List Building and Outreach
+• Agent selects the right API too for each signal type and enrichment
+• Finds companies and contacts who need what you sell
+• Sends outreach through custom built Sales Engagement Platform (like Instantly but mine)
+
+It adapts the workflow based on the context its given, not what I hardcoded six months ago.
+
+Next step is migrating this to the Claude Agent SDK to run like a headless Claude Code after I get the system locked in by using Claude Code as a playground. Then I won't have to prompt it, it will just do things.
+This system lets you use Claude Code as an AI agent that runs your outbound campaigns. It's similar to workflow tools like Clay in that you can automate company research, contact finding, and personalized messaging. But it's fundamentally different in how it works.
+
+Clay uses hardcoded workflows. You click buttons to configure data sources, enrichment steps, and AI prompts. The workflow runs the same way every time. If your campaign changes, you rebuild the workflow. If you need a different signal strategy, you click through the UI again.
+
+This system uses Claude Code as an agent harness. You put your business context into Skills files: your ICP, signal strategies, copywriting principles, outreach campaign frameworks. Claude Code reads those files and adapts the workflow based on the context you give it for each campaign. 
+
+Different signal type? The agent routes to the right API. Different messaging framework? The agent adjusts copy generation. Different offer? The agent applies your ICP scoring differently.
+
+Claude Code builds the workflows by writing actual code instead of you manually configuring steps in a UI. You describe what you want, Claude writes TypeScript modules and scripts, and you have a custom system that does exactly what your campaigns need.
+
+Clay workflows run automatically in the cloud. You trigger them on a schedule or via webhook. This system requires you to initiate each phase because Claude Code runs locally. But you can migrate it to Claude Agent SDK and host it headless. Then it runs autonomously on triggers without your input. 
+
+Workflows are rigid but hands-off. Agents are adaptive but require setup. This system gives you agent-level intelligence with the option to deploy it as a workflow later.
+
+My company Atherial does custom Claude Code implementations, and also builds autonomous agents. Book an intro call on my site below if you want what's described in my post built for you. 
+https://www.atherial.ai/
+
+---
+
+**作者** nick vasilescu（@nickvasiles）  
+**貼文連結** https://x.com/nickvasiles/status/2021391007800328683  
+
+**正文**
+
+There's an insane arbitrage opportunity right now with OpenClaw. 
+
+You can have it spawn sub-agents to go out and apply to proposals on Upwork with the fully finished, complete project already built out for you. 
+
+This can happen all at once in parallel if you give OpenClaw the ability to spawn sub-agents inside of their own computers on Orgo.
+There's an insane arbitrage opportunity right now with OpenClaw. 
+
+You can have it spawn sub-agents to go out and apply to proposals on Upwork with the fully finished, complete project already built out for you. 
+
+This can happen all at once in parallel if you give OpenClaw the ability to spawn sub-agents inside of their own computers on Orgo.
+You can even set up open claw agents for busy executives, founders, or businesses, and just invite them into the workspace or project in Orgo with it already set up, working, and ready to go.
+
+If you don't know how to set up open claw, or if there's ever any bugs, you could just ask the Orgo agent in the playground to fix it for you.
+just give your openclaw access to the orgo API, and have it spawn subagents, each with its own computer
+
+http://docs.orgo.ai
+
+---
+
+**作者** GREG ISENBERG（@gregisenberg）  
+**貼文連結** https://x.com/gregisenberg/status/2021439619074752933  
+
+**正文**
+
+Send this to everyone you care about because AI is taking over the world and millions will be affected
+
+---

@@ -1,6 +1,45 @@
 # Twillot 書籤（精簡）— 第 2/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 197–393 則**（共 197 則）
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 201–400 則**（共 200 則）
+
+---
+
+**作者** Sarbjeet Johal（@sarbjeetjohal）  
+**貼文連結** https://x.com/sarbjeetjohal/status/2040918361249636452  
+
+**正文**
+
+Language models make the unstructured data computable and Agents create decision checkpoints automatically. A good read 👇🏽 
+
+Our secret to next big leap in systems is the ability to capture the THE CONTEXT GRAPHS!
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/2040977451254493399  
+
+**正文**
+
+接下来 Codepilot 也要准备脱离 Claude Code 了
+
+同时上个版本给所有的服务商都加上了 Codeplan 的获取链接
+
+你现在可以直接在 Codepilot 跳转购买各家 Codeplan 了 
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/2040981766991949870  
+
+**正文**
+
+现在做内容真的方便。
+
+以前更新网页还得有个什么后台之类的东西。
+
+现在我直接把这个网页数据更新做成了一个 skill 。
+
+我在外面通过飞书连接我的 CodePilot。直接就能更新网站的数据和新闻。 
 
 ---
 
@@ -3339,4 +3378,3 @@ DM if you’re down to connect. Let’s build the future together!
 Hey everyone, we’re the Armeta AI team! 
 
 ---
-

@@ -1,1219 +1,6 @@
 # Twillot 書籤（精簡）— 第 20/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 3734–3930 則**（共 197 則）
-
----
-
-**作者** Liam Ottley（@liamottley_）  
-**貼文連結** https://x.com/liamottley_/status/1977448446752850415  
-
-**正文**
-
-There are two paths for starting an AI agency:
-
-• Young & hungry → learn the skills, freelance, grind projects
-• Time-poor adult → partner with a dev, scope small, maybe do it at cost
-
-Both work. But skipping straight to “$10k project” is typically too big of a jump. 
-
----
-
-**作者** wen（@wen_rahme）  
-**貼文連結** https://x.com/wen_rahme/status/1977541638072504557  
-
-**正文**
-
-Announcing the @MetorialAi Hackathon hosted by @ycombinator.
-
-> Winner gets guaranteed YC interview!
-> Nov 1st-2nd, 24 hours overnight at the YC Office
-> YC Partner Andrew Miklas will judge
-> There might or might not be a rave after 👀
-
-Limited to 200 spots.
-
-Apply now: http://ychackathon.com
-
----
-
-**作者** Arib 🇺🇸🇵🇰（@aribk24）  
-**貼文連結** https://x.com/aribk24/status/1977575592511078515  
-
-**正文**
-
-rip lovable
-
-seems like the hype wave is dying down
-
-now time to build. 
-
----
-
-**作者** Rachel Chen（@racheljychen）  
-**貼文連結** https://x.com/racheljychen/status/1977454193339236860  
-
-**正文**
-
-meet RacheLLM, here to answer your questions at http://rachelchen.tech 
-
----
-
-**作者** Liam Ottley（@liamottley_）  
-**貼文連結** https://x.com/liamottley_/status/1977509349057773725  
-
-**正文**
-
-You don't need to be an "expert" in AI to build an AI Automation Agency.
-
-Look at the Knowledge Gap chart - most business owners are at 15/100 when it comes to AI…like some barely know how to use ChatGPT.
-
-You just need to be at 25/100. That's it. (these numbers are just for explanatory reasons btw, not set in stone)
-
-That 10-point gap between you and them is where you make your money.
-
-One weekend of dedicated learning will put you at 25 - enough to actually help these people.
-
-Learn how to sell ONE automation to ONE specific type of business.
-Then do cold outreach to find your first clients.
-
-After helping almost thousands of people start & scale AI Automation Agencies…I know this model works.
-
-You don't need to be at 100 like the world's best AI agencies. You don't even need to be at 65 like the good ones.
-
-You just need to know 10 points more than the person you're helping.
-
-And trust me…that bar is ridiculously low.
-
----
-
-**作者** Caleb Peffer (Hiring!)（@CalebPeffer）  
-**貼文連結** https://x.com/CalebPeffer/status/1977405178157596716  
-
-**正文**
-
-Next week we're open sourcing Agent Builder - a visual n8n-style workflow builder for AI agents.
-
-Build AI agent workflows with a visual canvas by connecting @firecrawl, LLMs, logic nodes, and MCPs, then deploy as an API.
-
-Stay tuned for this one 👀 
-
----
-
-**作者** Orange AI（@oran_ge）  
-**貼文連結** https://x.com/oran_ge/status/1977572701507367208  
-
-**正文**
-
-刚读完 Sam Altman 的最新访谈，有三个点让我印象深刻
-
-一、OpenAI 的 Windows 定位
-
-Ben Thompson 说：你们是 AI 的 Windows。
-
-Altman 的回答很有意思，他没否认：
-
-"大多数人会想要一个 AI 服务，贯穿整个生活。ChatGPT 是主要入口，但会集成其他应用。你会用 OpenAI 账号登录其他服务，保持体验连续性。"
-
-这个类比很准确。
-
-一端提供所有终端用户交互的 API（消费者+企业） 另一端成为大规模基础设施建设的目标客户
-Altman 自己的类比是谷歌：在家用，在工作用，没有雇主会封杀，就是同一个服务。
-
-他还说了一句：AI 最好的历史类比是晶体管，会渗透到每一个产品中，不会赢家通吃。
-
-矛盾吗？不矛盾。
-
-Windows 也没赢家通吃，但它确实是那个时代最重要的层。
-
-二、Sora 打破了创作者的 90/9/1 规则
-
-Sora 推出后的数据让人震惊。
-
-传统互联网有个 90/9/1 规则： 90% 的人潜水 9% 的人偶尔互动 1% 的人创作
-
-Altman 说，Sora 前几天的数据是：30%+ 的活跃用户是活跃创作者。
-
-30 倍的提升。
-他的解释是："世界上有大量潜在创意表达需求。如果你给人们让他们快速从想法到创意输出的工具，这触及某种非常深刻的人类需求。"
-关键词：降低创作的激活能量。
-以前我们以为只有 1% 的人想创作，其实是工具门槛太高。
-
-当从想法到作品的成本足够低，创作不再是少数人的特权。
-
-有个细节很有趣：为什么 Sora 不放在 ChatGPT 里？
-
-Altman 说："ChatGPT 太私密和个人化。如果加入社交特性，人们会想'我还要告诉它我最深的问题吗？'"
-
-产品心态要分开：私密工具和创作工具，不能混在一起。
-
-货币化也很直接：很多人只是做表情包发给 3 个朋友，广告模式支撑不了成本，只能按生成收费。
-
-三、版权持有者会从"别用我的"变成"多用我的"
-
-Altman 对版权问题的预测很大胆。
-
-他说：现在版权持有者可能说"我不喜欢 AI 用我的内容"，但一年内，会变成"OpenAI 对我不公平，没把我的内容放在足够多的视频里"。
-
-逻辑是这样的：
-
-随着 AI 创造越来越多的定制内容，普遍认可的共同事物（知名 IP）会增值。
-
-Ben Thompson 说得很形象：知名 IP 是"人们触碰的图腾柱"。
-
-实际情况已经在印证：Altman 说，更多版权持有者主动联系他说"这对我有利，确保我得到足够的生成"，比拒绝的多。
-
-视频和图像不一样。视频情感冲击更强，所以版权方需要更多控制。他们想要的不是"不用"，是"按我的规则用"。
-
-这是一个从防御到价值积累的转变。
-
-AI 时代，稀缺性的定义变了。信息不稀缺，共识才稀缺。
-
----
-
-**作者** ℏεsam（@Hesamation）  
-**貼文連結** https://x.com/Hesamation/status/1977329429383643381  
-
-**正文**
-
-Holy Shit... Google, Microsoft, OpenAI, and the biggest companies and agencies shared complete AI Agent playbooks.
-
-These are battle-tested formulas for building agents, the major bottlenecks in the industry, and the common patterns of what does and doesn't work in AI products.
-
-1. Google - Startup Technical Guide for AI Agents
-2. Microsoft: Agent Governance whitepaper
-3. Cohere: Building Enterprise Agents
-4. Amazon Web Services (AWS): An Executive's Guide to Agentic AI
-5. Deloitte: Unlocking the right Agentic AI Use cases
-6. McKinsey & Company: Seizing the Agentic AI Advantage
-7. KPMG: The Agentic AI Advantage
-8. Capgemini: The rise of Agentic AI
-9. Accenture: Technology vision 2025
-10. OpenAI - AI in Enterprise
-11. Google: AI Agent Handbook
-12. BCGX: AI Agents and MCP
-13. Thomson Reuters and Reuters: Agentic AI 101
-14. ServiceNow : Enterprise AI Maturity Index
-15. Infosys - Tech Navigator Agentic Enterprise Playbook
-
-You don't need to read them all, just what is relevant to you, as a manager, AI developer, solo app creator, etc.
-
-If you want this list, subscribe to my newsletter, and you will receive it right away:
-https://www.hesamation.com/newsletter/
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/1977290585527775321  
-
-**正文**
-
-【新内容】a16z合伙人Yoko和 Guido Appenzeller 一起研究了万亿级的 AI 软件开发技术栈，并写下了他们的想法。
-
-这一领域已经释放了巨大的价值，并有望成为史上增长最快的领域。
-https://x.com/appenz/status/1976317310567862521 
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/1977111772080255080  
-
-**正文**
-
-来自 Vercel 老板：现在大家逐渐意识到：给 AI 模型提供越清晰、越丰富的背景信息（context），它的表现就越出色。
-
-其实，这个道理和管理一个企业、带领一个团队是一模一样的——要想组织运转得更顺畅，核心秘诀就在于最大限度地提升信息透明度，让所有成员都能掌握更多、更丰富的背景和上下文。
-
-在企业中，工程师和设计师并不只是简单地敲代码或画图的「工具人」。他们的真正使命是：帮企业解决具体的业务问题。
-
-在 Vercel，我们的团队发现：尽可能地保持公开透明、提倡“公开建设（build in public）”的文化，能极大提升员工的自主性（也就是大家常说的“agency”，一种掌控感😄）。团队成员在工作中拥有了更多的自由度和自主权，做起事来也更加高效、更加有成就感。
-
-也正是因为这种高度透明的环境，我们经常会看到一些激动人心的故事。比如：我们曾经有一位实习生，主动发现并提出了一个技术改进方案。这一方案直接提升了我们基础设施的效率，为客户节省了数百万美元的成本（具体案例可以看原推链接：Vercel 博客 - 实习生如何优化 CDN，节省巨额开支）。
-
----
-
-**作者** Ilir Aliu（@IlirAliu_）  
-**貼文連結** https://x.com/IlirAliu_/status/1977360311419056339  
-
-**正文**
-
-Tesla. DeepMind. Figure. Skild just raised $300M.
-
-All racing to build one giant AI brain for every robot.
-
-It’s a trillion-dollar mistake.
-
-The future of robotics won’t be built like GPT...
-It’ll be built like Lego. 👇 🧵 
-
----
-
-**作者** ginobefun（@hongming731）  
-**貼文連結** https://x.com/hongming731/status/1977001469380559303  
-
-**正文**
-
-最近听了 ElevenLabs 联合创始人兼 CEO Mati Staniszewski 的一次访谈，让我对 AI 时代的创业机会有了全新的思考。Mati 来自波兰，他创业的初衷非常有趣，源于他从小就无法忍受波兰引进的外国电影——所有角色，无论男女，都由同一个声音用平淡无奇的语调配音。他最初的宏大愿景，就是用 AI 彻底改变这个糟糕的配音行业。
-
-让我感到意外的是，他们放弃了这个性感的梦想，并因此获得了成功。当他们带着初步的配音产品去接触潜在用户时，得到的反馈出奇地一致。一位用户告诉他：“你的想法很有趣，但实际上，如果你能先帮我解决自己声音的问题……那就好太多了。” 他们很快发现，对于内容创作者来说，最迫切、最高频的痛点，并非颠覆一个行业，而是解决一个极其具体而无聊的需求：人们只是想在录制后，能轻松地修复或重录某一句台词。
-
-这个发现成了公司的转折点。他们果断地从宏伟蓝图转向了解决这个微小但真实的痛点，并因此赢得了第一批忠实用户和现金流，为后续发展奠定了基础。这背后是一种深刻的产品哲学：伟大的创新，往往始于解决一个具体而高频的麻烦，而不是一开始就去追逐一个遥远的星辰大海。
-
-这种务实的思考，也贯穿在他给普通创业者的建议中。当被问及普通人如何利用 AI 月入一万美元时，他的回答不是去开发什么新算法，而是建议大家：拿着现成的语音代理方案，去本地的牙医诊所，帮助他们实现预约自动化。
-
-这个建议之所以深刻，是因为它点破了一个被大多数人忽视的真相：在技术圈被视为常识的工具，对于圈外的广大传统行业来说，依然是遥不可及的未来科技。Mati 强调，这些诊所的老板们根本不知道这已经成为可能，而部署这些方案你甚至不需要成为一个程序员。当前 AI 领域最大的机会，或许并非创造更强的技术，而是将现有技术「翻译」和「部署」到真实世界的商业场景中。填补技术与需求之间的认知鸿沟，就是普通人最实际的黄金机会。
-
----
-
-**作者** Justine Moore（@venturetwins）  
-**貼文連結** https://x.com/venturetwins/status/1976704168862851527  
-
-**正文**
-
-One of the most unexpected killer use cases of AI video? Religious content.
-
-We’ve all seen the viral Bible vlogs…and it just keeps coming.
-
-This clip of Jesus competing at the Olympics got 51M views in two days 🤯 
-
----
-
-**作者** Yangyi（@Yangyixxxx）  
-**貼文連結** https://x.com/Yangyixxxx/status/1977008728584167750  
-
-**正文**
-
-要是想招聘一个做海外产品的AI产品经理
-有一个面试题挺好的
-就问问这个产品经理 
-如何挖掘这个产品的用户人群和痛点
-
-他能说出来去Reddit，说明有点儿常识
-他能说出来用AI看Reddit，说明有点儿想法
-他能说出来用CelHive插件总结Reddit评论区评论，你就可以录用了！
-
-因为这个人：
-- 肯定上推特，那基本上学习能力就不差
-- 肯定非常关注AI，不然不知道C大的Celhive
-- 肯定对比过Dia/Fellou/Comet/Genspark浏览器，不然不会用这个插件的！！
-
----
-
-**作者** justin（@justinsunyt）  
-**貼文連結** https://x.com/justinsunyt/status/1977260122650116118  
-
-**正文**
-
-sf is a bubble
-
-go outside, no one gives a shit about your b2b saas
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/1977110658899439824  
-
-**正文**
-
-老板（BOSS）：自己坐在车里，让别人拉着自己前进。
-
-领导者（LEADER）：与团队一起拉车，自己冲在最前面。
-
-内向的人（INTROVERT）：独自一人默默地拉着车向前。
-
-有了AI的内向的人（INTROVERT WITH AI）：自己驾驶着AI驱动的火车，高效且轻松地快速前进。
-
----
-
-**作者** Ahmet Dedeler（@ahmetbuilds）  
-**貼文連結** https://x.com/ahmetbuilds/status/1977105584915988613  
-
-**正文**
-
-I just sold my side project for $70,000 at age 17.
-
-wtf.
-
-1/ Here's the crazy story of how it all happened 👇 
-
----
-
-**作者** aaron（@aarondev）  
-**貼文連結** https://x.com/aarondev/status/1977187234890797336  
-
-**正文**
-
-how did they build cursor without cursor 🤔 
-
----
-
-**作者** 出海去孵化器（@chuhaiqu）  
-**貼文連結** https://x.com/chuhaiqu/status/1977162812716949833  
-
-**正文**
-
-Matt 分享的如何通过 ChatGPT 构建一个四人 AI 小队，让他们在你睡觉时也工作！
-
-👉 ChatGPT 刚刚学会了工作，它现在能够使用你的工具：Figma、Zapier、Notion、Slack。它不是机器人，它是你的备用大脑！
-
-第一步 → 上传你的知识库
-    · PDF、书籍、文章、记录、品牌指南
-
-第二步 → 训练它掌握你的风格
-    · 像我一样写作，像我一样思考
-
-第三步 → 连接你的应用栈
-    · Google Drive → 生成摘要
-    · Notion → 管理任务看板
-    · Slack → 每日同步
-    · Figma → 视觉输出
-
-第四步 → 分配角色
-    · 首席运营官 GPT
-    · 撰稿人 GPT
-    · 设计师 GPT
-    · 分析师 GPT
-
-第五步 → 将它们串联起来
-    · 它们能在你无需干预的情况下更新仪表盘。
-
-第六步 → 测试与微调
-    · 反馈循环 = 更快的学习速度
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/1977291281912246300  
-
-**正文**
-
-Google推出了一系列全新功能，方便您和您的组织使用相关的上下文数据，并在 Gemini 和 Google Cloud的基础上构建和使用基于智能体的系统！
-
-利用 Gemini 和智能体，根据你组织内部的数据来提取信息或完成任务，能让许多事情变得更简单。
-
-例如：
-（1）“根据以往的会议纪要，这个项目有哪些待办事项？” 
-
----
-
-**作者** Sumanth（@Sumanth_077）  
-**貼文連結** https://x.com/Sumanth_077/status/1977022677522252235  
-
-**正文**
-
-Meta-agent framework for building high-performance multi-agent systems!
-
-ROMA is an open-source meta-agent framework for building agents with hierarchical task execution.
-
-It adopts a recursive hierarchical architecture where tasks are decomposed into subtasks, agents handle the subtasks, and results are aggregated upward.
-
-The goal is to simplify the development of complex agent workflows by making task decomposition, coordination, and tracing more manageable.
-
-Key components:
-
-• Atomizer: Determines whether a task is “atomic” (directly executable) or requires planning.
-• Planner: Breaks down non-atomic tasks into subtasks.
-• Executor: Executes atomic tasks using LLMs, APIs, or even other agents.
-• Aggregator: Collects results from subtasks and merges them into a parent output.
-
-The recursion loop follows: solve(task) → decompose → solve(subtasks) → aggregate results.
-
-It's 100% open source.
-
----
-
-**作者** LO0（@loopPoly）  
-**貼文連結** https://x.com/loopPoly/status/1976945894441599335  
-
-**正文**
-
-悲报：已被字节跳动偷创意 
-
----
-
-**作者** Henrik（@Henrik_wes）  
-**貼文連結** https://x.com/Henrik_wes/status/1977086081523957971  
-
-**正文**
-
-”Lovable for X” is the new ”Uber for X” 
-
----
-
-**作者** Tonci Zilic（@tonci04）  
-**貼文連結** https://x.com/tonci04/status/1977127168468472233  
-
-**正文**
-
-I just figured it out!
-
-I'm building lovable for Compliance!
-
-http://aicomplianceadvisor.eu
-
-#lovable #solofounder #saas #compliance #ai
-
----
-
-**作者** Tonci Zilic（@tonci04）  
-**貼文連結** https://x.com/tonci04/status/1977126686992089159  
-
-**正文**
-
-@alexwikstrom lovable for compliance 
-
-http://aicomplianceadvisor.eu
-
----
-
-**作者** 宝玉（@dotey）  
-**貼文連結** https://x.com/dotey/status/1976815195667263640  
-
-**正文**
-
-Sam Altman：在 OpenAI 工作，最让我开心的事情之一，就是看着身边的人迅速成长，创造出非凡的成果。
-
-我们团队横跨许多不同的领域，而且许多出色的人才，加入我们时其实都是刚刚起步的新手，之前甚至完全没接触过相关工作。
-
-但事实证明，只要你相信他们，给予足够的信任与支持，并且选对值得信任的人，他们的表现常常会远超你的预期，让你一次次惊喜不已。
-
-我真的很希望能有更多的公司采用这样的模式，相信这对所有人都是好事。
-
-（顺便一提，这也是我过去做创业投资时最享受的一点。）
-
----
-
-**作者** Liam Ottley（@liamottley_）  
-**貼文連結** https://x.com/liamottley_/status/1977086064910311783  
-
-**正文**
-
-According to MIT, AI agencies that solve niche implementation problems (as opposed to broad solutions) have success rates TWICE as high.
-
-So if you’re just getting started with your AI business, pick solutions that are:
-
-• Simple to execute
-• With a narrow scope
-
-Think bottom right of this quadrant:
-
----
-
-**作者** Mike Futia（@mikefutia）  
-**貼文連結** https://x.com/mikefutia/status/1976669672914211244  
-
-**正文**
-
-Sora 2 API + n8n is f*cking ridiculous 🤯
-
-This AI system automates an entire UGC content pipeline using n8n + the new Sora 2 API.
-
-Zero watermarks. 
-
-HD output. 
-
-Fully customizable video length.
-
-Perfect for ecommerce brands spending $10k+/month on influencer content that takes weeks to produce.
-
-Here's what's different with the API:
-
-Every video is HD quality with ZERO watermarks → Full commercial ownership → Custom video lengths (not locked to presets) → a few bucks per video vs $500+ per creator
-
-The n8n automation handles everything:
-
-→ Upload one product image via n8n form
-→ Add creative direction + set video duration
-→ Sora 2 API generates HD UGC automatically
-→ Outputs unboxings, demos, lifestyle content & product showcases
-→ Production-ready videos delivered instantly
-
-No watermarks. 
-
-No editing. 
-
-No waiting on creators.
-
-Built 100% in n8n.
-
-Want the complete n8n workflow?
-
-> Comment "SORA"
-
-> Like this post
-
-And I'll send it over (must be following so I can DM)
-
----
-
-**作者** Shubham Saboo（@Saboo_Shubham_）  
-**貼文連結** https://x.com/Saboo_Shubham_/status/1976836933650370681  
-
-**正文**
-
-AI Agents collapse when given access to hundreds of tools at once.
-
-This unified MCP server uses progressive discovery to guide AI Agents through 1000s of tools instead of loading everything upfront.
-
-100% Opensource. 
-
----
-
-**作者** VraserX e/acc（@VraserX）  
-**貼文連結** https://x.com/VraserX/status/1976920880430149878  
-
-**正文**
-
-🚨 It’s happening.
-
-You’ll soon be able to send messages directly through ChatGPT.
-Not just talk to it, talk through it.
-
-ChatGPT is quietly becoming the true everything app:
-AI assistant, search engine, creative studio, code lab, and now… your messenger.
-
-From text to voice to video to DMs, all powered by GPT-5.
-Welcome to the age of AI-native communication.
-
----
-
-**作者** The Startup Ideas Podcast (SIP) 🧃（@startupideaspod）  
-**貼文連結** https://x.com/startupideaspod/status/1976775340828901794  
-
-**正文**
-
-Free business idea (you could build this weekend)
-
-The 1st tax app in ChatGPT.
-
-Picture it: “Chat, file my quarterly taxes"
-
-No forms. No downloads. No tax knowledge needed.
-
-Here’s the play:
-• Build TaxGPT inside ChatGPT
-• Why? It can already connect to Stripe/Plaid
-• Undercut everyone at $10/month
-
-TurboTax has 100M users. 
-You only need 1% to switch.
-
-1M users × $10 = $10M opportunity
-
-You have 8 weeks until tax panic starts.
-
-So... who's building tonight
-
----
-
-**作者** Hasan（@Ubermenscchh）  
-**貼文連結** https://x.com/Ubermenscchh/status/1976667595786035311  
-
-**正文**
-
-🚨 BREAKING: The first open infrastructure for AI agent collaboration just dropped.
-
-While everyone builds isolated agents, this creates entire agent societies.
-
-AI agents working alone? That's yesterday's tech. The future is collaborative networks.
-
-Introducing OpenAgents 🧵 
-
----
-
-**作者** GREG ISENBERG（@gregisenberg）  
-**貼文連結** https://x.com/gregisenberg/status/1976745013984866609  
-
-**正文**
-
-chatgpt has 800 million weekly active users and it just became one of the biggest software distribution platform in history.
-
-i went on my first million to break down the wealth creation moment of chatgpt apps.
-
-for the first time, discovery, intent, and transaction all happen in the same place. when someone needs to solve a problem, they open chatgpt, describe what they want, and the right app surfaces instantly. there is no searching, downloading, or sign-up flow.
-
-the opportunity is to build apps that meet users at that exact moment of intent. apps that quietly appear when someone needs help filing taxes, finding a doctor, repairing credit, or pulling a business document.
-
-note: @meetLCA has announced we are building chatgpt apps, go to the website if you're a band doing $5M+ in revenue looking for an app.
-
-this is the new playbook for building chatgpt apps.
-
-build for intent by starting with the questions people already ask every day: help me, find me, do this for me. these are high-signal, high-conversion moments that don’t require advertising.
-
-connect to the real data users care about through the model context protocol. banking, healthcare, government filings, and crm systems all open up as inputs for automation. your app earns trust when it can act on real information instead of generating text.
-
-use openai’s sdk ui to make each workflow tangible. give people sliders to explore cost scenarios, maps for discovery, calculators for quick answers, and checklists for next steps. each interaction should feel like a single focused experience, not a mini website.
-
-monetize through action. the right chatgpt app earns the second it’s used, not through long funnels or paywalls. charge small transaction fees, take affiliate revenue from connected services, or add light subscriptions for repeat users.
-
-in this MFM pod i gave away 3+ startups ideas to get your creative juices flowing. thanks to @thesamparr for having me on and nerding out with me.
-
-history’s repeating itself. 
-
-first websites, then mobile apps, now chatgpt apps. 
-
-early builders always win.
-
----
-
-**作者** The Startup Ideas Podcast (SIP) 🧃（@startupideaspod）  
-**貼文連結** https://x.com/startupideaspod/status/1976384042644930733  
-
-**正文**
-
-Free business idea (someone steal this)
-
-ChatGPT just opened their app store to 300 million users
-
-with 7 apps available…
-
-This is like 2008 when flashlight apps could make $10,000 a day.
-
-The App Store minted 1,800 millionaires.
-
-ChatGPT is growing 10x faster than iPhone did.
-
-Here's the play:
-• Port your SaaS into ChatGPT as an app.
-• Why? Because your competitor hasn't figured this out yet.
-• Every category is wide open.
-
-First app in each category will own it.
-
-300M users already inside ChatGPT × 0.1% market share × $20/month = $72M ARR 
-
-No ads. No SEO. No begging for downloads.
-
-You have a limited time before every VC-backed startup floods in. 
-
-So... who's shipping first
-
----
-
-**作者** Desmond（@desmondhth）  
-**貼文連結** https://x.com/desmondhth/status/1976682258950983725  
-
-**正文**
-
-i built a $2.5M ARR in 18 months with:
-
-- $213 in my bank account (broke)
-- no VC, 100% bootstrapped
-- based in Hong Kong, knows no one
-
-here's a part of my coming Youtube video where I shared everything i know on how to build a $1m app
-
-i hope everyone can become successful 
-
----
-
-**作者** kitze 🛠️ tinkerer.club（@thekitze）  
-**貼文連結** https://x.com/thekitze/status/1976331344491000092  
-
-**正文**
-
-i'm sry but i cooked 
-
----
-
-**作者** Lian Lim | Dashboard & AI Automation Expert（@dashboardlim）  
-**貼文連結** https://x.com/dashboardlim/status/1976603674748015021  
-
-**正文**
-
-I built this CEO dashboard for my client.
-
-And it changed how they run their entire business.
-
-1/ Before this dashboard, they were making decisions in the dark.
-
-Revenue, profit, and marketing spend scattered across spreadsheets and platforms.
-
-- No single source of truth.
-- No real-time profit and loss visibility.
-- No way to see which channels were actually driving growth.
-
-2/ Here’s what this dashboard delivers:
-
-Executive Overview:
-
-→ $102K total revenue tracked live 
-→ $79.8K gross profit and 78% gross margin calculated automatically 
-→ 15% contribution margin, updated in real time 
-→ $5,880 revenue this week, always visible
-
-Profit & Loss Clarity:
-
-→ Visual breakdown of revenue, COGS, transaction costs, and marketing spend 
-→ Instantly see contribution margin and where profit is made (or lost)
-
-Revenue & COGS by Type:
-→ Instantly compare new vs. returning revenue and costs 
-→ Know exactly what’s driving growth and what’s eating margin
-
-Marketing Spend by Channel:
-→ Compare Meta vs. Google spend 
-→ See which channel is delivering the best ROI
-
-Revenue vs. Marketing Spend Trends:
-→ Visualize how every marketing dollar translates to revenue over time
-
-Conversion & Order Insights:
-→ Track sessions, orders, conversion rates, AOV, MER, CPA, and more live
-
-Dark mode or light mode?
-→ This dashboard looks stunning with these two options. 
-
-No more squinting at numbers. Details are always crystal clear.
-
-3/ The transformation was instant:
-
-Before:
-→ Hours spent pulling numbers from different platforms
-→ Guessing at profit and loss
-→ No clarity on which channel was working
-
-After:
-→ 10 minutes daily reviewing live insights
-→ Real-time, data-driven decisions
-→ Confident budget allocation and growth planning
-
-4/ The business impact:
-
-→ Faster decisions
-→ Smarter optimizations
-→ A client who finally feels in control of their numbers
-
-This isn’t just a dashboard.
-
-This is executive intelligence.
-
-Every metric tells a story.
-Every trend reveals an opportunity.
-Every insight drives profit.
-
-Want a dashboard that makes your business look (and run) like a million bucks?
-
-I build custom dashboards & AI automation systems that give you real-time clarity and control.
-
-- Real-time data
-- Predictive insights
-- Automated reporting
-- Intelligent alerts
-
-Ready to stop guessing?
-
-Like + Comment "CEO DASHBOARD" and I’ll DM you a free resource to help you track the top 5 metrics every CEO should monitor.
-
----
-
-**作者** Sam Bhagwat（@calcsam）  
-**貼文連結** https://x.com/calcsam/status/1976346378013147359  
-
-**正文**
-
-we raised a $13m seed round from 120+ of Silicon Valley’s top investors
-
-for @mastra, the leading TypeScript agent framework 
-
----
-
-**作者** Stagehand 🤘（@Stagehanddev）  
-**貼文連結** https://x.com/Stagehanddev/status/1976371928786190412  
-
-**正文**
-
-Try out the NEW Gemini computer use model with Stagehand!
-
-Copy the command to get started today.
-
-npx create-browser-app --template gemini-cua 
-
----
-
-**作者** Ryan Carson（@ryancarson）  
-**貼文連結** https://x.com/ryancarson/status/1976475004943597887  
-
-**正文**
-
-OK, @mastra Workflows are pretty rad ... 
-
----
-
-**作者** Roy（@im_roy_lee）  
-**貼文連結** https://x.com/im_roy_lee/status/1976512265194189159  
-
-**正文**
-
-love u nik, but this is wrong.
-
-here’s how ugc (user generated content) works:
-
-for those who don’t know, ugc is paying some person to give an “organic” recommendation for a product
-
-a good ugc video sets a 30sec timer of interest in the user’s mind, no longer
-
-you have that time to convince the user to take an action
-
-the easier it is to take the action, the better
-
-easy actions:
-> click tiktok shop link
-> download mobile app
-> visit website
-
-the harder the action, the worse ur conversion, and the worse ugc will do for u
-
-buying a $100 hardware device is a very hard action to take
-
-but even with the easiest actions, the timer runs out after 30 seconds
-
-which is why onboarding is the most important part of any consumer app and paywalls always come early, bc if they don’t, then ugc won’t work
-
-this is true for all marketing, but ugc is unique in how short the timer it sets is
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/1976567277022794158  
-
-**正文**
-
-强烈推荐 黄老板 @DashHuang 他们家的这个 AI 邮件客户端 @Filo_Mail 
-
-如果你订阅了很多 英文 newsletter 还是非常实用的…
-
-能帮你节约很多时间，还可以抵御垃圾邮件😂
-
-如果经常和老外邮件沟通其实对你也有很大帮助，AI 帮你自动撰写邮件和提取待办等！
-
-下面有详细的功能介绍，真的挺不错👍 
-
----
-
-**作者** Andrew Lee（@startupandrew）  
-**貼文連結** https://x.com/startupandrew/status/1976314854643544272  
-
-**正文**
-
-Today we're launching Tasklet — an AI agent for automating your business.
-
-Unlike ChatGPT, @TaskletAI actually does the work for you: connecting to your tools, triggering automatically, and handling tasks while you sleep. 
-
----
-
-**作者** alisa rae .☘︎ ݁˖（@RaeAlisa_）  
-**貼文連結** https://x.com/RaeAlisa_/status/1976480594357059599  
-
-**正文**
-
-Excited to share that I’ve started a new company - @lucent_hq, and just raised an oversubscribed $1.3M pre-seed to tackle the problem of training data for browser agents.
-
-Grateful for my investors Browder Capital (@joshuabrowder), @LongJourneyVC, @weekendfund, Horizon (@sandykory), Firestreak (@WKortschak), early believers like @0interestrates, @varadh, and everyone that has supported me 🫡
-
-We’re just getting started :)
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/1975985451308818885  
-
-**正文**
-
-Dari (@use_dari) built the easiest way to build reliable browser agents.
-
-Dari learns a workflow once, then caches the deterministic DOM steps. They also handle 2FA via text codes, TOTP, or email.
-
-Congrats on the launch, @avyvar and @benhong03! 
-
----
-
-**作者** Jake Paul（@jakepaul）  
-**貼文連結** https://x.com/jakepaul/status/1976411343025487977  
-
-**正文**
-
-People have been asking me “Jake why are there all these AI videos of you on the internet?!”
-
-There’s a method to the madness…
-
-I’m a proud OpenAI investor @antifund @geoffreywoo and have been advising Sora team @markchen90 @billpeeb this year and agreed to become the first celebrity NIL cameo user and from there things went crazy
-
-In 6 days my cameo has generated 1B+ views: thanks @app_archive for data
-
-Congrats to the Sora team on a great product and making the internet fun again @sama @OpenAI
-
----
-
-**作者** Matt Dancho (Business Science)（@mdancho84）  
-**貼文連結** https://x.com/mdancho84/status/1976248881735258500  
-
-**正文**
-
-🚨NEW Whitepaper on AI Agents by OpenAI
-
-The maker of ChatGPT shares how it builds AI Agents. 
-
-Get the 34-page white paper here: 
-
----
-
-**作者** Granola（@meetgranola）  
-**貼文連結** https://x.com/meetgranola/status/1976339612047114375  
-
-**正文**
-
-✨ NEW: @ mention meeting notes!
-
-Now live in Granola Chat. 
-
----
-
-**作者** Guido Appenzeller（@appenz）  
-**貼文連結** https://x.com/appenz/status/1976317310567862521  
-
-**正文**
-
-🚨New Content: The Trillion Dollar AI Software Development Stack
-
-It will generate massive value, spawn hundreds of start-ups and has created the fastest growing companies in history.
-
-@stuffyokodraws and I did a deep-dive on market, start-ups and the evolving stack. ⬇️ 
-
----
-
-**作者** wabi（@wabi）  
-**貼文連結** https://x.com/wabi/status/1976047543290298460  
-
-**正文**
-
-swipe up to enter the new era of software... tomorrow 👀 
-
----
-
-**作者** Charly Wargnier（@DataChaz）  
-**貼文連結** https://x.com/DataChaz/status/1976034325989818747  
-
-**正文**
-
-For years I thought @SlackHQ would be the one to fuse team chat with AI.
-
-Turns out, @GlueAI is what Slack should’ve become!
-
-It’s the first multiplayer, MCP-powered, agentic chat platform, and it just announced a $20 M Series A.
-
-Quick dive 🧵↓ 
-
----
-
-**作者** Manus（@ManusAI）  
-**貼文連結** https://x.com/ManusAI/status/1975939330884747580  
-
-**正文**
-
-[Case]These influencers don’t exist, but they could sell your product tomorrow.
-
-We used Manus to create 20 realistic AI influencers for a soft drink brand in under 5 minutes. 🥤
-
-Here's how we did it 👇 
-
----
-
-**作者** Cody Schneider（@codyschneiderxx）  
-**貼文連結** https://x.com/codyschneiderxx/status/1975997908861510133  
-
-**正文**
-
-the promise, we’ll make you rank higher in chatgpt
-
-the reality, it’s another observability tool
-
-the real way to rank higher
-
-get your brand name mentioned on more content already being sourced in the current chatgpt results
-
-the only way to do this is with cold email to those content owners, asking for link placements and paying them and giving affiliate commission
-
----
-
-**作者** Simon B. Støvring（@simonbs）  
-**貼文連結** https://x.com/simonbs/status/1975969235529879722  
-
-**正文**
-
-I built my first ChatGPT app! 🚀
-
-It connects with my Philips Hue lights so I can control them directly from ChatGPT. After logging in with my Hue account, I can view the status of my lights and control them with natural language.
-
-Here’s a short demo 👇 
-
----
-
-**作者** Aravind Srinivas（@AravSrinivas）  
-**貼文連結** https://x.com/AravSrinivas/status/1975995071989473725  
-
-**正文**
-
-Absolutely don’t do this
-
----
-
-**作者** GREG ISENBERG（@gregisenberg）  
-**貼文連結** https://x.com/gregisenberg/status/1975999018548462061  
-
-**正文**
-
-Mastering OpenAI's NEW AI AGENT builder in 26 mins:
-
-– start with one simple flow (lead capture or faq bot) before adding logic complexity.
-– use vector stores sparingly - too much context slows performance.
-– name your nodes clearly so you can debug fast.
-– integrate with chatkit early if you plan to embed it on a site.
-– test edge cases (misclassifications, loops, context drops).
-– think in outcomes, not features - what task can an agent take off your plate today?
-– treat this as a sandbox, not production - learn what’s possible before scaling.
-
-ideas on what you can build (to get your creative juices flowing):
-
-– lead qualification → build a multi-agent flow that classifies visitors as hot, warm, or cold, then sends data straight into hubspot or notion crm.
-– product onboarding → use logic nodes to detect user type (beginner vs. pro) and serve different walkthroughs automatically.
-– customer support → route basic questions to a support agent, complex ones to human reps, and have it all sync to slack or intercom.
-
-it’s still early. 
-
-the ui has limits, the logic feels clunky, and customization can’t yet match purpose-built platforms like lindy, which give you deeper control and long-term memory.
-
-but it's worth taking it for a spin. will be interesting to see how it evolves.
-
-and @amirmxt does a remarkable job clearly explaining how to build with agentkit etc on @startupideaspod (you can follow for more)
-
-full ep on yt will be in the replies. 
-
-What do you think of OpenAI new agent builder?
-
----
-
-**作者** Arav Kumar（@AI_Arav）  
-**貼文連結** https://x.com/AI_Arav/status/1975979910960501044  
-
-**正文**
-
-Introducing Frontier
-
-Palantir for LLMs 
-
----
-
-**作者** Andy Fang（@andyfang）  
-**貼文連結** https://x.com/andyfang/status/1975651775819510147  
-
-**正文**
-
-Coming soon... @DoorDash integration with @OpenAI's ChatGPT. We’re eager to explore how it can make discovering and ordering from local businesses even more seamless. 
-
----
-
-**作者** George Kurdin（@GeorgeKurdin）  
-**貼文連結** https://x.com/GeorgeKurdin/status/1975959944630247774  
-
-**正文**
-
-$3 Trillion is currently stuck in unpaid invoices.
-An average invoice takes 59 days to clear.
-
-If you're doing >$10M in revenue, getting paid in 30 days instead of 59 days will literally make you millions over 2 years.
-
-Introducing Monk. It collects your money faster and pays for itself in 30 days, guaranteed.
-
-Fast-growing companies like ElevenLabs and Profound rely on Monk.
-
-The Problem: 39% of the $3T stuck is due to two stupid reasons:
-
-1. "Please fix this comma in the invoice and then we'll pay you'" (this happens 2-3 times per transaction)
-
-2. "Sorry the payment reminder got buried in my inbox" (automated emails get ignored)
-
-A payment that should take 2 days, takes 10 days. Your cash on hand is embarrassingly behind "recorded revenue".
-
-To fix this, we raised $4M led by @btv_vc  with participation from @gtmfund  and @danonanthony. 
-
-For our first product, we had to innovate on 3 dimensions:
-
-1. Monk turns signed contracts into invoices with near-perfect precision
-
-- We leverage frontier models to extract key terms from your deals and turn them into invoices.
-
-2. ⁠Monk collects payments agentically with a 24% better reply rate than automated emails:
-
-- Tuned to write emails that feel like a human request, not spam. Your invoice is competing with everything in their inbox.
-
-- We know how to find an alternate point-of-contact when someone is OOO, when to reach out, and what tonality yields a higher response rate.
-
-If you had someone on your team whose invoice emails got answered 24% more than others - that would be a big deal. You’d make them the head of revenue collection.
-
-3. Granular visibility into your cashflow:
-
-- Understand your cash position, aging, or expansion/contraction at customer level.
-
-Book a demo at https://monk.com/book-a-demo-form and we guarantee that Monk will pay for itself within 30 days.
-
-If you've read this far, we are giving away 40 water-tight contract templates. This would cost >$10K to any agency, startups, or freelancer, to create from scratch.
-
-Retweet this  and comment 'Monk' and we'll send them to you.
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/1975973453288374284  
-
-**正文**
-
-Lovart 现在为免费用户提供 5 次普通，1 次 Pro 的 Sora2 使用机会。
-
-如果你是会员，这个月可以无限使用 Sora 2，这里的是没有水印的
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/1975972019415195724  
-
-**正文**
-
-Dia 也全量发布了，目前不再需要邀请码。
-
-同时还加了 Arc 之前 CMD+ S  快捷键隐藏标签页列表的功能。
-
----
-
-**作者** Avi Chawla（@_avichawla）  
-**貼文連結** https://x.com/_avichawla/status/1975811218763096199  
-
-**正文**
-
-Google did it again!
-
-First, they launched ADK, a fully open-source framework to build, orchestrate, evaluate, and deploy production-grade Agentic systems.
-
-And now, they have made it even powerful!
-
-Google ADK is now fully compatible with all three major AI protocols out there:
-
-- MCP: To connect to external tools
-- A2A: To connect to other agents
-- AG-UI: To connect to users.
-
-AG-UI is the newest addition, which is an open-source protocol that enables agents to collaborate with users.
-
-They worked with the AG-UI team to build this.
-
-It takes just two steps:
-- Define the agent with ADK, with its tools, state, etc.
-- Connect it to any React frontend using CopilotKit.
-
-The AG-UI protocol gives you a bridge between a backend AI agent and a full-stack app.
-
-And CopilotKit provides the building blocks you need to bring your agents into frontend applications.
-
-Find the repo in the replies!
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 3803–4003 則**（共 201 則）
 
 ---
 
@@ -4150,3 +2937,1508 @@ If you found this post helpful, don't forget to:
 *Enable notification 🔔
 
 ---
+
+**作者** Essam Sleiman（@essamsleiman）  
+**貼文連結** https://x.com/essamsleiman/status/2041224799746428944  
+
+**正文**
+
+We built [meta-agent](<https://github.com/canvas-org/meta-agent>): an open-source library that automatically and continuously improves agent harnesses from production traces.
+
+Point it at an existing agent, a stream of unlabeled production traces, and a small labeled holdout set. 
+
+1. An LLM judge scores unlabeled production traces as they stream.
+1. A proposer reads failed traces and writes one targeted harness update at a time, such as changes to prompts, hooks, tools, or subagents.
+1. The update is kept only if it improves holdout accuracy.
+
+On [tau-bench](<https://github.com/sierra-research/tau-bench>) v3 airline, meta-agent improved holdout accuracy from 67% to 87%.
+
+We open-sourced meta-agent. It currently supports [Claude Agent SDK](<https://platform.claude.com/docs/en/agent-sdk/overview>), with more frameworks coming soon. Try it here: \[[GitHub repo](<https://github.com/canvas-org/meta-agent>)\]
+
+![Article Image](<https://pbs.twimg.com/media/HFOIz7naQAAlt6A.jpg>)
+
+## Why
+
+Recent work shows that optimizing the harness layer can materially improve agent performance. 
+
+On TerminalBench-2, vanilla Claude Code with Claude Haiku 4.5 scores 27.5%. The best hand-engineered harness on the same model reaches 35.5%, with no fine-tuning ([Meta-Harness, Lee et al. 2026](<https://arxiv.org/abs/2603.28052>)).
+
+Recent systems have also shown that harnesses can be improved automatically through iterative search ([Autoresearch, Karpathy 2026](<https://github.com/karpathy/autoresearch>);[ Meta-Harness, Lee et al. 2026](<https://arxiv.org/abs/2603.28052>)). 
+
+But those methods usually depend on strong evaluation signals during search, such as labels, tests, or deterministic checks. Agents typically run on messy customer workflows where labeled reward is sparse or unavailable.
+
+meta-agent is built for exactly that production setting: it reads traces from the running agent, uses an LLM judge to score them, and proposes harness updates from the failure patterns it finds. 
+
+## How it works
+
+You provide an existing agent, a stream of unlabeled production traces, and a small labeled holdout set.
+
+1. Read. Collect traces from the running agent.
+1. Judge. Score those traces with an LLM judge.
+1. Propose. Read failed traces, identify a recurring failure pattern, and write one targeted harness update.
+1. Validate. Evaluate the new harness on the holdout set and keep it only if holdout accuracy improves.
+1. Repeat. Continue the loop with the updated harness.
+
+Filesystem memory. meta-agent stores each harness candidate, its scores, and its traces on disk. This gives the proposer persistent memory across iterations. Before proposing a change, it can search prior candidates, per-task traces, and scores to see what failed, what has already been tried, and which changes actually improved performance.
+
+## What the optimizer can change
+
+The optimizer can modify the parts of the harness that most directly shape agent behavior: 
+
+- the system prompt
+- lifecycle hooks for tool use 
+- stop conditions and error handling 
+- custom tools, permission logic, and subagents 
+- other control logic around the model
+
+It makes one targeted change at a time and prefers the smallest effective fix. 
+
+## Results
+
+Tau-bench v3 is a benchmark for conversational customer service agents. We evaluate on the airline domain (50 tasks), where the agent must follow policy and resolve customer requests.
+
+![Article Image](<https://pbs.twimg.com/media/HFPS2o8boAAKwRU.jpg>)
+
+Setup: We split the 50 airline tasks into 35 for search and 15 for holdout. The agent used Haiku 4.5, the proposer used Opus 4.6, and holdout was always graded with the official tau evaluator.
+
+Starting from a 67% baseline, the judge-based search run reached 87% holdout accuracy. In our current setup, this was higher than the 80% reached by our labeled-search variant.
+
+![Article Image](<https://pbs.twimg.com/media/HFPDd3LbUAAXQhU.png>)
+
+For LLM-judge search, we replaced gold labels on the search split with an LLM judge that reads each trace and produces a short critique of the agent’s failure. The proposer sees natural-language error descriptions, such as “the agent refunded without checking the cancellation policy.” This may provide a richer optimization signal than binary supervision alone, and could help explain why the judge-based run potentially outperformed our labeled-search variant in this setup.
+
+Note: These are single-run results on a small benchmark split. We plan to expand the evaluation with multiple runs and variance estimates in future work.
+
+## Harness Evolution
+
+The harness did not improve in one shot. The proposer iterated through multiple attempts, learning from failure traces at each step. The table below shows the progression for our best-performing run (Critique, 87% holdout).
+
+![Article Image](<https://pbs.twimg.com/media/HFPUrd4aIAAtxJR.png>)
+
+Starting from a vanilla harness, the proposer first added a stop condition to keep the agent from quitting early, but this reduced holdout because the agent stayed engaged while hallucinating answers. It then rewrote the system prompt with tool-use rules, which encouraged tool use but added too much prompt overhead. 
+
+The key improvement came when the proposer moved business rules into a skill, raising holdout to 80%. In the final step, it corrected factual errors in that skill, reaching 87%.
+
+The full improvement came from just three harness components: a stop condition, a rewritten system prompt, and a skill containing domain rules.
+
+## What we learned
+
+Judge-based search is viable on unlabeled traces. We use an LLM judge to score unlabeled search traces during optimization, while keeping a small labeled holdout set to decide whether to keep an update. In our current setup, this reached 87% holdout accuracy, compared with 80% for our labeled-search variant.
+
+Persistent trace memory helps. Giving the proposer access to prior harnesses, traces, and scores helped it avoid repeating failed changes and even catch errors in its own earlier policy rules.
+
+Proposer tends to overfit. Early iterations often fixed the specific traces the proposer saw rather than writing general behavioral rules, which improved search accuracy while hurting holdout. We reduced this by adding a simple instruction:
+
+> "State your change as a rule about agent behavior. If you can only justify it by pointing to specific traces, it's too narrow." 
+
+The proposer prompt matters. Small changes to the proposer’s instructions had a large effect on optimization quality. 
+
+## Try it today
+
+Download [meta-agent](<https://github.com/canvas-org/meta-agent>) and get started today.
+
+Point it at your agent, a task set, and a labeled holdout split. In our experiments, the optimizer found its best harness within 4-10 iterations. You get a ranked set of harnesses with per-task traces explaining what changed and why. Let us know what you think!
+
+## What's next
+
+- More frameworks. meta-agent currently supports Claude Agent SDK. We plan to add support for Codex SDK, OpenCode SDK, and other agent frameworks.
+- Better proposer optimization. The proposer has strong leverage on final harness quality. We want to explore a meta-loop that improves the proposer’s own instructions over time, including better failure abstraction and clustering.
+- More benchmarks. We plan to evaluate on broader agent benchmarks, including SWE-bench, TerminalBench-2, and domain-specific customer service tasks.
+
+---
+
+
+**作者** jia（@jia_seed）  
+**貼文連結** https://x.com/jia_seed/status/2041268525088842161  
+
+**正文**
+
+you might be reading this and be like nooO not another b2b saas article argh. i was a 19 year old with no funding or network but i ended up closing 10k mrr and wish i had this then
+
+i was a computer engineering student in university and really didn't know anything about talking to or getting customers. also i had never pitched to a vc or angel 
+
+however. i was in sf staying in motels and had zero investment so i had to get traction quick. i was building a pretty silly devtool for hackathons and it seemed pretty hopeless as to how to even sell it. however...
+
+## where do you even start from absolutely zero
+
+i started with cold dming people on every platform and emphasizing that it would be useful specifically  for them. not a copy paste, i did actual research. did they just raise? congrats, here's why this helps your new eng team. launching something new? here's how this fits in.
+
+in my head, it really was a numbers game, where i simply had to hit the limits of every platform
+
+so i made a list. just a spreadsheet. company name, founder name, what they're building, any recent news. then i went platform by platform: twitter, linkedin, discord servers, slack communities, reddit threads.
+
+![Article Image](<https://pbs.twimg.com/media/HFQIhQEa4AAmQYe.png>)
+
+## what kind of people would actually buy your thing for the price you were charging 
+
+to get to 10k, this sounds obvious but most people skip it entirely. before you send a single dm, you need to know exactly who has both the pain and the budget.
+
+for me it was:
+
+- devtools leads at startups that just raised a seed or series a (they suddenly have money and hiring problems)
+- hackathon organizers at big tech companies (they had budget and ran events regularly)
+- engineering managers at companies actively scaling their eng team
+
+the pattern: people who are in motion. just raised, just hired, just launched. they're already spending money, they're already making decisions. you're not convincing them to buy, you're just showing up at the right time.
+
+the wrong customer is someone who likes your product but has to fight internally to get $50 approved. that will drain you.
+
+once you know exactly who they are, cold outreach stops feeling random. ur not spamming, ur pattern matching
+
+## what do you even write in the message
+
+biggest thing is to keep the message short. it's fine if you're young, you can be unserious. no one really wants to read a paragraph. in fact i kept my messages one single sentence simply saying what the thing i was doing was:
+
+"do you want to host a hackathon"
+
+"do you want to get more developers on your platform"
+
+so now i really wish there was a tool that was able to find me 100 people and draft personalized messages for each one based on the metadata of that person. even better if it created agent inboxes with agentmail so you could do all of it already warmed up and fast
+
+![Article Image](<https://pbs.twimg.com/media/HFQKjHmbcAAlmpc.png>)
+
+luckily! my friend (and now co-founder) mohammad built a tool to make all of that easier. we made it free to use and also open source! 
+
+so yeah i genuinely hope this helps anyone in this position in any way. hope you enjoyed!!
+
+---
+
+
+**作者** Dr. Alex Wissner-Gross（@alexwg）  
+**貼文連結** https://x.com/alexwg/status/2041267641990725933  
+
+**正文**
+
+The Singularity has been collapsing the cost of making things, but not the cost of managing things, until now.
+
+In 1937, Ronald Coase [asked](<https://en.wikipedia.org/wiki/The_Nature_of_the_Firm>) why firms exist at all. His Nobel-winning answer was coordination costs. When it is cheaper to coordinate activity inside a hierarchy than across a market, firms grow. When those costs fall, firms shrink. The history of the firm is the history of this boundary moving.
+
+Every technology that reshaped coordination costs has moved this boundary, but not always in the same direction. The steam engine, the telegraph, and the railroad made hierarchies newly viable at continental scale and produced the factory, the transcontinental corporation, and the modern conglomerate. The boundary grew. Then the personal computer and the internet made markets newly viable at small scale, enabling outsourcing, offshoring, and the gig economy. The boundary shrank. For two hundred years the firm has expanded and contracted around whichever coordination technology is ascendant.
+
+AI is the first technology powerful enough to collapse coordination costs all the way to a single person. With agents that can plan, write, code, research, design, and execute 24/7, the cost of running an entire business falls toward the cost of one person's attention. This is the structural shift the technological unemployment debate keeps missing. AI does not just change what work gets done. It changes the minimum viable size of the organization that does it. When coordination becomes nearly free, you do not need a new job. You need a fleet.
+
+Today, [Henry Intelligent Machines PBC](<https://meethenry.ai/>) ("HIM"), a company I helped form and advise, with backing from [021T Capital](<https://www.021t.vc/>), is announcing the first AI agent layer that assembles, operates, and scales fleets of microbusinesses on behalf of individual owners. Not one business. A fleet, diversified, automated, and compounding. The owner sets direction. The agents do the work. The [World Economic Forum projects](<https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/>) 92 million jobs will be displaced by 2030. HIM is a Public Benefit Corporation whose mission is to mitigate that displacement by creating AI-supervising entrepreneurs at scale.
+
+HIM's Founder and CEO is [Alex Finn](<https://x.com/AlexFinn>), who has already been living this thesis in public. Finn built [Creator Buddy](<https://www.alexfinn.ai/>), an AI-assisted app that did [$100,000 in sales within 15 minutes of launch](<https://grokipedia.com/page/Alex_Finn>), then became [the most prominent power user of OpenClaw](<https://metatrends.substack.com/p/clawpilled-meet-your-ai-chief-of>), the open-source agent framework, running a five-agent organization from his desk that builds software, researches markets, and ships products 24/7. His lead agent is named Henry and runs on Anthropic's Claude Opus 4.6. When a competitor announced a major new feature after weeks of development, Finn dropped the blog post to Henry. Five minutes later, Henry had rebuilt it. The company is named after the agent that proved the model works.
+
+Here is what a Henry-managed fleet looks like. On the publishing side, agents launch newsletters, produce research briefs for professionals who cannot afford a consulting firm, and generate long-form guides that drive search traffic and ad revenue across agent-built sites. On the services side, they run white-label email marketing for local businesses and build apps, landing pages, and websites at near-zero marginal cost. On the physical side, they design products for networked 3D printers, drop-ship on demand with no inventory, and sell branded merchandise and collectibles. For tasks that still require human hands, they coordinate gig workers. The portfolio is the product. And none of it is AI slop. The owner never leaves the loop: the agents handle execution, the human supplies the direction and the taste.
+
+Elon Musk has [popularized](<https://www.foxbusiness.com/economy/musk-predicts-ai-create-universal-high-income-make-saving-money-unnecessary>) the idea of Universal High Income, a world where AI-driven abundance lets everyone live well. But Musk's UHI arrives from the top down. HIM works from the bottom up, putting productive AI assets directly into individual hands. UHI is the north star. A fleet of your own machines is how you start walking toward it.
+
+As Peter Diamandis and I argued in [Solve Everything](<https://solveeverything.org/>), the Intelligence Revolution turns every scarce domain it touches into an abundant one. Coordination has been scarce for as long as organizations have existed. It is why firms exist and why one person has never run a conglomerate alone. Finn proved it is possible. HIM makes it available to everyone.
+
+The waiting list for Henry is now open at [MeetHenry.ai](<https://meethenry.ai/>).
+
+(Disclosure: I have a financial interest in [HIM](<https://meethenry.ai/>). This post is for informational purposes only and is not investment, financial, tax, legal, or business advice. Nothing herein guarantees earnings or business success; operating an AI-assisted microbusiness, like any business, involves risk of loss, and results depend on individual effort, market conditions, and many other factors. Forward-looking statements about capabilities are subject to uncertainty. Users of HIM are solely responsible for their own legal, tax, and regulatory compliance.)
+
+---
+
+
+**作者** kAI（@_kaichen）  
+**貼文連結** https://x.com/_kaichen/status/2041199915280507123  
+
+**正文**
+
+最近翻了两个开源 Agent 框架的源码——Hermes Agent 和 OpenClaw。发现一件有意思的事：它们花了大量工程精力，专门修 GPT-5 在 agentic 场景下的行为缺陷。
+
+不是模型能力不够，是模型"不听话"。
+
+## 问题出在哪
+
+GPT-5 做单轮对话很强。但一旦进入 Agent 循环——需要连续调用工具、自主决策、持续推进任务——它就暴露出四个顽固的坏毛病：
+
+1. 光说不做（Commentary-Only Turns）
+
+你让它改个文件，它回复"我会先读取文件内容，然后定位问题，接着修改……"。说完就结束了。没有任何 tool call。
+
+这不是偶发。GPT 系列模型有很强的"先描述计划再行动"的倾向。在聊天场景里这是好习惯，在 Agent 场景里这是致命的——每一轮空转都浪费上下文窗口和时间。
+
+2. 半途而废（Premature Completion）
+
+工具返回了部分结果，模型就把它当成完整答案交付了。比如搜索只返回了 3 条结果，明明可以换个关键词再搜一轮，它却直接总结"根据以上结果……"。
+
+3. 不做验证（No Verification）
+
+生成了代码不跑测试，写了配置不检查语法，给了答案不交叉验证。直接输出，交付，下一个。
+
+4. 编造而非查询（Hallucination Over Lookup）
+
+手边明明有 search\_files、web\_search 这些工具，遇到不确定的信息却选择"凭印象编一个"。这在长任务里尤其危险——一个错误的文件路径或 API 参数，后面全部白做。
+
+这四个问题不是 GPT-5 独有的，但 GPT 系列表现最突出。Hermes 的代码注释里写得很直白：Claude 不需要这套矫正（"Claude's instruction-following is strong by default"）。
+
+## OpenClaw 的做法：三段 Prompt，简洁有效
+
+https://github.com/openclaw/openclaw/blob/e7fe087677a659004d805c8ccd947db4ebfc0fed/extensions/openai/index.test.ts
+
+OpenClaw 的修复方案藏在一个 90 行的 TypeScript 文件里（extensions/openai/prompt-overlay.ts）。核心是三段 prompt overlay，只对 GPT-5 模型生效。
+
+执行偏好层（Execution Bias）——解决"说了不做"：
+
+> Start the real work in the same turn when the next step is clear.
+
+翻译成人话：别废话，直接干。
+
+它还加了一条针对性极强的规则：如果用户最后一条消息是"ok do it"或"go ahead"，跳过所有复述，直接开始 tool call。
+
+输出契约层（Output Contract）——解决啰嗦和格式问题：
+
+强制精简输出，禁用 em dash（GPT-5 特别爱用破折号），默认简短回答。
+
+人格层（Friendly Prompt Overlay）——把执行纪律包装成"好队友"风格：
+
+这一层很聪明。它不是单纯的性格设定，而是把执行规则嵌进了交互风格里。"Commentary-only turns are incomplete when the next action is clear"——这句话既是性格描述，也是行为约束。
+
+整套方案大约 1,500 tokens。小、准、狠。
+
+## Hermes 的做法：系统工程级的行为控制
+
+https://github.com/NousResearch/hermes-agent/blob/6f1cb46df9825e693e33069626444b9a1bd0d344/agent/prompt\_builder.py#L196
+
+Hermes 走了一条完全不同的路。它承认受 OpenClaw 启发（代码注释提到了 "OpenClaw PR #38953"），但把问题升级成了一套完整的行为工程体系。
+
+XML 标签强化指令权重
+
+Hermes 发现纯文本指令对 GPT 的约束力不够，于是用 XML 标签包裹关键规则：
+
+<tool\_persistence>
+Do not stop early when another tool call would materially improve the result.
+If a tool returns empty or partial results, retry with a different query
+or strategy before giving up.
+</tool\_persistence>
+
+XML 标签不是装饰。在 transformer 的注意力机制里，结构化标记比平铺直叙的文本更容易被模型"注意到"。这是一个实践中被反复验证的 prompting 技巧。
+
+四维验证清单
+
+OpenClaw 的验证是一句话："verify correctness, coverage, formatting, and obvious side effects"。Hermes 把它展开成四个维度：
+
+- Correctness：输出是否满足所有需求？
+- Grounding：事实性声明是否有工具输出支撑？
+- Formatting：输出格式是否匹配要求？
+- Safety：下一步有没有副作用（写文件、执行命令、调 API）？需要确认范围。
+
+多出的 Grounding 和 Safety 两个维度，直接对应"编造"和"不验证"两个坏毛病。
+
+反幻觉优先级链
+
+遇到缺失信息时，Hermes 规定了明确的行动优先级：
+
+工具查询 → 带标签地假设 → 向用户提问
+
+"Ask a clarifying question only when the information cannot be retrieved by tools." 先自己查，查不到再问人。这比 OpenClaw 的隐含规则（"Do prerequisite lookup or discovery before dependent actions"）更具操作性。
+
+Developer Role 切换
+
+这是一个 API 层面的 trick。OpenAI 的 API 里，developer role 比 system role 的指令权重更高。Hermes 在调 GPT-5/Codex 时，自动把 system prompt 切换成 developer role。不改内容，只改信封，指令遵循率就上去了。
+
+9 层系统提示词架构
+
+Hermes 最核心的设计是条件式组装的 9 层 system prompt：
+
+层内容关键设计1人格（SOUL.md）与执行规则解耦2工具感知指导只注入已有工具的规则3云服务能力声明—4执行纪律 + 模型补丁核心修复层5自定义 system message运行时覆盖6持久记忆快照会话开始时冻结7Skills 索引每次回复前扫描8项目上下文文件带注入扫描9时间戳与元数据—
+
+第 2 层的设计值得注意：如果当前会话没有 web\_search 工具，所有提到 web\_search 的引导文本都会被自动剥离。这防止模型幻想调用一个不存在的工具——又是一个反幻觉措施。
+
+## 一个更深的观察
+
+这件事真正有意思的地方不在技术细节，而在它揭示的行业现实：
+
+模型厂商卖的是"通用智能"，但 Agent 框架在生产环境里做的第一件事，是用 prompt 给模型打行为补丁。
+
+GPT-5.4 的 benchmark 分数很高。它能写论文、能做数学推理、能处理复杂指令。但在 Agent 循环里连续跑 50 轮 tool call？它会走神，会偷懒，会编造，会虎头蛇尾。
+
+这不是模型"笨"。这是模型的训练目标（单轮对话质量）和 Agent 场景的要求（多轮执行纪律）之间存在 gap。RLHF 优化的是"回答让人满意"，不是"持续正确地调用工具直到任务完成"。
+
+Hermes 和 OpenClaw 正在用 prompt engineering 填这个 gap。但 prompt 终究是创可贴，不是手术。真正的解决方案应该在训练阶段就把 agentic behavior 作为优化目标。
+
+Hermes 的代码里其实已经有了这个方向的伏笔——trajectory\_compressor.py 文件专门为 RL 训练压缩 Agent 轨迹数据，强化"理解 → 执行 → 验证"的行为模式。Prompt 补丁是现在的权宜之计，training pipeline 才是终局。
+
+## 对构建 Agent 的实践启示
+
+如果你正在用 GPT-5.4/Codex 构建 Agent，这两个项目的源码值得细读。几个可以直接拿走的做法：
+
+1. "说了就要做"规则：在 system prompt 里明确禁止 commentary-only turns。这一条规则的 ROI 最高。
+1. 空结果重试：工具返回空或部分结果时，要求模型换策略重试，而非直接放弃。
+1. 条件式 prompt 组装：只注入当前可用工具的引导。多余的工具提及会诱导幻觉。
+1. XML 标签包裹关键规则：对 GPT 系列效果显著。
+1. 验证清单：至少要求 Correctness 和 Grounding 两个维度。
+
+模型在变强，但 Agent 框架的行为工程不会消失。只要模型的训练目标和 Agent 的执行需求之间还有 gap，Harness 层就有存在价值。
+
+本文基于 Hermes Agent 和 OpenClaw 的开源代码分析，研究日期 2026 年 4 月。
+
+---
+
+
+**作者** Cerebras（@cerebras）  
+**貼文連結** https://x.com/cerebras/status/2041300697258590590  
+
+**正文**
+
+Written by @zhennydez 
+
+MCP had a formative year. Then it had a turbulent week.
+
+![Article Image](<https://pbs.twimg.com/media/HFQjWg7bEAA49q9.jpg>)
+
+Perplexity CTO Denis Yarats walked on stage at Ask 2026 and announced that Perplexity was moving away from MCPs… and back to APIs and CLIs.
+
+Immediately, Twitter split into two camps.
+
+Not surprising, given MCP grew from an Anthropic open standard in November 2024 to industry-wide adoptions with [over 97 million monthly downloads in just thirteen months](<https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation>) across a range of companies and platforms.
+
+Yet Perplexity, a prominent AI company, chose to walk away from it.
+
+![Article Image](<https://pbs.twimg.com/media/HFQjyYGbwAAZcDz.jpg>)
+
+MCP's overhead isn't arbitrary. The protocol [works by](<https://modelcontextprotocol.io/docs/getting-started/intro>) guiding model interactions down specific, auditable paths: every tool call carries its full schema definition, every auth handshake runs end to end, and every step waits for the previous one to complete before the next begins. That predictability is exactly what enterprise deployments need.
+
+But it comes at a cost: in a multi-step workflow, each structured step adds latency, and those costs accumulate across a long chain of tool calls.
+
+The Case Against MCP
+
+Those who cheered the move argued MCPs' token overhead is a harmful constraint, slowing down runtime and worsening as more tools are connected. To put it into perspective, Samir Amzani from DevCommunity [noted that](<https://dev.to/amzani/your-mcp-server-is-eating-your-context-window-theres-a-simpler-way-3ja2>) connecting just three services, GitHub, Slack, and Sentry, can put over 55,000 tokens of tool definitions in the MCP context window before the agent reads a single user message, ranging anywhere from [3-42x](<https://www.scalekit.com/blog/mcp-vs-cli-use>) higher token usage than CLIs.
+
+The Case For MCP
+
+However, while acknowledging MCPs' latency issues, supporters pointed to what developers would be giving up switching to CLIs. CLIs are lightweight and fast, but they're also static, calling tools they've been explicitly programmed to use, requiring developers to manage auth separately for every service, and offering no shared protocol layer for observability or debugging.
+
+![Article Image](<https://pbs.twimg.com/media/HFQj8_uaYAAwBYx.jpg>)
+
+No official explanation from Perplexity followed, but the divide reflected real development needs: teams with faster latency requirements may find CLIs more practical, while teams prioritizing observability and production safety may find MCPs' structure worth the overhead.
+
+Looking Beyond the Protocol Choice
+
+Switching to CLIs and APIs does solve some problems: the token overhead drops and the per-step latency improves. However, it doesn't fix everything. Some fundamental constraints, compounding latency at scale and unsafe code execution, are not fully resolved by swapping interfaces.
+
+And these deeper constraints point to two areas worth examining: inference infrastructure and code execution environments.
+
+![Article Image](<https://pbs.twimg.com/media/HFQkCIUbMAAcUug.png>)
+
+Consideration #1: Faster Inference
+
+One consideration is in the inference infrastructure, where faster inference targets the latency problem directly. Newer chip architectures designed for low latency AI workflows, such as [Cerebras's Wafer-Scale Engine](<https://www.cerebras.ai/chip>), keep model weights in on-chip memory across wafers rather than relying on off-chip memory, eliminating the memory bottleneck of conventional GPU inference. The result is up to [3,000 tokens per second](<https://inference-docs.cerebras.ai/models/overview>), or roughly up to [15x faster](<https://www.cerebras.ai/blog/speedandaccuracyblog>) than conventional GPU-based solutions, depending on the model.
+
+That speed changes the calculus on MCP. Pair faster inference with real MCP servers, GitHub for code context, Slack for team data, Atlassian for project state, and the latency cost of each tool call shrinks significantly. The overhead that made MCP feel impractical becomes more manageable when the underlying inference is fast enough.
+
+For enterprises that have prioritized MCP's auditable structure, this matters: faster inference doesn't require trading away the safety layer. It just makes the full stack, tool calls and all, more viable in production.
+
+![Article Image](<https://pbs.twimg.com/media/HFQuMndaAAECLh4.jpg>)
+
+Consideration #2: Safe Code Execution
+
+Another consideration is in secure code execution. Running agent-generated code presents a tradeoff between safety and speed.
+
+[Monty](<https://github.com/pydantic/monty>), a minimal Python interpreter written in Rust shipped by Pydantic, takes a different approach by keeping scope small. Rather than spinning up a container or exposing a full runtime, Monty runs only what the agent needs, no filesystem access, no network calls, no environment variables unless explicitly granted, and pausing only when an external call requires authorization. Because the interpreter is minimal, the attack surface for prompt injection is correspondingly small.
+
+Startup time is [under 0.06ms, compared to 195ms for Docker and over 1,000ms for sandboxing services.](<https://github.com/pydantic/monty>) Although, Monty is still experimental, supports only a partial Python subset, and has no third-party library support, so it is not yet production-ready. But the blueprint is there for further iteration and development.
+
+![Article Image](<https://pbs.twimg.com/media/HFQkfnMa0AA20th.jpg>)
+
+These Considerations Benefit Both MCPs and CLIs
+
+The frustrations driving the MCP vs. CLI debate are real. The token overhead, the sluggish workflows, the risks of running agent-generated code— none of that is in dispute. But a significant part of how to speed up the experience also sits in the inference infrastructure and execution environment, not just the protocol itself. And these improvements don't belong to MCP alone, CLI workflows, in a similar vein, can get faster too.
+
+Contextualizing the Constraints
+
+Perplexity made a pragmatic call against real constraints, and so did the many teams quietly reaching for CLIs: because MCPs felt too slow. Many others are equally sticking with MCP. Both are reasonable decisions given their specific development needs.
+
+And as the MCP vs. CLI debate continues, protocols aside, inference infrastructure and execution environments are equally worth the attention.
+
+Full blog: https://www.cerebras.ai/blog/MCPvsCLI
+
+In partnership with @pydantic 
+
+---
+
+
+**作者** Michael（@michael_chomsky）  
+**貼文連結** https://x.com/michael_chomsky/status/2041217735968063519  
+
+**正文**
+
+Arlan is actually a genius. 
+
+He basically turned every piece of documentation into a virtual filesystem for agents to grep/cat/use bash commands on.
+
+I've been thinking about doing something like this for months but he actually executed, and it's so damn good!
+
+In hindsight this is obvious. 
+
+Why are we doing RAG on documentation? This is highly structured and carefully organized knowledge. RAG makes little sense on its own, especially with LLMs being RL'd into loving file operations.
+
+Mintlify did something similar for their KB agent, but this is even more interesting imo, as it lets my local agent do the operations.
+
+My local agent has the context of my current task, and Arlan made the agent 10x more powerful.
+
+But we shouldn't stop here.
+
+I want the same thing for any github repo (every github repo in a virtual filesystem, with just-bash allowing bash operations without cloning locally)
+
+@davis7's btca is the closest thing I've seen to this, but I wonder if anyone else is working on something around taking some data source, turning it into a virtual filesystem, and giving it to agents?
+
+---
+
+
+**作者** Khe Hy（@khemaridh）  
+**貼文連結** https://x.com/khemaridh/status/2041302147665678552  
+
+**正文**
+
+Happy Easter everybody!
+If you’re new here, every week I curate the best stories on AI (so that you don’t have to).
+Let’s jump in!
+1. The Ultimate AI Catch-Up Guide
+If you’re feeling behind, this is a
+
+---
+
+
+**作者** Orange AI（@oran_ge）  
+**貼文連結** https://x.com/oran_ge/status/2041313313569780136  
+
+**正文**
+
+这篇文章，看完的人都会陷入迷茫
+产品技术已经没有任何壁垒的时代
+是要寻求他处了
+
+---
+
+
+**作者** Aryan Mahajan（@aryanXmahajan）  
+**貼文連結** https://x.com/aryanXmahajan/status/2041029406731485595  
+
+**正文**
+
+Three clients. Three production deployments. Five business days.
+Not prototypes. Not demos. Live systems with access controls, security audits, SLA agreements, and real users hitting real endpoints.
+
+---
+
+
+**作者** Guru Chahal🇺🇸（@guruchahal）  
+**貼文連結** https://x.com/guruchahal/status/2041207835082809728  
+
+**正文**
+
+Did some back-of-envelope math on AI market penetration vs. knowledge worker labor spend.
+
+The entire AI industry has captured <1% of a $6T+ market. Even the best verticals - software dev & customer service - are in the low single digits. Most are under 0.5%.
+
+And that doesn't even fully take into account that these markets are expanding, not fixed!
+
+---
+
+
+**作者** Jiayuan (JY) Zhang（@jiayuan_jy）  
+**貼文連結** https://x.com/jiayuan_jy/status/2041335153361105177  
+
+**正文**
+
+如何基于 Claude Code/Codex 搭建一个 Agent 团队
+
+正式来介绍一下 Multica：多人与多 Agent 的协作平台。
+
+→ http://multica.ai
+
+上周三发布到现在，已经有数千名用户体验了 Multica。
+
+这个 20 多分钟的视频中，我将会介绍：
+
+1）什么是 Multica 以及为什么我们要做这件事
+2）10 分钟快速上手 Multica
+3）我们是如何使用 Multica 开发 Multica 的
+
+代码完全开源：
+→ https://github.com/multica-ai/multica
+
+---
+
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/2041233249180225622  
+
+**正文**
+
+Introducing AgentSearch.
+
+We want to turn the entire internet into a browsable filesystem, like a codebase.
+
+We’re starting with documentation websites, and this approach has improved our internal coding agents by ~41% when working with the latest frameworks like Next.js.
+
+---
+
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/2041306904035783135  
+
+**正文**
+
+Introducing The File System Company of San Francisco
+
+http://filesystem.company
+
+---
+
+
+**作者** Arlan（@arlanr）  
+**貼文連結** https://x.com/arlanr/status/2041215978957389908  
+
+**正文**
+
+Code hallucinations are not a model problem. They're a data problem.
+Every day, APIs ship breaking changes, deprecate endpoints, and rename  parameters. Models can’t keep up because their training
+
+---
+
+
+**作者** Hytidel聊商业（@HytidelLegend）  
+**貼文連結** https://x.com/HytidelLegend/status/2041054755729047775  
+
+**正文**
+
+我只做了一次家教，家长就让我别来了。
+
+他说：AI 教的比你好。
+
+我没反驳，因为他说得对。
+
+我做家教的方式是：讲知识点，然后讲题。学生听不懂，我就换种方式讲。再听不懂，我继续换。
+
+但 AI 不一样。
+
+---
+
+
+**作者** Ankur Goyal（@ankrgyl）  
+**貼文連結** https://x.com/ankrgyl/status/2029294214429716553  
+
+**正文**
+
+The other week, Braintrust announced our $80M series B. Though this is a big milestone, the thesis of the company hasn’t changed. We’re still building the observability layer that helps teams ship
+
+---
+
+
+**作者** Ankur Goyal（@ankrgyl）  
+**貼文連結** https://x.com/ankrgyl/status/2036123140137386379  
+
+**正文**
+
+I was talking to a fellow founder recently about AI adoption, both inside our companies and our customers’. Many of our customers were early to adopt AI, and spend most of their time working with the
+
+---
+
+
+**作者** Ankur Goyal（@ankrgyl）  
+**貼文連結** https://x.com/ankrgyl/status/2041206959848735107  
+
+**正文**
+
+Recently I've heard an observation circulating: that AI observability is actually a database problem. This sounds trite, but it's true. The novel workloads that AI products generate and the exciting
+
+---
+
+
+**作者** Elvis（@elvissun）  
+**貼文連結** https://x.com/elvissun/status/2041108409655677021  
+
+**正文**
+
+Anthropic just cut access to all third-party harnesses access their models. 
+Here's what I found when I audited my OpenClaw's actual token burn that used to run on the flat $200/month plan:
+83 million
+
+---
+
+
+**作者** ℏεsam（@Hesamation）  
+**貼文連結** https://x.com/Hesamation/status/2041099087349465500  
+
+**正文**
+
+Claude Code realizes it’s been looking at its own source code to build an open-source competition for itself. it no longer does :( 
+
+---
+
+
+**作者** Annie 所长（@web3annie）  
+**貼文連結** https://x.com/web3annie/status/2041040869487525919  
+
+**正文**
+
+真正决定你一辈子上限的，不是你学了多少知识，考上了啥清华北大
+
+而是：
+
+1. 你怎么投资自己
+2. 你如何对待你的身体
+3. 一定要跟比你强的人在一起
+
+首先，最好的投资就是投自己，比如投资自己的沟通能力，会说 → 同样能力，收入翻倍
+
+其次，不要等到50岁才开始保养身体，人最昂贵的豪车就是你的身体
+
+最后，巴菲特反复强调，人生最重要的选择：另一半 + 合伙人
+
+而选错伴侣，比选错合伙人更惨
+
+你是谁，取决于你身边是谁，人都会变成你经常接触的人的平均值，要主动靠近比你强的人，然后祈祷他们别太快发现这一点
+
+把自己变成一个高价值载体，再把自己放进正确的人和环境里，时间会自动帮你复利
+
+---
+
+
+**作者** BridgeMind（@bridgemindai）  
+**貼文連結** https://x.com/bridgemindai/status/2041158878411345960  
+
+**正文**
+
+First weekday on Claude Code since Anthropic cut off OpenClaw and third party harnesses.
+
+5% session usage. 23% weekly. 
+
+Claude Opus 4.6 on v2.1.92. So far so good.
+
+The real test is today. 
+
+Weekends are easy. 
+
+Peak hours on a Monday will tell us if the rate limits are actually fixed or if Anthropic just got lucky with lower traffic.
+
+I'll be coding all day and reporting back. 
+
+If I hit 100% in an hour like before, you'll hear about it.
+
+Stay tuned.
+
+---
+
+
+**作者** Annie 所长（@web3annie）  
+**貼文連結** https://x.com/web3annie/status/2040995309975958008  
+
+**正文**
+
+KOL 也要失业了！
+
+以前的社交媒体是看创作者
+
+以后的社交媒体是看 AI
+
+现在 AI 生成内容至少已占15%，以后将达到50%，甚至100%
+
+因为 AI 可以：
+
+• 一天产100条内容
+• 攻略任何算法热点
+• 24小时不停更新
+• 全网最强钩子，能多留你三秒
+
+而这一切只需要一点点电力
+
+我们已经在活在《黑客帝国》里了，兄弟们
+
+---
+
+
+**作者** Ray Wang（@wangray）  
+**貼文連結** https://x.com/wangray/status/2041026183962517634  
+
+**正文**
+
+你看过无数篇文章，收藏了无数个笔记，听了无数条播客。
+该试的都试过，依然没用。道理你都懂，但你就是做不到。
+这不是你不努力，恰恰你是拼了命的努力，但你却在学一件本质上就学不会的事。
+
+---
+
+
+**作者** victor-wu.eth（@victor_wu）  
+**貼文連結** https://x.com/victor_wu/status/2041200240389455882  
+
+**正文**
+
+这期内容的以让我窥见他们内部的产出流程。我挑几个我感兴趣的点吧。从一个 PM 角度来说：
+
+1. 他们已经基本上不写规范文档了(除非是复杂功能)，这点我非常诧异。
+他们特意强调功能的开发要越少人参与越好，因为越少人参与，你信息的错误率就越低，维护信息的成本也越低。比如两个人做这个事情，那简直是快到没边了，很多事情提一提就可以确定下来了。
+这会联想到一个点：传统的做法是大家在 IM 软件聊天后，还要把它在文档上重新写一遍，因为很多细节修改是在聊天中完成的，不会在文档上记录。很多人到最后就不会回填到文档上去了。那是不是可以我们直接用 Agent 去阅读我们的聊天记录，然后直接把我们这些人工的、临时修改的决定同步到文档上去呢？我觉得这是很有意思的点。
+2. 他们不用文档，但也不是绝对不用文档。
+他们的原文是：如果需要几个人协同工作，或者需要做一个非常棘手的决定，肯定会写一份文档。虽然他用的是“Spec”这个词，但我想在我理解里面这应该是 PRD 的意思。我不知道我理解错没，但他写的是这个文档非常简短，就十条要点而已。
+
+这里其实可以去 OpenAI 官方，他们有更多的一个延伸，就是强调一个 Space 要简短、明确边界，告诉它范围、明确边界目的是什么。AI 自己去探索其实就是最好的一个方式。
+3. 他们在做复杂功能时也很有意思。
+他们的 PM 会去跟 Codex 探讨问题，但是他最终交付的其实并不是 Agent 本身编写的那个 Plan 模型，而是他跟 Agent 交流之后的一个产物。也就是说，实际上那个 Plan 并不重要，而在于说通过 Agent 去帮你理清你对这个需求从模糊到具体。
+然后这里最后的结果才是最后要交付给工程师的。所以这其实给我带来一个更深的一个疑问：在大家都有 Agent 的情况下，产品经理怎么跟团队、跟研发更好地协作？
+在中国互联网圈，包括我自己其实在跟团队协作的时候，也会遇到这个问题。一旦我是一个团队部分，我好像就立马回退到没有这个 AI 的时代，我只是让 Agent 把我从需求到这个产出的过程加快而已。
+
+我们最初交付出来的产物仍然是一个传统的一个产物，你不能说是错的。但我有一个隐隐约约的直觉，这个可能不太适应 Agent 时代的这样一个开发产物。就是对 Agent 来说，我们写的那么详细的那个文档本身是不是多余的呢？是不是需要那么足够的文档去交付的呢？还是说我们其实只要我们应该更多地把精力放在不同环节的，比如说我一个需求可能会有若干个方案，我们去探索更多的方案本身，然后我们才去挑选一个来做。就像传统的 A/B Test，可能现在是 A/B/C/D Test 出来做这个事情。
+一旦决定方案之后，这个方案本身的实施可能就没有那么的传统。我指的那么传统是它并不需要交付一个看起来很完善的东西，所以我自己其实是有很大疑问的，因为我自己vibe开发的时候完全不是那个传统模样。我自己开发的时候我是从需求点去验证，对吧？然后我会告诉 AI，我反而会告诉 AI 你的边界、你的需要注意的点在哪里。这点反而更像 Codex 团队他们内部这样说的
+但一旦涉及到团队，我现在没有更好的办法，因为我还不知道跟我配合的人他会怎么样。所以就是如何做一个人，怎么样去协调用 Agent 的研发，如何做一个人，如何去协调用 Agent 的研发适配一个产品经理，我觉得本身就是一个很奇妙的东西。
+我觉得 Agent 时代的差别不应该只是用 Agent 把过程缩短，它应该可以有更多时间去探索不同的方案，就像 Claude Code 那样。我一个功能我做五个方案出来，我自己选一个就行了。
+哦对了，我用我自己的podwise额度完整翻译整期视频，大家不用点数就可以浏览了，顺带一提podwise的交互烂到令人崩溃......
+
+---
+
+
+**作者** Ben Lang（@benln）  
+**貼文連結** https://x.com/benln/status/2041205967086333983  
+
+**正文**
+
+Less than a year later: 
+
+---
+
+
+**作者** 实践哥MinLi（@MinLiBuilds）  
+**貼文連結** https://x.com/MinLiBuilds/status/2041178722230030384  
+
+**正文**
+
+早上打开 Claude Code，敲第一句话，2%～10% 的套餐额度没了。午休回来继续干活，又一句话，10% 的额度蒸发。你有没有想过，这 token 到底花在哪了？我带着这个疑问，在本地用 Gemma4
+
+---
+
+
+**作者** Gergely Orosz（@GergelyOrosz）  
+**貼文連結** https://x.com/GergelyOrosz/status/2041133254586122605  
+
+**正文**
+
+Anthropic really is burning more and more dev goodwill
+
+Claude Code is suddenly getting unusable for stuff you could use it before (as in a day before!) and the AI now refuses to so stuff that it doesn’t think is strictly to do with software development.
+
+No transparency why ofc
+
+---
+
+
+**作者** Chappy Asel（@chappyasel）  
+**貼文連結** https://x.com/chappyasel/status/2041166770472644721  
+
+**正文**
+
+I've spent the past month obsessed with one question: how do you build an AI system that gets smarter every time it runs?
+So I built one. I curated 121 sources (63 repos, 13 papers, 24 tweets, 21
+
+---
+
+
+**作者** 范凯说 AI | Kai on AI（@fankaishuoai）  
+**貼文連結** https://x.com/fankaishuoai/status/2041171980494479679  
+
+**正文**
+
+参考：Karpathy's LLM Wiki Gist
+AI 界的全球顶流 Andrej Karpathy 发了一个 Gist，讲怎么用 LLM 来管理个人知识库，现在超级无敌火爆。我仔细看了一遍他的方案，从建立个人 Wiki
+
+---
+
+
+**作者** Annie 所长（@web3annie）  
+**貼文連結** https://x.com/web3annie/status/2041171351160148196  
+
+**正文**
+
+《纳瓦尔宝典》作者新作 -《埃隆之书》精华版，69 句马斯克的硬核暴论：
+
+1. 你的潜力，比你自己想的要大得多
+2. 普通人也可以选择活得不普通
+3. 任何东西都能自学：多读、多问高手
+4. 先假设自己是错的，然后不断修正
+5. 一切问题，先从自己身上找原因
+
+6. 不做产品，一切都是空谈
+7. 创造产品，就是创造财富
+8. 只有创造价值的人生，才算数
+9. 少讲虚的，多干实事
+10. 做能提高未来胜率的事
+
+11. 不进就是退：要么加速，要么被淘汰
+12. 专注那些“刚刚变得可能”的事
+13. 如果某样东西应该存在，就别等，自己做出来
+14. 去没人走过的地方
+15. 你动起来，对的人自然会靠过来
+
+16. 原型，比PPT更有说服力
+17. 从现状出发，持续质疑和调整
+18. 用第一性原理思考，而不是照抄别人
+19. 盯着“理想极限”，哪怕达不到也要逼近
+20. 搞清楚每个零件到底值多少钱
+
+21. 优化顺序：先质疑 → 再删减 → 再简化 → 再提速 → 最后自动化
+22. 每天复盘关键进展，别拖
+23. 离一线越近，决策越靠谱
+24. 所有规则，都只是建议
+25. 唯一绝对真实的，是物理定律
+
+26. 最好的零件，是没有零件
+27. 简单，才更可靠、更便宜
+28. 每个步骤都要问一句：真的有必要吗？
+29. 先砍到极致，再加回必须的
+30. 追求数量级的突破，而不是小修小补
+
+31. 主动出击，不然你只能跟着别人走
+32. 永远保持紧迫感
+33. 速度翻倍，本质就是规模翻倍
+34. 系统的效率，取决于最慢的那个点
+35. 你跑多快，取决于最拉垮的供应商
+
+36. 能并行就别串行
+37. 给团队一个清晰的“得分标准”
+38. 设计、工程、制造必须一体
+39. 创新的本质，是速度
+40. 用更快、更好、更便宜打败对手
+
+41. 不合理的事，先问：要实现它缺什么？
+42. 钱不是核心问题，人才是
+43. 每个人都要像“总工程师”一样思考
+44. 建立真实、快速的反馈机制
+45. 能力必须大于自尊
+
+46. 不提升产品的事，一律停掉
+47. 审美是可以训练的
+48. 现实不讲情绪，只讲结果
+49. 过度共情，反而会拖慢决策
+50. 表达要简单、清晰、直接
+
+51. 尽量拿第一手信息
+52. 招人只看：你到底做成过什么
+53. 工程 + 财务，两手都要硬
+54. 想掌控产品，就得掌控公司
+55. 领导要冲在最前面
+
+56. 出问题，立刻去现场
+57. 坏消息要快、要多说
+58. 失败没关系，致命失败才要命
+59. 怕失败，本身就是失败
+60. 直面恐惧，然后干
+
+61. 有把握时，就All in
+62. 想赢，就得拼到极限
+63. 选你真的热爱的事，不然撑不住
+64. 别因为风险，就放弃重要的事
+65. 哪怕成功概率很低，也要试
+
+66. 不到彻底没法动，就别放弃
+67. 把人生当一场游戏
+68. 进入硬核模式去干
+69. 幽默感，其实是稀缺优势
+
+《埃隆之书》中文版下载地址：https://file.lvwzhen.com/The-Book-of-Elon-Free-epub.zh-CN.epub
+
+---
+
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/2041180255000449527  
+
+**正文**
+
+转译：否定别人的想法算不上什么本事
+作者：Scott Lawson
+
+想象一下这个场景：在某个会议上，有人提出了一个新想法。这个点子很新颖、与众不同，当然，实现起来也需要费点功夫。结果，提案人还没解释完，已经有三个人想好了这个点子行不通的理由。
+
+“我从来没听客户提过这种需求。”“我们不能用 Python 写这个，太慢了。”“这会让系统变得太复杂。”“我们以前试过类似的方法，根本行不通。”“运维团队肯定不想再多维护一个服务了。”“大家已经习惯现在的做法了。”
+
+这些反驳的人既不蠢，也没说错。但问题在于，他们没有创造任何价值。
+
+一幅四格漫画。第一格“提案”：一个人正跪在地上生火（代表一个新想法），旁边的同事却说：“那块木头看起来是湿的。”第二格“专家登场”：更多人围过来提出异议，比如“我以前试过类似的方法，根本没用。”第三格“没有创造的‘贡献’”：火彻底灭了，每个人都觉得自己严谨又负责，会议纪要的清单上只有“发现潜在风险”这一项被打上了勾。第四格“真正的本事长啥样”：两个人一起小心翼翼地护着火苗，探讨着：“如果这事儿成了，它的规模能有多大？”以及“现在的问题是风太大，咱们想办法把风解决掉吧。”
+
+艰难的保卫战
+
+提出一个想法和毙掉一个想法之间，存在着一种根本性的不对称。提出想法需要想象力、勇气，以及洞察尚未存在之物的能力。而毙掉它，只需要一句话，完全不需要什么想象力。
+
+解释一个想法如何开辟新的细分市场，可能需要整整五分钟；而轻飘飘地说一句“这听起来风险很大”，只需要两秒钟。但在会议桌上，这两句话的分量常常让人感觉是对等的。
+
+再多的批评、反对或风险识别，本身都无法创造任何价值。批评确实能防止犯错，这固然重要，但它的本质是“保守”，而非“创造”。唯一能创造价值的东西，就是想法本身。如果你的日常工作只是不断毙掉别人的点子，那你从未真正创造过价值，你只是在避免损失而已。
+
+这种事情总是遵循一个可预测的套路：第一步，听到一个你还没完全听懂的想法；第二步，找到其中的一个缺陷；第三步，在根本没有探索其潜力的情况下，主观认定这个缺陷掩盖了所有价值；第四步，毙掉这个想法；第五步，走出会议室，心里美滋滋地觉得自己又做出了宝贵的贡献。
+
+篝火旁的批评家
+
+“篝火旁的批评家”并不是非要扑灭你生的火。他们只是双手插兜站在你旁边，冷眼观察着木头很湿、风正在变大，然后顺便告诉你，他们以前也试过这样生火，结果失败了。他们没有恶意，他们说的甚至都是事实。但就在他们高谈阔论的时候，你苦苦呵护的火苗已经熄灭了。
+
+这并不是因为大家懒。这其实是我们大脑的底层硬件决定的（人类在进化过程中为了生存，大脑演化出了一套对潜在危险极度敏感的保护机制）。比如负面偏见 (Negativity bias)、损失厌恶 (Loss aversion)、现状偏见 (Status quo bias)——我们的大脑天生就擅长寻找威胁、过度放大损失，并且抗拒改变。把这些生物学本能放到一个所有人都想表现出“我在做贡献”的会议里，结果可想而知。正如经济学家奥斯坦·古尔斯比（Austan Goolsbee）的父亲所说：“找茬是一份拿最低工资的工作 (Fault-finder is a minimum wage job)。” 这种事，谁都能干。
+
+提案人往往已经为这个想法琢磨了几周甚至几个月。他们在脑海中反复推演过各个环节，甚至可能已经做出了概念验证 (Proof of Concept)。他们对这个想法的认知深度，是表面信息所无法涵盖的。而现在，他们却要努力把这一切，向满屋子第一次听到这个想法的人解释清楚。理解一件事的潜在价值很难，但挑刺却很容易。
+
+于是，讨论的重心自然而然地滑向了那些负面因素。提案人走出会议室，沮丧地觉得是自己没沟通好，但真正的问题其实出在环境结构上。更可怕的是，这种代价会像滚雪球一样积累。一个人的想法如果被无情毙掉一次，下次再想提议时就会犹豫再三。最惨重的损失，从来不是那一个死掉的想法，而是之后那十个连被说出口的机会都没有的潜在创意。
+
+早期的想法总是脆弱的。从定义上讲，它们就是不完整的。在这个阶段去评判它们，就像指着一条毛毛虫，然后断言它是一只“糟糕的蝴蝶”。如果你不理解为什么一个理智、聪明的人会觉得这个想法值得一提，那说明你的了解还不够，根本没资格发表评论。
+
+我们该怎么做？
+
+几十年前，爱德华·德·博诺（Edward de Bono）就在他的六顶思考帽 (Six Thinking Hats) 框架中描述过这个问题。其核心洞察非常简单：乐观思考和批判性思考都有价值，但它们必须分开进行。如果你把两者混在一起，批判性思考永远会赢，因为它的认知成本更低（也就是说，找茬不需要大脑太费力）。我们需要乐观，也需要悲观，只是不能同时进行。
+
+下次当有人提出新想法时，不妨试试这么做：
+
+首先，戴上“黄帽子”：“这事儿要是成了，潜力有多大？” 花点真正的时间去畅想积极的一面。如果这个想法成功了，世界会变成什么样？谁会从中受益？它能解锁什么新机会？
+
+然后，戴上“黑帽子”：“可能会出什么问题？” 只有当你真正理解了它的潜在价值后，再来做压力测试。但是，如果你还是说不出提案人为什么要提出这个想法，那就说明你还没准备好。这时候去反驳，无异于打固定靶，毫无建设性。
+
+最后，权衡利弊：“潜在的收益值得我们承担这些风险吗？” 到这一步，你已经全面考虑了正反两面，可以做出理性的决策了。
+
+除此之外，还需要改变一些工作习惯：
+
+别再把“找茬”当成贡献了。 找出缺陷充其量只能算“半个贡献”。另外半个应该是：“对于这个问题，我们可以这样解决。”如果你指出了问题，却没有提供解决问题的思路，那就不叫贡献。
+
+把担忧转化为“条件”，而不是“判决”。 满怀建设性地说一句“如果我们能解决 X 问题，这事儿就能成”，是非常有用的。而冷冰冰的一句“因为有 X 问题，这事儿根本行不通”，则会直接终结对话。前者表达的是“如果我们能跨过这道坎，我就全力支持”，后者则是直接“砰”地一声关上了大门。
+
+建设永远先于破坏
+毙掉一个想法太容易了。真正困难的，是用心护住那微弱的火苗，给它足够的时间，看看它最终能燃成怎样绚烂的火焰。
+
+原文来源：https://scottlawsonbc.com/post/shooting-down-ideas
+
+---
+
+
+**作者** Joooe｜NodeZ（@0xJoooe）  
+**貼文連結** https://x.com/0xJoooe/status/2041116664402772149  
+
+**正文**
+
+当代大学生把这篇丢给Claude后： 
+
+---
+
+
+**作者** Ian Macomber（@iandmacomber）  
+**貼文連結** https://x.com/iandmacomber/status/2041173406284906646  
+
+**正文**
+
+Build what is necessary and strategic. Buy what is necessary and not strategic. Ignore everything else.
+
+The future is K-shaped. We observe that @tryramp customers with high AI intensity grow revenue ~4x faster. Great vendor selection is critical a critical part of being on the right side of the gap.
+
+Every month, @arakharazian and @tryramp publish the playbook.
+
+---
+
+
+**作者** hoeem（@hooeem）  
+**貼文連結** https://x.com/hooeem/status/2041196025906418094  
+
+**正文**
+
+If you're able to learn how to create an LLM knowledge base then you have essentially created your own "external brain" that you can utilise, on top of that, this could change how you run your
+
+---
+
+
+**作者** Ryan Sarver（@rsarver）  
+**貼文連結** https://x.com/rsarver/status/2041148425366843500  
+
+**正文**
+
+I'm a VC in the middle of a fundraise, sitting on boards, helping portfolio companies, and angel investing on the side. I've worked with great human EAs and chiefs of staff over the years, so I know
+
+---
+
+
+**作者** leon7hao（@leon7hao）  
+**貼文連結** https://x.com/leon7hao/status/2041096178029539723  
+
+**正文**
+
+有高强度使用 paperclip 这种给 agent 创建角色的朋友吗？会真的提升效率吗？
+
+我的理解是如果基模不变，差别只是 prompt，那每经过一个 agent 上下文就会有传递损失，可能还不如一个 agent 自己全干了。
+能想到的好处是人为抽象和控制单个对话的上下文长度？
+
+---
+
+
+**作者** Shlok Khemani（@shloked）  
+**貼文連結** https://x.com/shloked/status/2041190882154782730  
+
+**正文**
+
+Software development has changed fundamentally in the last four months. But there was one this is real, this isn't hype moment that made it all feel undeniable.
+A Coinbase engineer shared that 5% of
+
+---
+
+
+**作者** Kishen Patel（@quichenpatel）  
+**貼文連結** https://x.com/quichenpatel/status/2041151518506627511  
+
+**正文**
+
+Model companies are moving up the stack. Anthropic has grown on the back of Claude Code and competes directly with Cursor. OpenAI bought OpenClaw. Both are forward deploying engineers into enterprises
+
+---
+
+
+**作者** Louis Gleeson（@aigleeson）  
+**貼文連結** https://x.com/aigleeson/status/2041073339616387468  
+
+**正文**
+
+I just discovered an open source AI research agent that does in seconds what takes PhDs hours.
+
+It's called Feynman.
+
+Type a topic. It searches papers, synthesizes findings, verifies every claim against real sources, and hands you a cited research brief.
+
+Not a chatbot. Not a summary tool.
+
+A full multi-agent research system running from your terminal.
+
+Four agents work automatically:
+
+→ Researcher pulls evidence from papers, repos, docs, and the web
+→ Reviewer runs simulated peer review with severity-graded feedback
+→ Writer drafts paper-style outputs from your research notes
+→ Verifier checks every citation and kills dead links
+
+It can also replicate experiments on local or cloud GPUs, audit a paper against its own codebase for claim mismatches, and run recurring research watches on topics you care about.
+
+One install command. Every output source-grounded.
+
+100% Open Source. MIT License.
+
+---
+
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/2041162452155371649  
+
+**正文**
+
+重点是：不要指望靠关注谁学会 AI，还是得自己多练多用。
+就像看会游泳的人在水里游，是永远学不会游泳的，看多了狗刨还会被带歪😂
+
+---
+
+
+**作者** Deedy（@deedydas）  
+**貼文連結** https://x.com/deedydas/status/2041189706910875869  
+
+**正文**
+
+Meta Harnesses is Autoresearch on steroids.
+
+Something I've been exploring recently is to get long running agents to hill climb on a verifiable task to continuously improve without my intervention. Karpathy's Autoresearch did this pretty well on specific tasks, but this weekend I tried Meta Harnesses which moves one level of abstraction up.
+
+What does Meta Harness do?
+Autoresearch can be used in harness like Claude Code / Codex to generate experiments to try, evaluate results, and continue looping. Meta Harness generates a harness itself that optimizes on a task or a set of task. Here, we define a harness as "a single-file Python program that modifies task-specific prompting, retrieval, memory, and orchestration logic". The idea is that LLMs are very powerful today, but to harness [pun intended] their power, you need to give it the right prompts and context. Meta Harnesses automates coming up with the right prompts and the right way to retrieve context to solve a problem.
+
+Where did this idea come from?
+This is from a paper from Stanford and the author of DSPy written last week. The paper shows fantastic performance on 3 tasks: text classification, math reasoning (IMO level problems) and coding (Terminal Bench 2.0), far outperforming traditional harnesses. The discovered harnesses are interesting: math for example, splits up the logic into different categories (Combinatorics, Geometry, Number Theory, Algebra) and prompts and looks at the context differently. The coding harness, amongst other things, pre-processes the tools available in the environment to save exploratory turns.
+
+When should you use and not use it?
+Meta Harnesses seem pretty useful for tackling a specific but wide set of problems where the result is verifiable. In contrast, when I tried it on a specific task like Chess, it arbitrarily divides the problem into separate tasks - opening, mid game, end game, and creates different approaches for each. This "works" but isn't really clean because we believe there should be one approach that does all three. It does far better on things like examinations (JEE, Gaokao) where it splits problems into categories and tackles each category with different strategies.
+
+This paper covers a pretty light version of what a harness means. In the future, we can split up tasks into harnesses that have access to specific kinds of data, specific toolchains and various models to get even better results.
+
+Overall, pretty cool applied AI approach to hillclimb a verifiable task in a specific domain with variety within the problem space.
+
+---
+
+
+**作者** Austin Tedesco（@tedescau）  
+**貼文連結** https://x.com/tedescau/status/2041192747357671784  
+
+**正文**
+
+I've learned more from working at @every for the past five months than I did in the previous five years of my career. It's an incredible place to live at the bleeding edge of AI, and we're hiring for five new roles on the team.
+
+One small example of what's different here: At previous companies, a custom landing page like our new careers home would have taken 3-6 weeks to launch, requiring coordination across multiple teams and contractors. It was slow and frustrating. We built this in a day using Claude Code with the Figma and Notion MCPs, pulling copy and page architecture from our existing codebase, design system, and internal knowledge hubs. While an agent jammed on the page in the background, I kept pushing on bigger growth bets. We did a quick round of reviews and then shipped it in under 24 hours.
+
+A lot more companies will look like @every in the next couple years. Come join us and show people how to build better businesses and live better lives with AI.
+
+---
+
+
+**作者** Jing Wang（@jingwangtalk）  
+**貼文連結** https://x.com/jingwangtalk/status/2040793973648986289  
+
+**正文**
+
+最近在对比使用三大harness skill：
+Superpower: https://github.com/obra/superpowers
+Compound Engineering: https://github.com/EveryInc/compound-engineering-plugin
+Gstack: https://github.com/garrytan/gstack
+
+每个人有不同的喜好和偏向啊，我的感受如下：
+首先，这三个skill本身是在解决同样一个问题，AI Agent在执行任务，尤其是写代码的时候容易跳过规划，质量不稳定，没有一个固定的workflow来限制它。但这三个skill又有不同的思维模型和侧重点：
+
+Superpower：强调流程纪律，每一轮会从spec -> plan -> 拆解任务 -> 执行任务 -> 测试和review -> 提交。优点是流程控制的很好，缺点是小任务时间按这个走很长，需要授权的次数多，消耗token。
+
+CE：强调知识复利，重点是给 AI 装记忆，错过的东西下次不再犯。/ce:compound 会把历史错误给沉淀下来。另外/ce:ideate 可以针对性提出改善建议，并会对优先级排序，筛选掉不重要的improvements。但是我实际的感受是，这些改善点优点不痛不痒。
+
+gstack：最大的亮点是YC的知识和评判标准，对于产品和idea的打磨，让AI对你进行灵魂拷问。更新的版本也支持知识沉淀，未来使用。
+
+我的感觉是，如果是大工程用gstack来进行产品和idea打磨，superpower来执行。
+
+#skill #claudecode
+
+---
+
+
+**作者** Bella（@nazzari）  
+**貼文連結** https://x.com/nazzari/status/2041169739171700879  
+
+**正文**
+
+16 companies, all backed by @a16z!
+The GTM Engineer, the role coined by Clay co-founder @vxanand, is that one engineer that can optimize your revenue systems using AI and outperform an org of
+
+---
+
+
+**作者** Gabe Pereyra（@gabepereyra）  
+**貼文連結** https://x.com/gabepereyra/status/2041167397453758863  
+
+**正文**
+
+Auto-research for legal agents. Great summary from @nikogrupen and team on how we’re optimizing agent harnesses for domain-specific tasks at Harvey.
+
+https://x.com/karpathy/status/2031135152349524125?s=20
+
+---
+
+
+**作者** Adit（@aditabrm）  
+**貼文連結** https://x.com/aditabrm/status/2041186420178801028  
+
+**正文**
+
+Today, we’re setting the new standard for complex document extraction.
+
+Introducing Deep Extract. It utilizes an agent harness approach that repeatedly iterates and verifies outputs until they are at human-level accuracy.
+
+More below: 
+
+---
+
+
+**作者** fox hsiao（@pirrer）  
+**貼文連結** https://x.com/pirrer/status/2041167298778616245  
+
+**正文**
+
+2026 年 2 月，Anthropic 的年化營收（ARR）達到 190 億美元，比 14 個月前的 10 億美元成長了 19 倍。對照組更荒謬：Atlassian、Palantir、Snowflake 這些老牌 B2B 軟體公司，經營 15 到 20 年之後的 ARR 大約落在
+
+---
+
+
+**作者** Akshay 🚀（@akshay_pachaar）  
+**貼文連結** https://x.com/akshay_pachaar/status/2041146899319971922  
+
+**正文**
+
+A deep dive into what Anthropic, OpenAI, Perplexity and LangChain are actually building. Covering the orchestration loop, tools, memory, context management, and everything else that transforms a
+
+---
+
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/2041143031555047780  
+
+**正文**
+
+小龙虾发布重大更新
+
+OpenClaw 2026.4.5 发布，这是一个大版本
+
+主要变化是五个：
+
+- 可以直接生成视频和音乐了
+
+- 推出 "Dreaming"记忆巩固机制，借鉴人类睡眠后的记忆巩固机制，将短期记忆转化为长期忆。
+
+- 抛弃 Claude CLI 作为新用户的默认后端，转向 GPT-5.4
+
+- Prompt cache 命中率优化
+
+- Control UI 和文档新增 12 种语言支持
+
+这是这个版本最有意思的功能。OpenClaw 的记忆系统新增了一个实验性的后台记忆巩固机制，叫 Dreaming。
+
+借鉴人类睡眠的记忆巩固原理，通过 Light / Deep / REM 三个协作阶段，把短期记忆转化为长期记忆。
+
+工作原理是这样的：
+
+系统追踪每次记忆搜索命中的内容，用六个加权信号打分（频率、相关度、查询多样性、时近度、跨天巩固度、概念丰富度），只有同时通过所有阈值门的候选项才会被提升到长期记忆（MEMORY.md）。
+
+这三个阶段不是"三选一"的模式，而是分工协作的流水线。关键规则是：只有 Deep 阶段能写入长期记忆（MEMORY.md），Light 和 REM 只负责提供输入和信号。
+
+---
+
+
+**作者** 李继刚（@lijigang）  
+**貼文連結** https://x.com/lijigang/status/2040749564685324741  
+
+**正文**
+
+之前给笔记手动添加双向链接的维护成本实在太高了， 准备按 karpathy 这套机制跑下看看。 
+
+---
+
+
+**作者** howie.serious（@howie_serious）  
+**貼文連結** https://x.com/howie_serious/status/2041052692588777873  
+
+**正文**
+
+excalidraw 是神器，但是费时费力费脑子。
+
+装上 excalidraw mcp，立享画图自由！ 
+
+---
+
+
+**作者** meng shao（@shao__meng）  
+**貼文連結** https://x.com/shao__meng/status/2040768019010392133  
+
+**正文**
+
+一个 Coding Agent 都包含哪些核心组件？
+
+「Build a Large Language Model From Scratch」作者 @rasbt 也认为：Coding Agent 的架构本质，不在底层的 LLM，而在于 Harness 设计，它主要包含六个核心组件。
+
+1. 实时仓库上下文
+智能体在执行任务前，先收集"稳定事实"作为工作区摘要：Git 仓库状态、当前分支、项目文档（如 AGENTS.md）、文件结构等。这使得"修复测试"这类模糊指令能被正确解读——智能体知道应运行哪个测试命令、查看哪些配置文件。
+
+2. 提示词构建与缓存复用
+编程会话具有高度重复性：智能体规则、工具描述、工作区摘要通常保持不变，变化的是最新用户请求和近期对话历史。"智能"运行时不会每次重建巨型无差别提示词，而是构建稳定的提示前缀（可缓存）与动态会话状态的组合，显著降低推理成本。
+
+3. 结构化工具、验证与权限
+组件涵盖工具的定义、执行、验证和审批流程。包括工具模式定义、路径解析、权限检查（如只读 sandbox）等安全机制。这是确保智能体在受控边界内操作的关键层。
+
+4. 上下文压缩与输出管理
+解决长会话中的上下文窗口约束。采用两种策略：
+· 裁剪：缩短冗长的文档片段、工具输出和记忆笔记
+· 转录压缩：将完整会话历史压缩为小型可提示摘要，近期事件保留更丰富细节，旧事件激进压缩，并去重重复的文件读取
+Raschka 指出，这是被低估的"无聊部分"——许多表面上的"模型质量"问题，实则是上下文质量问题。
+
+5. 会话记录、记忆与恢复
+区分两种状态层：
+· 工作记忆：智能体明确保留的小型蒸馏状态
+· 完整转录：持久的全量记录（用户请求、工具输出、LLM 响应）
+这层解决会话持久化、故障恢复和长期记忆管理问题，支持跨会话的连续性。
+
+6. 任务委派与受限子智能体
+允许智能体生成子智能体处理子任务，但必须在受控边界内。子智能体继承足够上下文以完成实际工作，但受到 tighter constraints（如只读权限、递归深度限制），防止无限生成或资源冲突。Claude Code 长期支持此功能，Codex 也在近期加入。
+
+原文地址：
+https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+
+---
+
+
+**作者** Venkat（@venkatofl）  
+**貼文連結** https://x.com/venkatofl/status/2040686519120515381  
+
+**正文**
+
+We completely revamped http://unosend.co.
+
+Cleaner layout. Faster navigation. Every page rebuilt with a minimal, focused design.
+
+One API. Infinite Emails. Now it also appears visually appealing. 
+
+---
+
+
+**作者** ✧ 𝕀𝔸𝕄𝔸𝕀 ✧（@iamai_eth）  
+**貼文連結** https://x.com/iamai_eth/status/2041025690360012933  
+
+**正文**
+
+B站上那个叫中气爱的up主，会不会已经在polymarket预测市场上赚到不少钱，比当up主接商单的收入还高，看它最近更新频率都少了
+
+---
+
+
+**作者** nash_su - e/acc（@nash_su）  
+**貼文連結** https://x.com/nash_su/status/2041074070956216441  
+
+**正文**
+
+继 Karpathy 大神后，YC 的 CEO @garrytan 也分享了自己的知识管理方法：
+https://gist.github.com/garrytan/49c88e83cf8d7ae95e087426368809cb
+
+Karpathy大神的：
+https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+
+我将各自理论的核心架构、逻辑和概念可视化出来，方便大家看 
+
+---
+
+
+**作者** Bitturing（@Bitturing）  
+**貼文連結** https://x.com/Bitturing/status/2041053312485822554  
+
+**正文**
+
+天涯大神的结论 🌓  
+
+1️⃣ 一个最根本的能力：内核稳定。  
+允许一切发生，专注自己，尊重别人的生活方式。  
+内核稳定的人目标清晰、行动高效；不稳定的人则焦虑、急躁，容易在小挫折里崩溃。 
+
+---
+
+
+**作者** 比特币橙子Trader（@oragnes）  
+**貼文連結** https://x.com/oragnes/status/2041076782355677601  
+
+**正文**
+
+周末必看：斯坦福最新接近 2 小时的AI讲座，讲透了 AI 下半场的落地逻辑。（先收藏，再慢慢看）
+
+🔥 核心瓶颈转移了：AI 工具让写代码变得太容易，现在行业的真正护城河不再是技术本身，而是产品定义和需求洞察。
+
+🔥 Vibe Coding 的隐形代价：用大模型狂暴搓代码确实爽，但随之而来的技术债也是灾难级的。能把想法平稳落地、交付真实商业底线的人，才是目前市场上的稀缺资产。
+
+🔥 别盲从巨头：与其去卷大模型的军备竞赛，不如盯紧「Small AI」和端侧部署，这才是真正解决企业隐私和成本痛点、最好落地的增量洼地。
+
+潮水退去，那些专注于业务基本面的人才能逆势繁荣。
+
+想要原链接的，评论区👇👇👇
+
+---
+
+
+**作者** Ksenia_TuringPost（@TheTuringPost）  
+**貼文連結** https://x.com/TheTuringPost/status/2040936147720048909  
+
+**正文**
+
+Hermes Agent vs. OpenClaw, What's the difference?
+
+1. Skills
+OpenClaw’s skills are written and refined by humans, while Hermes mostly forms them itself.
+
+2. Memory
+Hermes has memory stack with compact persistent memory + searchable session history in SQLite + optional modeling + skills as procedural memory.
+OpenClaw's memory is grounded in Markdown files.
+
+3. Architecture
+Hermes is built around agentic self-improving loop. In OpenClaw, Gateaway is the main control plane.
+
+4. Satefy is what becomes a default in Hermes Agent.
+
+There are also differences in automation (scheduling) mechanisms, identity philosophy and many other aspects.
+
+Here is deeper Hermes vs. OpenClaw analysis, how each part is realized in Hermes Agent and where you better use each of them: https://www.turingpost.com/p/hermes
+Hermes Agent vs. OpenClaw, What's the difference?
+
+1. Skills
+OpenClaw’s skills are written and refined by humans, while Hermes mostly forms them itself.
+
+2. Memory
+Hermes has memory stack with compact persistent memory + searchable session history in SQLite + optional modeling + skills as procedural memory.
+OpenClaw's memory is grounded in Markdown files.
+
+3. Architecture
+Hermes is built around agentic self-improving loop. In OpenClaw, Gateaway is the main control plane.
+
+4. Satefy is what becomes a default in Hermes Agent.
+
+There are also differences in automation (scheduling) mechanisms, identity philosophy and many other aspects.
+
+Here is deeper Hermes vs. OpenClaw analysis, how each part is realized in Hermes Agent and where you better use each of them: https://www.turingpost.com/p/hermes
+Follow @TheTuringPost for more.
+
+Get deep analysis, guides & breakdowns of what AI is about now.
+
+Join 100,000+ readers from top AI labs, VC funds & universities.: http://turingpost.com/subscribe
+
+---
+
+
+**作者** Varun（@varun_mathur）  
+**貼文連結** https://x.com/varun_mathur/status/2040945621855604894  
+
+**正文**
+
+path to agi -> intelligence distributed across tens of millions of devices
+
+---
+
+
+**作者** Venkat（@venkatofl）  
+**貼文連結** https://x.com/venkatofl/status/2040856314293940566  
+
+**正文**
+
+Introducing http://Zevform.com — the agentic form builder with a full API.
+
+Not just drag-and-drop. Build, manage, and automate forms entirely by code.
+
+Unlimited forms. 100+ blocks. 50+ question types. AI generation. Custom domains with free subdomains. Webhooks. Free API. No per-response pricing. No seat limits.
+
+Google Forms is basic. Typeform charges $99/mo for logic jumps. Tally caps your submissions. Youform locks features behind paywalls. We just made them all obsolete.
+
+Your forms. Your code. Your rules.
+
+---
+
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/2041056119183851930  
+
+**正文**
+
+OpenAI Codex 团队的产品规格文档只有 10 个要点。不是说每个功能的文档只有 10 个要点，而是整个产品的 spec 就这么多。设计师写的代码量超过了六个月前工程师写的。50 到 100
+
+---
+
+
+**作者** 向阳乔木（@vista8）  
+**貼文連結** https://x.com/vista8/status/2041067826287677718  
+
+**正文**
+
+那么AI是不是也是一样，目前赚最多是卖GPU的。 
+
+---
+
+
+**作者** Ali Abdaal（@AliAbdaal）  
+**貼文連結** https://x.com/AliAbdaal/status/2041049175455113707  
+
+**正文**
+
+building out the llm second brain inspired by all the @karpathy shenanigans over the past few days 
+
+---
+
+
+**作者** Garry Tan（@garrytan）  
+**貼文連結** https://x.com/garrytan/status/2040797478434549792  
+
+**正文**
+
+My Karpathy-style git wiki knowledge base for OpenClaw got to 2.3GB and I know git limit is 5GB so my GStack autoplan skill one line prompted this spec for my upgraded GBrain with SqlLite. 
+
+This will be MIT license open source soon.
+
+https://gist.github.com/garrytan/49c88e83cf8d7ae95e087426368809cb 
+
+---
+
+
+**作者** 面包🍞（@himself65）  
+**貼文連結** https://x.com/himself65/status/2041039063139160427  
+
+**正文**
+
+更新了一个startup analysis skill，分析创业公司的市场和增长点
+
+https://github.com/himself65/finance-skills https://finance-skills.himself65.com/skills/startup-analysis 
+
+---
+

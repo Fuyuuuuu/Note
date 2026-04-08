@@ -1,217 +1,6 @@
 # Twillot 書籤（精簡）— 第 7/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 1180–1375 則**（共 196 則）
-
----
-
-**作者** Agno（@AgnoAgi）  
-**貼文連結** https://x.com/AgnoAgi/status/2026696006604304611  
-
-**正文**
-
-Agno now includes a built-in scheduler for running agents, teams, and workflows on a recurring basis. Define cron schedules with support for retries, timeouts, and timezone configuration. No external
-
----
-
-**作者** Jonas Nelle（@jonas_nelle）  
-**貼文連結** https://x.com/jonas_nelle/status/2026371395077419393  
-
-**正文**
-
-In personal news, @autotabai has been acquired by @cursor_ai .
-
-@alexirobbins and I have been working on giving Cursor's agent its own computer it can use like a human developer.
-
-Excited to hear what you think!
-
----
-
-**作者** Cognition（@cognition）  
-**貼文連結** https://x.com/cognition/status/2026343816521994339  
-
-**正文**
-
-Introducing Devin 2.2 – the autonomous agent that can test with computer use, self-verify, and auto-fix its work. Try it for free!
-
-We’ve also overhauled Devin from the ground up:
-
-- 3x faster startup
-- fully redesigned interface
-- computer use + virtual desktop
-
-...and hundreds more UX and functionality improvements.
-
----
-
-**作者** Guohao Li 🐫（@guohao_li）  
-**貼文連結** https://x.com/guohao_li/status/2026514081545359482  
-
-**正文**
-
-Claude Cowork is becoming a new WorkOS. We are building a 100% local and open source WorkOS, try Eigent with any models, any skills, and any connectors
-
-https://github.com/eigent-ai/eigent 
-
----
-
-**作者** Tyler Barnes（@tylbar）  
-**貼文連結** https://x.com/tylbar/status/2026399996237820282  
-
-**正文**
-
-🚨 Announcing a new coding agent that rivals Claude Code but with no compaction needed 🚨
-
-The feeling of using it: run your coding sessions forever, don't worry at all, and get shit done!
-
-We're calling it Mastra Code, it's powered by @mastra's new observational memory, and we've been using it internally @mastra to do all our work
-
-1/4 🧵
-
----
-
-**作者** Beni（@ben_issen）  
-**貼文連結** https://x.com/ben_issen/status/2026674546628030834  
-
-**正文**
-
-Name one young product designer getting more offers than @racheljychen. Rachel, you rock. 
-
----
-
-**作者** Tanmay（@tkejr_）  
-**貼文連結** https://x.com/tkejr_/status/2026432354038976671  
-
-**正文**
-
-OpenClaw for businesses.
-
-Launching MakeX
-
-An AI ops team that plugs into your stack.
-Shopify. HubSpot. Stripe. Sheets. 100+ Integrations
-
-It builds dashboards.Automates workflows.Fixes messy ops.
-
-You describe it.It ships. 
-
----
-
-**作者** t54.ai（@t54ai）  
-**貼文連結** https://x.com/t54ai/status/2026713568666648661  
-
-**正文**
-
-AI agents are already moving money — unverified and unaccountable.
-
-Today, we’re announcing our $5M seed round to build the trust layer for the agentic economy.
-
-Led by Anagram, PL Capital, and Franklin Templeton, with strategic investment from Ripple.
-
-http://t54.ai/seed 
-
----
-
-**作者** fredrika（@fredrikalindh）  
-**貼文連結** https://x.com/fredrikalindh/status/2026379400879730794  
-
-**正文**
-
-i joined cursor a month ago to build cloud agents - today we’re launching agents that can test and demo their work
-
-last week i shipped 60 PRs with them
-
-this is how i use them: 
-
----
-
-**作者** Atoms（@atoms_dev）  
-**貼文連結** https://x.com/atoms_dev/status/2026543998970769491  
-
-**正文**
-
-👋Introducing Atoms: the first AI team that builds real businesses. 
-
-Instead of one agent working step-by-step, multiple agents race to build your app simultaneously.
-
-From research to build, launch, and scale, all autonomous. 
-
----
-
-**作者** 歸藏(guizang.ai)（@op7418）  
-**貼文連結** https://x.com/op7418/status/2026592396486782986  
-
-**正文**
-
-过年都在写这个，尝试梳理 2026 年的 Agent 发生了什么变化
-
-我过年写了一篇一万字的文章，如果你最近很焦虑建议看看。
-
-我会尝试告诉你这一个月 AI 领域发生了什么，为什么大家都这么焦虑。这些变化可能会带来什么影响
-
----
-
-**作者** Y Combinator（@ycombinator）  
-**貼文連結** https://x.com/ycombinator/status/2026341356910624956  
-
-**正文**
-
-.@bubblelab_ai supercharges your ops work in Slack. Deploy Pearl in one click, connect it to tools like Notion, Jira, Stripe, and let it run tasks and automations for your team directly in Slack.
-
-Congrats on the launch, @Selinaliyy and @zhubzyz!
-
-https://www.ycombinator.com/launches/PWl-bubble-lab-supercharge-your-ops-work-in-slack 
-
----
-
-**作者** Emily Gavrilenko（@egavrilenko11）  
-**貼文連結** https://x.com/egavrilenko11/status/2026427222958157887  
-
-**正文**
-
-we've just shipped computer use for cloud agents
-
-now, more than half my PRs to http://cursor.com are directly from the web
-
-@kentcdodds and I are hosting a workshop on 2/25 where we'll be going over the latest workflows for building web applications using Cursor 
-
-come join us at https://luma.com/pyi2sdlo?utm_source=x
-
----
-
-**作者** Rohit（@rohit4verse）  
-**貼文連結** https://x.com/rohit4verse/status/2026359771427991764  
-
-**正文**
-
-watched another agentic ai project crash last week. the exact same mistake everyone makes.
-
-over 40% of these projects fail not because of the models, but because of poor architecture.
-
-everyone is building demos. here is the 10-step checklist to actually hit production:
-
-1. boundaries: define your threat models early.
-
-2. contracts: strict schemas for inputs and outputs.
-
-3. security: role-based access and strict sandboxing.
-
-4. context: keep your context windows layered and compact.
-
-5. knowledge: treat grounding as a governed tool, not a free-for-all.
-
-6. control: use planning and orchestration as your control flow.
-
-7. state: build memory directly into the architecture.
-
-8. reliability: design native retry and error-handling loops.
-
-9. observability: track everything with traces, metrics, and logs.
-
-10. governance: set up safety gates and drift detection.
-
-which of these 10 pillars do you find the hardest to get right?
-
-(deep dive into the architecture in the article)
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 1201–1401 則**（共 201 則）
 
 ---
 
@@ -3654,3 +3443,246 @@ Palantir AIP provides an end-to-end agentic architecture.
 
 ---
 
+**作者** Stijn Noorman（@stijnnoorman）  
+**貼文連結** https://x.com/stijnnoorman/status/2024151293216833817  
+
+**正文**
+
+Everyone gets the same 24 hours.
+Yet some achieve far more.
+Even if they have the same goals and resources.
+And some even get much more done by doing significantly less.
+In this article, I'm going to
+
+---
+
+**作者** Charity Majors（@mipsytipsy）  
+**貼文連結** https://x.com/mipsytipsy/status/2023935962376790247  
+
+**正文**
+
+This post is terrific, and it is such a great example of the type of AI discourse that drives me UP THE FUCKING WALL.
+
+You have NEVER been able to know what the code will do by reading the code. You have ALWAYS needed to ask your instrumentation to understand your code in production.
+
+---
+
+**作者** Alex Immerman（@aleximm）  
+**貼文連結** https://x.com/aleximm/status/2024192012560585086  
+
+**正文**
+
+Vertical software isn't dead. 
+
+General purpose AI tools are incredible, but they don't know, can't know, and will likely never know how to solve the last mile because that's not their job. 
+
+Process engineering ftw. 
+
+Excellent read @gsivulka @hebbia. 
+
+---
+
+**作者** Zach Wilson（@EcZachly）  
+**貼文連結** https://x.com/EcZachly/status/2023842672033538241  
+
+**正文**
+
+Given the success of the data-engineer-handbook, we’ve released a brand new open source GitHub repo called the ai-engineer-handbook!
+
+This repo has all the projects, newsletters, and creators you need to follow to stay up to date in AI!
+
+If there’s anything missing, please open a pull request and we will review it! Let’s crowd source this material together to stay up to date!
+
+Link: https://lnkd.in/gVkWyCp9
+
+Make sure to join our free vibe coding challenge on February 21st and 22nd. We will be building a full fledged SaaS product: http://learn.dataexpert.io
+
+---
+
+**作者** Shubham Saboo（@Saboo_Shubham_）  
+**貼文連結** https://x.com/Saboo_Shubham_/status/2024173597443707149  
+
+**正文**
+
+Every PM and engineer on my timeline is suddenly talking about taste and judgement.
+
+These are the ONLY SKILLS that mater in 2026 
+
+---
+
+**作者** Karry | Vibing ...（@karry_viber）  
+**貼文連結** https://x.com/karry_viber/status/2024302387780079966  
+
+**正文**
+
+前几天玉伯老师发了一条帖子，17 万人看了：
+ 
+评论区炸了。但他后来补了一条，很多人没注意到：
+ 
+我想接着这句话往下聊。
+因为我就是那个转变了的产品经理。
+ 
+
+我确实不是产品经理了
+先交代背景。
+我是 Claude
+
+---
+
+**作者** Bilgin Ibryam（@bibryam）  
+**貼文連結** https://x.com/bibryam/status/2024418178307379684  
+
+**正文**
+
+The Learning Loop and LLMs
+https://martinfowler.com/articles/llm-learning-loop.html
+
+---
+
+**作者** Lucas Crespo 📧（@lucas__crespo）  
+**貼文連結** https://x.com/lucas__crespo/status/2024335893436457354  
+
+**正文**
+
+I'm obsessed with @mercury's new landing page 
+
+---
+
+**作者** Soleio（@soleio）  
+**貼文連結** https://x.com/soleio/status/2024134303513452556  
+
+**正文**
+
+First of Kind: The @ryolu_ interview
+
+What is the future of design in a post-AI world? 
+
+Ryo Lu pioneered new patterns for collaboration as Notion’s founding designer. He now leads design at @cursor_ai where he shapes new ways to build software. 
+
+---
+
+**作者** Adit（@aditabrm）  
+**貼文連結** https://x.com/aditabrm/status/2024212611827687704  
+
+**正文**
+
+A few months ago we announced our $75M Series B for Reducto, just 5 months after announcing our $24.5M Series A and <18 months after finishing the YC W24 batch.
+I originally wrote this article
+
+---
+
+**作者** ben（@contraben）  
+**貼文連結** https://x.com/contraben/status/2024182864506761617  
+
+**正文**
+
+Introducing Contra Payments.
+
+The first payments platform that lets you sell to AI Agents.
+
+RT + Comment “Contra” and I’ll send you 100 products AI agents are looking for. 
+
+---
+
+**作者** Davide Pacilio（@DavidePacilio）  
+**貼文連結** https://x.com/DavidePacilio/status/2024082770897563710  
+
+**正文**
+
+2026 is the year of serif fonts 
+
+---
+
+**作者** Ryan Carson（@ryancarson）  
+**貼文連結** https://x.com/ryancarson/status/2024103388204400820  
+
+**正文**
+
+Wow, I guess 1.1 million of you found this useful. 
+
+Thank you. 
+
+The age of the Code Factory is here.
+
+---
+
+**作者** Nikunj Kothari（@nikunj）  
+**貼文連結** https://x.com/nikunj/status/2024156716410015902  
+
+**正文**
+
+Incredible wake up call masqueraded in an X article from the indomitable @clairevo.. 
+
+If you’re a CEO, please read this and start now. 
+
+Don’t hire a Chief AI officer and call it done - you’re a dead company walking just buying more time. This needs to start with you!
+
+---
+
+**作者** Nicolas Bustamante（@nicbstme）  
+**貼文連結** https://x.com/nicbstme/status/2024224036222619874  
+
+**正文**
+
+FYI friends, I never wrote that SaaS is dead. I explained that LLMs are eroding some moats while reinforcing others.Interface lock-in, custom workflows, and “we make public data searchable” are getting commoditized.
+
+Proprietary data, regulatory lock-in, network effects, and transaction rails are getting stronger.
+
+This isn’t SaaS dying. It’s just a repricing of which moats actually matter in an agent-first world.
+
+---
+
+**作者** Emmett（@emmettshine）  
+**貼文連結** https://x.com/emmettshine/status/2024113482623258907  
+
+**正文**
+
+The New Workflow
+Yesterday, Figma introduced Claude Code integration, where code flows to Figma and back again in a continuous loop. This is important because the loop works both ways; your team
+
+---
+
+**作者** Wayne Sutton（@waynesutton）  
+**貼文連結** https://x.com/waynesutton/status/2024391051847618750  
+
+**正文**
+
+Did someone say skills knowledge graphs? 
+
+Closing this thing before I mess around and prompt Ultron. 
+
+---
+
+**作者** 数字游民Jarod（@jarodise）  
+**貼文連結** https://x.com/jarodise/status/2024289602958454943  
+
+**正文**
+
+《财富》杂志近日报道了一位来自美国密西西比州的22 岁的辍学黑人小哥Adavia Davis，他通过全 AI 制作“无人出镜”油管内容，实现了每月 4 到 6 万美元的营收。
+
+他手下运营着多个油管频道，内容涉及历史、游戏、动物，恶搞，动漫。
+
+其中最赚钱的一个是专门制作长达 6 小时、助眠类历史内容的“Boring History”。
+
+他的商业模式主打全自动化，核心是利用 TubeGen 软件将 Claude 的剧本创作、ElevenLabs 的英式配音以及后期剪辑彻底打通。由于每个生产环节都能自动流转，整个内容创作过程几乎不再需要人工介入，实现了极高的运营效率。
+
+他单条视频的制作成本仅约 60 美元，月运营开支控制在 6500 美元左右，利润率高达 85% 以上。
+
+目前，他的频道网络每日播放量达 200 万次，年收入约 70 万美元。
+
+🤯
+
+---
+
+**作者** Ben Dicken（@BenjDicken）  
+**貼文連結** https://x.com/BenjDicken/status/2024126450602066201  
+
+**正文**
+
+Sharding is how you scale databases.
+
+In yesterday's stream we took a detour into when to use sharding and how it works.
+
+Hint: do this instead of using 50 read replicas. 
+
+---

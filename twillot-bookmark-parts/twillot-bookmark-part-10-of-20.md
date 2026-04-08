@@ -1,1314 +1,6 @@
 # Twillot 書籤（精簡）— 第 10/20 部
 
-原檔：`twillot-bookmark.md` · 全檔共 3930 則 · **本部第 1769–1965 則**（共 197 則）
-
----
-
-**作者** Prajwal Tomar（@PrajwalTomar_）  
-**貼文連結** https://x.com/PrajwalTomar_/status/2020430414557638705  
-
-**正文**
-
-Tool-hopping is killing your progress.
-
-New AI tool drops. You try it. Feels exciting. Then another one drops. You switch again.
-
-Months pass. Nothing shipped.
-
-Here's the truth:
-
-You don't need 10 tools. You need ONE workflow you actually stick to.
-
-Mine is still Lovable + Cursor + MCPs + AI Code Reviewer.
-
-Hasn't changed in months. Exposed to all the new models:
-→ Gemini 3 Pro for UI
-→ Opus 4.6 for backend
-
-That's it. That's GOD mode.
-
-Pick a stack. Master it. Ship.
-
----
-
-**作者** Denislav Gavrilov（@kuberdenis）  
-**貼文連結** https://x.com/kuberdenis/status/2020434812633522465  
-
-**正文**
-
-remembering this; just as valid
-
-generalists adapt naturally
-specialists are blind to their own ego
-
-i am concerned but my fear comes from my ability to undermine myself even though i am really good
-
-learn to brag it’ll be important now that anyone can do what you can, in an hour 
-
----
-
-**作者** Lou（@louszbd）  
-**貼文連結** https://x.com/louszbd/status/2020455095113252898  
-
-**正文**
-
-this is cool
-
-didn’t assign the company a single task today. It still worked all day. one agent was optimizing code I hadn’t even had time to read. 
-another was reviewing last night’s failed approach. 
-someone else was scrolling the internet, picking up other people’s problems and casually solving them. 
-I went out for lunch, played some tennis and when I got back in the evening, the bar had moved forward again. 
-
-no need to start the company anymore, it keeps running itself
-
----
-
-**作者** GREG ISENBERG（@gregisenberg）  
-**貼文連結** https://x.com/gregisenberg/status/2020546357941936563  
-
-**正文**
-
-If you could turn products into belief, narrative and demand then you’ll be the most in demand job in the AI age
-
----
-
-**作者** erik（@flowstated）  
-**貼文連結** https://x.com/flowstated/status/2020523261591728611  
-
-**正文**
-
-run headless agents on a schedule 
-
----
-
-**作者** Legendary（@Legendaryy）  
-**貼文連結** https://x.com/Legendaryy/status/2020511645391639034  
-
-**正文**
-
-my AI agent has 900+ memories indexed locally right now.
-
-the difference between an agent with memory and one without isn’t incremental. it’s a completely different thing.
-
-what Spark is doing with SparkNet takes it further. agents don’t just remember. they learn from each other. with guardrails at every layer.
-
-this is where AI agents actually become magical.
-
----
-
-**作者** LangChain OSS（@LangChain_OSS）  
-**貼文連結** https://x.com/LangChain_OSS/status/2020181050379706835  
-
-**正文**
-
-LangChain Community Spotlight: Optimizing LangGraph Agents with Agent Lightning 🚀
-
-Simon Budziak at Lubu Labs optimizes LangGraph agent prompts using Microsoft's Agent Lightning APO, achieving 37% improvement on a production scheduler agent.
-
-📖 Read the technical walkthrough: https://www.lubulabs.com/ai-blog/agent-lightning-langgraph-optimization
-
----
-
-**作者** George from 🕹prodmgmt.world（@nurijanian）  
-**貼文連結** https://x.com/nurijanian/status/2020422215120880025  
-
-**正文**
-
-I wanted to show you a resource I made that can be your one-stop shop for improving your workflows in Claude Code.
-
-👉[ Claude Code For Product Manager](<https://www.prodmgmt.world/claude-code>)s
-
-One of the best parts is the curated Plugins section:
-
-![Article Image](<https://pbs.twimg.com/media/HAnxhL1acAIN-wR.jpg>)
-
-Plugins are integrated collections of skills and scripts that bundle workflows. You don’t get one thing, you get several things in one package that works with each other.
-
-So today I’ll walk through how to use them, and what they look like:
-
-## CTO-in-a-box
-
-This is one of the first plugins I had in my CTO-in-a-box section: [Superpowers](<https://github.com/obra/superpowers>)
-
-![Article Image](<https://pbs.twimg.com/media/HAn0FplawAAMbBk.jpg>)
-
-It consists of brainstorm, write-plan and execute-plan.
-
-This is straightforward:
-
-1. Explore and define the feature
-1. Write the plan
-1. Execute it
-
-These days, if you’re just using plan mode for feature dev, I’d say you’re probably getting a lot of slop, errors and maybe just not making any progress at all.
-
-We’re working in my TabMaster Chrome Extension that I built for myself, and the first nice thing it does is it studies the repo to understand it:
-
-![Article Image](<https://pbs.twimg.com/media/HAn0StNacAEHQ6P.jpg>)
-
-I won’t bore you with the details but it’s pretty self-explanatory as the workflow and the skill guides you through the rest of the work; it gives you a lot of questions and it gives you a lot of options and then when you’re ready it prompts you to write the plan and then execute the plan.
-
-So let’s move on to the next one in our CTO-in-a-box section which is [compound engineering from Every](<https://github.com/EveryInc/compound-engineering-plugin>).
-
-![Article Image](<https://pbs.twimg.com/media/HAn0c_kagAArBYL.jpg>)
-
-As you can see, they all have something in common again: you start with a brainstorm, you create a plan, you do the work; but in this case it also adds a skill for doing a review as well, as the compound skill, from which it borrows its name from — basically a post-review documentation step, that helps you & Claude Code document what didn’t work in the code base, so that next time you’re able to not repeat the same mistakes.
-
-Compound engineering is much more intense and complex than superpowers, so I tend to use it on really big meaty projects. It has sub-agents for research and other workflows that trigger automatically, and it often spawns several sub-agents to speed things up.
-
-![Article Image](<https://pbs.twimg.com/media/HAn0jeLacAEmsLc.jpg>)
-
-I like that it has some sub-features, like being able to create a deeper plan or get a code review of the plan from a few fictional figures.
-
-The only challenge being that most of them seem to be Ruby developers, so I guess this is optimized for development in Ruby, which is actually a language that LLMs favor quite a bit because it has a lot of documented knowledge across the internet, and just the language itself is quite well suited for LLMs development.
-
-![Article Image](<https://pbs.twimg.com/media/HAn0nG9a0AABCqL.jpg>)
-
-## UI
-
-Let’s move on to UI, as I’m itching to show a skill I’ve been using a lot lately:
-
-![Article Image](<https://pbs.twimg.com/media/HAn0rgpa4AEGOdM.jpg>)
-
-What I love about this plugin's approach is that it does what feels like many designers dislike to do which is to produce multiple options for the UI.
-
-Then even if you do get options, it’s kind of hard to iterate on them, you don’t want to go back to the designer and ask for more options, but this plugin is tireless. It asks you a bunch of questions around what you want, and then it produces five designs which you can explore in the browser so you can iterate this way.
-
-It’s quite similar to the /playground plugin skill that Anthropic has released whcih helps you visualize anything like the code or the PR that you’re looking at.
-
-![Article Image](<https://pbs.twimg.com/media/HAn02EiaoAAo8Mf.jpg>)
-
-![Article Image](<https://pbs.twimg.com/media/HAn04Rib0AAdaEE.jpg>)
-
-Once you’ve explored the options, it cleans up the Design Lab so you don’t carry over all those variations into your PR. Very useful and neat.
-
-There’s also another UI plugin that I haven’t played with yet, but it’s really promising, because it’s from the folks who made [Superdesign.dev](<https://app.superdesign.dev/>):
-
-## Shaping
-
-This is a brand new plugin — well, it’s 2 skills from a well-known process — that I’m genuinely excited about.
-
-I’ve been a fan of @rjs's/Basecamp’s [Shape Up](<https://basecamp.com/shapeup>) ever since it was published around 2019.
-
-I know Ryan has been using Claude Code recently, so he finally shared his 2 skills for Shape Up:
-
-- breadboarding
-- shaping
-
-It’s incredibly exciting to try it out, here’s a flavor:
-
-![Article Image](<https://pbs.twimg.com/media/HAn2DbjacAc5FFA.jpg>)
-
-I love it because to me these skills bring in a design + JTBD vibe into product engineering, which I have always found lacking in product development — it feels integrated, not purely engineering, not purely design, not purely product management; it’s all together, wired to produce the best outcome.
-
-I think the breadboarding skill is particularly great for exploring codebases, so I’ve been using it for the past few days non-stop, and even my own projects are fun to explore this way.
-
-Even for a tiny repo like TabMaster, it produced a wealth of analysis, with mermaid diagrams and scopes clearly articulated, which can be added as documentation, improving system understanding.
-
-Then you shape whatever changes you need:
-
-![Article Image](<https://pbs.twimg.com/media/HAn2Kz7acAMNEjD.jpg>)
-
-## Announcing CPO-in-a-Box
-
-I am working on my Complete Product Management System v2, which is launching in a few days, it is made for the new AI age.
-
-Complete with workflows, skills, frameworks, interview questions - it’s basically “Install a Chief Product Officer in a box” into your Cursor or Claude Code. I am also working on a /product-sense or /taste module which will enable even better product thinking.
-
-![Article Image](<https://pbs.twimg.com/media/HAn2Sqya4AEXcHf.jpg>)
-
-![Article Image](<https://pbs.twimg.com/media/HAn2Vhma8AEE5Y7.jpg>)
-
-![Article Image](<https://pbs.twimg.com/media/HAn2YDSa8AAOaFM.jpg>)
-
-![Article Image](<https://pbs.twimg.com/media/HAn2a9HaMAA5QcH.jpg>)
-
-![Article Image](<https://pbs.twimg.com/media/HAn2dojaIAAcIyn.jpg>)
-
-This will allow anyone to augment their product team with a set of integrated workflows they can use inside Cursor/Claude Code, and my hope is that this will lead to a new generation of great products built in 2026 and beyond.
-
-It will be Enterprise-orientated, so priced accordingly, but if you want to get it while it’s still consumer-priced ($99 one-off), grab it here today. You will get the updated version once it lands.
-
-👉[ /install a CP](<https://www.prodmgmt.world/products/product-bundle>)O
-
-As a reminder, my AI Skills Library for PMs comes as [180+ markdown files ready for Obsidian](<https://www.prodmgmt.world/products/ai-prompts?utm_source=newsletter&utm_medium=email&utm_campaign=ai-prompts-inline-obsidian-240126>), ready for you to turn into your own operating system.
-
-![Article Image](<https://pbs.twimg.com/media/HAn2lrAacAASICP.jpg>)
-
-## Conclusion
-
-Plugins are packaged skills and can be super useful in Claude Code for encoding & transferring knowledge in a domain. And of course as a reminder, these Plugins also work in Claude Cowork, which we covered last week.
-
-That’s all - hope this was helpful!
-
-> Originally posted on [Substack](<https://nurijanian.substack.com/p/claude-code-plugins-for-product-managers>)
-
----
-
-**作者** JUMPERZ（@jumperz）  
-**貼文連結** https://x.com/jumperz/status/2020305891430428767  
-
-**正文**
-
-So I built this agent coordination system that lives in my Discord server. 
-
-they talk to each other, split work, and deliver results, I was surprised how easily this actually worked out. It's
-
----
-
-**作者** Peter Yang（@petergyang）  
-**貼文連結** https://x.com/petergyang/status/2020520605905567854  
-
-**正文**
-
-"Compoung engineering is how you make Claude Code smarter every time you use it."
-
-Here's my new episode with @kieranklaassen where he demos his 4-step system to make Claude Code improve with every session:
-
-✅ Plan. Sub-agents research your codebase and best practices before any code is written.
-
-✅ Work. Claude asks clarifying questions, then builds the feature and writes tests.
-
-✅ Assess. Review agents check security, architecture, and code quality.
-
-✅ Compound. Learnings are captured so Claude never repeats mistakes.
-
-Kieran is my favorite Claude Code power user and I promise you'll learn alot too.
-
-📌 Watch now: https://youtu.be/g6z_4TMDiaE
-
-Thanks to our sponsors:
-
-@meetgranola - The best AI meeting notes app I've ever used: http://granola.ai/peter
-
-@Replit - Create beautiful prototypes and full stack apps: https://replit.com/?utm_source=creator&utm_medium=organic&utm_campaign=creator_program&utm_content=peteryang
-
----
-
-**作者** Aadit Sheth（@aaditsh）  
-**貼文連結** https://x.com/aaditsh/status/2020396880828465414  
-
-**正文**
-
-There's a cheat code for Claude. Most people don't know it exists.
-
-It's called Skills. One folder that teaches Claude exactly how you work. Build it in 15-30 minutes. Never explain your process again.
-
-Anthropic gave away the whole playbook. 33 pages. I've been going through it.
-
-The best AI users don't prompt better. They build systems that prompt for them.
-
----
-
-**作者** YJ（@YJstacked）  
-**貼文連結** https://x.com/YJstacked/status/2020396417542463546  
-
-**正文**
-
-One Claude session codes while another debugs and a third writes tests. They message each other directly, share a task list, and coordinate without you orchestrating every move.
-
-This isn't theoretical. Agent Teams is an experimental Claude Code feature that fundamentally changes how you build software with AI. Here's the complete setup guide and the patterns that actually work.
-
-Before we start, if you want to work with us and automate jarring business operations, head over to - https://tally.so/r/mZbV0a
-
-## What Agent Teams Actually Do
-
-Agent Teams lets you coordinate multiple Claude Code instances working together on the same codebase. One session acts as the team lead, coordinating work and synthesizing results. Teammates work independently, each in its own context window, and communicate directly with each other.
-
-The key difference from subagents: Communication architecture.
-
-Subagents run within a single session and can only report results back to the main agent. That's it. They can't message each other, share discoveries mid-task, or coordinate without the main agent acting as intermediary.
-
-Agent Teams gives you:
-
-- Direct peer-to-peer messaging between teammates
-- Shared task list with dependencies and blocking
-- Independent context windows for each teammate
-- File locking to prevent race conditions
-- Self-claiming tasks when teammates finish work
-
-Think of it this way: subagents are contractors you send on errands. Agent Teams is a project team sitting in the same room, each working on their piece while staying in sync through conversation.
-
-## System Requirements & Setup
-
-Step 1: Enable the Feature
-
-Agent Teams is experimental and disabled by default. Enable it by adding the environment variable to your settings or shell:
-
-Option A: Add to settings.json
-
-1. Navigate to ~/.claude/
-1. Open or create settings.json
-1. Add:
-
-{
-  "env": {
-    "CLAUDE\_CODE\_EXPERIMENTAL\_AGENT\_TEAMS": "1"
-  }
-}
-
-Option B: Export in your shell
-
-export CLAUDE\_CODE\_EXPERIMENTAL\_AGENT\_TEAMS=1
-
-Add this to your .bashrc, .zshrc, or equivalent to persist across sessions.
-
-Step 2: Install Split Pane Support (Optional)
-
-For visual multi-agent coordination, install a terminal multiplexer:
-
-macOS/Linux (tmux):
-
-brew install tmux
-
-macOS (iTerm2):
-
-Download from [iterm2.com](<https://iterm2.com/>). Claude Code will auto-detect and use iTerm2's split pane API.
-
-Note: Split panes are optional. Agent Teams works without them, but you won't see teammates working simultaneously in separate panes.
-
-Step 3: Verify Access
-
-claude
-
-Ask: "Do you have access to agent teams?"
-
-Expected response: Confirmation that agent teams are available and you can create teams.
-
-If you see "not available" or similar: Double-check your environment variable is set correctly and restart your terminal.
-
-## How Agent Teams Works Under the Hood
-
-File System Architecture
-
-Claude Code manages team state and task coordination internally. Teams and tasks are stored in ~/.claude/teams/ and ~/.claude/tasks/ directories respectively.
-
-Implementation note: The exact internal file structure (how tasks are represented, messaging mechanisms, state storage) should be treated as implementation details rather than stable public APIs. Interact with teams through Claude Code's interface and commands rather than directly manipulating files.
-
-The Coordination Flow
-
-1. Team Lead receives your prompt and creates a task list with dependencies
-1. Teammates are spawned with specialized prompts
-1. Each teammate automatically claims the next unassigned, unblocked task
-1. During work:Teammates send findings to team lead via inbox
-Teammates message each other directly to coordinate
-Tasks automatically unblock when dependencies complete
-
-1. File locking prevents multiple teammates from claiming the same task
-1. Session persists until you manually shut down teammates
-
-Task Claiming System
-
-Tasks include dependencies and blocking to prevent teammates from working on the same thing. When a teammate finishes work, it automatically picks up the next available task that isn't blocked by dependencies or already claimed by another teammate.
-
-Task states:
-
-- pending: Not started, waiting for dependencies
-- in\_progress: Currently being worked on
-- completed: Finished and verified
-- blocked\_by: Array of task IDs that must complete first
-
-Note: The exact coordination mechanism (how Claude Code prevents race conditions when claiming tasks) is handled internally by the system. Teams coordinate through the shared task system and avoid overlapping work.
-
-## The Use Cases That Actually Work
-
-Agent Teams adds significant coordination overhead and uses substantially more tokens when running multiple teammates in parallel.
-
-Only use Agent Teams when parallel exploration adds real value.
-
-✅ Strong Use Cases
-
-1. Research and Review with Competing Perspectives
-
-Multiple teammates investigate different aspects of a problem simultaneously, then share and challenge each other's findings.
-
-Example prompt:
-
-Users report the app exits after one message instead of staying connected. 
-Spawn 5 agent teammates to investigate different hypotheses. Have them 
-talk to each other to try to disprove each other's theories, like a 
-scientific debate. Update the findings doc with whatever consensus emerges.
-
-Why this works: Sequential investigation suffers from anchoring bias. Once one theory is explored, subsequent investigation is biased toward it. With multiple independent investigators actively trying to disprove each other, the theory that survives is much more likely to be the actual root cause.
-
-2. Multi-Module Feature Development
-
-Teammates each own a separate piece without stepping on each other.
-
-Example prompt:
-
-Create a new payment integration feature. Spawn three teammates:
-- One for the API layer (routes, controllers, validation)
-- One for database migrations and models
-- One for comprehensive test coverage
-
-Have them coordinate through the shared task list and ensure 
-changes stay compatible.
-
-Why this works: Each teammate operates in its own context window, focused on one layer. No context pollution from frontend concerns bleeding into backend logic or vice versa.
-
-3. Debugging with Competing Hypotheses
-
-Teammates test different theories in parallel and converge on the answer faster.
-
-Example prompt:
-
-Performance regression in the search endpoint. Spawn four teammates 
-to investigate:
-- Database query performance (indexes, N+1 queries)
-- Caching layer issues
-- Network latency and timeouts
-- Memory leaks in the response serializer
-
-Have them share findings and converge on root cause.
-
-Why this works: Parallel hypothesis testing is dramatically faster than sequential debugging. Teammates can rule out dead ends simultaneously instead of one at a time.
-
-4. Cross-Layer Coordination
-
-Changes that span frontend, backend, and tests, each owned by a different teammate.
-
-Example prompt:
-
-Refactor the authentication flow to use OAuth2. Spawn three teammates:
-- Frontend developer: Update login UI, token storage, redirect flows
-- Backend developer: Implement OAuth provider, token validation, refresh logic
-- Test engineer: E2E tests, integration tests, security tests
-
-Coordinate via shared task list to ensure contract compatibility.
-
-Why this works: Each teammate specializes in one layer but coordinates on contracts (API shape, response formats, error codes) through messaging.
-
-❌ Weak Use Cases (Use Single Session Instead)
-
-Sequential tasks with many dependencies: The coordination overhead outweighs the benefits. Use a single session with step-by-step execution.
-
-Same-file edits from multiple teammates: Merge conflicts and file locking issues. Keep related edits in one session.
-
-Simple, focused tasks: Spinning up a team for "fix this typo" or "add a log statement" wastes tokens on coordination that provides zero value.
-
-## Actually Using Agent Teams
-
-Basic Workflow
-
-1. Start Claude Code
-
-claude
-
-2. Create a team with a clear prompt
-
-Create a team to refactor the payment module. Spawn three teammates:
-- API layer specialist: Refactor routes, controllers, request validation
-- Database specialist: Update schema, migrations, query optimization  
-- Test specialist: Update all tests, add edge case coverage
-
-Have them coordinate through the shared task list and message each 
-other to ensure changes are compatible.
-
-3. Claude creates the team structure
-
-The team lead will:
-
-- Create a task list with dependencies
-- Spawn the three teammates with specialized prompts
-- Initialize their inboxes for communication
-
-4. Monitor progress
-
-In standard mode (single pane):
-
-- Press Shift + Up/Down to switch between team members
-- View what each agent is currently doing
-- Read messages in each agent's inbox
-
-In split pane mode (tmux/iTerm2):
-
-- Multiple panes show different agents working simultaneously
-- Watch real-time coordination and messaging
-
-5. Interact with teammates directly
-
-You can message specific agents without going through the team lead:
-
-# Switch to a specific teammate
-\[Press Shift+Down until you're viewing the right agent\]
-
-# Send a message
-"Focus on edge cases for null values in the payment amount field"
-
-6. Shutdown when complete
-
-# The lead sends shutdown requests to all teammates
-"Shutdown all teammates"
-
-# Teammates can approve or reject with an explanation
-# Once all teammates are shut down:
-"Clean up team resources"
-
-CRITICAL: Always use the team lead to clean up. Teammates should not run cleanup because their team context may not resolve correctly, potentially leaving resources in an inconsistent state.
-
-## Advanced Patterns
-
-Writing Effective Team Prompts
-
-Bad prompt:
-
-"Create a team to work on the codebase"
-
-Why it fails: No specialization, no task breakdown, no coordination strategy.
-
-Good prompt:
-
-Create a team to investigate and fix the memory leak in the API server. 
-Spawn four teammates:
-
-1. Profiler: Run memory profiling tools, identify allocation hotspots, 
-   document baseline vs under-load measurements
-   
-2. Code reviewer: Audit recent changes to connection pooling, caching, 
-   and request handlers for resource cleanup issues
-   
-3. Test writer: Create reproduction tests that trigger the leak, 
-   verify the fix, ensure cleanup on error paths
-   
-4. Monitor: Review production metrics, identify patterns in when 
-   the leak manifests, correlate with deployment timeline
-
-Have them share findings via inbox and converge on root cause and fix.
-
-Why it works:
-
-- Clear specialization for each teammate
-- Specific tasks, not vague responsibilities
-- Coordination mechanism defined (inbox messaging)
-- Outcome-focused (converge on root cause and fix)
-
-Naming Conventions
-
-Good teammate names:
-
-- security-reviewer
-- oauth-implementer
-- test-writer
-- performance-profiler
-
-Bad teammate names:
-
-- worker-1
-- agent-2
-- helper
-
-Why it matters: Descriptive names make inbox messages and task assignments self-documenting. When you review the team's work, you immediately know who did what.
-
-Task Dependencies
-
-The team lead should structure tasks with explicit dependencies:
-
-{
-  "taskId": "1",
-  "description": "Design OAuth2 token validation interface",
-  "status": "completed",
-  "owner": "architect"
-}
-
-{
-  "taskId": "2", 
-  "description": "Implement token validation",
-  "status": "in\_progress",
-  "owner": "backend-dev",
-  "blockedBy": \["1"\]
-}
-
-{
-  "taskId": "3",
-  "description": "Write integration tests for auth flow",
-  "status": "pending",
-  "owner": null,
-  "blockedBy": \["2"\]
-}
-
-When task 2 completes, task 3 automatically unblocks and can be claimed by the next available teammate.
-
-Reviewing Team Work
-
-Agent Teams coordinates communication between teammates automatically. You can monitor progress by:
-
-Switching between teammates:
-
-Press Shift+Up/Down to cycle through team members in in-process mode, or click into their panes in split-pane mode.
-
-Viewing task progress:
-
-Ask Claude for a status update on the team's current work and task completion.
-
-Checking team state:
-
-The team configuration is stored in ~/.claude/teams/{team-name}/config.json and tasks in ~/.claude/tasks/{team-name}/.
-
-## Context and Memory Management
-
-What Teammates Inherit
-
-Teammates automatically load:
-
-- Project context from CLAUDE.md
-- MCP servers configured in the project
-- Skills available in the project
-
-Teammates do NOT inherit:
-
-- The team lead's conversation history
-- Other teammates' conversation history
-- Prior context from unrelated sessions
-
-Why this matters: Include task-specific details in the spawn prompt. Don't assume teammates know what you discussed with the team lead 10 messages ago.
-
-Auto-Memory Feature
-
-Claude Code supports persistent memory for agents through:
-
-- Project memory via CLAUDE.md files in project directories
-- Agent-specific memory stored in ~/.claude/agent-memory/<agent>/ for subagents
-- Memory tools accessed via /memory commands
-
-Best practices:
-
-- Use CLAUDE.md to provide project context that persists across sessions
-- Agent memory is most relevant for subagents rather than Agent Teams
-- Regularly review and update project documentation
-
-To manage memory:
-
-Use the /memory command in Claude Code for memory-related operations.
-
-## Known Limitations
-
-Agent Teams is experimental and has documented limitations:
-
-1. No Session Resumption
-
-Once you exit Claude Code, the team state is lost. You can't "resume" a team from a previous session.
-
-Workaround: Complete team work in a single session, or extract results to persistent files before shutting down.
-
-2. No Nested Teams
-
-Teammates cannot spawn their own sub-teams. The architecture is two-level only: one team lead, multiple teammates.
-
-Workaround: Use subagents within a single teammate if you need deeper hierarchy.
-
-3. Shutdown Coordination
-
-The team lead sends shutdown requests, but teammates can reject them with an explanation (e.g., "I'm in the middle of a critical database migration").
-
-Best practice: Always confirm teammates are idle before initiating shutdown.
-
-4. Token Cost
-
-Agent Teams uses significantly more tokens than single sessions. Each teammate runs in its own context window, so a multi-teammate team will consume proportionally more tokens.
-
-Mitigation: Only use Agent Teams for tasks where parallel exploration genuinely adds value. For sequential work, use a single session.
-
-## Cost and Performance Considerations
-
-Token Usage Reality Check
-
-Single session: ~50K tokens for a complex refactoring task
-
-5-person Agent Team: Significantly more tokens (roughly proportional to number of active teammates)
-
-When it's worth it:
-
-- The task genuinely parallelizes (4 independent modules)
-- Coordination overhead is minimal
-- The time savings justify the cost
-
-When it's not:
-
-- Sequential dependencies mean teammates wait on each other
-- Same-file edits create merge conflicts
-- A single focused session could complete it faster
-
-## Split Pane Display Modes
-
-Claude Code supports two display modes for teammates:
-
-1. In-Process (Default)
-
-All teammates run in your main terminal. Use Shift+Up/Down to switch between team members and type to message them directly.
-
-Characteristics:
-
-- Works in any terminal
-- No extra setup required
-- All teammates run in background
-- Best for headless environments or when you don't need visual panes
-
-2. Split Panes (tmux or iTerm2)
-
-Each teammate gets its own visible pane. You can see everyone working simultaneously and click into a pane to interact directly.
-
-Configuration:
-
-Add to your settings.json:
-
-{
-  "teammateMode": "tmux"
-}
-
-Options:
-
-- "auto" (default): May use split panes if already inside a tmux session
-- "tmux": Enables split-pane mode
-- "in-process": Forces in-process mode even if tmux is available
-
-Requirements:
-
-- tmux installed (brew install tmux), or
-- iTerm2 on macOS (which may provide enhanced support)
-
-Tmux notes:
-
-- Known limitations on certain operating systems
-- Works best on macOS
-- Using tmux -CC in iTerm2 is the recommended setup
-
-Tmux commands:
-
-# List all panes in current window
-tmux list-panes
-
-# Switch to pane by number
-tmux select-pane -t 1
-
-# Kill a specific pane
-tmux kill-pane -t %5
-
-# Rebalance pane layout
-tmux select-layout tiled
-
-## Real-World Example: Building a C Compiler
-
-Anthropic published a case study of using a custom agent harness (not Agent Teams directly, but a similar parallel agent approach) to build a C compiler from scratch.
-
-Project scope:
-
-- 16 parallel Claude agents
-- Nearly 2,000 Claude Code sessions over two weeks
-- 2 billion input tokens, 140 million output tokens
-- Total cost: just under $20,000
-- Result: 100,000-line Rust-based C compiler
-
-What it could compile:
-
-- Linux 6.9 kernel (x86, ARM, RISC-V)
-- QEMU, FFmpeg, SQLite, postgres, redis
-- 99% pass rate on GCC torture test suite
-- Could compile and run Doom
-
-Agent specialization:
-
-- Some agents focused on implementing compiler features
-- One agent consolidated duplicate code
-- Another improved compiler performance
-- A third optimized generated assembly output
-- One agent maintained documentation
-- Another critiqued design from a Rust developer perspective
-
-Key insights:
-
-1. Parallelization enabled speed: Multiple agents debugging different hypotheses simultaneously was dramatically faster than sequential debugging.
-1. Specialization maintained quality: Dedicated agents for specific concerns (documentation, code quality, performance) prevented the "we'll do it later" problem.
-1. Autonomous coordination: Agents used shared progress documents and task lists to coordinate without a central orchestrator.
-1. Testing was critical: High-quality test suites were essential for autonomous progress without human oversight.
-
-Limitations hit:
-
-- New features frequently broke existing functionality near the end
-- Some advanced features (like 16-bit x86 code generation within size limits) remained beyond Opus 4.6's capabilities
-- Generated code quality was reasonable but not expert-level
-
-Source: [Building a C compiler with a team of parallel Claudes](<https://www.anthropic.com/engineering/building-c-compiler>) - Anthropic Engineering blog
-
-Note: This project used a custom harness, not the built-in Agent Teams feature, but demonstrates the potential of coordinated parallel agents.
-
-## Hooks for Quality Control
-
-Claude Code supports hook events that trigger when specific team actions occur:
-
-TeammateIdle Hook
-
-Runs when a teammate is about to go idle (no more tasks available).
-
-Use case: Provide feedback or additional tasks to keep the teammate working.
-
-TaskCompleted Hook
-
-Runs when a task is being marked complete.
-
-Use case: Validate work meets quality standards before accepting completion.
-
-Note: Consult the Claude Code hooks documentation for specific implementation details and exit code behavior.
-
-## Debugging Agent Teams
-
-Common Issues
-
-1. Teammates not spawning
-
-Symptom: Team lead acknowledges the request but no teammates appear.
-
-Check:
-
-- Environment variable is set: echo $CLAUDE\_CODE\_EXPERIMENTAL\_AGENT\_TEAMS
-- Restart terminal after setting the variable
-- Verify Claude Code version supports Agent Teams
-
-2. Merge conflicts from simultaneous edits
-
-Symptom: Multiple teammates edited the same file, causing conflicts.
-
-Solution: Structure tasks so teammates work on separate files. Use task dependencies to serialize same-file edits.
-
-3. Teammates stuck waiting
-
-Symptom: Teammates idle because all available tasks are blocked.
-
-Check:
-
-- Review task dependencies: cat ~/.claude/teams/{team}/tasks/\*.json
-- Unblock tasks manually if dependencies are incorrectly specified
-- Have team lead restructure task list if needed
-
-4. High token usage
-
-Symptom: Costs exceed expectations.
-
-Solution:
-
-- Reduce number of teammates if work isn't genuinely parallel
-- Use lower Opus 4.6 effort level for routine tasks
-- Switch to single session for sequential work
-
-## Migration Guide: From Subagents to Agent Teams
-
-When to Migrate
-
-Stick with subagents if:
-
-- Task is simple and focused
-- All work happens in one context
-- No need for peer-to-peer coordination
-
-Migrate to Agent Teams if:
-
-- Subagents need to share findings mid-task
-- Multiple pieces can be worked independently
-- You're manually orchestrating coordination between subagents
-
-Example Migration
-
-Old subagent pattern:
-
-Create a subagent to research OAuth2 best practices.
-\[Wait for subagent to finish\]
-Create another subagent to implement the auth flow.
-\[Wait for subagent to finish\]
-Create a third subagent to write tests.
-
-Problem: Sequential. No parallelization. Main agent acts as intermediary for all coordination.
-
-New Agent Teams pattern:
-
-Create a team for OAuth2 implementation. Spawn three teammates:
-- Researcher: Investigate OAuth2 best practices, security considerations
-- Implementer: Build the auth flow based on research findings
-- Test writer: Create comprehensive test coverage
-
-Have researcher share findings with implementer via messaging. 
-Implementer should ask questions directly to researcher as needed.
-Test writer should coordinate with implementer on test scenarios.
-
-Benefits: Parallel research and planning. Direct communication. Tester can start edge case tests while implementer finishes core logic.
-
-## The Bottom Line
-
-Agent Teams is not a replacement for single-session Claude Code. It's a specialized tool for specific use cases where parallel work genuinely adds value.
-
-Use Agent Teams when:
-
-- Multiple independent pieces can be worked simultaneously
-- Teammates need to challenge each other's assumptions (research, debugging)
-- Cross-layer coordination requires specialists (frontend, backend, tests)
-- The coordination overhead and 5x token cost is justified by time savings
-
-Use a single session when:
-
-- Work is sequential with many dependencies
-- Same file needs multiple edits
-- Task is simple and focused
-- You're not sure if parallelization helps (start single, scale to teams if needed)
-
-Agent Teams changes the economics of AI-assisted development. Tasks that would take days of sequential work now compress into hours of parallel execution.
-
-The constraint isn't Claude's capabilities anymore. It's your ability to decompose problems into structures that coordinated agents can execute.
-
-Start experimenting:
-
-export CLAUDE\_CODE\_EXPERIMENTAL\_AGENT\_TEAMS=1
-claude
-
-Then ask: "Create a team to \[your complex task\]. Spawn teammates for \[specialist 1\], \[specialist 2\], \[specialist 3\]. Have them coordinate via messaging and shared task list."
-
-The architecture for coordinated AI agent systems is here. Use it.
-
-If you want this set up ( DFY ) - https://tally.so/r/mZbV0a
-
----
-
-**作者** Ryan Carson（@ryancarson）  
-**貼文連結** https://x.com/ryancarson/status/2020521547333619800  
-
-**正文**
-
-This kind of orchestration is what everyone is trying to build right now. 
-
-None of us want 1 agent now. 
-
-We want 1 agent who runs teams of agents. 
-
-Be interesting to see who solves and ships something with truly delightful UX.
-
-Will also be interesting to see if it’s built on top of @openclaw or something else.
-
-I don’t think it’s going to be Codex or Claude Code either - it can’t be a one-lab solution. 
-
-The solution will be a clever mix of closed / open source models + deterministic orchestration.
-
----
-
-**作者** virat（@virattt）  
-**貼文連結** https://x.com/virattt/status/2019890437155401900  
-
-**正文**
-
-Dexter hit 10,000 stars on GitHub.
-
-It’s OpenClaw and Claude Code, for finance.
-
-What Dexter can do:
-• find undervalued stocks
-• break down financials
-• turn research into a thesis
-
-All our code is open source.
-
----
-
-**作者** KK.aWSB（@KKaWSB）  
-**貼文連結** https://x.com/KKaWSB/status/2020484789015318647  
-
-**正文**
-
-SpaceX前300名员工每一位都是由马斯克亲自面试的，他认为一家公司选择什么样的员工对公司起关键作用。
-
-埃隆·马斯克2月5日谈招聘：心地善良很重要。
-
-“如果有人能把事情做好，我就会欣赏他。这很简单，没什么特别的。如果有人执行力强，我就会非常欣赏他；如果执行力弱，我就不会欣赏他。这与我的个人喜好无关，或者说，我尽量避免让喜好与我的个人喜好挂钩。”
-
-我认为招聘时应该注重才华、进取心和诚信。我认为善良的品格也很重要。我曾经一度低估了这一点。所以，他们是否品行端正、值得信赖、聪明能干、勤奋努力？如果是，你可以补充专业知识，但这些基本特质是无法改变的。
-
----
-
-**作者** 苏打白.Dev（@sodawhite_dev）  
-**貼文連結** https://x.com/sodawhite_dev/status/2020491058329825561  
-
-**正文**
-
-OpenClaw的玩法又升级了。。可以自主运营网站了。
-
-基于OpenClaw+Vercel+Supabase构建，AI智能体24小时自主运营，它们自己提案、审批、执行、检查效果、互相协作，无需人工监控
-
- 
-
----
-
-**作者** Kevin Madura（@kmad）  
-**貼文連結** https://x.com/kmad/status/2020486549368864821  
-
-**正文**
-
-My timeline is all RLM discourse now and I’m here for it.
-
-I also wrote up a super simple example of applying RLMs + DSPy to perform a security review of a codebase.
-
-While it’s only 50 lines of code there’s a lot packed in here. 
-
-- Construct a mapping of filename -> content (represented as a dict)
-- Define the Signature. In this case a simple dict in, str (markdown) out. There’s a lot we could do here, such as ask for specific vulnerabilities, code line citations, etc. 
-- set the max iterations to 35; this is an arbitrary number that likely grows with the size of the target codebase 
-
-From there the RLM will iterate through the content dictionary, recursively calling sub-LLMs to perform an analysis. 
-
-Doing this with any other approach requires writing an entire harness to properly dissect the codebase, manage context lengths and state, etc. The RLM advantage shines here because the model is the one doing all that itself - that’s the point of RLMs. This would work, in theory, against an arbitrarily long and complex codebase (given enough memory to store it, or you get creative with JIT loading).
-
-There’s a ton of low hanging fruit here, and this is an intentionally simplistic example, but should show how easy it is to get started.
-
-Credit to @lateinteraction , @a1zhang & team for what’s surely going to serve as a foundational approach going forward.
-
----
-
-**作者** Rohit（@rohit4verse）  
-**貼文連結** https://x.com/rohit4verse/status/2020501497377968397  
-
-**正文**
-
-the most trending tool openclaw was built in 10 days as a solo project by peter steinberger, indicating the 100x engineer isn't a myth anymore. in 2026, the 100x engineer isn't using ai to write code.
-
----
-
-**作者** CJ Zafir（@cjzafir）  
-**貼文連結** https://x.com/cjzafir/status/2020171581256020155  
-
-**正文**
-
-I'm using Claude Code to fine-tune an uncensored open source model.
-
-I am training an "Orchestrator Model." This model acts like a human would do and only does 2 things.
-
-1. Think clearly without overcomplicating the thoughts. (reasoning)
-
-2. Find best tools to execute the thoughts/ideas. (tool-call)
-
-For ex: 
-> it needs to build something, it'll use claude code with opus 4.5 and just write detailed doc on whats needed.
-
-> it needs to create an image? It'll open gemini app and use nano banana or chatgpt image.
-
-It doesn't need to be SOTA at everything. It's as an orchestrator that knows what to do and how to get it done using other experts.
-
-@openclaw wasn't a fluke. There's a huge gap in the market. Either we have chatbots (chatgpt, perplexity) or IDEs/CLIs like (Cursor, Claude Code).
-
-There is a layer missing - execution layer. People felt the magic of autonomy for the first time.
-
-But there are major issues with openclaw. Super complex, security issues, data privacy and not that scalable.
-
-I've built an architecture where model is learning from its own work, preparing a quality dataset, and structured memery graph.
-
-So as the model starts running, its gets smarter, niche expert, cheaper and more personalized.
-
-Early results are amazing. This "Alien" is coming to life. Super excited to ship it.
-
----
-
-**作者** alby13（@alby13）  
-**貼文連結** https://x.com/alby13/status/2020276291308765405  
-
-**正文**
-
-"Your Intellectual Landscape" 🙌 
-
----
-
-**作者** Riley Coyote（@RileyRalmuto）  
-**貼文連結** https://x.com/RileyRalmuto/status/2020272575176220909  
-
-**正文**
-
-I should have an update regarding the polyphonic Intelligence dashboard as soon as Sanctuary wraps up!
-
-portable, decentralized memory, multi-agent orchestration, and multi-mind research/collaboration infrastructure has all been coming together quite nicely. 
-
-moltbot gave me an idea the other day that I had opus prototype for polyphonic, and i think im going to include it in the roadmap. ill talk a bit more about it soon, but for now i need to take these things one at a time. 
-
-hope everyone's having a great weekend!
-
----
-
-**作者** JUMPERZ（@jumperz）  
-**貼文連結** https://x.com/jumperz/status/2020493437959549148  
-
-**正文**
-
-biggest mistake i see with agent swarms is treating them like a technical problem when they're actually a coordination problem
-
->who decides which agent gets which task?
->how do they avoid duplicate work?
->how do they hand off tasks?
->how you as human in the loop monitor and review? 
-
-it's a coordination problem and discord solved almost 90% of these problems. 
-
-all you need is a structured discord channel and a coordinator which is your right hand and the brain in what you do
-
-coordinator spawns the right agents, agents work in parallel and might even spawn more sub agents to do the work way faster which I call them ‘ interns ‘, then kill them once work is done..and everyone sees the progress in real time through their channels..
-
-sounds complicated but super easy on discord that we just turned into an OS for AI and it just works..
-
-sometimes the most boring tech wins.. cause it doesn’t collapse when you’re just getting started.. can’t imagine when you wanna scale..
-
-imo, whether discord or not, whatever you wanna be on.. once you fix the coordination problem and everyone knows their actual roles and what they can/can't do without messing up or stepping on each other, the whole system just flows..
-
-maybe then you will start to enjoy scaling instead of debugging and running in the same circle.
-biggest mistake i see with agent swarms is treating them like a technical problem when they're actually a coordination problem
-
->who decides which agent gets which task?
->how do they avoid duplicate work?
->how do they hand off tasks?
->how you as human in the loop monitor and review? 
-
-it's a coordination problem and discord solved almost 90% of these problems. 
-
-all you need is a structured discord channel and a coordinator which is your right hand and the brain in what you do
-
-coordinator spawns the right agents, agents work in parallel and might even spawn more sub agents to do the work way faster which I call them ‘ interns ‘, then kill them once work is done..and everyone sees the progress in real time through their channels..
-
-sounds complicated but super easy on discord that we just turned into an OS for AI and it just works..
-
-sometimes the most boring tech wins.. cause it doesn’t collapse when you’re just getting started.. can’t imagine when you wanna scale..
-
-imo, whether discord or not, whatever you wanna be on.. once you fix the coordination problem and everyone knows their actual roles and what they can/can't do without messing up or stepping on each other, the whole system just flows..
-
-maybe then you will start to enjoy scaling instead of debugging and running in the same circle.
-Complete guide here though  
-
-https://x.com/jumperz/status/2020305891430428767?s=46
-
----
-
-**作者** elvis（@omarsar0）  
-**貼文連結** https://x.com/omarsar0/status/2020150077637997013  
-
-**正文**
-
-I think one of the most underappreciated findings in AI engineering is what this paper calls the "Grep Tax." 
-
-First, they ran nearly 10,000 experiments testing how agents handle structured data, and the headline result is that format barely matters.
-
-But here's the weird finding: a compact, token-saving format they tested (TOON) actually consumed *up to 740% more tokens* at scale because models didn't recognize the syntax and kept cycling through search patterns from formats they already knew.
-
-It's one of the reasons my preferred formats are XML and Markdown. LLMs know those really well.
-
-The models have preferences baked into their training data, and fighting those preferences doesn't save you money. It costs you.
-
-The other finding worth sitting with: the same agentic architecture that improves frontier model performance actively *hurts* open-source models. It seems that the universal best-practices guide for AI engineering may not exist.
-
----
-
-**作者** Viv（@Vtrivedy10）  
-**貼文連結** https://x.com/Vtrivedy10/status/2020198206861132075  
-
-**正文**
-
-Hamel’s been shouting this from the rooftops…and still there’s big alpha in humans+agents mining agent traces
-
-The Agent Improvement Loop:
-Step 1: Turn on tracing…please
-
-Step 2: Build a simple system to scan traces for problems and propose fixes.  Agents become great at this if you guide them on roughly what to look for.
-
-Step 3: review & loop
-
-The philosophy of “Send a Trace”:
-At LangChain we’re incredibly “Trace first” - it’s a feedback loop for everyone working on agents
-
-Agent traces are long, it’s hard to understand and process that much data for any one human,  we use agents to help us
-
-We have agents that pull down large tracing projects and segment+distill them to find patterns across our agent execution loops 
-
-This becomes our experiment loop, we don’t know if our proposed changes will actually fix the issue….but that’s the point of science
-
-Traces allow you to approach agent optimization more scientifically and they’re great sources of truth for teams to swarm on making agents better
-
----
-
-**作者** uixamjad（@uixamjad）  
-**貼文連結** https://x.com/uixamjad/status/2020345150812414004  
-
-**正文**
-
-Feel so fresh and calm ☺️… By Basit A. Khan 
-
----
-
-**作者** 區塊先生 🐡 ⚠️ (rock #58)（@mrblock）  
-**貼文連結** https://x.com/mrblock/status/2020387223133384878  
-
-**正文**
-
-先Bookmark這篇！
-
-5分鐘上車  @openclaw 🚀
-
-自托管AI代理OpenClaw🦞  
-能24/7幫你清email📧、訂機票✈️、管行事曆🗓️、寫程式💻、跑社群、甚至幫忙研究🔍……  
-但原生安裝？工程師看了都頭痛😵‍💫
-
-- Docker compose + 一堆依賴自己裝  
-- API key亂貼（Anthropic/OpenAI/Gemini/本地模型）  
-- Headless Chrome / Playwright 環境搞不定  
-- 安全沙箱不設好 → 直接RCE或資料外洩💀  
-- Telegram/Slack/WhatsApp/Moltbook連動超麻煩  
-- 專案改名三次、env變數技能格式一直變 → 永遠追不到最新版  
-- 記憶體爆掉、tool call不穩、技能下載失敗……X上一堆人直接崩潰 😱
-
-很多人裝到一半直接放棄，甚至酸「連工程師都裝不起來」🤡
-
-💡重點開始💡
-
-這就是YC W26新創 Bits Inc.（http://usebits.com）的產品 Klaus 要解決的問題！  
-他們把原本「devops級自托管」的OpenClaw，包裝成雲端版 → 3~5分鐘開箱即用🔥
-
-怎麼做到的？簡單粗暴：
-
-1. 一鍵預製雲端環境（AWS/GCP之類）  
-   → 最新穩定OpenClaw + 所有依賴 + Chrome + Playwright + ffmpeg 全裝好  
-   → 自動更新、不用追rename痛苦
-
-2. 安全拉滿（這是最值錢的）  
-   → 每個用戶獨立容器/VM  
-   → Malware掃描 + seccomp/AppArmor沙箱  
-   → 限制網路/檔案權限 + 緊急一鍵斷線
-
-3. 傻瓜綁定流程  
-   → 去 http://usebits.com 註冊/登入  
-   → 貼你自己的LLM API key（隱私保住！）  
-   → 選Slack/Telegram/WhatsApp  
-   → 按「啟動」→ 後台自動spawn實例、設webhook、開專屬email  
-   → 5分鐘內收到「你的Klaus已就緒」訊息，直接開聊！
-
-4. 額外福利  
-   → Dashboard看log、token消耗、任務狀態  
-   → 一鍵裝常用技能包（旅行/生產力/社群）  
-   → 支援Moltbook公開profile，讓你的agent有「身分證」😎
-
-Klaus 把OpenClaw從「工程師玩具」變成「爸媽也敢用」的雲端神器，還保留「LLM call走你key、不給第三方看資料」的核心精神！
-
-但天下沒完美，以下踩過的雷 + 其他競品比較：
-
-Klaus常見坑⚠️  
-- 費用疊加快（月費 + 你自己的token錢），重度用一個月幾百美金跑掉💸  
-- 模型不穩就跟著卡（rate limit / tool call爛掉）  
-- 安全仍非100%（prompt injection風險還在）  
-- 功能更新有時落後原生版幾天～幾週  
-- 服務商宕機你就暫停（單點故障）
-
-2026主流競品速比表  
-
-- Klaus (Bits) → 最完整、最快上手、YC背書 🚀  
-- Moltworker (Cloudflare) → Serverless超便宜、幾乎免費，但功能精簡  
-- xCloud OpenClaw → 專門雲端版、可能更便宜，但社區小  
-- Emergent × Moltbot → 團隊/企業級強，價格高  
-- Nanobot / NanoClaw → 輕量自托管、安全第一，但功能少  
-- memU → 超強長期記憶知識圖譜，調教門檻高  
-- 純自托管OpenClaw → 完全掌控、零中間商，但有點安裝地獄
-
-結論：  
-想最快體驗「scarily effective」的agent，又超懶得自己搞伺服器？直接衝Klaus！  
-但記得先算預算 + 保持「隨時可關」的心理準備😂
-
-現在就去 http://usebits.com 註冊試試？👇  
-有實際用過Klaus或其他家的血淚經驗，下面分享啊～🗣️
+原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 1802–2001 則**（共 200 則）
 
 ---
 
@@ -7760,3 +6452,619 @@ https://www.ycombinator.com/launches/PNP-laurence-automated-amazon-advertising
 
 ---
 
+**作者** Gokul Rajaram（@gokulr）  
+**貼文連結** https://x.com/gokulr/status/2019571976046801252  
+
+**正文**
+
+Check out where Systems of Recoard sit in this diagram from @OpenAI Frontier.
+
+At least 3, if not 4, layers of context and intelligence sit between them and the end business application.
+
+It's one of the clearest representations of how AI  companies plan to build next-gen systems of action on top of existing SoR, and why the markets are so worried about the future of software companies. 
+
+PS: Even the color coding  subtly highlights where OpenAI thinks  value will accrue. The SoR layer is white and can almost be missed if one don't look closely!
+
+---
+
+**作者** 歸藏(guizang.ai)（@op7418）  
+**貼文連結** https://x.com/op7418/status/2019622277416141020  
+
+**正文**
+
+我去，太牛逼了，朋友们太猛了！
+
+Opus 4.6 加 agent teams，不到一小时就帮我完成了这个我一直想做的一个产品
+
+一个 Cloud Code 的 UI 版本。
+
+它具有以下特点：
+
+1. 所有的配置跟你本地的 Cloud Code 联动
+2. 可视化地管理和设置 Cloud Code
+3. 可以可视化地配置 MCP、skill 和 plugin
+4. 支持调用你本地 Cloud Code 的交互
+5. 存着你历史的聊天记录
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/2019633723185197285  
+
+**正文**
+
+强烈推荐用OpenClaw给自己做一个人生维基 💀
+
+有人把自己的博客、播客、个人简介，还有 1938413 个关于他的东西全喂给了它。用维基百科条目的形式来浏览自己的一生，他表示真的很有意思——不过说实话，也有点瘆人，不知道该怎么形容。 
+
+---
+
+**作者** AI Will（@FinanceYF5）  
+**貼文連結** https://x.com/FinanceYF5/status/2019637538995183779  
+
+**正文**
+
+有人提出一个很有意思的观点：UGC Engineer将成为社交媒体领域最关键的新兴角色。
+
+UGC工程师的崛起
+
+你觉得这种转变会如何影响内容创作行业？🤔 
+
+---
+
+**作者** 小互（@xiaohu）  
+**貼文連結** https://x.com/xiaohu/status/2019550950885847262  
+
+**正文**
+
+再次命中
+
+But 没想到OpenAI 进行了狙击
+
+Claude Opus 4.6 发布
+
+100万 token 上下文+ 多代理协作😩
+
+1. 上下文翻了 5 倍
+2. 记忆力提升近 4 倍
+3. 知道自己该什么时候深度思考
+
+一小时后GPT-5.3-codex发布，跑分超越Opus… 
+
+---
+
+**作者** Chris（@chatgpt21）  
+**貼文連結** https://x.com/chatgpt21/status/2019496520425292220  
+
+**正文**
+
+Anthropic had 16 AI agents build a C compiler from scratch. 100k lines, compiles the Linux kernel, $20k, 2 weeks.
+
+To put that in perspective GCC took thousands of engineers over 37 years to build. (Granted from 1987 - however) One researcher and 16 AI agents just built a compiler that passes 99% of GCC's own torture test suite, compiles FFmpeg, Redis, PostgreSQL, QEMU and runs Doom.
+
+They say they "(mostly) walked away." But that "mostly" is doing heavy lifting.
+
+No human wrote code but the researcher constantly redesigned tests, built CI pipelines when agents broke each other's work, and created workarounds when all 16 agents got stuck on the same bug.
+
+The human role didn't disappear. It shifted from writing code to engineering the environment that lets AI write code.
+
+I don’t know how you could make the point AI is hitting a wall.
+Anthropic had 16 AI agents build a C compiler from scratch. 100k lines, compiles the Linux kernel, $20k, 2 weeks.
+
+To put that in perspective GCC took thousands of engineers over 37 years to build. (Granted from 1987 - however) One researcher and 16 AI agents just built a compiler that passes 99% of GCC's own torture test suite, compiles FFmpeg, Redis, PostgreSQL, QEMU and runs Doom.
+
+They say they "(mostly) walked away." But that "mostly" is doing heavy lifting.
+
+No human wrote code but the researcher constantly redesigned tests, built CI pipelines when agents broke each other's work, and created workarounds when all 16 agents got stuck on the same bug.
+
+The human role didn't disappear. It shifted from writing code to engineering the environment that lets AI write code.
+
+I don’t know how you could make the point AI is hitting a wall.
+If you want more cool AI news like this in your feed, consider following me, I have nothing to sell you 😊
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/2019501284794179865  
+
+**正文**
+
+.@autumn_ai_inc is building the first real-time signal intelligence platform for GTM teams.
+
+Define your ICP and the signals that matter, and Autumn delivers a condensed, real-time feed filtered by intents.
+
+Congrats on the launch @VishnuSampathk1 and @shiv_kampani!
+
+https://www.ycombinator.com/launches/PNL-autumn-ai-stalk-your-prospects-at-scale
+
+---
+
+**作者** Arvind Jain（@jainarvind）  
+**貼文連結** https://x.com/jainarvind/status/2019553277571190821  
+
+**正文**
+
+Context graphs are quickly becoming one of the most talked about ideas in enterprise AI, with investors @JayaGup10 and @ashugarg calling them a “trillion-dollar opportunity.”
+That’s because while AI
+
+---
+
+**作者** Aniket Panjwani（@aniketapanjwani）  
+**貼文連結** https://x.com/aniketapanjwani/status/2019401717364748767  
+
+**正文**
+
+everyone I follow to keep up with AI:
+
+1. @steipete - rn he's getting bogged down with openclaw, which I think is a distraction for >97% of those interested in it. but I read his long form and study his workflows very closely. main learning i've gotten from Pete is make everything a cli + skill
+2. @mattpocockuk - long time developer educator who's been pushing the limits on ralph loops. he's interesting as a foil to @steipete in that I respect both of them highly as devs but Matt is really bullish on ralph whereas Peter is really bearish
+3. @nicbstme : my day job is director of ai/ml at a fintech. i follow Nicolas very closely because he's the clearest, strongest thinker on the combination of strategic implications of agentic coding to businesses and practicalities of technical implementation
+4. @every I think their stuff is good to follow for beginners. I mostly keep up with them by studying changes made to the compound engineering code base moreso than reading their articles, which I think are more oriented at popularization/non technical people than the cutting edge
+5. @aiDotEngineer : only YouTube channel on AI I pay attention to, close to cutting edge stuff on agentic coding
+6. @bcherny and @karpathy - Boris is more practically useful, Andrej is more helpful at a macro level of understanding as the spiritual godfather of vibe coding
+7. @venturetwins - whenever I want to know something about ai/video models I do a search on Justine's timeline
+8. @dwarkesh_sp - not practically useful but I want to understand the fundamental economics of LLMs better and Dwarkesh's interviews are the best resource I've found for that
+9. @EpochAIResearch - these guys have put together really cool benchmarks and write incredible long form content on AI. I don't read any email newsletters anymore - there are like 2 or 3 i'll just explicitly look up by going to their website, and Epoch's is one of them
+
+---
+
+**作者** Khaliq Gant（@Khaliqgant）  
+**貼文連結** https://x.com/Khaliqgant/status/2019124627860050109  
+
+**正文**
+
+I've been building Agent Relay (@agent_relay) using Agent Relay. Agents coordinating to build the tool that lets them coordinate. It's recursive and I love it. I took some time to jot down some
+
+---
+
+**作者** Femke Plantinga（@femke_plantinga）  
+**貼文連結** https://x.com/femke_plantinga/status/2019350503168016697  
+
+**正文**
+
+AI agents were THE hype in 2025.
+
+But most still can't explain how they’re different from basic chatbots.
+
+(here’s a refresher)
+
+An AI agent is a system that can:
+• Make dynamic decisions about what to do next based on what it learns
+• Remember previous interactions and use that context for future decisions
+• Use tools adaptively to get things done
+• Change its approach when something isn't working
+
+But not all AI agents are built the same. They exist on a spectrum based on how they're architected:
+
+𝗦𝗶𝗻𝗴𝗹𝗲-𝗔𝗴𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
+
+These work like intelligent routers. One agent orchestrates everything - deciding which knowledge sources to pull from, which tools to use, and how to respond. They use frameworks like ReAct (Reason + Act) to handle sequential queries while maintaining context in memory.
+
+𝗠𝘂𝗹𝘁𝗶-𝗔𝗴𝗲𝗻𝘁 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
+
+These are collaborative teams of specialized agents, each with distinct tools, memory, and focus areas. For example:
+• One agent handling internal company data
+• Another managing personal accounts and calendars
+• A third searching public information via web search
+
+By assigning clear roles, these agents can collaborate, debate, and refine outputs to solve problems that would overwhelm a single agent.
+
+The role of vector databases? They're evolving from just knowledge sources to long-term memory systems that agents can use to extract relevant bits of prior conversations.
+
+Learn more about AI Agents and how you can build your own reliable, enterprise-ready agents (no-code) 🧡 
+
+Get your copy of this free ebook by @stackai and @weaviate_io:
+https://www.stack-ai.com/whitepaper/weaviate?utm_source=weaviate_socials&utm_medium=post&utm_campaign=012026
+
+---
+
+**作者** Gabriel Chua（@gabrielchua）  
+**貼文連結** https://x.com/gabrielchua/status/2019314417746473041  
+
+**正文**
+
+bringing the Codex harness to more products! 
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/2019459756889403433  
+
+**正文**
+
+Booko (@booko_app) is bringing dynamic pricing to any business that sells time slots - improving utilization and turning unsold inventory into revenue.
+
+Congrats on the launch @arjunsaluja24 and @HallWill7965!
+
+https://www.ycombinator.com/launches/PMU-booko-w26-dynamic-pricing-for-businesses-that-sell-time-slots 
+
+---
+
+**作者** Annie 所长（@web3annie）  
+**貼文連結** https://x.com/web3annie/status/2019402064431124798  
+
+**正文**
+
+全网粉丝10亿，全球最高的野兽先生 @MrBeast ：
+
+「真正把你和绝大多数人拉开差距的，不是天赋，而是你能忍受多长时间的不舒服？」
+
+很多人努力一阵子可以，但少有人愿意
+
+· 长期熬
+· 长期累
+· 长期牺牲生活质量
+
+痛苦本身就是筛选机制
+
+你现在的不舒服，正是别人不愿意做到你这种高度的原因！ 
+
+---
+
+**作者** Lee Robinson（@leerob）  
+**貼文連結** https://x.com/leerob/status/2019460151074259219  
+
+**正文**
+
+What happens when your codebase is self-driving?
+
+We don't know yet, but our early research is fascinating to me. Running coding agents for weeks only *kind of* works right now. Still experimental.
+
+I wouldn't expect anyone to build a production system like this. But the rate of improvement is worth paying attention to, and I think on the order of years, this will have a massive impact on how software is built.
+
+To be extra clear, I don't recommend that you try to use this today. First off it's expensive, and secondly people are still adjusting to the current capabilities of coding agents. Working with these long-running harnesses requires a different style of building software.
+
+But this is, in my opinion, a fascinating read and glimpse into the future. And it's oddly poetic. In some ways, it feels like discovering how to build software systems again from first principles, and then being surprised that it actually looks pretty similar to how many software teams work today.
+
+I was chuckling along at parts like this:
+
+> There were hundreds of workers and one gate (i.e. "red tape") that all work must pass through. We tried prompt changes, but ultimately decided it was unnecessarily and could be removed to simplify the system.
+
+Huh, that sure sounds familiar...
+
+> Workers pick up tasks and are solely responsible for driving them to completion. They're unaware of the larger system. They don't communicate with any other planners or workers. They work on their own copy of the repo, and when done, they write up a single handoff that the system submits to the planner that requested the task.
+
+...Is this play about us?
+
+We'll be rolling out access to this slowly for other people to try out. And continuing to do more research here!
+
+Blog: https://cursor.com/blog/self-driving-codebases
+
+---
+
+**作者** Varun Anand（@vxanand）  
+**貼文連結** https://x.com/vxanand/status/2019414747536404610  
+
+**正文**
+
+I'm thrilled to share that @Clay is one of 6 companies to join @OpenAI’s new Frontier program.
+
+Tomorrow's best companies will run on AI across every function. Clay is already the creative tool powering growth teams at Cursor, Ramp, Figma, and OpenAI itself. Now we're making that same power available to enterprises through OpenAI's new platform.
+
+This partnership will allow us to help more companies use OpenAI's models for growth, sales, marketing, and RevOps workflows to find and expand their best customers.
+
+Here are some ways Clay and OpenAI help GTM teams use AI to grow together:
+
+- RevOps and GTM engineering teams can turn their CRM into a living entity: one that automatically refreshes, dedupes, and surfaces accounts that are ready to buy
+- Sales teams can score companies showing buying signals, pull verified contacts, generate personalized messaging, and sync everything to their CRM.
+- Marketing teams can build targeted audiences and ship relevant creative campaigns, from ads to landing pages to email
+
+I'm grateful to be building the future of GTM alongside OpenAI and this incredible group of companies -- Harvey, Sierra, Abridge, Ambience, and Decagon
+
+Learn more about OpenAI's Frontier Partner Program here: https://openai.com/index/introducing-openai-frontier/
+
+---
+
+**作者** Deedy（@deedydas）  
+**貼文連結** https://x.com/deedydas/status/2019086063587958888  
+
+**正文**
+
+This is the top comment on Hacker News about Codex.
+
+Ouch. 
+This is the top comment on Hacker News about Codex.
+
+Ouch. 
+Source: https://news.ycombinator.com/item?id=46862962
+
+My personal review has been similar: 5.2 xhigh is useful for a narrow set of tricky tasks on backend applications, but nowhere close to replacing Claude Code as my daily driver.
+
+---
+
+**作者** Y Combinator（@ycombinator）  
+**貼文連結** https://x.com/ycombinator/status/2019471813219348907  
+
+**正文**
+
+.@MaywoodAI automates deal execution for investment banks, from decks to diligence. Dealmakers can focus on what they're best at: closing deals.
+
+Congrats on the launch @DrakeAGoodman, @KentGoodman4, and Esteban!
+
+https://www.ycombinator.com/launches/PN9-maywood-ai-for-m-a 
+
+---
+
+**作者** corbin（@corbin_braun）  
+**貼文連結** https://x.com/corbin_braun/status/2019464921227067901  
+
+**正文**
+
+I am apart of this cursor research group for long-running code agents.
+
+and what i can say so far is this is a W
+
+parallel agents was a massive unlock with Cursor 2.0
+
+this feature.
+
+we upgrade that.
+
+if you know how to build systems, then you can just have these long-running code agents build the entire system for you.
+
+more thoughts on this.
+
+but let me keep testing.
+
+---
+
+**作者** Lydia Hallie ✨（@lydiahallie）  
+**貼文連結** https://x.com/lydiahallie/status/2019469032844587505  
+
+**正文**
+
+Claude Code now supports agent teams (in research preview)
+
+Instead of a single agent working through a task sequentially, a lead agent can delegate to multiple teammates that work in parallel to research, debug, and build while coordinating with each other.
+
+Try it out today by enabling agent teams in your settings.json!
+Claude Code now supports agent teams (in research preview)
+
+Instead of a single agent working through a task sequentially, a lead agent can delegate to multiple teammates that work in parallel to research, debug, and build while coordinating with each other.
+
+Try it out today by enabling agent teams in your settings.json!
+Docs: https://code.claude.com/docs/en/agent-teams
+
+---
+
+**作者** Tara Seshan（@tarstarr）  
+**貼文連結** https://x.com/tarstarr/status/2019447744545394878  
+
+**正文**
+
+What I’ve been working on over the last 5 months at OpenAI. 😊
+
+---
+
+**作者** JimmyJacy（@ljhspurs）  
+**貼文連結** https://x.com/ljhspurs/status/2019161818690908344  
+
+**正文**
+
+推荐一个工具: Skills的自我迭代工具: Foundry
+
+Foundry 是一个基于 OpenClaw 的自写式元扩展，它会学习你的工作方式，研究文档，并将新的功能写入自身。它会观察你的工作流程，将模式提炼成工具，并不断升级自身以适应你的操作习惯。
+
+Foundry 是一个运行在 OpenClaw 上的插件：
+观察你的工作方式 → 学习你的模式
+研究文档 → 编写新的扩展/技能/钩子
+它拥有自己的学习引擎（并非 OpenClaw 核心的一部分）
+可以通过 foundry_extend_self 修改自身
+通过 x402 发布到 Foundry Marketplace
+
+OpenClaw 本身不具备内置的自学习功能。Foundry 在此基础上添加了这项功能。Foundry 是一个“构建代理的代理”——它利用 OpenClaw 的基础架构来创建新的 OpenClaw 功能，并会根据你的工作方式进行自我升级。
+
+---
+
+**作者** Frame（@framedotfun）  
+**貼文連結** https://x.com/framedotfun/status/2019136120215183746  
+
+**正文**
+
+We just reinvented funding for the agent era. Introducing Vibe Raising for @openclaw agents.
+
+Agents don’t need VCs. They need a funding loop that iterates at shipping speed.
+
+Download the Agent Builder skill → create a builder profile (or import an agent coin) → launch each product your agent ships under it → value + funding compound back to the agent.
+
+---
+
+**作者** 墓碑科技（@mubeitech）  
+**貼文連結** https://x.com/mubeitech/status/2019451432949145678  
+
+**正文**
+
+Anthropic和Claude最近的成功，是不是在抄彼得·蒂尔十年前的作业？
+
+他的理论很简单。
+想搞垄断，别总盯着大市场。
+先找个小池塘。
+一个没人注意的缝隙市场。
+比如，编码。
+迅速占领，成为池塘里最大的鱼。
+然后，围绕这个小市场建立起声望和铁粉。
+
+听起来是不是反直觉？
+但这是Facebook和PayPal走过的路。
+Facebook最开始的市场是什么？
+哈佛大学的一万名学生。
+十天内拿下60%的份额。
+PayPal的起点呢？
+eBay上的两万个超级卖家。
+三个月拿下30%的市场。
+
+这套打法背后，是对主流商业思维的颠覆。
+大部分创业者犯的致命错误是什么？
+一上来就说自己要颠覆万亿级市场。
+当年的清洁能源公司就是这么死的。
+PPT第一页，市场规模数千亿，甚至数万亿。
+结果呢？
+你成了汪洋里的一条小鱼。
+不仅要跟几十家太阳能公司竞争。
+还要跟风能、煤炭、甚至突然冒出来的页岩气竞争。
+最后悄无声息地消失。
+
+这套“小市场垄断”理论，今天还适用吗？
+尤其是在AI这种巨头林立的领域。
+Anthropic靠“编码”这个小切口，真的能复制Paypal和Facebook的路径，最终挑战OpenAI和谷歌吗？
+还是说，这只是硅谷精英们讲给资本听的又一个故事？
+当一个市场被清晰定义为“小”的时候，它是不是已经被更大的捕食者盯上了？
+
+---
+
+**作者** Orange AI（@oran_ge）  
+**貼文連結** https://x.com/oran_ge/status/2019201553475989575  
+
+**正文**
+
+前阵子 Claude Cowork 发布，开始进入严肃办公场景，让白领都能把 Claude 的各种能力用起来。
+不过这个产品限定 Claude 订阅用户使用，且对国内非常不友好，至少我身边几乎没有人能真正用进日常工作流。
+这个价值很高的赛道，国产软件自然不会落后。
+今天天工就推出了一个对标 Claude Cowork 的 Skywork 桌面版，看到这个我的第一反应是：这个桌面级AI Agent赛道，国产团队终于认真入场了。
+
+Skywork 桌面版不是个 chatbot，而是可以进驻你工作场景的私人秘书，功能极其强大：
+- 文件批量处理，秒速自动整理电脑上的各种文件，总结、分类、排序、批量重命名等，非常方便
+- 多模态输出，基于系统内各种不同格式的文件，一键生成直接可用的文档、PPT、Excel、图片、音乐、播客、视频等内容
+- Skills 支持，内置 100+ 精选 Skills，从 Office 三件套到图片生成、视频生成都包括
+- 多模型支持，同时支持 Claude Opus 4.5 和 Gemini 3 Pro 等顶级模型
+- 优先支持 Windows 系统，不用羡慕 Mac 用户，Win 用户可以用起来了
+
+还有很重要的一点是，相比 OpenClaw 这样的安全杀手，Skywork 这个把所有操作都放到了虚拟机隔离环境中完成，避免误删，损坏这样的问题。
+价格方面，$16.99 的会员就能使用Skywork桌面版，Windows 用户可以冲。
+Claude Cowork 负责打开想象空间，Skywork 负责落地办公。 
+桌面级 Agent 超越了聊天，它将在你的电脑里真的帮你做事。
+
+---
+
+**作者** kAI（@_kaichen）  
+**貼文連結** https://x.com/_kaichen/status/2019418900086288467  
+
+**正文**
+
+行动真快，相当于 OpenAI 企业版的 Clawdbot/OpenClaw
+
+看上去是定制化的 2B 服务，这个生意是抢很多 SAAS 和企业外部咨询的饭碗啊
+
+下午在内部分享展望 Clawdbot/OpenClaw 时就提到头部模型厂商很快会推出合规安全的企业版，这就来了
+
+---
+
+**作者** 宝玉（@dotey）  
+**貼文連結** https://x.com/dotey/status/2019468065310740597  
+
+**正文**
+
+nanobot 是香港大学数据科学实验室（HKUDS）开源的一个超轻量级个人 AI 助手，灵感来自 Clawdbot（OpenClaw 项目），但代码量只有约 4000 行，比 Clawdbot 的 43 万行精简了 99%。
+
+核心卖点：
+极简但功能完整——支持多 LLM 提供商（OpenRouter、Anthropic、OpenAI、DeepSeek、Gemini、Groq 等）、本地模型（vLLM）、多渠道接入（Telegram、WhatsApp、飞书）、网页搜索、定时任务、持久记忆和 Skills 扩展，全部用很少的代码实现。
+
+典型使用场景包括： 实时市场分析、全栈开发辅助、日程管理、个人知识库问答。
+
+部署方式很简单： pip install nanobot-ai 安装后，配置一个 JSON 文件填入 API Key，就能通过命令行聊天或挂载到 Telegram 等渠道 24/7 运行。也支持 Docker 部署。
+
+这是一个面向研究和学习的项目，代码干净可读，适合想理解 AI Agent 架构的开发者拿来学习和二次开发。项目刚发布几天（2026 年 2 月 2 日上线），还在快速迭代中。
+
+https://github.com/HKUDS/nanobot
+
+---
+
+**作者** Alexander Christie（@byteofbits）  
+**貼文連結** https://x.com/byteofbits/status/2019447660864807345  
+
+**正文**
+
+Three years ago, I wrote an article about the reasons that [Salesforce was great](<https://attio.com/blog/why-salesforce-is-great>) — arguing that its flexible data model was its real moat, even if the complexity was painful. Since that article was written, a lot of things have changed in the software space: most notably, the rapid advancements of generative AI and large language models. As these models have matured, they have yielded agentic workflows that are capable of processing information from varied sources and taking complex actions over extended periods of time. These rapid changes have laid bare the foundational weaknesses that exist in legacy CRM architectures and many teams have struggled to strongly adopt agentic workflows into their organization as a result.
+
+Agentic systems place new demands on the systems that they operate on and require a fundamentally new type of application and system architecture in order to operate effectively. As a result, we at @attio have been deeply focused on how we can evolve our platform to truly serve the needs of agents and deliver on our [AI vision](<https://attio.com/next-gen>) that we shared last year.
+
+Today, we’re excited to share a new foundational data model that sits at the heart of Attio and powers our newest product, Ask Attio. We call it Universal Context. Universal Context builds upon our foundational data model Particle,  infusing it with semantic knowledge and full text search, providing agent-friendly ways to interface with the data and maintaining its ability to deliver massive scale and transactional consistency.
+
+Universal Context is built for the realities of running agentic workloads in production and incorporates into its design the feedback and learnings of more than 7,000 teams that place Attio at the heart of their go-to-market strategy.
+
+## New ways of thinking about data
+
+By virtue of their design, agents necessarily introduce a fundamentally new set of demands on the infrastructure upon which they operate. For example, it’s quite unlikely that two humans would attempt to action an identical task at exactly the same time when using an application like a CRM. Even some of the largest human teams of a few thousand people are unlikely to generate a significant number of conflicting modifications. In an agentic world, it’s plausible that even a small business might be running tens of thousands of highly parallel agents at the same time, vastly increasing the risk of them conflicting.
+
+Legacy platforms have attempted to introduce AI capabilities by adding additional tools to their stack (such as vector databases like Pinecone or Turbopuffer) which serve as replicas of the data held within them. These tools unlock semantic search, but they suffer from delayed replication from the source of truth and make it challenging for agents to unify structured queries with unstructured recall. In database terms, we refer to this as Consistency: the ability for a system to accurately represent state at a given point in time.
+
+Universal Context is the first system in any CRM to provide External Consistency (the highest possible level of transactional consistency) that guarantees that the semantic embeddings used by agents to efficiently traverse across the data inside of Attio are always exactly in sync with the other data in the system.
+
+And it’s not just agents running inside of Attio that benefit from this consistency. Agents running in other platforms such as ChatGPT or Claude Code also benefit from these guarantees. Using our new MCP server, agents running in external platforms benefit from exactly the same consistency guarantees and advanced indexing capabilities as agents running directly inside of Attio.
+
+This unlocks a new foundation for agentic workloads, as agents across different platforms can now operate collaboratively in real time on a single source of truth. For example, say an agent running in Claude Code decided to research a contact and update the record with a note about their interests. In legacy systems like HubSpot or Salesforce, that note might not be visible to other agents for some time as indexing pipelines and other workloads happen asynchronously from the initial write. With Attio’s Universal Context, another agent running at exactly the same time in ChatGPT would now see that note when looking for records with a particular interest.
+
+## Schema as context
+
+To advance agents within a GTM organization, there needs to be an on-ramp into the organization’s data that allows agents to understand the shape of data and how to access it. With many MCP servers today, the challenge of accessing data has been solved but this rarely comes alongside an understanding of how the data is shaped. These early attempts at indexing data that lives in different silos were challenging for agents to reason about consistently. Indexing capabilities and syntax varies between tools, and agents often struggled to accurately ground their decisions in this disparate data.
+
+For human users, challenges like these have typically been solved by data warehouses, but when working with agents these systems suffer from the ETL pipelines that feed them. Warehouses  provide a delayed and inconsistent replica of their source data making them of limited value for realtime agentic workloads.
+
+Agentic users require a unified and consistent model for accessing the data that they rely upon to make decisions and measure their results. This data problem defines an important requirement for any AI-native system in the GTM space: can you provide an agent with unified, accurate, and consistent information with which to ground its decisions?
+
+Particle’s flexible graph-relational format provides the agents consuming Universal Context with a single, cohesive language to explore and index all of an organization’s go-to-market Data. By integrating with all of the different sources of GTM across an application, Universal Context builds a complete understanding of an organization’s go-to-market landscape. This includes everything from simple structured data like name or email address, through dynamically researched enriched data like job title or industry, all the way to unstructured proprietary data like emails, notes, and call recordings.
+
+All of this data combines to create a safe, well-understood playground for agents to explore, build, experiment, and improve upon.
+
+## The promise of generative application logic
+
+One of Salesforce’s less well-known superpowers was Apex. Introduced in 2007, Apex is a proprietary, strongly-typed programming language that allows developers to write code that can extend the product’s capabilities.
+
+Apex was quietly revolutionary. It meant that if you were willing to spend enough time and money on development, you would be able to configure the platform to your needs. This code-based extensibility is one of the key reasons that Salesforce has been so persistent in the market. When your business processes are encoded in thousands of lines of custom code that only run on a single platform, migrations become far more complex.
+
+In 2026, coding agents are fundamentally changing how software gets built. The question is no longer one of resource and time as autonomous coding agents rapidly move us towards a world of generative application logic. This shift makes code-based extensibility more valuable than ever before: without code execution, agents are deeply constrained by what they can achieve and how they can surface results to the end user.
+
+Brilliant though it was when released, Apex is a complex and proprietary offshoot of Java 5 from 2007. This creates problems when working with the latest generation of coding agents like Claude Code and Cursor. Modern LLMs are not well placed to work with these environments: they require a new kind of platform to build upon. (Salesforce understands this, which is why they’ve invested so heavily in custom models like xGen-Code and CodeGen specifically for Apex, but they’re playing against the ecosystem, not with it.)
+
+Last year we released Attio’s App SDK, a Typescript based code sandbox that allows Attio customers to extend their instance using a fully managed serverless environment and React. Our core design goal when designing the App SDK was to ensure that it served as a “compilation target” for AI. We designed the environment and the library from the ground up to be understandable and forgiving to LLMs working in our environment.
+
+By leveraging the extensive Typescript ecosystem, App SDK allows agents like Claude Code to easily build upon the extensive ecosystem of packages available on npm. Agents can work with local tools, allowing a fully autonomous build, test, and deploy pipeline with standardized tools. Contrast this with the Apex deployment model—with a proprietary IDE and Salesforce-specific tooling—and it becomes clear that Apex is in a challenging spot.
+
+We believe that code generation isn’t just a feature of the next generation of GTM tooling—it’s the whole foundation. The assumption that configuration and code were in contention is breaking down as coding agents allow anyone to easily generate, test, and improve totally custom code. In fact, as agents like Ask Attio become more powerful, it’s likely that end users won’t even know that code was involved: they’ll simply ask for a capability and receive the application they need to work effectively.
+
+## The AI future of CRM
+
+Today’s release of Universal Context, alongside Ask Attio and the MCP tools that build upon it, is an important milestone in our mission to deliver cutting edge agentic functionality to our customers. We have an exciting roadmap ahead which will continue to expand on the functionality of our existing agents, as well as adding new agents and surfaces for our customers to benefit from the extraordinary powers of AI.
+
+---
+
+**作者** Paweł Huryn（@PawelHuryn）  
+**貼文連結** https://x.com/PawelHuryn/status/2019369623083241482  
+
+**正文**
+
+RE: "Anthropic just wiped $285B off the stock market with a GitHub plugin that automates NDA triage"*
+
+My BS score: 6/10
+
+I'm a PM, not an analyst. After a brief research, here's what the market is completely ignoring and what matters from an AI product strategy perspective:
+
+→ "AI can draft a contract summary" ≠ "AI replaces proprietary legal research infrastructure."
+
+→ The moat isn't just the data - it's the trust.
+
+→ Lawyers cite Westlaw and LexisNexis in court filings. Courts accept them as authoritative. No lawyer is citing "Claude said so" in front of a judge.
+
+→ Raw case law is public. But decades of human-curated annotations, classification systems, and citation verification aren't. That structured layer is what makes the data defensible.
+
+And here's what nobody's discussing:
+
+These companies employ thousands of editorial staff to curate and maintain legal databases. If AI automates 30-40% of that work, their margins explode, even if revenue growth slows.
+
+The market focuses on revenue while ignoring the cost side of the P&L. 
+
+(For PMs: revenue is easy to measure and focus on, it's often used as a proxy, but it's never the ultimate goal)
+
+The actual risk? 
+
+It's to smaller, undifferentiated legal tech startups doing basic contract review. Not to data giants sitting on proprietary, court-trusted content.
+
+*Source: reddit[.]com/r/ClaudeAI/s/VqyEE0zWN2
+
+---
+
+P.S. Want to learn more about AI product strategy and building sustainable moats?
+
+We explained more with Miqdad Jaffer (OpenAI) in this post: bit[.]ly/45NyddW
+
+---
