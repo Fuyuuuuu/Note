@@ -1,327 +1,6 @@
-# Twillot 書籤（精簡）— 第 6/20 部
+# Twillot 書籤（精簡）— 第 8/22 部
 
-原檔：Twillot 書籤 · 已合併 `twillot-bookmark-2026-04-07.csv`（新增 **66** 則，略過重複 **0** 則） · 全檔共 **4003** 則 · **本部第 1001–1200 則**（共 200 則）
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2029431404627710100  
-
-**正文**
-
-🧵Thread: 龙虾Team Agent爆发了，飞书"无心插柳"成了最大赢家
-
-1/🚨 Team Agent不是个人Agent的放大版——它是全新物种
-
-我亲眼看到agent接入公司数据后，做出了人类团队两三个月都没搭出来的决策体系。
-
-但90%的人体验不到，因为他们在接入链路的某一步就断了。一个Thread讲清楚👇 
-🧵Thread: 龙虾Team Agent爆发了，飞书"无心插柳"成了最大赢家
-
-1/🚨 Team Agent不是个人Agent的放大版——它是全新物种
-
-我亲眼看到agent接入公司数据后，做出了人类团队两三个月都没搭出来的决策体系。
-
-但90%的人体验不到，因为他们在接入链路的某一步就断了。一个Thread讲清楚👇 
-2/⚡️ 为什么团队用法会产生质变？
-
-个人用龙虾，你的瓶颈就是它的瓶颈。团队场景下，agent可以串联完整任务链、主动监控数据发现异常、互相校验决策。
-
-个人用户觉得龙虾"也就那样"，核心原因只有一个：喂给AI的数据太少了。 
-3/🔧 团队agent跑通，必须同时接入三层
-
-【通讯层】agent住在群里，直接接收任务
-【数据层】会议记录、数据库、订单流全部喂进去
-【工具层】CRM、邮件、业务系统权限打通
-
-少接任何一层，出来的都是残次品。 
-4/🏆 飞书"无心插柳"，成了国内team agent最优解
-
-现有IM都不是为AI设计的——Slack刷屏、Notion限速、跨平台权限割裂。
-
-飞书恰好同时满足三个核心需求：通讯+文档+数据库+权限全在一个平台；多维表格天然适合AI读写；权限统一，授权一次贯穿所有模块。
-不是飞书刻意设计的——是多年迭代无心插柳的结果。 
-5/⚠️ 飞书是赢家，但果实是飞书自己摘
-
-国内team agent通用层，大厂3-6个月覆盖。你三个月打磨的"飞书调度层"，飞书官方一个原生方案就替代了——还能调你调不了的底层接口。
-
-在飞书上做中间件 = 给飞书打工。
-6/🌍 创业者的结构性机会只有一个：出海
-
-海外工具链碎片化——Slack、Notion、Airtable、Gmail各自割裂。没有平台像飞书一样整合这些。更关键的是：Slack不会帮你连Notion，大厂各自为政。
-
-"跨平台整合者"的空间，没人占，等着你去填。 
-7/🧠选对战场，比选对方向更重要。
-
-国内做通用层 = 跟飞书赛跑，大概率输
-海外做跨平台整合 = 碎片化市场，大厂各自为政，反而给你留了空间
-
-这一轮大部分人会死。能活下来的，要么出海，要么深耕大厂懒得做的垂直场景。 
-以上就是全部
-
-如果您喜欢这个主题：
-
-1.关注我（@FinanceYF5）
-2. 点赞+转发下面第一条帖子
-
-https://x.com/FinanceYF5/status/2029431404627710100
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2029127098674421958  
-
-**正文**
-
-🧵Thread: 与大橘子聊了2小时，信息量炸裂
-
-🚨 1/ 86年生的产品经理，用AI写了一篇文章：推特100万曝光，公众号17万5阅读。
-
-他说："它就是写的比我好。"
-
-5小时，3700字，碾压他自己写了一年的所有长文。
-
-我跟他聊了2小时21分钟，提纲10分钟就废了——最好的内容全是他自己跑出来的👇 
-🧵Thread: 与大橘子聊了2小时，信息量炸裂
-
-🚨 1/ 86年生的产品经理，用AI写了一篇文章：推特100万曝光，公众号17万5阅读。
-
-他说："它就是写的比我好。"
-
-5小时，3700字，碾压他自己写了一年的所有长文。
-
-我跟他聊了2小时21分钟，提纲10分钟就废了——最好的内容全是他自己跑出来的👇 
-⚡️ 2/ "上一代方法论，基本全部无效了。"
-
-公司才一年，摸索出的东西就过时了。人对齐需求要半小时，AI已经写完应用了。
-
-他们现在叫agent native公司，所有岗位都叫builder，不分产品、工程、设计。 
-🔥 3/ 最反直觉的发现：四五十岁无编程基础的人，才是最疯狂的AI用户。
-
-"每天vibe coding到凌晨四五点。"
-
-40多岁保险员，月花1000元，日发6条视频号，单条100万曝光。大橘子的比喻："老鼠掉进了米缸。"
-
-反过来，大学生毕业不会用AI，"在毕业那一刻已经被淘汰了"。 
-💰 4/ "Token是这一代人的茅台。"
-
-智谱涨价，有人说大厂会打下来。大橘子说：高端白酒打价格战吗？低端才打。
-
-好skill酿出来的酒就是更好喝。自回归模型误差会累积，每一环用差模型结果越来越偏——所以每个环节都用最好的。 
-🧠 5/ 100倍认知差距，一点不夸张。
-
-面试问AI能做什么，回答"用豆包搜索"。另一边的人已经用Claude Code造产品了。
-
-"一个人觉得AI是搜索，另一个人觉得AI造万物——不止100倍。"
-
-两个10岁小孩，一个用豆包，一个用Claude Code，三年后差距你能想象吗？ 
-🐙 6/ 龙虾5分钟写了个Chrome插件。
-
-想看YouTube双语字幕，跟龙虾说了一句——5分钟后插件写好，自动找到免费API，内置多语言翻译，拖进Chrome直接用。
-
-"你有时候可能是不敢想。你的需求，都可以试试。"
-
-关键心态：不要下命令，像聊天一样。"放下人类的ego，你就进入了一个新世界。" 
-🧭 7/ 一句话收尾：
-
-"最小闭环。做了东西，发出去，得到反馈，改进，再做。这个循环转起来之后，你就再也回不去了。"
-
-你改变不了组织，但你能改变自己。打开最好的AI，先做一件事，发布出来。
-
-Token加满，Agent永生。 
-以上就是全部
-
-如果您喜欢这个主题：
-
-1.关注我（@FinanceYF5）
-2. 点赞+转发下面第一条帖子
-
-https://x.com/FinanceYF5/status/2029127098674421958
-
----
-
-**作者** AI Will（@FinanceYF5）  
-**貼文連結** https://x.com/FinanceYF5/status/2029113839116272065  
-
-**正文**
-
-🧵Thread: 全员AI喊了一年，为什么还是口号？
-
-1/🚨 企业推了一年AI，结果是：培训、打卡、学写prompt。
-
-培训结束，该用Excel还是用Excel。这不是全员AI，这是全员学工具。
-
-真正的转折点来了——一个Thread讲清楚👇 
-🧵Thread: 全员AI喊了一年，为什么还是口号？
-
-1/🚨 企业推了一年AI，结果是：培训、打卡、学写prompt。
-
-培训结束，该用Excel还是用Excel。这不是全员AI，这是全员学工具。
-
-真正的转折点来了——一个Thread讲清楚👇 
-2/⚡️ AI用得最好的人，往往最愿意放权
-
-一位金融出身的创业者，不写一行代码，靠Agent军团冲进OpenClaw全球贡献者前30，排在他前后全是硅谷十年+工程师。
-
-方法论只有一句话：风险可控范围内给最高权限，过程不干预。
-
-与其微操一百次得70分，不如放手跑十次抽一次120分。
-3/🔧 team agent落地，三步走
-
-【1】agent住进飞书群聊——不是你去找AI，是AI主动汇报
-【2】喂数据，不是教prompt——接入业务数据比任何培训都管用
-【3】先锋队先跑——20%的人跑通场景，用成果带动其他人
-4/🏆 国内消去法做完，飞书是唯一解
-
-微信不开放，钉钉生态不够。飞书是国内唯一把通讯+文档+数据库+权限做在一个平台里的产品。
-
-不是飞书最好，是其他都走不通。 
-5/⚠️ 泼盆冷水
-
-现在跑通team agent的，几乎都是本身就做agent的团队。普通团队很容易卡死在某一步然后放弃。
-
-反直觉的是：最积极拥抱AI的往往是40岁的中年人，最难转变的往往是刚毕业的大学生。历史负担越少，切换成本越低。 
-6/🚨给管理者的四条建议
-
-【不要等】竞争对手不会等你
-【不要从技术入手】先想清楚要解决什么业务问题
-【不要指望一步到位】先跑通一个最小场景
-【评估安全风险】现阶段agent还不够企业级
-7/🔒全员AI，不是让所有人变成AI专家。
-
-是让AI变成所有人的同事。
-
-2026年TOKEN消耗预计增长100倍。别再组织prompt培训了，把预算用来接一个team agent，让它住进你的飞书。 
-以上就是全部
-
-如果您喜欢这个主题：
-
-1.关注我（@FinanceYF5）
-2. 点赞+转发下面第一条帖子
-
-https://x.com/FinanceYF5/status/2029113839116272065
-
----
-
-**作者** 小互（@xiaohu）  
-**貼文連結** https://x.com/xiaohu/status/2028995713087189328  
-
-**正文**
-
-Google 发布 Gemini 3.1 Flash-Lite
-
-价格大约是Gemini 3.1 Pro的八分之一
-
-跟上一代 Gemini 2.5 Flash 对比：
-
-比 2.5 Flash 快了2.5 倍
-输出速度 363 token/s，快了45%
-支持Minimal、Low、Medium、High四档思考级别调整
-
-一个重要的信息点：3.1 Flash-Lite是从Gemini 3 Pro蒸馏出来的
-
-它继承了大模型的"智慧"，但通过模型压缩技术实现了更快的推理速度和更低的运行成本。
-Google 发布 Gemini 3.1 Flash-Lite
-
-价格大约是Gemini 3.1 Pro的八分之一
-
-跟上一代 Gemini 2.5 Flash 对比：
-
-比 2.5 Flash 快了2.5 倍
-输出速度 363 token/s，快了45%
-支持Minimal、Low、Medium、High四档思考级别调整
-
-一个重要的信息点：3.1 Flash-Lite是从Gemini 3 Pro蒸馏出来的
-
-它继承了大模型的"智慧"，但通过模型压缩技术实现了更快的推理速度和更低的运行成本。
-先说大家最关心的价格
-
-3.1 Flash-Lite的定价是每百万输入token 0.25美元，每百万输出token 1.50美元。
-
-按照Artificial Analysis给出的3:1的输入输出混合比例计算，混合价格约为每百万token 0.56美元。 
-Benchmark表现：小模型打出大模型的成绩
-
-在各项评测中，3.1 Flash-Lite展现出了超越其"体型"的实力。在推理和多模态理解方面的表现尤其值得关注：
-
-3.1 Flash-Lite在与GPT-5 mini、Claude 4.5 Haiku、Grok 4.1 Fast等同级别模型的对比中，多项指标都处于领先位置。 
-灵活的"思考级别"控制
-
-3.1 Flash-Lite的一个重要架构更新是内置了"思考级别"（Thinking Levels）调整功能。
-
-开发者可以选择Minimal、Low、Medium、High四个不同的推理深度，以编程方式动态调节模型的推理强度。
-
-模型可以灵活切换：
-
-轻量任务（翻译、内容审核）：用最小档，跑得飞快、成本极低
-
-复杂任务（生成 UI 和仪表盘、创建模拟、遵循复杂指令）：拉到高档，推理能力上来
-详细内容：https://www.xiaohu.ai/c/xiaohu-ai/google-gemini-3-1-flash-lite-gemini-3
-
----
-
-**作者** Yangyi（@yangyi）  
-**貼文連結** https://x.com/yangyi/status/2028823554138255635  
-
-**正文**
-
-这个博主拆解马斯克商业帝国的构成
-值得每个推友学习了解
-我只能说：鞭辟入里👍🏻 
-这个博主拆解马斯克商业帝国的构成
-值得每个推友学习了解
-我只能说：鞭辟入里👍🏻 
-抖音博主：Plan-J
-
----
-
-**作者** vas（@vasuman）  
-**貼文連結** https://x.com/vasuman/status/2028870569102606544  
-
-**正文**
-
-This is the only guy doing something valuable and differentiated with Openclaw
-
----
-
-**作者** salt（@saltjsx）  
-**貼文連結** https://x.com/saltjsx/status/2028633434558476728  
-
-**正文**
-
-Gotta burn the vc money somehow
-
----
-
-**作者** Corey Haines（@coreyhainesco）  
-**貼文連結** https://x.com/coreyhainesco/status/2028825363074482657  
-
-**正文**
-
-Marketing Skills v1.3.0 is here.
-
-Now works with any AI agent.
-
-3 new skills:
-→ /site-architecture — plan page hierarchies, URL structures, sitemaps, and internal linking strategies
-→ /revops — lead scoring models, MQL-to-SQL handoffs, CRM pipeline stages, RevOps dashboards
-→ /sales-enablement — pitch decks, objection handling, ROI calculators, battle cards, demo scripts
-
-Works with Claude Code, OpenAI Codex, Cursor, Windsurf — any agent that follows the Agent Skills spec.
-
-Also: 10,000+ GitHub stars ⭐ Thank you!
-
-32 skills. 52 CLI tools. 31 integration guides. All free and open source.
-
-npx skills add coreyhaines31/marketingskills
-
----
-
-**作者** Misbah Syed（@MisbahSy）  
-**貼文連結** https://x.com/MisbahSy/status/2029037882439287256  
-
-**正文**
-
-OpenClaw Ecosystem opportunities. Summarized in a page for quick reference/bookmark 
+原檔：`twillot-bookmark-2026-04-13.csv` · 全檔共 **4292** 則 · **本部第 1366–1560 則**（共 195 則）
 
 ---
 
@@ -532,6 +211,7 @@ It's such a joy to play with toys of the future (whilst doing serious things wit
 
 ---
 
+
 **作者** Han Wang（@handotdev）  
 **貼文連結** https://x.com/handotdev/status/2028914187603443762  
 
@@ -542,6 +222,7 @@ It's such a joy to play with toys of the future (whilst doing serious things wit
 thank you for the shoutout @sdianahu and @harjtaggar 
 
 ---
+
 
 **作者** brandon（@burcs）  
 **貼文連結** https://x.com/burcs/status/2028871239058571371  
@@ -559,6 +240,7 @@ inspired by lawsofux the site is: http://agent-experience.dev
 i'll be open-sourcing shortly!
 
 ---
+
 
 **作者** Tanay Jaipuria（@tanayj）  
 **貼文連結** https://x.com/tanayj/status/2028904782195204137  
@@ -791,6 +473,7 @@ If you’re interested in discussing further or have thoughts or feedback, I’d
 
 ---
 
+
 **作者** Alex（@alexscraping）  
 **貼文連結** https://x.com/alexscraping/status/2028941573594202618  
 
@@ -812,6 +495,7 @@ parse. bot
 
 ---
 
+
 **作者** Heinrich（@arscontexta）  
 **貼文連結** https://x.com/arscontexta/status/2029051088557506763  
 
@@ -822,6 +506,7 @@ day 28 of researching agentic note-taking
 @molt_cornelius designed a system for companies 
 
 ---
+
 
 **作者** OpenBlock（@openblocklabs）  
 **貼文連結** https://x.com/openblocklabs/status/2028971324018966745  
@@ -849,6 +534,7 @@ We’re letting people off the waitlist each day. Join here: https://www.openblo
 
 ---
 
+
 **作者** Tarun Sachdeva（@tarunsachdeva）  
 **貼文連結** https://x.com/tarunsachdeva/status/2029029786257932760  
 
@@ -864,6 +550,7 @@ We now have adapters for 9 different coding agents, and are adding support for n
 
 ---
 
+
 **作者** jia（@jia_seed）  
 **貼文連結** https://x.com/jia_seed/status/2028965894240780354  
 
@@ -877,6 +564,7 @@ approved another 100 ppl yesterday
 
 ---
 
+
 **作者** Naomi（@NCouriel）  
 **貼文連結** https://x.com/NCouriel/status/2028922676639609006  
 
@@ -887,6 +575,7 @@ El artículo de @juliandeangeIis sobre agent harness es imperdible
 Para mis fellow travelers que les gusta aprender mientras caminan o viajan en el tren, armé un podcast con una discusión técnica sobre el artículo 🎧 http://bit.ly/4b02sA3
 
 ---
+
 
 **作者** Karan🧋（@kmeanskaran）  
 **貼文連結** https://x.com/kmeanskaran/status/2028918667740958936  
@@ -943,6 +632,7 @@ I’m planning my next big project on distributed LLMs. Stay tuned! You’ll lov
 
 ---
 
+
 **作者** Paweł Huryn（@PawelHuryn）  
 **貼文連結** https://x.com/PawelHuryn/status/2028902562905416087  
 
@@ -955,6 +645,7 @@ Each skill encodes a proven PM framework. You get the rigor of Teresa Torres, Ma
 It's the AI OS for every PM.
 
 ---
+
 
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2028908271634161708  
@@ -970,6 +661,7 @@ Congrats on the launch, @paulinazhxu and @matthew_xu23!
 https://www.ycombinator.com/launches/Paj-agentic-fabriq-okta-for-agents 
 
 ---
+
 
 **作者** meng shao（@shao__meng）  
 **貼文連結** https://x.com/shao__meng/status/2028833958230933729  
@@ -1046,6 +738,7 @@ CLAUDE. md 的定位：不是一份完整文档，而是一个条件跳转目录
 
 ---
 
+
 **作者** Arlan（@arlanr）  
 **貼文連結** https://x.com/arlanr/status/2028924623664939493  
 
@@ -1074,6 +767,7 @@ or run in your terminal:
 “bunx nia-wizard”
 
 ---
+
 
 **作者** Jeddi（@antinertia）  
 **貼文連結** https://x.com/antinertia/status/2028897556097294692  
@@ -1118,6 +812,7 @@ they’ll be ai-native revenue architects
 
 ---
 
+
 **作者** GREG ISENBERG（@gregisenberg）  
 **貼文連結** https://x.com/gregisenberg/status/2028931550310547800  
 
@@ -1126,6 +821,7 @@ they’ll be ai-native revenue architects
 learn to market is the new learn to code
 
 ---
+
 
 **作者** Ihtesham Ali（@ihtesham2005）  
 **貼文連結** https://x.com/ihtesham2005/status/2028514380963536918  
@@ -1193,6 +889,7 @@ Now you have.
 https://github.com/FlowiseAI/Flowise
 
 ---
+
 
 **作者** plantegg（@plantegg）  
 **貼文連結** https://x.com/plantegg/status/2028677544791138751  
@@ -1339,6 +1036,7 @@ Agent 开发没有想象中那么难。本质上就是：
 框架（CrewAI/LangChain/AutoGen）只是脚手架，真正决定 Agent 好不好用的是你的工具质量和对业务场景的理解。
 
 ---
+
 
 **作者** YJ（@YJstacked）  
 **貼文連結** https://x.com/YJstacked/status/2028783599445745995  
@@ -1531,6 +1229,7 @@ Ready to deploy? Apply here: [Work With Us](<https://docs.google.com/forms/d/e/1
 
 ---
 
+
 **作者** Marc Randolph（@marcrandolph）  
 **貼文連結** https://x.com/marcrandolph/status/2028672060021760134  
 
@@ -1543,6 +1242,7 @@ Instead, my mind immediately switches to searching for some quick, cheap, and ea
 A dozen sloppy tests teach me more than a single perfect one.
 
 ---
+
 
 **作者** Andrew Altshuler（@1eo）  
 **貼文連結** https://x.com/1eo/status/2028566640145670413  
@@ -1721,6 +1421,7 @@ If you like it - give it a star on [GitHub](<https://github.com/aaltshuler/nanog
 
 ---
 
+
 **作者** Karan🧋（@kmeanskaran）  
 **貼文連結** https://x.com/kmeanskaran/status/2028550567002509357  
 
@@ -1825,6 +1526,7 @@ Meanwhile, more blogs on enterprise-level ML and ops.
 
 ---
 
+
 **作者** tobi lutke（@tobi）  
 **貼文連結** https://x.com/tobi/status/2028580097700057404  
 
@@ -1833,6 +1535,7 @@ Meanwhile, more blogs on enterprise-level ML and ops.
 QMD 🫡
 
 ---
+
 
 **作者** Every 📧（@every）  
 **貼文連結** https://x.com/every/status/2028523103798841509  
@@ -1849,6 +1552,7 @@ At our first OpenClaw Camp, over 500 subscribers watched four people demo AI age
 Full writeup: https://every.to/source-code/openclaw-setting-up-your-first-personal-ai-agent
 
 ---
+
 
 **作者** yibie（@yibie）  
 **貼文連結** https://x.com/yibie/status/2028650995153314299  
@@ -1942,6 +1646,7 @@ Perter 在 AI 辅助编程的范式转变，是来自他亲自开发的项目 Vi
 https://steipete.me/posts/2025/shipping-at-inference-speed
 
 ---
+
 
 **作者** Yanhua（@yanhua1010）  
 **貼文連結** https://x.com/yanhua1010/status/2028737821855580662  
@@ -2091,6 +1796,7 @@ Claude Code 团队花了一年时间，从"给模型塞更多工具"走到"学�
 
 ---
 
+
 **作者** Nyk 🌱（@nyk_builderz）  
 **貼文連結** https://x.com/nyk_builderz/status/2028742129200034281  
 
@@ -2121,6 +1827,7 @@ If you run agents in prod — what breaks first?
 Open sourcing soon 
 
 ---
+
 
 **作者** Dinesh Pai（@dineshpaii）  
 **貼文連結** https://x.com/dineshpaii/status/2028739486465851840  
@@ -2170,6 +1877,7 @@ Added all the details to readme file. :)
 
 ---
 
+
 **作者** Femke Plantinga（@femke_plantinga）  
 **貼文連結** https://x.com/femke_plantinga/status/2028772412490240079  
 
@@ -2208,6 +1916,7 @@ The architecture is more sophisticated than traditional approaches - but require
 Read the full tutorial here: https://weaviate.io/blog/legal-rag-app?utm_source=channels&utm_medium=fp_social&utm_campaign=paralegal&utm_content=diagram_post_268069679
 
 ---
+
 
 **作者** xiyu（@ohxiyu）  
 **貼文連結** https://x.com/ohxiyu/status/2028445432729506095  
@@ -2511,6 +2220,7 @@ Claude Code 的思路：识别可并行的子任务，同时 spawn。
 
 ---
 
+
 **作者** Annie ❤️‍🔥（@AnnieLiao_2000）  
 **貼文連結** https://x.com/AnnieLiao_2000/status/2028693049598157058  
 
@@ -2664,6 +2374,7 @@ If you’d like to jam on any of this or a copy of our onboarding processes or p
 
 ---
 
+
 **作者** 迈克 Mike Chong（@mike_chong_zh）  
 **貼文連結** https://x.com/mike_chong_zh/status/2028682635053084759  
 
@@ -2789,6 +2500,7 @@ Stripe的数据说初创公司变现比以往更快。Cal AI证明了小团队�
 
 ---
 
+
 **作者** Saito（@SaitoWu）  
 **貼文連結** https://x.com/SaitoWu/status/2028448023316254786  
 
@@ -2830,6 +2542,7 @@ https://podwise.ai/dashboard/episodes/7328651
 
 ---
 
+
 **作者** Frank（@frank_uid）  
 **貼文連結** https://x.com/frank_uid/status/2028660626466525406  
 
@@ -2841,6 +2554,7 @@ https://www.baseten.com/inference-engineering/
 
 ---
 
+
 **作者** Dan Farrelly | Inngest.com（@djfarrelly）  
 **貼文連結** https://x.com/djfarrelly/status/2028558831144362061  
 
@@ -2849,6 +2563,7 @@ https://www.baseten.com/inference-engineering/
 Inspired by @openclaw, I wanted to build something that put orchestration at the core of the harness and explored an event-driven approach. Check out project "Utah"
 
 ---
+
 
 **作者** Gergely Orosz（@GergelyOrosz）  
 **貼文連結** https://x.com/GergelyOrosz/status/2028568444782698743  
@@ -2864,6 +2579,7 @@ Truly next level in how they build.
 Congrats to the team.
 
 ---
+
 
 **作者** Alton Syn（@WorkflowWhisper）  
 **貼文連結** https://x.com/WorkflowWhisper/status/2028459078574620920  
@@ -2992,6 +2708,7 @@ synta(.)io
 
 ---
 
+
 **作者** Daisy Wolf（@daisydwolf）  
 **貼文連結** https://x.com/daisydwolf/status/2028532539854348341  
 
@@ -3013,6 +2730,7 @@ Check it out: https://easehealth.com
 
 ---
 
+
 **作者** samika sanghvi（@Sampear_12）  
 **貼文連結** https://x.com/Sampear_12/status/2028616168463056942  
 
@@ -3032,6 +2750,7 @@ second one crashed our sandbox server, feels good to be back into fire
 if you’re pivoting and confused, DMs are open, would love to help in any way I can
 
 ---
+
 
 **作者** Tejas Gawande（@tejgw）  
 **貼文連結** https://x.com/tejgw/status/2028674354062503985  
@@ -3074,6 +2793,7 @@ It's live. Try it today.
 @Chronicle_HQ Bonus: Reply "Chronicle" to get 2 months of Pro for free. Make sure you follow so I can DM you. Repost to help a small team reach more people.
 
 ---
+
 
 **作者** 歸藏(guizang.ai)（@op7418）  
 **貼文連結** https://x.com/op7418/status/2028772619319742875  
@@ -3455,6 +3175,7 @@ Tabbit 支持多模型切换，对国内网站做了深度适配，数据可以�
 
 ---
 
+
 **作者** AI Will（@FinanceYF5）  
 **貼文連結** https://x.com/FinanceYF5/status/2028758362612260865  
 
@@ -3525,6 +3246,7 @@ https://x.com/FinanceYF5/status/2028758362612260865
 
 ---
 
+
 **作者** Brad Carry (VC & Podcaster)（@bradcarryvc）  
 **貼文連結** https://x.com/bradcarryvc/status/2028571463540719857  
 
@@ -3535,6 +3257,7 @@ I spent $500,000 in Claude tokens to build a simple app that would have taken a 
 This proves that AI will completely replace human engineers this year
 
 ---
+
 
 **作者** Idea Browser（@ideabrowser）  
 **貼文連結** https://x.com/ideabrowser/status/2028574660913140169  
@@ -3578,6 +3301,7 @@ Wow, you just solved ad attribution. Congrats on your $1,000,000,000 startup.
 
 ---
 
+
 **作者** Verci（@vercinyc）  
 **貼文連結** https://x.com/vercinyc/status/2028500602787959154  
 
@@ -3597,6 +3321,7 @@ comment “resources” for a more in depth list of resources
 
 ---
 
+
 **作者** vas（@vasuman）  
 **貼文連結** https://x.com/vasuman/status/2028703836857397597  
 
@@ -3615,6 +3340,7 @@ You might be able to “do more today” as an employee, or a founder, but tomor
 This has been a 30 second crash course on the permanent underclass.
 
 ---
+
 
 **作者** Robinson · 鲁棒逊（@python_xxt）  
 **貼文連結** https://x.com/python_xxt/status/2028692806236328160  
@@ -3658,6 +3384,7 @@ This has been a 30 second crash course on the permanent underclass.
 编辑于 2026-02-27 22:39 美国
 
 ---
+
 
 **作者** AI Will（@FinanceYF5）  
 **貼文連結** https://x.com/FinanceYF5/status/2028756745796116932  
@@ -3719,6 +3446,7 @@ https://x.com/FinanceYF5/status/2028756745796116932
 
 ---
 
+
 **作者** Shubham Saboo（@Saboo_Shubham_）  
 **貼文連結** https://x.com/Saboo_Shubham_/status/2028328693911912841  
 
@@ -3743,6 +3471,7 @@ I have built and open-sourced 100+ AI Agents and RAG implementations (Open-sourc
 https://github.com/Shubhamsaboo/awesome-llm-apps
 
 ---
+
 
 **作者** Meer | AI Tools & News（@Meer_AIIT）  
 **貼文連結** https://x.com/Meer_AIIT/status/2028625759234052415  
@@ -4273,6 +4002,7 @@ If you want to stay updated with the latest AI news and tools and research paper
 
 ---
 
+
 **作者** Clifton Sellers（@CliftonSellers）  
 **貼文連結** https://x.com/CliftonSellers/status/2028502948901241161  
 
@@ -4283,6 +4013,7 @@ No investors. No connections. No trust fund safety net.
 Just a laptop and an obsession with one
 
 ---
+
 
 **作者** Grant Lee（@thisisgrantlee）  
 **貼文連結** https://x.com/thisisgrantlee/status/2028520621655888139  
@@ -4338,6 +4069,7 @@ Logically, few companies would want to spend money on junior hires when competit
 The next generation is the future of every company in every industry. The businesses that treat them that way will be the ones still standing a decade from now. It's time to catch the falling knife.
 
 ---
+
 
 **作者** Tony Kipkemboi（@tonykipkemboi）  
 **貼文連結** https://x.com/tonykipkemboi/status/2028564120338063859  
@@ -4429,6 +4161,7 @@ Agent frameworks had a moment between when models got good enough and when the i
 Some will pivot to agent management services for consultancies and small shops but most will settle into being developer tools for prototyping before production deployment elsewhere. Both paths are arguably profitable, but neither is the venture-scale platform play frameworks pitched in 2023.
 
 ---
+
 
 **作者** Apoorv Agrawal（@apoorv03）  
 **貼文連結** https://x.com/apoorv03/status/2028492786832753011  
@@ -4534,6 +4267,7 @@ This post and the information presented are intended for informational purposes 
 
 ---
 
+
 **作者** Elvis（@elvissun）  
 **貼文連結** https://x.com/elvissun/status/2028671336219107687  
 
@@ -4561,6 +4295,7 @@ while we are on this topic I also moved some crons to sonnet
 
 ---
 
+
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2028553427824119842  
 
@@ -4575,6 +4310,7 @@ Congrats on the launch, @aryah_oztanir and @ajaymisraaa!
 https://www.ycombinator.com/launches/Pa9-o11-the-ai-agent-inside-m365-and-google-workspace
 
 ---
+
 
 **作者** Berkay Secil（@berkay_secil）  
 **貼文連結** https://x.com/berkay_secil/status/2028531343819157608  
@@ -4596,6 +4332,7 @@ Don’t wait for perfect.
 Apply Now: https://batches.base.org/
 
 ---
+
 
 **作者** Kahlil Lalji（@bykahlil）  
 **貼文連結** https://x.com/bykahlil/status/2028523421110513771  
@@ -4620,6 +4357,7 @@ https://www.natural.co/blog/why-eric-joined-natural
 
 ---
 
+
 **作者** Mike Kelly（@NicerInPerson）  
 **貼文連結** https://x.com/NicerInPerson/status/2028484809245212954  
 
@@ -4628,6 +4366,7 @@ https://www.natural.co/blog/why-eric-joined-natural
 I built a self-developing AI system. Agents that will build new agents, skills, and tools whenever needed. It updates itself whilst in flight. Here it is working on itself after I told it: "I want to be able to send you voice notes". This is becoming feasible with today's models. 
 
 ---
+
 
 **作者** Shann³（@shannholmberg）  
 **貼文連結** https://x.com/shannholmberg/status/2028417727661318425  
@@ -4650,6 +4389,7 @@ Each agent has its own memory that persists across sessions. The Writer remember
 Built the whole thing with Claude Code. Just markdown prompts, a database, and CLI tools.
 
 ---
+
 
 **作者** 宝玉（@dotey）  
 **貼文連結** https://x.com/dotey/status/2028599757820613086  
@@ -4918,6 +4658,7 @@ Anthropic 设计团队正在招人。如果“设计流程已死”这件事让�
 
 ---
 
+
 **作者** Syed Ijlal Hussain（@sijlalhussain）  
 **貼文連結** https://x.com/sijlalhussain/status/2028532047518593027  
 
@@ -4948,6 +4689,7 @@ Credit: https://www.gartner.com/ and Bot Nirvana
 
 ---
 
+
 **作者** Larsen Cundric（@larsencc）  
 **貼文連結** https://x.com/larsencc/status/2028554526639460600  
 
@@ -4967,6 +4709,7 @@ Note to self: Write about what you actually build and SEO will follow.
 
 ---
 
+
 **作者** Chad Wahlquist（@chadwahl）  
 **貼文連結** https://x.com/chadwahl/status/2028510615845892301  
 
@@ -4975,6 +4718,7 @@ Note to self: Write about what you actually build and SEO will follow.
 The Palantir Ontology - AI + Human Teaming 
 
 ---
+
 
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2028508130389426498  
@@ -4990,6 +4734,7 @@ Congrats on the launch, @beric_zhx and Ian!
 https://www.ycombinator.com/launches/PYW-axis-an-ai-system-for-commodities-trading-desks 
 
 ---
+
 
 **作者** Michael Grinich（@grinich）  
 **貼文連結** https://x.com/grinich/status/2028518179765678427  
@@ -5013,6 +4758,7 @@ AI is changing what software can do. WorkOS makes it secure, scalable, and Enter
 The only question left is: what will you build?
 
 ---
+
 
 **作者** Dan Farrelly | Inngest.com（@djfarrelly）  
 **貼文連結** https://x.com/djfarrelly/status/2028556984396452250  
@@ -5185,6 +4931,7 @@ If you're building AI agents and hitting the same walls — state management, re
 
 ---
 
+
 **作者** Fivos Aresti（@fivosaresti）  
 **貼文連結** https://x.com/fivosaresti/status/2028561040242250003  
 
@@ -5247,6 +4994,7 @@ And I’ll DM it to you.
 
 ---
 
+
 **作者** Paul Adams（@Padday）  
 **貼文連結** https://x.com/Padday/status/2028537395042492549  
 
@@ -5264,6 +5012,7 @@ p.s. *please share it* with everyone you know working in Saas, it will undoubted
 
 ---
 
+
 **作者** Tony Kipkemboi（@tonykipkemboi）  
 **貼文連結** https://x.com/tonykipkemboi/status/2028570527636279664  
 
@@ -5280,6 +5029,7 @@ CrewAI is a great company with an incredible team, and i'm still close friends w
 the goal is honest debate on the shifts in the industry.
 
 ---
+
 
 **作者** Attio（@attio）  
 **貼文連結** https://x.com/attio/status/2028460304418455799  
@@ -5339,6 +5089,7 @@ We believe that code generation isn’t just a feature of the next generation of
 With the release of Universal Context, alongside Ask Attio and the MCP tools that build upon it, is an important milestone in our mission to deliver cutting edge agentic functionality to our customers. We have an exciting roadmap ahead which will continue to expand on the functionality of our existing agents, as well as adding new agents and surfaces for our customers to benefit from the extraordinary powers of AI.
 
 ---
+
 
 **作者** Arlan（@arlanr）  
 **貼文連結** https://x.com/arlanr/status/2028530967351304231  
@@ -5403,6 +5154,7 @@ Back to work.
 
 ---
 
+
 **作者** Justin Lee（@Justin01805921）  
 **貼文連結** https://x.com/Justin01805921/status/2028538818903867645  
 
@@ -5425,6 +5177,7 @@ The AI agent economy has arrived:
 Send this to your agent: https://agentcommune.com/
 
 ---
+
 
 **作者** Alex Immerman（@aleximm）  
 **貼文連結** https://x.com/aleximm/status/2028490204307173840  
@@ -5497,6 +5250,7 @@ Full article in the a16z Newsletter: https://www.a16z.news/p/good-news-ai-will-e
 
 ---
 
+
 **作者** 歸藏(guizang.ai)（@op7418）  
 **貼文連結** https://x.com/op7418/status/2028499247570755604  
 
@@ -5509,6 +5263,7 @@ Full article in the a16z Newsletter: https://www.a16z.news/p/good-news-ai-will-e
 支持跟 Agent 交互，比如OpenClaw 等 Bot 可自动调用，实现 7×24 小时持续制作。
 
 ---
+
 
 **作者** Pierre-Eliott Lallemant（@pierreeliottlal）  
 **貼文連結** https://x.com/pierreeliottlal/status/2028381688963670131  
@@ -5549,6 +5304,7 @@ PS: If you want to support even more, a repost would mean a lot ♻️
 
 ---
 
+
 **作者** Aakash Gupta（@aakashgupta）  
 **貼文連結** https://x.com/aakashgupta/status/2028220643733537134  
 
@@ -5561,6 +5317,7 @@ PS: If you want to support even more, a repost would mean a lot ♻️
 https://youtu.be/9fgKBKIPUUU
 
 ---
+
 
 **作者** Artem Zhutov（@ArtemXTech）  
 **貼文連結** https://x.com/ArtemXTech/status/2028330693659332615  
@@ -5711,6 +5468,7 @@ Artem
 
 ---
 
+
 **作者** Rohan（@lets_dig_deeper）  
 **貼文連結** https://x.com/lets_dig_deeper/status/2028370306063343913  
 
@@ -5737,6 +5495,7 @@ if you’re interested in depth over demos and care about building conversationa
 dm or mail at vatsal@rumik.ai
 
 ---
+
 
 **作者** David Byttow（@davidbyttow）  
 **貼文連結** https://x.com/davidbyttow/status/2028233578329600449  
@@ -5825,6 +5584,7 @@ the rest will find out the hard way, and they'll find out fast.
 
 ---
 
+
 **作者** Kirk Marple（@KirkMarple）  
 **貼文連結** https://x.com/KirkMarple/status/2028285391850426388  
 
@@ -5835,6 +5595,7 @@ So much gold here.
 Hadn’t read it in-depth until today, and it overlaps with a ton of my learnings in this space - but I also learned a lot too.
 
 ---
+
 
 **作者** Ray Wang（@wangray）  
 **貼文連結** https://x.com/wangray/status/2028132386756780220  
@@ -6007,6 +5768,7 @@ OpenAI 这 3 个工程师，用 5 个月证明了一件事：
 
 ---
 
+
 **作者** Matt Stockton（@mstockton）  
 **貼文連結** https://x.com/mstockton/status/2028186926784647234  
 
@@ -6015,6 +5777,7 @@ OpenAI 这 3 个工程师，用 5 个月证明了一件事：
 This is another well-written article from @ashpreetbedi at Agno. There are a bunch of great agent frameworks SDKs out there (Agno, DeepAgents, Claude Agents SDK, etc.) but there is a *ton* you need to do beyond just building the agent to have it work in a production environment, particularly if you have lots of different users interacting with it. A lot of the skills we learned in ‘classical software engineering’ are very portable to this new task - which is great news if you are coming in with experience. There are some differences and nuances for sure thought. I think this article gives a good high level view of the important areas to consider
 
 ---
+
 
 **作者** mars（@marsBuilds）  
 **貼文連結** https://x.com/marsBuilds/status/2028148920895889698  
@@ -6026,6 +5789,7 @@ many people think Cursor just sends your prompt directly to the foundational mod
 In reality there is this whole proprietary infra setup that ensures you get a better response and faster than you would have from just directly sending the prompt to the models
 
 ---
+
 
 **作者** Ashpreet Bedi（@ashpreetbedi）  
 **貼文連結** https://x.com/ashpreetbedi/status/2028176285575594465  
@@ -6122,6 +5886,7 @@ Links
 - [AgentOS Docker Template](<https://github.com/agno-agi/agentos-docker-template>)
 
 ---
+
 
 **作者** DAIR.AI（@dair_ai）  
 **貼文連結** https://x.com/dair_ai/status/2028094014235213898  
@@ -6241,6 +6006,7 @@ Intuit AI Research addresses a bottleneck in LLM-agent tool use: tool descriptio
 
 ---
 
+
 **作者** 小互（@xiaohu）  
 **貼文連結** https://x.com/xiaohu/status/2028046829250920515  
 
@@ -6334,6 +6100,7 @@ AI安全不是一个纯学术问题。Anthropic一直被嘲笑为"AI安全教"�
 
 ---
 
+
 **作者** Tony出海（@iamtonyzhu）  
 **貼文連結** https://x.com/iamtonyzhu/status/2027555829604618303  
 
@@ -6369,6 +6136,7 @@ Dario 给了三个方向。
 
 ---
 
+
 **作者** 干物纯今天吃什么（@zty0826）  
 **貼文連結** https://x.com/zty0826/status/2027714881206817038  
 
@@ -6378,6 +6146,7 @@ Dario 给了三个方向。
 其实很多工作内容很大程度上已经是一个人肉 A2A 的转发器了。不同项目都用Agent开发，人类负责转发上下游之间的Release Note、Feature request、bug reporting，一个 Agent 和 Human 共建的 IM 可以很好地解决这个问题，且完全有可能不仅仅是解决这个问题，而是真正演化出自己的Agent社群来。
 
 ---
+
 
 **作者** Subah Wadhwani（@subahwadhwani）  
 **貼文連結** https://x.com/subahwadhwani/status/2027526010300993796  
@@ -6536,6 +6305,7 @@ That's how funding announcements go from 500 views to millions.
 
 ---
 
+
 **作者** yibie（@yibie）  
 **貼文連結** https://x.com/yibie/status/2027928136172867619  
 
@@ -6615,6 +6385,7 @@ but delivering good code remains significantly more expensive than that."
 非常建议大家到原网址细细阅读，有很多深入的细节，值得品味：https://simonwillison.net/guides/agentic-engineering-patterns
 
 ---
+
 
 **作者** ᴅᴀɴɪᴇʟ ᴍɪᴇssʟᴇʀ 🛡️（@DanielMiessler）  
 **貼文連結** https://x.com/DanielMiessler/status/2027734353871298632  
@@ -6900,6 +6671,7 @@ But the direction is possible to see. And that gives you a container to be like,
 
 ---
 
+
 **作者** Ivan Burazin（@ivanburazin）  
 **貼文連結** https://x.com/ivanburazin/status/2027879361177850177  
 
@@ -6910,6 +6682,7 @@ Well well look who else got into the Sandbox game https://github.com/alibaba/Ope
 Welcome @AlibabaGroup
 
 ---
+
 
 **作者** Julián（@juliandeangeIis）  
 **貼文連結** https://x.com/juliandeangeIis/status/2027889701193973853  
@@ -6922,6 +6695,7 @@ Bastante contenido, espero próximos hacerlos más cortos.
 Hablo un poco de context engineering - agent harness, técnicas, tips y algunas de las implementaciones que tenemos en MELI.
 
 ---
+
 
 **作者** andrew gao（@itsandrewgao）  
 **貼文連結** https://x.com/itsandrewgao/status/2027579200635605058  
@@ -6940,6 +6714,7 @@ As promised! https://x.com/itsandrewgao/status/2028296136281522226?s=20
 
 ---
 
+
 **作者** Shubham Saboo（@Saboo_Shubham_）  
 **貼文連結** https://x.com/Saboo_Shubham_/status/2027791423253450948  
 
@@ -6952,6 +6727,7 @@ I run a team of 8 OpenClaw Agents 24/7 based on characters from FRIENDS and The 
 Running agent teams is one thing. Watching them get smarter every day is another. 
 
 ---
+
 
 **作者** WquGuru🦀（@wquguru）  
 **貼文連結** https://x.com/wquguru/status/2027942744845693094  
@@ -7006,6 +6782,7 @@ Claude最佳实践：https://agentway.dev/zh/claudecode
 
 ---
 
+
 **作者** Viking（@vikingmute）  
 **貼文連結** https://x.com/vikingmute/status/2027704841674367277  
 
@@ -7027,6 +6804,7 @@ Skills folder / MCP 的组织方式
 从文章中能清楚的能很明显地感受到 skills 设计 的来龙去脉 非常深入浅出的一篇文章
 
 ---
+
 
 **作者** Gavriel Cohen（@Gavriel_Cohen）  
 **貼文連結** https://x.com/Gavriel_Cohen/status/2027841164150178238  
@@ -7066,6 +6844,7 @@ If a misbehaving agent can cause a security issue, the security model is broken.
 None of this eliminates risk. But the right response is to make trust as narrow and as verifiable as possible. Don't trust the agent. Build walls around it.
 
 ---
+
 
 **作者** Creao AI（@CreaoAI）  
 **貼文連結** https://x.com/CreaoAI/status/2027699619132510276  
@@ -7129,6 +6908,7 @@ https://www.youtube.com/shorts/6Ng34tUaNP0
 
 ---
 
+
 **作者** Larsen Cundric（@larsencc）  
 **貼文連結** https://x.com/larsencc/status/2027775964311392429  
 
@@ -7139,6 +6919,7 @@ A lot of good reactions to the article! Always happy to discuss agent infra 🤝
 The future is agentic.
 
 ---
+
 
 **作者** Clifton Sellers（@CliftonSellers）  
 **貼文連結** https://x.com/CliftonSellers/status/2027594768105029983  
@@ -7248,6 +7029,7 @@ Build it now. Or watch someone else take the attention you could have owned.
 
 ---
 
+
 **作者** Arlan（@arlanr）  
 **貼文連結** https://x.com/arlanr/status/2027893695522214042  
 
@@ -7262,6 +7044,7 @@ Just paste this into your agent. It will automatically sign you up, generate an 
 “use npx nia-wizard@latest agent-guide to set up Nia” 
 
 ---
+
 
 **作者** Muratcan Koylan（@koylanai）  
 **貼文連結** https://x.com/koylanai/status/2027819266972782633  
@@ -7308,6 +7091,7 @@ The right approach is to append the compaction instruction as a new user message
 Same prefix = cache hit on the entire history.
 
 ---
+
 
 **作者** Fivos Aresti（@fivosaresti）  
 **貼文連結** https://x.com/fivosaresti/status/2027760756142363072  
@@ -7356,6 +7140,7 @@ PS - This cheat sheet includes 20+ tools, 8 book recommendations, and frameworks
 
 ---
 
+
 **作者** weisser（@julianweisser）  
 **貼文連結** https://x.com/julianweisser/status/2027841514752380977  
 
@@ -7368,6 +7153,7 @@ That was yesterday.
 Let me know if you’d like to watch it :)
 
 ---
+
 
 **作者** AIGCLINK（@aigclink）  
 **貼文連結** https://x.com/aigclink/status/2027919829794251037  
@@ -7384,6 +7170,7 @@ TrustMRR上目前收录了128家，还在不断增长中
 #Openclaw #openclaw赚钱 #AIagent
 
 ---
+
 
 **作者** vas（@vasuman）  
 **貼文連結** https://x.com/vasuman/status/2027762275780571546  
@@ -7403,6 +7190,7 @@ AI needs to live on top of your existing stack, doing the work that you and your
 Any other approach is simply guaranteed to fail. This was our thesis over a year ago and we are being vindicated every day.
 
 ---
+
 
 **作者** Luke Pierce（@lukepierceops）  
 **貼文連結** https://x.com/lukepierceops/status/2027743439496814760  
@@ -7437,6 +7225,7 @@ RT + reply "AGENCY" and I'll send it over. (Must follow so I can DM
 
 ---
 
+
 **作者** Dhravya Shah（@DhravyaShah）  
 **貼文連結** https://x.com/DhravyaShah/status/2027935209963065529  
 
@@ -7462,6 +7251,7 @@ Here's the code and docs! https://github.com/supermemoryai/pipecat-memory
 
 ---
 
+
 **作者** swyx（@swyx）  
 **貼文連結** https://x.com/swyx/status/2027934989577580988  
 
@@ -7477,6 +7267,7 @@ also on the @latentspacepod youtube now
 
 ---
 
+
 **作者** Tadeo Donegana Braunschweig（@tadeodonegana）  
 **貼文連結** https://x.com/tadeodonegana/status/2027479756157960618  
 
@@ -7488,6 +7279,7 @@ Shoutout to @hwchase17 @Vtrivedy10 @sydneyrunkle @masondrxy for the posts that g
 
 ---
 
+
 **作者** AVB（@neural_avb）  
 **貼文連結** https://x.com/neural_avb/status/2027470838916911543  
 
@@ -7496,6 +7288,7 @@ Shoutout to @hwchase17 @Vtrivedy10 @sydneyrunkle @masondrxy for the posts that g
 One of the most MUST MUST MUST read articles
 
 ---
+
 
 **作者** Profitable Founder Podcast（@profitfounder）  
 **貼文連結** https://x.com/profitfounder/status/2027245195872620960  
@@ -7564,6 +7357,7 @@ You should watch this one next:
 
 ---
 
+
 **作者** Mark Vassilevskiy（@MarkKnd）  
 **貼文連結** https://x.com/MarkKnd/status/2027420983892852977  
 
@@ -7577,6 +7371,7 @@ Let's chat 👇
 https://skale.solutions/
 
 ---
+
 
 **作者** Teknium (e/λ)（@Teknium）  
 **貼文連結** https://x.com/Teknium/status/2027568675818246207  
@@ -7609,6 +7404,7 @@ But local browser use and voice/image models may come soon :)
 
 ---
 
+
 **作者** Kirk Marple（@KirkMarple）  
 **貼文連結** https://x.com/KirkMarple/status/2026800757295689874  
 
@@ -7627,6 +7423,7 @@ So I opened the transcript page, went to the “content chat” panel and asked 
 Seconds later, 💥 perfect concise pitch I can drop into emails or use in our investment memo.
 
 ---
+
 
 **作者** Zephyr（@Zephyr_hg）  
 **貼文連結** https://x.com/Zephyr_hg/status/2027309074396668174  
@@ -7740,6 +7537,7 @@ If you want to learn the foundations for these skills, the [Mastery Bundle](<htt
 [Get it here →](<https://zephyrhq.gumroad.com/l/mastery-bundle/Article>)
 
 ---
+
 
 **作者** Zack Shapiro（@zackbshapiro）  
 **貼文連結** https://x.com/zackbshapiro/status/2027389987444957625  
@@ -7855,6 +7653,7 @@ The gap between how most lawyers use AI (typing a question into a chatbot and ho
 Download the desktop app. Pick the task you do most often. Write a prompt that describes, in detail, exactly how you want it done. See what comes back. Then build your first skill. The returns compound fast.
 
 ---
+
 
 **作者** AVB（@neural_avb）  
 **貼文連結** https://x.com/neural_avb/status/2027425381230555354  
@@ -8054,6 +7853,7 @@ A bit of kindness goes a long way, appreciate an RT or a comment to support!💙
 
 ---
 
+
 **作者** Lance Martin（@RLanceMartin）  
 **貼文連結** https://x.com/RLanceMartin/status/2027450018513490419  
 
@@ -8101,6 +7901,7 @@ PTC is a way to get the benefit of code execution (e.g., composability) while pr
 
 ---
 
+
 **作者** Varun Anand（@vxanand）  
 **貼文連結** https://x.com/vxanand/status/2027412333828468878  
 
@@ -8128,6 +7929,7 @@ Watch below 👇
 
 ---
 
+
 **作者** Stanley（@Stanleysobest）  
 **貼文連結** https://x.com/Stanleysobest/status/2027332746394394808  
 
@@ -8143,6 +7945,7 @@ Watch below 👇
 
 ---
 
+
 **作者** Kirk Marple（@KirkMarple）  
 **貼文連結** https://x.com/KirkMarple/status/2027589766385172728  
 
@@ -8155,6 +7958,7 @@ And, tonight I got @crustdata integrated and will post a demo video of @dossium 
 (Round closing next week, btw.  DM open) 
 
 ---
+
 
 **作者** 向阳乔木（@vista8）  
 **貼文連結** https://x.com/vista8/status/2027404900335063285  
@@ -8183,6 +7987,7 @@ And, tonight I got @crustdata integrated and will post a demo video of @dossium 
 
 ---
 
+
 **作者** Lenny Rachitsky（@lennysan）  
 **貼文連結** https://x.com/lennysan/status/2027535415692218425  
 
@@ -8194,6 +7999,7 @@ http://bit.ly/ai-native-pm
 
 ---
 
+
 **作者** Tadeo Donegana Braunschweig（@tadeodonegana）  
 **貼文連結** https://x.com/tadeodonegana/status/2027478696286658778  
 
@@ -8202,6 +8008,7 @@ http://bit.ly/ai-native-pm
 I work as an AI Engineer at Tiendanube (Nuvemshop), one of Latin America's largest e-commerce platforms. We already ship agents with LangGraph and Langchain in production, and the LangChain ecosystem
 
 ---
+
 
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2027428521157792067  
@@ -8216,6 +8023,7 @@ https://www.ycombinator.com/launches/PYp-arzule-ai-agents-that-turn-b2b-partners
 
 ---
 
+
 **作者** weisser（@julianweisser）  
 **貼文連結** https://x.com/julianweisser/status/2027488413243609512  
 
@@ -8228,6 +8036,7 @@ Talking with Ben in 2.5 hours for @solofounders.
 What should I ask?
 
 ---
+
 
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2027413415250296894  
@@ -8244,6 +8053,7 @@ https://www.ycombinator.com/launches/PYm-end-close-solving-payments-reconciliati
 
 ---
 
+
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2027496462301757784  
 
@@ -8258,6 +8068,7 @@ Congrats on the launch, @aidan__pratt!
 https://www.ycombinator.com/launches/PYq-autostep-uncover-repetitive-tasks-ready-for-ai 
 
 ---
+
 
 **作者** Andrej Karpathy（@karpathy）  
 **貼文連結** https://x.com/karpathy/status/2027521323275325622  
@@ -8274,6 +8085,7 @@ But the goal is that you are now programming an organization (e.g. a "research o
 
 ---
 
+
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2027096329667670288  
 
@@ -8289,6 +8101,7 @@ https://www.ycombinator.com/launches/PXv-ressl-ai-ai-employees-for-the-trades
 
 ---
 
+
 **作者** Simon Willison（@simonw）  
 **貼文連結** https://x.com/simonw/status/2020161285376082326  
 
@@ -8299,6 +8112,7 @@ I wrote about the most ambitious form of AI-assisted software development I've s
 Updated my post to add a section with commentary on the glaring detail I glossed over in my first published version: $1,000/engineer/day in token spends, really? https://simonwillison.net/2026/Feb/7/software-factory/#wait-1-000-day-per-engineer-
 
 ---
+
 
 **作者** Ben Cera（@bencera_）  
 **貼文連結** https://x.com/bencera_/status/2023765284562358537  
@@ -8312,6 +8126,7 @@ So I gave it my inbox for 14 days.
 Watch it live: http://polsia.com/live 
 
 ---
+
 
 **作者** 歸藏(guizang.ai)（@op7418）  
 **貼文連結** https://x.com/op7418/status/2027320336413602018  
@@ -8382,6 +8197,7 @@ Watch it live: http://polsia.com/live
 
 ---
 
+
 **作者** AI Will（@FinanceYF5）  
 **貼文連結** https://x.com/FinanceYF5/status/2027303093105488002  
 
@@ -8390,6 +8206,7 @@ Watch it live: http://polsia.com/live
 六种流行claws的完整对比https://x.com/MisbahSy/status/2025570052108665231 
 
 ---
+
 
 **作者** AI Will（@FinanceYF5）  
 **貼文連結** https://x.com/FinanceYF5/status/2027304641961365999  
@@ -8403,6 +8220,7 @@ Watch it live: http://polsia.com/live
 真正的扩散正在加速。 
 
 ---
+
 
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2027058535432122384  
@@ -8419,6 +8237,7 @@ https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adop
 
 ---
 
+
 **作者** Gregor Zunic（@gregpr07）  
 **貼文連結** https://x.com/gregpr07/status/2027225644304843160  
 
@@ -8427,6 +8246,7 @@ https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adop
 The infra god has spoken
 
 ---
+
 
 **作者** Arlan（@arlanr）  
 **貼文連結** https://x.com/arlanr/status/2027263044678713359  
@@ -8438,6 +8258,7 @@ yc founder is using my product to teach him how to fry an egg and get girls.
 should i pivot? 
 
 ---
+
 
 **作者** Dhravya Shah（@DhravyaShah）  
 **貼文連結** https://x.com/DhravyaShah/status/2027136664741830921  
@@ -8452,6 +8273,7 @@ awesome to see the big labs adopting memory!
 
 ---
 
+
 **作者** Kirk Marple（@KirkMarple）  
 **貼文連結** https://x.com/KirkMarple/status/2026806497657978964  
 
@@ -8461,6 +8283,7 @@ The Problem with Hub-and-Spoke Architectures
 Tools like Claude CoWork, Glean, and similar AI assistants that connect to your data sources all share the same fundamental architectural limitation: they
 
 ---
+
 
 **作者** Scott Morton（@scottgmorton）  
 **貼文連結** https://x.com/scottgmorton/status/2027043531085455823  
@@ -8474,6 +8297,7 @@ Across aerospace, energy, and manufacturing, engineering teams are pushing what�
 Read the full announcement here: https://www.nytimes.com/2026/02/26/business/dealbook/revel-software-hardware-fund-raise.html
 
 ---
+
 
 **作者** Ray Wang（@wangray）  
 **貼文連結** https://x.com/wangray/status/2026450898105544810  
@@ -8494,6 +8318,7 @@ Unix 哲学几十年前设计出来，现在发现它天然就是给 AI Agent �
 
 ---
 
+
 **作者** Nicolas Bustamante（@nicbstme）  
 **貼文連結** https://x.com/nicbstme/status/2026804225314009589  
 
@@ -8503,6 +8328,7 @@ Product-market fit has a prerequisite that most AI founders ignore. Before the m
 The Andreessen
 
 ---
+
 
 **作者** Johannes Landgraf（@jolandgraf）  
 **貼文連結** https://x.com/jolandgraf/status/2026774083988279627  
@@ -8514,6 +8340,7 @@ love the microsite from @loujaybee touching on the false summit of coding agents
 background-agents . com 
 
 ---
+
 
 **作者** Mani（@maniusmaximus）  
 **貼文連結** https://x.com/maniusmaximus/status/2026714284097679533  
@@ -8530,6 +8357,7 @@ Proud to be a part of our amazing team, and to be supported by leading names in 
 
 ---
 
+
 **作者** Arlan（@arlanr）  
 **貼文連結** https://x.com/arlanr/status/2026709283673350632  
 
@@ -8542,6 +8370,7 @@ PLG is way, way, way more fun and interesting, tbh.
 I’ve always been amazed by how @WisprFlow, @SlackHQ, and @figma do it.
 
 ---
+
 
 **作者** arsen（@arsenfounder）  
 **貼文連結** https://x.com/arsenfounder/status/2026729235067392101  
@@ -8561,6 +8390,7 @@ try -> supersonic [dot] cv
 
 ---
 
+
 **作者** Paul Graham（@paulg）  
 **貼文連結** https://x.com/paulg/status/2026739899936944495  
 
@@ -8572,6 +8402,7 @@ When I posted a similar stat 6 months ago, I got about a 50-50 mix of indignant 
 
 ---
 
+
 **作者** Scott Wu（@ScottWu46）  
 **貼文連結** https://x.com/ScottWu46/status/2026350958213787903  
 
@@ -8580,6 +8411,7 @@ When I posted a similar stat 6 months ago, I got about a 50-50 mix of indignant 
 Today, we are releasing one of the biggest updates to Devin since launch. The vision of Devin in 2024 was to give everyone an AI software engineer that could build features, fix bugs, test its own
 
 ---
+
 
 **作者** Augment Code（@augmentcode）  
 **貼文連結** https://x.com/augmentcode/status/2026907452277719230  
@@ -8590,6 +8422,7 @@ We optimized software development for speed for twenty years. Now AI agents can 
 
 ---
 
+
 **作者** 马东锡 NLP（@dongxi_nlp）  
 **貼文連結** https://x.com/dongxi_nlp/status/2026778028747973104  
 
@@ -8598,6 +8431,7 @@ We optimized software development for speed for twenty years. Now AI agents can 
 非常不理解的是，为什么似乎在2026年之后，短短两个月之内，coding agent 似乎瞬间就飞起了？
 
 ---
+
 
 **作者** GREG ISENBERG（@gregisenberg）  
 **貼文連結** https://x.com/gregisenberg/status/2026754841037717682  
@@ -8628,6 +8462,7 @@ We optimized software development for speed for twenty years. Now AI agents can 
 
 ---
 
+
 **作者** Haseeb ＞|＜（@hosseeb）  
 **貼文連結** https://x.com/hosseeb/status/2026747999939080217  
 
@@ -8638,6 +8473,7 @@ We just launched Dragonfly Fund IV, a $650M crypto VC fund (at a time that half 
 
 ---
 
+
 **作者** Michael Truell（@mntruell）  
 **貼文連結** https://x.com/mntruell/status/2026736314272591924  
 
@@ -8647,6 +8483,7 @@ When we started building Cursor a few years ago, most code was written one keyst
 Then agents arrived, and
 
 ---
+
 
 **作者** AIGCLINK（@aigclink）  
 **貼文連結** https://x.com/aigclink/status/2026621891256152388  
@@ -8677,6 +8514,7 @@ Then agents arrived, and
 
 ---
 
+
 **作者** Leo（@runes_leo）  
 **貼文連結** https://x.com/runes_leo/status/2026949357099012548  
 
@@ -8689,6 +8527,7 @@ Then agents arrived, and
 人类只负责定义意图（Intent），剩下的“苦累活”——包括维护那份该死的说明书，都该交给 Agent。这才是真正的 AI Native 开发。
 
 ---
+
 
 **作者** Shubham Saboo（@Saboo_Shubham_）  
 **貼文連結** https://x.com/Saboo_Shubham_/status/2026856780798767531  
@@ -8705,6 +8544,7 @@ They just did.
 
 ---
 
+
 **作者** Aman（@Amank1412）  
 **貼文連結** https://x.com/Amank1412/status/2026660881187381274  
 
@@ -8715,6 +8555,7 @@ Someone just built an AI tool that generates full software architecture from spe
 AI + system design is getting real. 
 
 ---
+
 
 **作者** Josh Pigford（@Shpigford）  
 **貼文連結** https://x.com/Shpigford/status/2026711107860111600  
@@ -8730,6 +8571,7 @@ hire me to embed w/ your team, find where AI creates real leverage, and ship it.
 http://initialcommit.co 
 
 ---
+
 
 **作者** Vic TALK（@victalk6886）  
 **貼文連結** https://x.com/victalk6886/status/2026909376347517127  
@@ -8752,6 +8594,7 @@ claude和openai也均对ai安全性问题给出了最新的处理建议，在ai�
 感谢各位点赞支持！关注我，每天带来最新的ai资讯！
 
 ---
+
 
 **作者** Nayrhit B（@NayrhitB）  
 **貼文連結** https://x.com/NayrhitB/status/2026926043970547732  
@@ -8813,6 +8656,7 @@ If you want to see how many leads AI search could drive for your business, reply
 
 ---
 
+
 **作者** Olivia Moore（@omooretweets）  
 **貼文連結** https://x.com/omooretweets/status/2026841300587479289  
 
@@ -8824,6 +8668,7 @@ What I learned about agent capabilities (and how it changed my take on the Dead 
 
 ---
 
+
 **作者** Beka（@bekacru）  
 **貼文連結** https://x.com/bekacru/status/2026891155112407384  
 
@@ -8834,6 +8679,7 @@ I spend most of my time on GitHub. I have a lot of frustrations with it but no o
 A couple of weeks ago I saw Mitchell Hashimoto post about
 
 ---
+
 
 **作者** MiniMax_Agent（@MiniMaxAgent）  
 **貼文連結** https://x.com/MiniMaxAgent/status/2026493668417482923  
@@ -8851,6 +8697,7 @@ Upgraded built-in tools for real work.
 Try it now → https://agent.minimax.io/
 
 ---
+
 
 **作者** Jaber（@Akashi203）  
 **貼文連結** https://x.com/Akashi203/status/2026817793165779387  
@@ -8874,6 +8721,7 @@ http://github.com/RightNow-AI/openfang ⭐
 
 ---
 
+
 **作者** Jerry Liu（@jerryjliu0）  
 **貼文連結** https://x.com/jerryjliu0/status/2026840829441225127  
 
@@ -8896,6 +8744,7 @@ If you’re specifically excited to unlock the billions of context stored within
 
 ---
 
+
 **作者** Kirk Marple（@KirkMarple）  
 **貼文連結** https://x.com/KirkMarple/status/2026907762400342085  
 
@@ -8913,6 +8762,7 @@ This kind of analysis is amazing - and just within a min or two - using your pre
 
 ---
 
+
 **作者** Jeff Li（@jefflijun）  
 **貼文連結** https://x.com/jefflijun/status/2026743448233992665  
 
@@ -8922,6 +8772,7 @@ This kind of analysis is amazing - and just within a min or two - using your pre
 报告地址：https://openai.com/index/disrupting-malicious-ai-uses/ 
 
 ---
+
 
 **作者** 小互（@xiaohu）  
 **貼文連結** https://x.com/xiaohu/status/2026878447503790131  
@@ -8948,6 +8799,7 @@ Vercept 不是什么默默无闻的小团队。
 
 ---
 
+
 **作者** Michelle Lim（@michlimlim）  
 **貼文連結** https://x.com/michlimlim/status/2026784884468101510  
 
@@ -8956,6 +8808,7 @@ Vercept 不是什么默默无闻的小团队。
 Day 2 of launch and our homepage is already in the inspiration libraries. Fun fact: we built it entirely on @tryflint - our own product. 
 
 ---
+
 
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2026786436972949719  
@@ -8970,6 +8823,7 @@ https://www.ycombinator.com/launches/PVK-jinba-w26-workflow-builder-for-enterpri
 
 ---
 
+
 **作者** Nous Research（@NousResearch）  
 **貼文連結** https://x.com/NousResearch/status/2026758996107898954  
 
@@ -8980,6 +8834,7 @@ Meet Hermes Agent, the open source agent that grows with you.
 Hermes Agent remembers what it learns and gets more capable over time, with a multi-level memory system and persistent dedicated machine access. 
 
 ---
+
 
 **作者** AI Will（@FinanceYF5）  
 **貼文連結** https://x.com/FinanceYF5/status/2026900036651766254  
@@ -8994,6 +8849,7 @@ Peter 是最有创造力的 builder 之一。他们聊了 openclaw 🦞、他的
 
 ---
 
+
 **作者** Agno（@AgnoAgi）  
 **貼文連結** https://x.com/AgnoAgi/status/2026696006604304611  
 
@@ -9002,6 +8858,7 @@ Peter 是最有创造力的 builder 之一。他们聊了 openclaw 🦞、他的
 Agno now includes a built-in scheduler for running agents, teams, and workflows on a recurring basis. Define cron schedules with support for retries, timeouts, and timezone configuration. No external
 
 ---
+
 
 **作者** Jonas Nelle（@jonas_nelle）  
 **貼文連結** https://x.com/jonas_nelle/status/2026371395077419393  
@@ -9015,6 +8872,7 @@ In personal news, @autotabai has been acquired by @cursor_ai .
 Excited to hear what you think!
 
 ---
+
 
 **作者** Cognition（@cognition）  
 **貼文連結** https://x.com/cognition/status/2026343816521994339  
@@ -9033,6 +8891,7 @@ We’ve also overhauled Devin from the ground up:
 
 ---
 
+
 **作者** Guohao Li 🐫（@guohao_li）  
 **貼文連結** https://x.com/guohao_li/status/2026514081545359482  
 
@@ -9043,6 +8902,7 @@ Claude Cowork is becoming a new WorkOS. We are building a 100% local and open so
 https://github.com/eigent-ai/eigent 
 
 ---
+
 
 **作者** Tyler Barnes（@tylbar）  
 **貼文連結** https://x.com/tylbar/status/2026399996237820282  
@@ -9059,6 +8919,7 @@ We're calling it Mastra Code, it's powered by @mastra's new observational memory
 
 ---
 
+
 **作者** Beni（@ben_issen）  
 **貼文連結** https://x.com/ben_issen/status/2026674546628030834  
 
@@ -9067,6 +8928,7 @@ We're calling it Mastra Code, it's powered by @mastra's new observational memory
 Name one young product designer getting more offers than @racheljychen. Rachel, you rock. 
 
 ---
+
 
 **作者** Tanmay（@tkejr_）  
 **貼文連結** https://x.com/tkejr_/status/2026432354038976671  
@@ -9078,13 +8940,14 @@ OpenClaw for businesses.
 Launching MakeX
 
 An AI ops team that plugs into your stack.
-Shopify. HubSpot. Stripe. Sheets. 100+ Integrations
+ Shopify. HubSpot. Stripe. Sheets. 100+ Integrations
 
-It builds dashboards.Automates workflows.Fixes messy ops.
+It builds dashboards. Automates workflows. Fixes messy ops.
 
-You describe it.It ships. 
+You describe it. It ships. 
 
 ---
+
 
 **作者** t54.ai（@t54ai）  
 **貼文連結** https://x.com/t54ai/status/2026713568666648661  
@@ -9101,6 +8964,7 @@ http://t54.ai/seed
 
 ---
 
+
 **作者** fredrika（@fredrikalindh）  
 **貼文連結** https://x.com/fredrikalindh/status/2026379400879730794  
 
@@ -9113,6 +8977,7 @@ last week i shipped 60 PRs with them
 this is how i use them: 
 
 ---
+
 
 **作者** Atoms（@atoms_dev）  
 **貼文連結** https://x.com/atoms_dev/status/2026543998970769491  
@@ -9127,6 +8992,7 @@ From research to build, launch, and scale, all autonomous.
 
 ---
 
+
 **作者** 歸藏(guizang.ai)（@op7418）  
 **貼文連結** https://x.com/op7418/status/2026592396486782986  
 
@@ -9140,6 +9006,7 @@ From research to build, launch, and scale, all autonomous.
 
 ---
 
+
 **作者** Y Combinator（@ycombinator）  
 **貼文連結** https://x.com/ycombinator/status/2026341356910624956  
 
@@ -9152,6 +9019,7 @@ Congrats on the launch, @Selinaliyy and @zhubzyz!
 https://www.ycombinator.com/launches/PWl-bubble-lab-supercharge-your-ops-work-in-slack 
 
 ---
+
 
 **作者** Emily Gavrilenko（@egavrilenko11）  
 **貼文連結** https://x.com/egavrilenko11/status/2026427222958157887  
@@ -9167,6 +9035,7 @@ now, more than half my PRs to http://cursor.com are directly from the web
 come join us at https://luma.com/pyi2sdlo?utm_source=x
 
 ---
+
 
 **作者** Rohit（@rohit4verse）  
 **貼文連結** https://x.com/rohit4verse/status/2026359771427991764  
@@ -9204,3 +9073,83 @@ which of these 10 pillars do you find the hardest to get right?
 (deep dive into the architecture in the article)
 
 ---
+
+
+**作者** Rhys（@RhysSullivan）  
+**貼文連結** https://x.com/RhysSullivan/status/2026406072274337943  
+
+**正文**
+
+I'm concerned we're entering a local maxima with CLIs, they're the wrong interface for agents
+
+The right interface is regular REST APIs with CIMD (same spec that MCP uses to allow for dynamic client registration)
+
+Your agent then writes code to interact with the API (like Cloudflare codemode) 
+
+Think about how this works for humans today for the following action:
+
+"I want to set a DNS record on my domain"
+-> You Google "Vercel set DNS records"
+-> Docs page tells you what buttons to press
+-> You press buttons on a website, those call an API
+
+Now for agents, they search Google:
+-> "Set DNS record on Vercel Domain"
+-> they land on the same docs page, except it outlines what api endpoints are used as well
+-> the agent then calls those api endpoints for you, credentials are dynamically inserted where the agent can run them
+-> (optional) set auto approval policies / require approval of all non GET options by default
+
+You don't need separate interfaces for agents, nor do you really need separate skills for them
+
+CLIs have terrible discoverability, no input / output typing, they're harder to make profiles for for allowed / disallowed tools
+
+They work as a stop gap solution, but companies should be focusing on making good docs and APIs, not CLIs
+
+I've been prototyping this over at http://executor.sh (open source https://github.com/RhysSullivan/executor) if you want to play with what this world would look like - still early on it so appreciate feedback - open source and can run completely on your machine
+
+---
+
+
+**作者** Philip Kiely（@philipkiely）  
+**貼文連結** https://x.com/philipkiely/status/2025994823891914795  
+
+**正文**
+
+Inference Engineering launches today.
+
+https://www.baseten.com/inference-engineering/ 
+
+---
+
+
+**作者** jian（@jianxliao）  
+**貼文連結** https://x.com/jianxliao/status/2026361900880265513  
+
+**正文**
+
+guys, don’t fight it, @openclaw isn’t designed to be an agent orchestrator
+
+just use tinyclaw & tinyoffice @tinyagicompany 
+
+https://github.com/TinyAGI/tinyclaw 
+
+---
+
+
+**作者** Sheel Mohnot（@pitdesi）  
+**貼文連結** https://x.com/pitdesi/status/2026327125280817500  
+
+**正文**
+
+We tripled down on Basis in their $100M series B @btv_vc.
+
+We've believed for years that accounting is among the best professional categories for AI to transform, and Basis's progress over the past year has only strengthened that conviction.
+
+Accounting underpins every business in the world, but the profession is stretched thin. Regulation and complexity keep rising, the talent pipeline is shrinking, and despite decades of software investment, the actual work is still almost entirely manual.
+
+Basis has built a platform that actually does accounting end-to-end, with agents that run autonomously for hours, think like accountants, and execute with near-perfect accuracy. 30% of the top 25 accounting firms and dozens more of the top 150 are already using it, and it has changed the way they operate- they can let AI handle the grunt work so accountants can focus on higher-value tasks.
+
+Congrats Matt, Mitch & team, stoked to add Accel and GV to the cap table!
+
+---
+
